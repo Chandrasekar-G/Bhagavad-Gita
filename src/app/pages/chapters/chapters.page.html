@@ -1,0 +1,6 @@
+<bg-common-header title="Chapters" [headerConfig]="{showBack: false}"></bg-common-header>
+
+<ion-content>
+    <!-- <div *ngFor="let chapter of allChapters"></div> -->
+    <bg-chapter-card [chapter]="chapter" *ngFor="let chapter of allChapters"></bg-chapter-card>
+</ion-content>

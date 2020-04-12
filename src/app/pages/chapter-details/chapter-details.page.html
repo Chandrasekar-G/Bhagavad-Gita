@@ -1,0 +1,7 @@
+<bg-common-header title="Verses" [headerConfig]="{showBack: true}"></bg-common-header>
+
+<ion-content>
+    <div *ngFor="let verse of allVerses">
+        <bg-verse-card [verse]="verse"></bg-verse-card>
+    </div>
+</ion-content>
