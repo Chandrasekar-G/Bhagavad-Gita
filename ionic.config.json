@@ -1,0 +1,7 @@
+{
+  "name": "Bhagavad-Gita",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
