@@ -15,23 +15,27 @@ export class AppComponent implements OnInit {
     {
       title: 'Home',
       url: 'home',
-      icon: 'mail'
+      icon: 'home'
     },
     {
       title: 'Chapters',
       url: 'chapters',
-      icon: 'mail'
+      icon: 'book'
     },
     {
       title: 'Progress',
       url: 'progress',
-      icon: 'paper-plane'
+      icon: 'bicycle'
     },
     {
       title: 'Favorites',
       url: 'favorites',
       icon: 'heart'
     },
+    { title: 'Settings',
+      url: 'settings',
+      icon: 'settings'
+    }
   ];
 
   constructor(
