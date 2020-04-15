@@ -32,6 +32,11 @@ export class AppComponent implements OnInit {
       url: 'favorites',
       icon: 'heart'
     },
+    {
+      title: 'Verse of the day',
+      url: 'verse-of-the-day',
+      icon: 'calendar'
+    },
     { title: 'Settings',
       url: 'settings',
       icon: 'settings'

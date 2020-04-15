@@ -30,6 +30,10 @@ const routes: Routes = [
   {
     path: 'progress',
     loadChildren: () => import('./pages/progress/progress.module').then( m => m.ProgressPageModule)
+  },
+  {
+    path: 'verse-of-the-day',
+    loadChildren: () => import('./pages/verse-of-the-day/verse-of-the-day.module').then( m => m.VerseOfTheDayPageModule)
   }
 ];
 

@@ -32,7 +32,21 @@ export class DataProviderService {
   getVerse = (chapterNumber, verseNumber) => {
     return gitaData.verses.find(verse => {
       return (verse.chapter_number === chapterNumber && parseInt(verse.verse_number, 10) === verseNumber);
-    })
+    });
+  }
+
+  getRandomVerse = () => {
+    const verseNo = this.getDayOfYear();
+    return gitaData.verses[verseNo];
+  }
+
+  getDayOfYear = () => {
+    const now = new Date();
+    const start = new Date(now.getFullYear(), 0, 0);
+    const diff = now - start;
+    const oneDay = 1000 * 60 * 60 * 24;
+    const day = Math.floor(diff / oneDay);
+    return day % gitaData.verses.length;
   }
 
 }
