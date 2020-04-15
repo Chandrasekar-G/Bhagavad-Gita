@@ -1,9 +1,11 @@
-<div (click)="goToChapter()">
-
-  <div>
-    <div> {{ chapter.chapter_number + '' + chapter.name_translation}}</div>
-    <div> {{ chapter.name_meaning }} </div>
-    <div> {{ chapter.verses_count }}</div>
+<div class="chapter-card-container card ion-activatable ripple-parent" (click)="goToChapter()" tappable>
+  <ion-ripple-effect></ion-ripple-effect>
+  <div class="number">{{chapter.chapter_number}} </div>
+  <div class="info">
+    <div class="name">{{ chapter.name_translation }}</div>
+    <div class="count">{{ chapter.verses_count + ' verses'}}</div>
   </div>
-
+  <div class="icon">
+    <ion-icon name="chevron-forward-outline"></ion-icon>
+  </div>
 </div>

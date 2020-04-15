@@ -1,3 +1,28 @@
-<div>
-  {{ verse.text }}
+<div class="verse-detail-container">
+  <div class="title-container">
+    <div class="id"> {{ verse.chapter_number + '.' + verse.verse_number }} </div>
+    <div class="chapter-title"> {{ chapter.name_translation }} </div>
+    <div class="chapter-meaning"> {{ '( ' + chapter.name_meaning + ' )' }} </div>
+  </div>
+
+  <bg-line-break></bg-line-break>
+
+  <div class="verse-container">
+    <div class="text"> {{ verse.text}} </div>
+    <div class="transliteration"> {{ verse.transliteration }} </div>
+  </div>
+
+  <bg-line-break></bg-line-break>
+
+  <div *ngFor="let item of verse.word_meanings">
+    <div class="meaning-container" *ngIf="item[0] && item[1]">
+      <div class="word">{{ item[0] }}</div>
+      <div class="meaning">{{ item[1] }}</div>
+    </div>
+  </div>
+
+  <bg-line-break></bg-line-break>
+
+  <div class="meaning"> {{ verse.meaning }} </div>
+
 </div>

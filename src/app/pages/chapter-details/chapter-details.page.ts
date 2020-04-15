@@ -10,6 +10,7 @@ import { DataProviderService } from 'src/app/services/data-provider/data-provide
 export class ChapterDetailsPage implements OnInit {
 
   chapterNumber = 1;
+  chapterDetails = null;
   allVerses = null;
 
   constructor(
@@ -19,7 +20,12 @@ export class ChapterDetailsPage implements OnInit {
 
   ngOnInit() {
     this.chapterNumber = parseInt(this.route.snapshot.params.chapterNumber, 10);
+    this.getChapterDetails();
     this.getVerses();
+  }
+
+  getChapterDetails = () => {
+    this.chapterDetails = this.dataProviderService.getChapterDetails(this.chapterNumber);
   }
 
   getVerses = () => {

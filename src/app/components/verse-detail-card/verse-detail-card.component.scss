@@ -1,0 +1,45 @@
+.verse-detail-container {
+  white-space: pre-line;
+  padding: 15px;
+  text-align: center;
+  .title-container {
+    .id {
+      font-size: 20px;
+    }
+    .chapter-title {
+      font-size: 20px;
+    }
+    .chapter-meaning {
+      color: grey;
+    }
+  }
+
+  .verse-container {
+    .text {
+      font-weight: bold;
+    }
+    .transliteration {
+      margin-top: 15px;
+      font-weight: 400;
+      font-style: italic;
+      color: grey;
+    }
+  }
+
+  .meaning-container {
+    display: flex;
+    text-align: left;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+    padding: 5px;
+    margin: 0 40px;
+    .word {
+      flex: 1;
+      font-weight: bold;
+      font-style: italic;
+    }
+    .meaning {
+      flex: 1;
+      color: grey;
+    }
+  }
+}

@@ -7,6 +7,7 @@ import { CommonHeaderComponent } from '../components/common-header/common-header
 import { ChapterCardComponent } from '../components/chapter-card/chapter-card.component';
 import { VerseCardComponent } from '../components/verse-card/verse-card.component';
 import { VerseDetailCardComponent } from '../components/verse-detail-card/verse-detail-card.component';
+import { LineBreakComponent } from '../components/line-break/line-break.component';
 
 @NgModule({
   declarations: [
@@ -14,6 +15,7 @@ import { VerseDetailCardComponent } from '../components/verse-detail-card/verse-
     ChapterCardComponent,
     VerseCardComponent,
     VerseDetailCardComponent,
+    LineBreakComponent,
   ],
   imports: [
     CommonModule,
@@ -25,6 +27,7 @@ import { VerseDetailCardComponent } from '../components/verse-detail-card/verse-
     ChapterCardComponent,
     VerseCardComponent,
     VerseDetailCardComponent,
+    LineBreakComponent
   ]
 })
 export class SharedModule { }

@@ -1,7 +1,22 @@
-<bg-common-header title="Verses" [headerConfig]="{showBack: true}"></bg-common-header>
+<bg-common-header [title]="chapterDetails.name_translation" [headerConfig]="{showBack: true}"></bg-common-header>
 
 <ion-content>
-    <div *ngFor="let verse of allVerses">
-        <bg-verse-card [verse]="verse"></bg-verse-card>
+    <div class="chapter-details-page-container">
+        <div class="chapter-summary card">
+            <div class="title">
+                Summary
+            </div>
+            <div class="content">
+                {{ chapterDetails.chapter_summary}}
+            </div>
+        </div>
+        <div class="verses-container">
+            <div class="title">
+                Verses
+            </div>
+            <div *ngFor="let verse of allVerses">
+                <bg-verse-card [verse]="verse"></bg-verse-card>
+            </div>
+        </div>
     </div>
 </ion-content>

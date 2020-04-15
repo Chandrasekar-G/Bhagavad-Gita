@@ -1,0 +1,34 @@
+.chapter-details-page-container {
+  padding: 20px;
+  .chapter-summary {
+    &.card {
+      border-radius: 2px;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    }
+    .title {
+      font-weight: 400;
+      padding: 20px;
+      padding-bottom: 0;
+      font-size: 18px;
+      min-height: 40px;
+    }
+    .content {
+      padding: 20px;
+      line-height: 22px;
+      color: #433d3d;
+      font-size: 16px;
+      text-align: justify;
+      white-space: pre-line;
+    }
+  }
+  .verses-container {
+    // padding: 20px;
+    .title {
+      font-weight: 400;
+      padding: 20px;
+      padding-bottom: 0;
+      font-size: 18px;
+      min-height: 40px;
+    }
+  }
+}

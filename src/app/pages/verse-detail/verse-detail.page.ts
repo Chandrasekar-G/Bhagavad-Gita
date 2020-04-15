@@ -10,6 +10,7 @@ import { DataProviderService } from 'src/app/services/data-provider/data-provide
 export class VerseDetailPage implements OnInit {
 
   verse = null;
+  chapter = null;
   chapterNumber = 1;
   verseNumber = 1;
 
@@ -22,11 +23,15 @@ export class VerseDetailPage implements OnInit {
     this.chapterNumber = parseInt(this.route.snapshot.params.chapterNumber, 10);
     this.verseNumber = parseInt(this.route.snapshot.params.verseNumber, 10);
     this.getVerse();
+    this.getChapter();
   }
 
   getVerse = () => {
     this.verse = this.dataProviderService.getVerse(this.chapterNumber, this.verseNumber);
-    console.log(this.verse);
+  }
+
+  getChapter = () => {
+    this.chapter = this.dataProviderService.getChapterDetails(this.chapterNumber);
   }
 
 }

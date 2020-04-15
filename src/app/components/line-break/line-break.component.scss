@@ -1,0 +1,17 @@
+.break {
+    display: flex;
+    align-items: center;
+    margin: 20px auto;
+    width: 50px;
+    .left,
+    .right {
+      flex: 2;
+      border: 1px solid var(--ion-color-primary-shade);
+    }
+    .circle {
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      border: 2px solid var(--ion-color-primary);
+    }
+  }

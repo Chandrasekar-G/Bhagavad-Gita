@@ -7,32 +7,30 @@ import { UserInfoService } from '../user-info/user-info.service';
 })
 export class DataProviderService {
 
-  userLanguage;
 
   constructor(
     private userInfoService: UserInfoService
   ) {
-    this.listenToLanguageChange();
-  }
-
-  listenToLanguageChange = () => {
-    this.userInfoService.getUserLanguage().subscribe(lang => {
-      this.userLanguage = lang;
-    });
   }
 
   getAllChapters = () => {
-    return gitaData.chapters[this.userLanguage];
+    return gitaData.chapters;
+  }
+
+  getChapterDetails = (chapterNumber) => {
+    return gitaData.chapters.filter(chapter => {
+      return chapter.chapter_number === chapterNumber;
+    })[0];
   }
 
   getVerses = (chapterNumber) => {
-    return gitaData.verses[this.userLanguage].filter(verse => {
+    return gitaData.verses.filter(verse => {
       return verse.chapter_number === chapterNumber;
     });
   }
 
   getVerse = (chapterNumber, verseNumber) => {
-    return gitaData.verses[this.userLanguage].find(verse => {
+    return gitaData.verses.find(verse => {
       return (verse.chapter_number === chapterNumber && parseInt(verse.verse_number, 10) === verseNumber);
     })
   }
