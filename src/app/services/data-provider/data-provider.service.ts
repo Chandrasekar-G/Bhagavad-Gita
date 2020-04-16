@@ -31,7 +31,7 @@ export class DataProviderService {
 
   getVerse = (chapterNumber, verseNumber) => {
     return gitaData.verses.find(verse => {
-      return (verse.chapter_number === chapterNumber && parseInt(verse.verse_number, 10) === verseNumber);
+      return (verse.chapter_number === chapterNumber && verse.verse_number === verseNumber);
     });
   }
 
@@ -41,8 +41,8 @@ export class DataProviderService {
   }
 
   getDayOfYear = () => {
-    const now = new Date();
-    const start = new Date(now.getFullYear(), 0, 0);
+    const now = new Date().getTime();
+    const start = new Date(new Date().getFullYear(), 0, 0).getTime();
     const diff = now - start;
     const oneDay = 1000 * 60 * 60 * 24;
     const day = Math.floor(diff / oneDay);

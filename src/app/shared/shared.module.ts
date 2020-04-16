@@ -8,6 +8,7 @@ import { ChapterCardComponent } from '../components/chapter-card/chapter-card.co
 import { VerseCardComponent } from '../components/verse-card/verse-card.component';
 import { VerseDetailCardComponent } from '../components/verse-detail-card/verse-detail-card.component';
 import { LineBreakComponent } from '../components/line-break/line-break.component';
+import { AudioPlayerComponent } from '../components/audio-player/audio-player.component';
 
 @NgModule({
   declarations: [
@@ -16,6 +17,7 @@ import { LineBreakComponent } from '../components/line-break/line-break.componen
     VerseCardComponent,
     VerseDetailCardComponent,
     LineBreakComponent,
+    AudioPlayerComponent,
   ],
   imports: [
     CommonModule,
@@ -27,7 +29,8 @@ import { LineBreakComponent } from '../components/line-break/line-break.componen
     ChapterCardComponent,
     VerseCardComponent,
     VerseDetailCardComponent,
-    LineBreakComponent
+    LineBreakComponent,
+    AudioPlayerComponent,
   ]
 })
 export class SharedModule { }
