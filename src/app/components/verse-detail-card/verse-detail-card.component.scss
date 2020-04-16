@@ -43,4 +43,21 @@
       color: grey;
     }
   }
+
+  .action-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    .favorite {
+      --ion-color-contrast: #FF3D00 !important;
+      --ion-color-base: white !important;
+      font-size: 10px;
+      margin-right: 40px;
+    }
+    .complete {
+      --ion-color-contrast: #00C853 !important;
+      --ion-color-base: white !important;
+      font-size: 10px;
+    }
+  }
 }

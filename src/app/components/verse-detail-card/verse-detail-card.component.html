@@ -1,15 +1,27 @@
 <div class="verse-detail-container">
+
   <div class="title-container">
     <div class="id"> {{ verse.chapter_number + '.' + verse.verse_number }} </div>
     <div class="chapter-title"> {{ chapter.name_translation }} </div>
     <div class="chapter-meaning"> {{ '( ' + chapter.name_meaning + ' )' }} </div>
   </div>
 
+
   <bg-line-break></bg-line-break>
 
   <div class="verse-container">
-    <div class="text"> {{ verse.text}} </div>
+    <div class="text">
+      {{ verse.text}} </div>
     <div class="transliteration"> {{ verse.transliteration }} </div>
+    <div class="action-wrapper">
+      <ion-button color="primary" class="favorite" (click)="toggleFavorite()">
+        <ion-icon slot="icon-only" [name]="isFavorite ? 'heart' : 'heart-outline'"></ion-icon>
+      </ion-button>
+  
+      <ion-button color="primary" class="complete" (click)="toggleComplete()">
+        <ion-icon slot="icon-only" [name]="isComplete ? 'checkmark-circle' : 'checkmark-circle-outline'"></ion-icon>
+      </ion-button>
+    </div>
     <bg-audio-player [verse]="verse"></bg-audio-player>
   </div>
 
@@ -25,5 +37,4 @@
   <bg-line-break></bg-line-break>
 
   <div class="meaning"> {{ verse.meaning }} </div>
-
 </div>
