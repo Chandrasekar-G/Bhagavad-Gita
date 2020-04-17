@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { DataProviderService } from 'src/app/services/data-provider/data-provider.service';
 
 @Component({
   selector: 'app-favorites',
@@ -7,9 +8,13 @@ import { Component, OnInit } from '@angular/core';
 })
 export class FavoritesPage implements OnInit {
 
-  constructor() { }
+  favoriteVerses;
+  constructor(
+    private dataProviderService: DataProviderService
+  ) { }
 
   ngOnInit() {
+    this.favoriteVerses = this.dataProviderService.getFavoriteVerses();
   }
 
 }

@@ -1,12 +1,10 @@
 export class AppConstants {
-    public static LANGUAGES = {
-        ENGLISH: 'en',
-        HINDI: 'hi'
+
+    public static LOCAL_STORAGE = {
+        USER_DATA: 'user_data'
     };
 
+    public static INFO = {
+        NO_OF_VERSES: 692
+    };
 }
-
-export enum LANGUAGES {
-    ENGLISH = 'en',
-    HINDI = 'hi'
-};

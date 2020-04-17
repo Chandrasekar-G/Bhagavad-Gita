@@ -1,5 +1,8 @@
 <bg-common-header title="Favorites" [headerConfig]="{showBack: false}"></bg-common-header>
 
 <ion-content>
+    <div *ngFor="let verse of favoriteVerses">
+        <bg-verse-card [verse]="verse" [showChapterNo]="true"></bg-verse-card>
+    </div>
 
 </ion-content>

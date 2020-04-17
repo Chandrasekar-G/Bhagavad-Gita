@@ -9,6 +9,7 @@ import { ActivatedRoute, Router } from '@angular/router';
 export class VerseCardComponent implements OnInit {
 
   @Input() verse;
+  @Input() showChapterNo;
   constructor(
     private router: Router
   ) { }

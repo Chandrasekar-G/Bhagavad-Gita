@@ -171,7 +171,8 @@ const data = {
             "transliteration": "dhṛitarāśhtra uvācha\ndharma-kṣhetre kuru-kṣhetre samavetā yuyutsavaḥ\nmāmakāḥ pāṇḍavāśhchaiva kimakurvata sañjaya\n",
             "verse_number": 1,
             "word_meanings": "dhṛitarāśhtraḥ uvācha—Dhritarashtra said; dharma-kṣhetre—the land of dharma; kuru-kṣhetre—at Kurukshetra; samavetāḥ—having gathered; yuyutsavaḥ—desiring to fight; māmakāḥ—my sons; pāṇḍavāḥ—the sons of Pandu; cha—and; eva—certainly; kim—what; akurvata—did they do; sañjaya—Sanjay\n",
-            "audio_number": 1
+            "audio_number": 1,
+            "verse_id": 1
         },
         {
             "chapter_number": 1,
@@ -180,7 +181,8 @@ const data = {
             "transliteration": "sañjaya uvācha\ndṛiṣhṭvā tu pāṇḍavānīkaṁ vyūḍhaṁ duryodhanastadā\nāchāryamupasaṅgamya rājā vachanamabravīt\n",
             "verse_number": 2,
             "word_meanings": "sanjayaḥ uvācha—Sanjay said; dṛiṣhṭvā—on observing; tu—but; pāṇḍava-anīkam—the Pandava army; vyūḍham—standing in a military formation; duryodhanaḥ—King Duryodhan; tadā—then; āchāryam—teacher; upasaṅgamya—approached; rājā—the king; vachanam—words; abravīt—spoke\n",
-            "audio_number": 2
+            "audio_number": 2,
+            "verse_id": 2
         },
         {
             "chapter_number": 1,
@@ -189,7 +191,8 @@ const data = {
             "transliteration": "paśhyaitāṁ pāṇḍu-putrāṇām āchārya mahatīṁ chamūm\nvyūḍhāṁ drupada-putreṇa tava śhiṣhyeṇa dhīmatā\n",
             "verse_number": 3,
             "word_meanings": "paśhya—behold; etām—this; pāṇḍu-putrāṇām—of the sons of Pandu; āchārya—respected teacher; mahatīm—mighty; chamūm—army; vyūḍhām—arrayed in a military formation; drupada-putreṇa—son of Drupad, Dhrishtadyumna; tava—by your; śhiṣhyeṇa—disciple; dhī-matā—intelligent\n",
-            "audio_number": 3
+            "audio_number": 3,
+            "verse_id": 3
         },
         {
             "chapter_number": 1,
@@ -198,7 +201,8 @@ const data = {
             "transliteration": "atra śhūrā maheṣhvāsā bhīmārjuna-samā yudhi\nyuyudhāno virāṭaśhcha drupadaśhcha mahā-rathaḥ\n",
             "verse_number": 4,
             "word_meanings": "atra—here; śhūrāḥ—powerful warriors; mahā-iṣhu-āsāḥ—great bowmen; bhīma-arjuna-samāḥ—equal to Bheem and Arjun; yudhi—in military prowess; yuyudhānaḥ—Yuyudhan; virāṭaḥ—Virat; cha—and; drupadaḥ—Drupad; cha—also; mahā-rathaḥ—warriors who could single handedly match the strength of ten thousand ordinary warriors;\n",
-            "audio_number": 4
+            "audio_number": 4,
+            "verse_id": 4
         },
         {
             "chapter_number": 1,
@@ -207,7 +211,8 @@ const data = {
             "transliteration": "dhṛiṣhṭaketuśhchekitānaḥ kāśhirājaśhcha vīryavān\npurujit kuntibhojaśhcha śhaibyaśhcha nara-puṅgavaḥ\nyudhāmanyuśhcha vikrānta uttamaujāśhcha vīryavān\n",
             "verse_number": 5,
             "word_meanings": "dhṛiṣhṭaketuḥ—Dhrishtaketu; chekitānaḥ—Chekitan; kāśhirājaḥ—Kashiraj; cha—and; vīrya-vān—heroic; purujit—Purujit; kuntibhojaḥ—Kuntibhoj; cha—and; śhaibyaḥ—Shaibya; cha—and; nara-puṅgavaḥ—best of men; yudhāmanyuḥ—Yudhamanyu; cha—and; vikrāntaḥ—courageous; uttamaujāḥ—Uttamauja; cha—and; vīrya-vān—gallant;\n",
-            "audio_number": 5
+            "audio_number": 5,
+            "verse_id": 5
         },
         {
             "chapter_number": 1,
@@ -216,7 +221,8 @@ const data = {
             "transliteration": "saubhadro draupadeyāśhcha sarva eva mahā-rathāḥ\n",
             "verse_number": 6,
             "word_meanings": "saubhadraḥ—the son of Subhadra; draupadeyāḥ—the sons of Draupadi; cha—and; sarve—all; eva—indeed; mahā-rathāḥ—warriors who could single handedly match the strength of ten thousand ordinary warriors\n",
-            "audio_number": 6
+            "audio_number": 6,
+            "verse_id": 6
         },
         {
             "chapter_number": 1,
@@ -225,7 +231,8 @@ const data = {
             "transliteration": "asmākaṁ tu viśhiṣhṭā ye tānnibodha dwijottama\nnāyakā mama sainyasya sanjñārthaṁ tānbravīmi te\n",
             "verse_number": 7,
             "word_meanings": "asmākam—ours; tu—but; viśhiṣhṭāḥ—special; ye—who; tān—them; nibodha—be informed; dwija-uttama—best of Brahmnis; nāyakāḥ—principal generals; mama—our; sainyasya—of army; sanjñā-artham—for information; tān—them; bravīmi—I recount; te—unto you\n",
-            "audio_number": 7
+            "audio_number": 7,
+            "verse_id": 7
         },
         {
             "chapter_number": 1,
@@ -234,7 +241,8 @@ const data = {
             "transliteration": "bhavānbhīṣhmaśhcha karṇaśhcha kṛipaśhcha samitiñjayaḥ\naśhvatthāmā vikarṇaśhcha saumadattis tathaiva cha\n",
             "verse_number": 8,
             "word_meanings": "bhavān—yourself; bhīṣhmaḥ—Bheeshma; cha—and; karṇaḥ—Karna; cha—and; kṛipaḥ—Kripa; cha—and; samitim-jayaḥ—victorious in battle; aśhvatthāmā—Ashvatthama; vikarṇaḥ—Vikarna; cha—and; saumadattiḥ—Bhurishrava; tathā—thus; eva—even; cha—also\n",
-            "audio_number": 8
+            "audio_number": 8,
+            "verse_id": 8
         },
         {
             "chapter_number": 1,
@@ -243,7 +251,8 @@ const data = {
             "transliteration": "anye cha bahavaḥ śhūrā madarthe tyaktajīvitāḥ\nnānā-śhastra-praharaṇāḥ sarve yuddha-viśhāradāḥ\n",
             "verse_number": 9,
             "word_meanings": "anye—others; cha—also; bahavaḥ—many; śhūrāḥ—heroic warriors; mat-arthe—for my sake; tyakta-jīvitāḥ—prepared to lay down their lives; nānā-śhastra-praharaṇāḥ—equipped with various kinds of weapons; sarve—all; yuddha-viśhāradāḥ—skilled in the art of warfare\n",
-            "audio_number": 9
+            "audio_number": 9,
+            "verse_id": 9
         },
         {
             "chapter_number": 1,
@@ -252,7 +261,8 @@ const data = {
             "transliteration": "aparyāptaṁ tadasmākaṁ balaṁ bhīṣhmābhirakṣhitam\nparyāptaṁ tvidameteṣhāṁ balaṁ bhīmābhirakṣhitam\n",
             "verse_number": 10,
             "word_meanings": "aparyāptam—unlimited; tat—that; asmākam—ours; balam—strength; bhīṣhma—by Grandsire Bheeshma; abhirakṣhitam—safely marshalled; paryāptam—limited; tu—but; idam—this; eteṣhām—their; balam—strength; bhīma—Bheem; abhirakṣhitam—carefully marshalled\n",
-            "audio_number": 10
+            "audio_number": 10,
+            "verse_id": 10
         },
         {
             "chapter_number": 1,
@@ -261,7 +271,8 @@ const data = {
             "transliteration": "ayaneṣhu cha sarveṣhu yathā-bhāgamavasthitāḥ\nbhīṣhmamevābhirakṣhantu bhavantaḥ sarva eva hi\n",
             "verse_number": 11,
             "word_meanings": "ayaneṣhu—at the strategic points; cha—also; sarveṣhu—all; yathā-bhāgam—in respective position; avasthitāḥ—situated; bhīṣhmam—to Grandsire Bheeshma; eva—only; abhirakṣhantu—defend; bhavantaḥ—you; sarve—all; eva hi—even as\n",
-            "audio_number": 11
+            "audio_number": 11,
+            "verse_id": 11
         },
         {
             "chapter_number": 1,
@@ -270,7 +281,8 @@ const data = {
             "transliteration": "tasya sañjanayan harṣhaṁ kuru-vṛiddhaḥ pitāmahaḥ\nsiṁha-nādaṁ vinadyochchaiḥ śhaṅkhaṁ dadhmau pratāpavān\n",
             "verse_number": 12,
             "word_meanings": "tasya—his; sañjanayan—causing; harṣham—joy; kuru-vṛiddhaḥ—the grand old man of the Kuru dynasty (Bheeshma); pitāmahaḥ—grandfather; sinha-nādam—lion’s roar; vinadya—sounding; uchchaiḥ—very loudly; śhaṅkham—conch shell; dadhmau—blew; pratāpa-vān—the glorious\n",
-            "audio_number": 12
+            "audio_number": 12,
+            "verse_id": 12
         },
         {
             "chapter_number": 1,
@@ -279,7 +291,8 @@ const data = {
             "transliteration": "tataḥ śhaṅkhāśhcha bheryaśhcha paṇavānaka-gomukhāḥ\nsahasaivābhyahanyanta sa śhabdastumulo ’bhavat\n",
             "verse_number": 13,
             "word_meanings": "tataḥ—thereafter; śhaṅkhāḥ—conches; cha—and; bheryaḥ—bugles; cha—and; paṇava-ānaka—drums and kettledrums; go-mukhāḥ—trumpets; sahasā—suddenly; eva—indeed; abhyahanyanta—blared forth; saḥ—that; śhabdaḥ—sound; tumulaḥ—overwhelming; abhavat—was\n",
-            "audio_number": 13
+            "audio_number": 13,
+            "verse_id": 13
         },
         {
             "chapter_number": 1,
@@ -288,7 +301,8 @@ const data = {
             "transliteration": "tataḥ śhvetairhayairyukte mahati syandane sthitau\nmādhavaḥ pāṇḍavaśhchaiva divyau śhaṅkhau pradadhmatuḥ\n",
             "verse_number": 14,
             "word_meanings": "tataḥ—then; śhvetaiḥ—by white; hayaiḥ—horses; yukte—yoked; mahati—glorious; syandane—chariot; sthitau—seated; mādhavaḥ—Shree Krishna, the husband of the goddess of fortune, Lakshmi; pāṇḍavaḥ—Arjun; cha—and; eva—also; divyau—Divine; śhaṅkhau—conch shells; pradadhmatuḥ—blew\n",
-            "audio_number": 14
+            "audio_number": 14,
+            "verse_id": 14
         },
         {
             "chapter_number": 1,
@@ -297,7 +311,8 @@ const data = {
             "transliteration": "pāñchajanyaṁ hṛiṣhīkeśho devadattaṁ dhanañjayaḥ\npauṇḍraṁ dadhmau mahā-śhaṅkhaṁ bhīma-karmā vṛikodaraḥ\n",
             "verse_number": 15,
             "word_meanings": "pāñchajanyam—the conch shell named Panchajanya; hṛiṣhīka-īśhaḥ—Shree Krishna, the Lord of the mind and senses; devadattam—the conch shell named Devadutta; dhanam-jayaḥ—Arjun, the winner of wealth; pauṇḍram—the conch named Paundra; dadhmau—blew; mahā-śhaṅkham—mighty conch; bhīma-karmā—one who performs herculean tasks; vṛika-udaraḥ—Bheem, the voracious eater\n",
-            "audio_number": 15
+            "audio_number": 15,
+            "verse_id": 15
         },
         {
             "chapter_number": 1,
@@ -306,7 +321,8 @@ const data = {
             "transliteration": "anantavijayaṁ rājā kuntī-putro yudhiṣhṭhiraḥ\nnakulaḥ sahadevaśhcha sughoṣha-maṇipuṣhpakau\n",
             "verse_number": 16,
             "word_meanings": "ananta-vijayam—the conch named Anantavijay; rājā—king; kuntī-putraḥ—son of Kunti; yudhiṣhṭhiraḥ—Yudhishthir; nakulaḥ—Nakul; sahadevaḥ—Sahadev; cha—and; sughoṣha-maṇipuṣhpakau—the conche shells named Sughosh and Manipushpak;\n",
-            "audio_number": 16
+            "audio_number": 16,
+            "verse_id": 16
         },
         {
             "chapter_number": 1,
@@ -315,7 +331,8 @@ const data = {
             "transliteration": "kāśhyaśhcha parameṣhvāsaḥ śhikhaṇḍī cha mahā-rathaḥ\ndhṛiṣhṭadyumno virāṭaśhcha sātyakiśh chāparājitaḥ\n",
             "verse_number": 17,
             "word_meanings": "kāśhyaḥ—King of Kashi; cha—and; parama-iṣhu-āsaḥ—the excellent archer; śhikhaṇḍī—Shikhandi; cha—also; mahā-rathaḥ—warriors who could single handedly match the strength of ten thousand ordinary warriors; dhṛiṣhṭadyumnaḥ—Dhrishtadyumna; virāṭaḥ—Virat; cha—and; sātyakiḥ—Satyaki; cha—and; aparājitaḥ—invincible;\n",
-            "audio_number": 16
+            "audio_number": 16,
+            "verse_id": 17
         },
         {
             "chapter_number": 1,
@@ -324,7 +341,8 @@ const data = {
             "transliteration": "drupado draupadeyāśhcha sarvaśhaḥ pṛithivī-pate\nsaubhadraśhcha mahā-bāhuḥ śhaṅkhāndadhmuḥ pṛithak pṛithak\n",
             "verse_number": 18,
             "word_meanings": "drupadaḥ—Drupad; draupadeyāḥ—the five sons of Draupadi; cha—and; sarvaśhaḥ—all; pṛithivī-pate—Ruler of the earth; saubhadraḥ—Abhimanyu, the son of Subhadra; cha—also; mahā-bāhuḥ—the mighty-armed; śhaṅkhān—conch shells; dadhmuḥ—blew; pṛithak pṛithak—individually\n",
-            "audio_number": 16
+            "audio_number": 16,
+            "verse_id": 18
         },
         {
             "chapter_number": 1,
@@ -333,7 +351,8 @@ const data = {
             "transliteration": "sa ghoṣho dhārtarāṣhṭrāṇāṁ hṛidayāni vyadārayat\nnabhaśhcha pṛithivīṁ chaiva tumulo nunādayan\n",
             "verse_number": 19,
             "word_meanings": "saḥ—that; ghoṣhaḥ—sound; dhārtarāṣhṭrāṇām—of Dhritarashtra’s sons; hṛidayāni—hearts; vyadārayat—shattered; nabhaḥ—the sky; cha—and; pṛithivīm—the earth; cha—and; eva—certainly; tumulaḥ—terrific sound; abhyanunādayan—thundering\n",
-            "audio_number": 17
+            "audio_number": 17,
+            "verse_id": 19
         },
         {
             "chapter_number": 1,
@@ -342,7 +361,8 @@ const data = {
             "transliteration": "atha vyavasthitān dṛiṣhṭvā dhārtarāṣhṭrān kapi-dhwajaḥ\npravṛitte śhastra-sampāte dhanurudyamya pāṇḍavaḥ\nhṛiṣhīkeśhaṁ tadā vākyam idam āha mahī-pate\n",
             "verse_number": 20,
             "word_meanings": "atha—thereupon; vyavasthitān—arrayed; dṛiṣhṭvā—seeing; dhārtarāṣhṭrān—Dhritarashtra’s sons; kapi-dwajaḥ—the Monkey Bannered; pravṛitte—about to commence; śhastra-sampāte—to use the weapons; dhanuḥ—bow; udyamya—taking up; pāṇḍavaḥ—Arjun, the son of Pandu; hṛiṣhīkeśham—to Shree Krishna; tadā—at that time; vākyam—words; idam—these; āha—said; mahī-pate—King\n",
-            "audio_number": 18
+            "audio_number": 18,
+            "verse_id": 20
         },
         {
             "chapter_number": 1,
@@ -351,7 +371,8 @@ const data = {
             "transliteration": "arjuna uvācha\nsenayor ubhayor madhye rathaṁ sthāpaya me ’chyuta\n",
             "verse_number": 21,
             "word_meanings": "arjunaḥ uvācha—Arjun said; senayoḥ—armies; ubhayoḥ—both; madhye—in the middle; ratham—chariot; sthāpaya—place; me—my; achyuta—Shree Krishna, the infallible One;\n",
-            "audio_number": 19
+            "audio_number": 19,
+            "verse_id": 21
         },
         {
             "chapter_number": 1,
@@ -360,7 +381,8 @@ const data = {
             "transliteration": "yāvadetān nirīkṣhe ’haṁ yoddhu-kāmān avasthitān\nkairmayā saha yoddhavyam asmin raṇa-samudyame\n",
             "verse_number": 22,
             "word_meanings": "yāvat—as many as; etān—these; nirīkṣhe—look; aham—I; yoddhu-kāmān—for the battle; avasthitān—arrayed; kaiḥ—with whom; mayā—by me; saha—together; yoddhavyam—must fight; asmin—in this; raṇa-samudyame—great combat\n",
-            "audio_number": 19
+            "audio_number": 19,
+            "verse_id": 22
         },
         {
             "chapter_number": 1,
@@ -369,7 +391,8 @@ const data = {
             "transliteration": "yotsyamānān avekṣhe ’haṁ ya ete ’tra samāgatāḥ\ndhārtarāṣhṭrasya durbuddher yuddhe priya-chikīrṣhavaḥ\n",
             "verse_number": 23,
             "word_meanings": "yotsyamānān—those who have come to fight; avekṣhe aham—I desire to see; ye—who; ete—those; atra—here; samāgatāḥ—assembled; dhārtarāṣhṭrasya—of Dhritarashtra’s son; durbuddheḥ—evil-minded; yuddhe—in the fight; priya-chikīrṣhavaḥ—wishing to please\n",
-            "audio_number": 20
+            "audio_number": 20,
+            "verse_id": 23
         },
         {
             "chapter_number": 1,
@@ -378,7 +401,8 @@ const data = {
             "transliteration": "sañjaya uvācha\nevam ukto hṛiṣhīkeśho guḍākeśhena bhārata\nsenayor ubhayor madhye sthāpayitvā rathottamam\n",
             "verse_number": 24,
             "word_meanings": "sañjayaḥ uvācha—Sanjay said; evam—thus; uktaḥ—addressed; hṛiṣhīkeśhaḥ—Shree Krishna, the Lord of the senses; guḍākeśhena—by Arjun, the conqueror of sleep; bhārata—descendant of Bharat; senayoḥ—armies; ubhayoḥ—the two; madhye—between; sthāpayitvā—having drawn; ratha-uttamam—magnificent chariot\n",
-            "audio_number": 21
+            "audio_number": 21,
+            "verse_id": 24
         },
         {
             "chapter_number": 1,
@@ -387,7 +411,8 @@ const data = {
             "transliteration": "bhīṣhma-droṇa-pramukhataḥ sarveṣhāṁ cha mahī-kṣhitām\nuvācha pārtha paśhyaitān samavetān kurūn iti\n",
             "verse_number": 25,
             "word_meanings": "bhīṣhma—Grandsire Bheeshma; droṇa—Dronacharya; pramukhataḥ—in the presence; sarveṣhām—all; cha—and; mahī-kṣhitām—other kings; uvācha—said; pārtha—Arjun, the son of Pritha; paśhya—behold; etān—these; samavetān—gathered; kurūn—descendants of Kuru; iti—thus\n",
-            "audio_number": 22
+            "audio_number": 22,
+            "verse_id": 25
         },
         {
             "chapter_number": 1,
@@ -396,7 +421,8 @@ const data = {
             "transliteration": "tatrāpaśhyat sthitān pārthaḥ pitṝīn atha pitāmahān\nāchāryān mātulān bhrātṝīn putrān pautrān sakhīṁs tathā\nśhvaśhurān suhṛidaśh chaiva senayor ubhayor api\n",
             "verse_number": 26,
             "word_meanings": "tatra—there; apaśhyat—saw; sthitān—stationed; pārthaḥ—Arjun; pitṝīn—fathers; atha—thereafter; pitāmahān—grandfathers; āchāryān—teachers; mātulān—maternal uncles; bhrātṝīn—brothers; putrān—sons; pautrān—grandsons; sakhīn—friends; tathā—also; śhvaśhurān—fathers-in-law; suhṛidaḥ—well-wishers; cha—and; eva—indeed; senayoḥ—armies; ubhayoḥ—in both armies; api—also\n",
-            "audio_number": 23
+            "audio_number": 23,
+            "verse_id": 26
         },
         {
             "chapter_number": 1,
@@ -405,7 +431,8 @@ const data = {
             "transliteration": "tān samīkṣhya sa kaunteyaḥ sarvān bandhūn avasthitān\nkṛipayā parayāviṣhṭo viṣhīdann idam abravīt\n",
             "verse_number": 27,
             "word_meanings": "tān—these; samīkṣhya—on seeing; saḥ—they; kaunteyaḥ—Arjun, the son of Kunti; sarvān—all; bandhūn—relatives; avasthitān—present; kṛipayā—by compassion; parayā—great; āviṣhṭaḥ—overwhelmed; viṣhīdan—deep sorrow; idam—this; abravīt—spoke\n",
-            "audio_number": 24
+            "audio_number": 24,
+            "verse_id": 27
         },
         {
             "chapter_number": 1,
@@ -414,7 +441,8 @@ const data = {
             "transliteration": "arjuna uvācha\ndṛiṣhṭvemaṁ sva-janaṁ kṛiṣhṇa yuyutsuṁ samupasthitam\n",
             "verse_number": 28,
             "word_meanings": "arjunaḥ uvācha—Arjun said; dṛiṣhṭvā—on seeing; imam—these; sva-janam—kinsmen; kṛiṣhṇa—Krishna; yuyutsum—eager to fight; samupasthitam—present; \n",
-            "audio_number": 25
+            "audio_number": 25,
+            "verse_id": 28
         },
         {
             "chapter_number": 1,
@@ -423,7 +451,8 @@ const data = {
             "transliteration": "sīdanti mama gātrāṇi mukhaṁ cha pariśhuṣhyati\nvepathuśh cha śharīre me roma-harṣhaśh cha jāyate\n",
             "verse_number": 29,
             "word_meanings": "sīdanti—quivering; mama—my; gātrāṇi—limbs; mukham—mouth; cha—and; pariśhuṣhyati—is drying up\nvepathuḥ—shuddering; cha—and; śharīre—on the body; me—my; roma-harṣhaḥ—standing of bodily hair on end; cha—also; jāyate—is happening;\n",
-            "audio_number": 26
+            "audio_number": 26,
+            "verse_id": 29
         },
         {
             "chapter_number": 1,
@@ -432,7 +461,8 @@ const data = {
             "transliteration": "gāṇḍīvaṁ sraṁsate hastāt tvak chaiva paridahyate\nna cha śhaknomy avasthātuṁ bhramatīva cha me manaḥ\n",
             "verse_number": 30,
             "word_meanings": "gāṇḍīvam—Arjun’s bow; sraṁsate—is slipping; hastāt—from (my) hand; tvak—skin; cha—and; eva—indeed; paridahyate—is burning all over; na—not; cha—and; śhaknomi—am able; avasthātum—remain steady; bhramati iva—whirling like; cha—and; me—my; manaḥ—mind;\n",
-            "audio_number": 27
+            "audio_number": 27,
+            "verse_id": 30
         },
         {
             "chapter_number": 1,
@@ -441,7 +471,8 @@ const data = {
             "transliteration": "nimittāni cha paśhyāmi viparītāni keśhava\nna cha śhreyo ’nupaśhyāmi hatvā sva-janam āhave\n",
             "verse_number": 31,
             "word_meanings": "nimittāni—omens; cha—and; paśhyāmi—I see; viparītāni—misfortune; keśhava—Shree Krishna, killer of the Keshi demon; na—not; cha—also; śhreyaḥ—good; anupaśhyāmi—I foresee; hatvā—from killing; sva-janam—kinsmen; āhave—in battle\n",
-            "audio_number": 28
+            "audio_number": 28,
+            "verse_id": 31
         },
         {
             "chapter_number": 1,
@@ -450,7 +481,8 @@ const data = {
             "transliteration": "na kāṅkṣhe vijayaṁ kṛiṣhṇa na cha rājyaṁ sukhāni cha\nkiṁ no rājyena govinda kiṁ bhogair jīvitena vā\n",
             "verse_number": 32,
             "word_meanings": "na—nor; kāṅkṣhe—do I desire; vijayam—victory; kṛiṣhṇa—Krishna; na—nor; cha—as well; rājyam—kingdom; sukhāni—happiness; cha—also; kim—what; naḥ—to us; rājyena—by kingdom; govinda—Krishna, he who gives pleasure to the senses, he who is fond of cows; kim—what?; bhogaiḥ—pleasures; jīvitena—life; vā—or;\n",
-            "audio_number": 29
+            "audio_number": 29,
+            "verse_id": 32
         },
         {
             "chapter_number": 1,
@@ -459,7 +491,8 @@ const data = {
             "transliteration": "yeṣhām arthe kāṅkṣhitaṁ no rājyaṁ bhogāḥ sukhāni cha\nta ime ’vasthitā yuddhe prāṇāṁs tyaktvā dhanāni cha\n",
             "verse_number": 33,
             "word_meanings": "yeṣhām—for whose; arthe—sake; kāṅkṣhitam—coveted for; naḥ—by us; rājyam—kingdom; bhogāḥ—pleasures; sukhāni—happiness; cha—also; te—they; ime—these; avasthitāḥ—situated; yuddhe—for battle; prāṇān—lives; tyaktvā—giving up; dhanāni—wealth; cha—also\n",
-            "audio_number": 29
+            "audio_number": 29,
+            "verse_id": 33
         },
         {
             "chapter_number": 1,
@@ -468,7 +501,8 @@ const data = {
             "transliteration": "āchāryāḥ pitaraḥ putrās tathaiva cha pitāmahāḥ\nmātulāḥ śhvaśhurāḥ pautrāḥ śhyālāḥ sambandhinas tathā\n",
             "verse_number": 34,
             "word_meanings": "āchāryāḥ—teachers; pitaraḥ—fathers; putrāḥ—sons; tathā—as well; eva—indeed; cha—also; pitāmahāḥ—grandfathers; mātulāḥ—maternal uncles; śhvaśhurāḥ—fathers-in-law; pautrāḥ—grandsons; śhyālāḥ—brothers-in-law; sambandhinaḥ—kinsmen; tathā—as well; \n",
-            "audio_number": 29
+            "audio_number": 29,
+            "verse_id": 34
         },
         {
             "chapter_number": 1,
@@ -477,7 +511,8 @@ const data = {
             "transliteration": "etān na hantum ichchhāmi ghnato ’pi madhusūdana\napi trailokya-rājyasya hetoḥ kiṁ nu mahī-kṛite\n",
             "verse_number": 35,
             "word_meanings": "etān—these; na—not; hantum—to slay; ichchhāmi—I wish; ghnataḥ—killed; api—even though; madhusūdana—Shree Krishna, killer of the demon Madhu; api—even though; trai-lokya-rājyasya—dominion over three worlds; hetoḥ—for the sake of; kim nu—what to speak of; mahī-kṛite—for the earth\n",
-            "audio_number": 29
+            "audio_number": 29,
+            "verse_id": 35
         },
         {
             "chapter_number": 1,
@@ -486,7 +521,8 @@ const data = {
             "transliteration": "nihatya dhārtarāṣhṭrān naḥ kā prītiḥ syāj janārdana\npāpam evāśhrayed asmān hatvaitān ātatāyinaḥ\n",
             "verse_number": 36,
             "word_meanings": "nihatya—by killing; dhārtarāṣhṭrān—the sons of Dhritarashtra; naḥ—our; kā—what; prītiḥ—pleasure; syāt—will there be; janārdana—he who looks after the public, Shree Krishna; pāpam—vices; eva—certainly; āśhrayet—must come upon; asmān—us; hatvā—by killing; etān—all these; ātatāyinaḥ—aggressors;\n",
-            "audio_number": 29
+            "audio_number": 29,
+            "verse_id": 36
         },
         {
             "chapter_number": 1,
@@ -495,7 +531,8 @@ const data = {
             "transliteration": "tasmān nārhā vayaṁ hantuṁ dhārtarāṣhṭrān sa-bāndhavān \nsva-janaṁ hi kathaṁ hatvā sukhinaḥ syāma mādhava\n",
             "verse_number": 37,
             "word_meanings": "tasmāt—hence; na—never; arhāḥ—behoove; vayam—we; hantum—to kill; dhārtarāṣhṭrān—the sons of Dhritarashtra; sva-bāndhavān—along with friends; sva-janam—kinsmen; hi—certainly; katham—how; hatvā—by killing; sukhinaḥ—happy; syāma—will we become; mādhava—Shree Krishna, the husband of Yogmaya\n",
-            "audio_number": 30
+            "audio_number": 30,
+            "verse_id": 37
         },
         {
             "chapter_number": 1,
@@ -504,7 +541,8 @@ const data = {
             "transliteration": "yady apy ete na paśhyanti lobhopahata-chetasaḥ\nkula-kṣhaya-kṛitaṁ doṣhaṁ mitra-drohe cha pātakam\n",
             "verse_number": 38,
             "word_meanings": "yadi api—even though; ete—they; na—not; paśhyanti—see; lobha—greed; upahata—overpowered; chetasaḥ—thoughts; kula-kṣhaya-kṛitam—in annihilating their relatives; doṣham—fault; mitra-drohe—to wreak treachery upon friends; cha—and; pātakam—sin;\n",
-            "audio_number": 31
+            "audio_number": 31,
+            "verse_id": 38
         },
         {
             "chapter_number": 1,
@@ -513,7 +551,8 @@ const data = {
             "transliteration": "kathaṁ na jñeyam asmābhiḥ pāpād asmān nivartitum\nkula-kṣhaya-kṛitaṁ doṣhaṁ prapaśhyadbhir janārdana\n",
             "verse_number": 39,
             "word_meanings": "katham—why; na—not; jñeyam—should be known; asmābhiḥ—we; pāpāt—from sin; asmāt—these; nivartitum—to turn away; kula-kṣhaya—killing the kindered; kṛitam—done; doṣham—crime; prapaśhyadbhiḥ—who can see; janārdana—he who looks after the public, Shree Krishna\n",
-            "audio_number": 31
+            "audio_number": 31,
+            "verse_id": 39
         },
         {
             "chapter_number": 1,
@@ -522,7 +561,8 @@ const data = {
             "transliteration": "kula-kṣhaye praṇaśhyanti kula-dharmāḥ sanātanāḥ\ndharme naṣhṭe kulaṁ kṛitsnam adharmo ’bhibhavaty uta\n",
             "verse_number": 40,
             "word_meanings": "kula-kṣhaye—in the destruction of a dynasty; praṇaśhyanti—are vanquished; kula-dharmāḥ—family traditions; sanātanāḥ—eternal; dharme—religion; naṣhṭe—is destroyed; kulam—family; kṛitsnam—the whole; adharmaḥ—irreligion; abhibhavati—overcome; uta—indeed\n",
-            "audio_number": 32
+            "audio_number": 32,
+            "verse_id": 40
         },
         {
             "chapter_number": 1,
@@ -531,7 +571,8 @@ const data = {
             "transliteration": "adharmābhibhavāt kṛiṣhṇa praduṣhyanti kula-striyaḥ\nstrīṣhu duṣhṭāsu vārṣhṇeya jāyate varṇa-saṅkaraḥ\n",
             "verse_number": 41,
             "word_meanings": "adharma—irreligion; abhibhavāt—preponderance; kṛiṣhṇa—Shree Krishna; praduṣhyanti—become immoral; kula-striyaḥ—women of the family; strīṣhu—of women; duṣhṭāsu—become immoral; vārṣhṇeya—descendant of Vrishni; jāyate—are born; varṇa-saṅkaraḥ—unwanted progeny\n",
-            "audio_number": 33
+            "audio_number": 33,
+            "verse_id": 41
         },
         {
             "chapter_number": 1,
@@ -540,7 +581,8 @@ const data = {
             "transliteration": "saṅkaro narakāyaiva kula-ghnānāṁ kulasya cha\npatanti pitaro hy eṣhāṁ lupta-piṇḍodaka-kriyāḥ\n",
             "verse_number": 42,
             "word_meanings": "saṅkaraḥ—unwanted children; narakāya—hellish; eva—indeed; kula-ghnānām—for those who destroy the family; kulasya—of the family; cha—also; patanti—fall; pitaraḥ—ancestors; hi—verily; eṣhām—their; lupta—deprived of; piṇḍodaka-kriyāḥ—performances of sacrificial offerings\n",
-            "audio_number": 34
+            "audio_number": 34,
+            "verse_id": 42
         },
         {
             "chapter_number": 1,
@@ -549,7 +591,8 @@ const data = {
             "transliteration": "doṣhair etaiḥ kula-ghnānāṁ varṇa-saṅkara-kārakaiḥ\nutsādyante jāti-dharmāḥ kula-dharmāśh cha śhāśhvatāḥ\n",
             "verse_number": 43,
             "word_meanings": "doṣhaiḥ—through evil deeds; etaiḥ—these; kula-ghnānām—of those who destroy the family; varṇa-saṅkara—unwanted progeny; kārakaiḥ—causing; utsādyante—are ruined; jāti-dharmāḥ—social and family welfare activities; kula-dharmāḥ—family traditions; cha—and; śhāśhvatāḥ—eternal\n",
-            "audio_number": 35
+            "audio_number": 35,
+            "verse_id": 43
         },
         {
             "chapter_number": 1,
@@ -558,7 +601,8 @@ const data = {
             "transliteration": "utsanna-kula-dharmāṇāṁ manuṣhyāṇāṁ janārdana\nnarake ‘niyataṁ vāso bhavatītyanuśhuśhruma\n",
             "verse_number": 44,
             "word_meanings": "utsanna—destroyed; kula-dharmāṇām—whose family traditions; manuṣhyāṇām—of such human beings; janārdana—he who looks after the public, Shree Krishna; narake—in hell; aniyatam—indefinite; vāsaḥ—dwell; bhavati—is; iti—thus; anuśhuśhruma—I have heard from the learned\n",
-            "audio_number": 36
+            "audio_number": 36,
+            "verse_id": 44
         },
         {
             "chapter_number": 1,
@@ -567,7 +611,8 @@ const data = {
             "transliteration": "aho bata mahat pāpaṁ kartuṁ vyavasitā vayam\nyad rājya-sukha-lobhena hantuṁ sva-janam udyatāḥ\n",
             "verse_number": 45,
             "word_meanings": "aho—alas; bata—how; mahat—great; pāpam—sins; kartum—to perform; vyavasitāḥ—have decided; vayam—we; yat—because; rājya-sukha-lobhena—driven by the desire for kingly pleasure; hantum—to kill; sva-janam—kinsmen; udyatāḥ—intending;\n",
-            "audio_number": 37
+            "audio_number": 37,
+            "verse_id": 45
         },
         {
             "chapter_number": 1,
@@ -576,7 +621,8 @@ const data = {
             "transliteration": "yadi mām apratīkāram aśhastraṁ śhastra-pāṇayaḥ\ndhārtarāṣhṭrā raṇe hanyus tan me kṣhemataraṁ bhavet\n",
             "verse_number": 46,
             "word_meanings": "yadi—if; mām—me; apratīkāram—unresisting; aśhastram—unarmed; śhastra-pāṇayaḥ—those with weapons in hand; dhārtarāṣhṭrāḥ—the sons of Dhritarashtra; raṇe—on the battlefield; hanyuḥ—shall kill; tat—that; me—to me; kṣhema-taram—better; bhavet—would be\n",
-            "audio_number": 38
+            "audio_number": 38,
+            "verse_id": 46
         },
         {
             "chapter_number": 1,
@@ -585,7 +631,8 @@ const data = {
             "transliteration": "sañjaya uvācha\nevam uktvārjunaḥ saṅkhye rathopastha upāviśhat\nvisṛijya sa-śharaṁ chāpaṁ śhoka-saṁvigna-mānasaḥ\n",
             "verse_number": 47,
             "word_meanings": "sañjayaḥ uvācha—Sanjay said; evam uktvā—speaking thus; arjunaḥ—Arjun; saṅkhye—in the battlefield; ratha upasthe—on the chariot; upāviśhat—sat; visṛijya—casting aside; sa-śharam—along with arrows; chāpam—the bow; śhoka—with grief; saṁvigna—distressed; mānasaḥ—mind\n",
-            "audio_number": 39
+            "audio_number": 39,
+            "verse_id": 47
         },
         {
             "chapter_number": 2,
@@ -594,7 +641,8 @@ const data = {
             "transliteration": "sañjaya uvācha\ntaṁ tathā kṛipayāviṣhṭamaśhru pūrṇākulekṣhaṇam\nviṣhīdantamidaṁ vākyam uvācha madhusūdanaḥ\n",
             "verse_number": 1,
             "word_meanings": "sañjayaḥ uvācha—Sanjay said; tam—to him (Arjun); tathā—thus; kṛipayā—with pity; āviṣhṭam—overwhelmed; aśhru-pūrṇa—full of tears; ākula—distressed; īkṣhaṇam—eyes; viṣhīdantam—grief-stricken; idam—these; vākyam—words; uvācha—said; madhusūdanaḥ—Shree Krishn, slayer of the Madhu demon\n",
-            "audio_number": 1
+            "audio_number": 1,
+            "verse_id": 48
         },
         {
             "chapter_number": 2,
@@ -603,7 +651,8 @@ const data = {
             "transliteration": "śhrī bhagavān uvācha\nkutastvā kaśhmalamidaṁ viṣhame samupasthitam\nanārya-juṣhṭamaswargyam akīrti-karam arjuna\n",
             "verse_number": 2,
             "word_meanings": "śhrī-bhagavān uvācha—the Supreme Lord said; kutaḥ—wherefrom; tvā—to you; kaśhmalam—delusion; idam—this; viṣhame—in this hour of peril; samupasthitam—overcome; anārya—crude person; juṣhṭam—practiced; aswargyam—which does not lead to the higher abodes; akīrti-karam—leading to disgrace; arjuna—Arjun\n",
-            "audio_number": 2
+            "audio_number": 2,
+            "verse_id": 49
         },
         {
             "chapter_number": 2,
@@ -612,7 +661,8 @@ const data = {
             "transliteration": "klaibyaṁ mā sma gamaḥ pārtha naitat tvayyupapadyate\nkṣhudraṁ hṛidaya-daurbalyaṁ tyaktvottiṣhṭha parantapa\n",
             "verse_number": 3,
             "word_meanings": "klaibyam—unmanliness; mā sma—do not; gamaḥ—yield to; pārtha—Arjun, the son of Pritha; na—not; etat—this; tvayi—to you; upapadyate—befitting; kṣhudram—petty; hṛidaya—heart; daurbalyam—weakness; tyaktvā—giving up; uttiṣhṭha—arise; param-tapa—conqueror of enemies\n",
-            "audio_number": 3
+            "audio_number": 3,
+            "verse_id": 50
         },
         {
             "chapter_number": 2,
@@ -621,7 +671,8 @@ const data = {
             "transliteration": "arjuna uvācha\nkathaṁ bhīṣhmam ahaṁ sankhye droṇaṁ cha madhusūdana\niṣhubhiḥ pratiyotsyāmi pūjārhāvari-sūdana\n",
             "verse_number": 4,
             "word_meanings": "arjunaḥ uvācha—Arjun said; katham—how; bhīṣhmam—Bheeshma; aham—I; sankhye—in battle; droṇam—Dronacharya; cha—and; madhu-sūdana—Shree Krishn, slayer of the Madhu demon; iṣhubhiḥ—with arrows; pratiyotsyāmi—shall I shoot; pūjā-arhau—worthy of worship; ari-sūdana—destroyer of enemies\n",
-            "audio_number": 4
+            "audio_number": 4,
+            "verse_id": 51
         },
         {
             "chapter_number": 2,
@@ -630,7 +681,8 @@ const data = {
             "transliteration": "gurūnahatvā hi mahānubhāvān\nśhreyo bhoktuṁ bhaikṣhyamapīha loke\nhatvārtha-kāmāṁstu gurūnihaiva\nbhuñjīya bhogān rudhira-pradigdhān\n",
             "verse_number": 5,
             "word_meanings": "gurūn—teachers; ahatvā—not killing; hi—certainly; mahā-anubhāvān—noble elders; śhreyaḥ—better; bhoktum—to enjoy life; bhaikṣhyam—by begging; api—even; iha loke—in this world; hatvā—killing; artha—gain; kāmān—desiring; tu—but; gurūn—noble elders; iha—in this world; eva—certainly; bhuñjīya—enjoy; bhogān—pleasures; rudhira—blood; pradigdhān—tainted with\n",
-            "audio_number": 5
+            "audio_number": 5,
+            "verse_id": 52
         },
         {
             "chapter_number": 2,
@@ -639,7 +691,8 @@ const data = {
             "transliteration": "na chaitadvidmaḥ kataranno garīyo\nyadvā jayema yadi vā no jayeyuḥ\nyāneva hatvā na jijīviṣhāmas\nte ’vasthitāḥ pramukhe dhārtarāṣhṭrāḥ\n",
             "verse_number": 6,
             "word_meanings": "na—not; cha—and; etat—this; vidmaḥ—we know; katarat—which; naḥ—for us; garīyaḥ—is preferable; yat vā—whether; jayema—we may conquer; yadi—if; vā—or; naḥ—us; jayeyuḥ—they may conquer; yān—whom; eva—certainly; hatvā—after killing; na—not; jijīviṣhāmaḥ—we desire to live; te—they; avasthitāḥ—are standing; pramukhe—before us; dhārtarāṣhṭrāḥ—the sons of Dhritarashtra\n",
-            "audio_number": 6
+            "audio_number": 6,
+            "verse_id": 53
         },
         {
             "chapter_number": 2,
@@ -648,7 +701,8 @@ const data = {
             "transliteration": "kārpaṇya-doṣhopahata-svabhāvaḥ\npṛichchhāmi tvāṁ dharma-sammūḍha-chetāḥ\nyach-chhreyaḥ syānniśhchitaṁ brūhi tanme\nśhiṣhyaste ’haṁ śhādhi māṁ tvāṁ prapannam\n",
             "verse_number": 7,
             "word_meanings": "kārpaṇya-doṣha—the flaw of cowardice; upahata—besieged; sva-bhāvaḥ—nature; pṛichchhāmi—I am asking; tvām—to you; dharma—duty; sammūḍha—confused; chetāḥ—in heart; yat—what; śhreyaḥ—best; syāt—may be; niśhchitam—decisively; brūhi—tell; tat—that; me—to me; śhiṣhyaḥ—disciple; te—your; aham—I; śhādhi—please instruct; mām—me; tvām—unto you; prapannam—surrendered\n",
-            "audio_number": 7
+            "audio_number": 7,
+            "verse_id": 54
         },
         {
             "chapter_number": 2,
@@ -657,7 +711,8 @@ const data = {
             "transliteration": "na hi prapaśhyāmi mamāpanudyād\nyach-chhokam uchchhoṣhaṇam-indriyāṇām\navāpya bhūmāv-asapatnamṛiddhaṁ\nrājyaṁ surāṇāmapi chādhipatyam\n",
             "verse_number": 8,
             "word_meanings": "na—not; hi—certainly; prapaśhyāmi—I see; mama—my; apanudyāt—drive away; yat—which; śhokam—anguish; uchchhoṣhaṇam—is drying up; indriyāṇām—of the senses; avāpya—after achieving; bhūmau—on the earth; asapatnam—unrivalled; ṛiddham—prosperous; rājyam—kingdom; surāṇām—like the celestial gods; api—even; cha—also; ādhipatyam—sovereignty\n",
-            "audio_number": 8
+            "audio_number": 8,
+            "verse_id": 55
         },
         {
             "chapter_number": 2,
@@ -666,7 +721,8 @@ const data = {
             "transliteration": "sañjaya uvācha\nevam-uktvā hṛiṣhīkeśhaṁ guḍākeśhaḥ parantapa\nna yotsya iti govindam uktvā tūṣhṇīṁ babhūva ha\n",
             "verse_number": 9,
             "word_meanings": "sañjayaḥ uvācha—Sanjay said; evam—thus; uktvā—having spoken; hṛiṣhīkeśham—to Shree Krishna, the master of the mind and senses; guḍākeśhaḥ—Arjun, the conquerer of sleep; parantapaḥ—Arjun, the chastiser of the enemies; na yotsye—I shall not fight; iti—thus; govindam—Krishna, the giver of pleasure to the senses; uktvā—having addressed; tūṣhṇīm—silent; babhūva—became ha\n",
-            "audio_number": 9
+            "audio_number": 9,
+            "verse_id": 56
         },
         {
             "chapter_number": 2,
@@ -675,7 +731,8 @@ const data = {
             "transliteration": "tam-uvācha hṛiṣhīkeśhaḥ prahasanniva bhārata\nsenayorubhayor-madhye viṣhīdantam-idaṁ vachaḥ\n",
             "verse_number": 10,
             "word_meanings": "tam—to him; uvācha—said; hṛiṣhīkeśhaḥ—Shree Krishna, the master of mind and senses; prahasan—smilingly; iva—as if; bhārata—Dhritarashtra, descendant of Bharat; senayoḥ—of the armies; ubhayoḥ—of both; madhye—in the midst of; viṣhīdantam—to the grief-stricken; idam—this; vachaḥ—words\n",
-            "audio_number": 10
+            "audio_number": 10,
+            "verse_id": 57
         },
         {
             "chapter_number": 2,
@@ -684,7 +741,8 @@ const data = {
             "transliteration": "śhrī bhagavān uvācha\naśhochyān-anvaśhochas-tvaṁ prajñā-vādānśh cha bhāṣhase\ngatāsūn-agatāsūnśh-cha nānuśhochanti paṇḍitāḥ\n",
             "verse_number": 11,
             "word_meanings": "śhrī-bhagavān uvācha—the Supreme Lord said; aśhochyān—not worthy of grief; anvaśhochaḥ—are mourning; tvam—you; prajñā-vādān—words of wisdom; cha—and; bhāṣhase—speaking; gata āsūn—the dead; agata asūn—the living; cha—and; na—never; anuśhochanti—lament; paṇḍitāḥ—the wise\n",
-            "audio_number": 11
+            "audio_number": 11,
+            "verse_id": 58
         },
         {
             "chapter_number": 2,
@@ -693,7 +751,8 @@ const data = {
             "transliteration": "na tvevāhaṁ jātu nāsaṁ na tvaṁ neme janādhipāḥ\nna chaiva na bhaviṣhyāmaḥ sarve vayamataḥ param\n",
             "verse_number": 12,
             "word_meanings": "na—never; tu—however; eva—certainly; aham—I; jātu—at any time; na—nor; āsam—exist; na—nor; tvam—you; na—nor; ime—these; jana-adhipāḥ—kings; na—never; cha—also; eva—indeed; na bhaviṣhyāmaḥ—shall not exist; sarve vayam—all of us; ataḥ—from now; param—after\n",
-            "audio_number": 12
+            "audio_number": 12,
+            "verse_id": 59
         },
         {
             "chapter_number": 2,
@@ -702,7 +761,8 @@ const data = {
             "transliteration": "dehino ’smin yathā dehe kaumāraṁ yauvanaṁ jarā\ntathā dehāntara-prāptir dhīras tatra na muhyati\n",
             "verse_number": 13,
             "word_meanings": "dehinaḥ—of the embodied; asmin—in this; yathā—as; dehe—in the body; kaumāram—childhood; yauvanam—youth; jarā—old age; tathā—similarly; deha-antara—another body; prāptiḥ—achieves; dhīraḥ—the wise; tatra—thereupon; na muhyati—are not deluded\n",
-            "audio_number": 13
+            "audio_number": 13,
+            "verse_id": 60
         },
         {
             "chapter_number": 2,
@@ -711,7 +771,8 @@ const data = {
             "transliteration": "mātrā-sparśhās tu kaunteya śhītoṣhṇa-sukha-duḥkha-dāḥ\nāgamāpāyino ’nityās tans-titikṣhasva bhārata\n",
             "verse_number": 14,
             "word_meanings": "mātrā-sparśhāḥ—contact of the senses with the sense objects; tu—indeed; kaunteya—Arjun, the son of Kunti; śhīta—winter; uṣhṇa—summer; sukha—happiness; duḥkha—distress; dāḥ—give; āgama—come; apāyinaḥ—go; anityāḥ—non-permanent; tān—them; titikṣhasva—tolerate; bhārata—descendant of the Bharat\n",
-            "audio_number": 14
+            "audio_number": 14,
+            "verse_id": 61
         },
         {
             "chapter_number": 2,
@@ -720,7 +781,8 @@ const data = {
             "transliteration": "yaṁ hi na vyathayantyete puruṣhaṁ puruṣharṣhabha\nsama-duḥkha-sukhaṁ dhīraṁ so ’mṛitatvāya kalpate\n",
             "verse_number": 15,
             "word_meanings": "yam—whom; hi—verily; na—not; vyathayanti—distressed; ete—these; puruṣham—person; puruṣha-ṛiṣhabha—the noblest amongst men, Arjun; sama—equipoised; duḥkha—distress; sukham—happiness; dhīram—steady; saḥ—that person; amṛitatvāya—for liberation; kalpate—becomes eligible\n",
-            "audio_number": 15
+            "audio_number": 15,
+            "verse_id": 62
         },
         {
             "chapter_number": 2,
@@ -729,7 +791,8 @@ const data = {
             "transliteration": "nāsato vidyate bhāvo nābhāvo vidyate sataḥ\nubhayorapi dṛiṣhṭo ’nta stvanayos tattva-darśhibhiḥ\n",
             "verse_number": 16,
             "word_meanings": "na—no; asataḥ—of the temporary; vidyate—there is; bhāvaḥ—is; na—no; abhāvaḥ—cessation; vidyate—is; sataḥ—of the eternal; ubhayoḥ—of the two; api—also; dṛiṣhṭaḥ—observed; antaḥ—conclusion; tu—verily; anayoḥ—of these; tattva—of the truth; darśhibhiḥ—by the seers\n",
-            "audio_number": 16
+            "audio_number": 16,
+            "verse_id": 63
         },
         {
             "chapter_number": 2,
@@ -738,7 +801,8 @@ const data = {
             "transliteration": "avināśhi tu tadviddhi yena sarvam idaṁ tatam\nvināśham avyayasyāsya na kaśhchit kartum arhati\n",
             "verse_number": 17,
             "word_meanings": "avināśhi—indestructible; tu—indeed; tat—that; viddhi—know; yena—by whom; sarvam—entire; idam—this; tatam—pervaded; vināśham—destruction; avyayasya—of the imperishable; asya—of it; na kaśhchit—no one; kartum—to cause; arhati—is able\n",
-            "audio_number": 17
+            "audio_number": 17,
+            "verse_id": 64
         },
         {
             "chapter_number": 2,
@@ -747,7 +811,8 @@ const data = {
             "transliteration": "antavanta ime dehā nityasyoktāḥ śharīriṇaḥ\nanāśhino ’prameyasya tasmād yudhyasva bhārata\n",
             "verse_number": 18,
             "word_meanings": "anta-vantaḥ—having an end; ime—these; dehāḥ—material bodies; nityasya—eternally; uktāḥ—are said; śharīriṇaḥ—of the embodied soul; anāśhinaḥ—indestructible; aprameyasya—immeasurable; tasmāt—therefore; yudhyasva—fight; bhārata—descendant of Bharat, Arjun\n",
-            "audio_number": 18
+            "audio_number": 18,
+            "verse_id": 65
         },
         {
             "chapter_number": 2,
@@ -756,7 +821,8 @@ const data = {
             "transliteration": "ya enaṁ vetti hantāraṁ yaśh chainaṁ manyate hatam\nubhau tau na vijānīto nāyaṁ hanti na hanyate\n",
             "verse_number": 19,
             "word_meanings": "yaḥ—one who; enam—this; vetti—knows; hantāram—the slayer; yaḥ—one who; cha—and; enam—this; manyate—thinks; hatam—slain; ubhau—both; tau—they; na—not; vijānītaḥ—in knowledge; na—neither; ayam—this; hanti—slays; na—nor; hanyate—is killed\n",
-            "audio_number": 19
+            "audio_number": 19,
+            "verse_id": 66
         },
         {
             "chapter_number": 2,
@@ -765,7 +831,8 @@ const data = {
             "transliteration": "na jāyate mriyate vā kadāchin\nnāyaṁ bhūtvā bhavitā vā na bhūyaḥ\najo nityaḥ śhāśhvato ’yaṁ purāṇo\nna hanyate hanyamāne śharīre\n",
             "verse_number": 20,
             "word_meanings": "na jāyate—is not born; mriyate—dies; vā—or; kadāchit—at any time; na—not; ayam—this; bhūtvā—having once existed; bhavitā—will be; vā—or; na—not; bhūyaḥ—further; ajaḥ—unborn; nityaḥ—eternal; śhāśhvataḥ—immortal; ayam—this; purāṇaḥ—the ancient; na hanyate—is not destroyed; hanyamāne—is destroyed; śharīre—when the body\n",
-            "audio_number": 20
+            "audio_number": 20,
+            "verse_id": 67
         },
         {
             "chapter_number": 2,
@@ -774,7 +841,8 @@ const data = {
             "transliteration": "vedāvināśhinaṁ nityaṁ ya enam ajam avyayam\nkathaṁ sa puruṣhaḥ pārtha kaṁ ghātayati hanti kam\n",
             "verse_number": 21,
             "word_meanings": "veda—knows; avināśhinam—imperishable; nityam—eternal; yaḥ—who; enam—this; ajam—unborn; avyayam—immutable; katham—how; saḥ—that; puruṣhaḥ—person; pārtha—Parth; kam—whom; ghātayati—causes to be killed; hanti—kills; kam—whom\n",
-            "audio_number": 21
+            "audio_number": 21,
+            "verse_id": 68
         },
         {
             "chapter_number": 2,
@@ -783,7 +851,8 @@ const data = {
             "transliteration": "vāsānsi jīrṇāni yathā vihāya\nnavāni gṛihṇāti naro ’parāṇi\ntathā śharīrāṇi vihāya jīrṇānya\nnyāni sanyāti navāni dehī\n",
             "verse_number": 22,
             "word_meanings": "vāsānsi—garments; jīrṇāni—worn-out; yathā—as; vihāya—sheds; navāni—new; gṛihṇāti—accepts; naraḥ—a person; aparāṇi—others; tathā—likewise; śharīrāṇi—bodies; vihāya—casting off; jirṇāni—worn-out; anyāni—other; sanyāti—enters; navāni—new; dehī—the embodied soul\n",
-            "audio_number": 22
+            "audio_number": 22,
+            "verse_id": 69
         },
         {
             "chapter_number": 2,
@@ -792,7 +861,8 @@ const data = {
             "transliteration": "nainaṁ chhindanti śhastrāṇi nainaṁ dahati pāvakaḥ\nna chainaṁ kledayantyāpo na śhoṣhayati mārutaḥ\n",
             "verse_number": 23,
             "word_meanings": "na—not; enam—this soul; chhindanti—shred; śhastrāṇi—weapons; na—nor; enam—this soul; dahati—burns; pāvakaḥ—fire; na—not; cha—and; enam—this soul; kledayanti—moisten; āpaḥ—water; na—nor; śhoṣhayati—dry; mārutaḥ—wind\n",
-            "audio_number": 23
+            "audio_number": 23,
+            "verse_id": 70
         },
         {
             "chapter_number": 2,
@@ -801,7 +871,8 @@ const data = {
             "transliteration": "achchhedyo ’yam adāhyo ’yam akledyo ’śhoṣhya eva cha\nnityaḥ sarva-gataḥ sthāṇur achalo ’yaṁ sanātanaḥ\n",
             "verse_number": 24,
             "word_meanings": "achchhedyaḥ—unbreakable; ayam—this soul; adāhyaḥ—incombustible; ayam—this soul; akledyaḥ—cannot be dampened; aśhoṣhyaḥ—cannot be dried; eva—indeed; cha—and; nityaḥ—everlasting; sarva-gataḥ—all-pervading; sthāṇuḥ—unalterable; achalaḥ—immutable; ayam—this soul; sanātanaḥ—primordial\n",
-            "audio_number": 24
+            "audio_number": 24,
+            "verse_id": 71
         },
         {
             "chapter_number": 2,
@@ -810,7 +881,8 @@ const data = {
             "transliteration": "avyakto ’yam achintyo ’yam avikāryo ’yam uchyate\ntasmādevaṁ viditvainaṁ nānuśhochitum arhasi\n",
             "verse_number": 25,
             "word_meanings": "avyaktaḥ—unmanifested; ayam—this soul; achintyaḥ—inconceivable; ayam—this soul; avikāryaḥ—unchangeable; ayam—this soul; uchyate—is said; tasmāt—therefore; evam—thus; viditvā—having known; enam—this soul; na—not; anuśhochitum—to grieve; arhasi—befitting\n",
-            "audio_number": 25
+            "audio_number": 25,
+            "verse_id": 72
         },
         {
             "chapter_number": 2,
@@ -819,7 +891,8 @@ const data = {
             "transliteration": "atha chainaṁ nitya-jātaṁ nityaṁ vā manyase mṛitam\ntathāpi tvaṁ mahā-bāho naivaṁ śhochitum arhasi\n",
             "verse_number": 26,
             "word_meanings": "atha—if, however; cha—and; enam—this soul; nitya-jātam—taking constant birth; nityam—always; vā—or; manyase—you think; mṛitam—dead; tathā api—even then; tvam—you; mahā-bāho—mighty-armed one, Arjun; na—not; evam—like this; śhochitum—grieve; arhasi—befitting\n",
-            "audio_number": 26
+            "audio_number": 26,
+            "verse_id": 73
         },
         {
             "chapter_number": 2,
@@ -828,7 +901,8 @@ const data = {
             "transliteration": "jātasya hi dhruvo mṛityur dhruvaṁ janma mṛitasya cha\ntasmād aparihārye ’rthe na tvaṁ śhochitum arhasi\n",
             "verse_number": 27,
             "word_meanings": "jātasya—for one who has been born; hi—for; dhruvaḥ—certain; mṛityuḥ—death; dhruvam—certain; janma—birth; mṛitasya—for the dead; cha—and; tasmāt—therefore; aparihārye arthe—in this inevitable situation; na—not; tvam—you; śhochitum—lament; arhasi—befitting\n",
-            "audio_number": 27
+            "audio_number": 27,
+            "verse_id": 74
         },
         {
             "chapter_number": 2,
@@ -837,7 +911,8 @@ const data = {
             "transliteration": "avyaktādīni bhūtāni vyakta-madhyāni bhārata\navyakta-nidhanānyeva tatra kā paridevanā\n",
             "verse_number": 28,
             "word_meanings": "avyakta-ādīni—unmanifest before birth; bhūtāni—created beings; vyakta—manifest; madhyāni—in the middle; bhārata—Arjun, scion of Bharat; avyakta—unmanifest; nidhanāni—on death; eva—indeed; tatra—therefore; kā—why; paridevanā—grieve\n",
-            "audio_number": 28
+            "audio_number": 28,
+            "verse_id": 75
         },
         {
             "chapter_number": 2,
@@ -846,7 +921,8 @@ const data = {
             "transliteration": "āśhcharya-vat paśhyati kaśhchid enan\nāśhcharya-vad vadati tathaiva chānyaḥ\nāśhcharya-vach chainam anyaḥ śhṛiṇoti\nśhrutvāpyenaṁ veda na chaiva kaśhchit\n",
             "verse_number": 29,
             "word_meanings": "āśhcharya-vat—as amazing; paśhyati—see; kaśhchit—someone; enam—this soul; āśhcharya-vat—as amazing; vadati—speak of; tathā—thus; eva—indeed; cha—and; anyaḥ—other; āśhcharya-vat—similarly amazing; cha—also; enam—this soul; anyaḥ—others; śhṛiṇoti—hear; śhrutvā—having heard; api—even; enam—this soul; veda—understand; na—not; cha—and; eva—even; kaśhchit—some\n",
-            "audio_number": 29
+            "audio_number": 29,
+            "verse_id": 76
         },
         {
             "chapter_number": 2,
@@ -855,7 +931,8 @@ const data = {
             "transliteration": "dehī nityam avadhyo ’yaṁ dehe sarvasya bhārata\ntasmāt sarvāṇi bhūtāni na tvaṁ śhochitum arhasi\n",
             "verse_number": 30,
             "word_meanings": "dehī—the soul that dwells within the body; nityam—always; avadhyaḥ—immortal; ayam—this soul; dehe—in the body; sarvasya—of everyone; bhārata—descendant of Bharat, Arjun; tasmāt—therefore; sarvāṇi—for all; bhūtāni—living entities; na—not; tvam—you; śhochitum—mourn; arhasi—should\n",
-            "audio_number": 30
+            "audio_number": 30,
+            "verse_id": 77
         },
         {
             "chapter_number": 2,
@@ -864,7 +941,8 @@ const data = {
             "transliteration": "swa-dharmam api chāvekṣhya na vikampitum arhasi\ndharmyāddhi yuddhāch chhreyo ’nyat kṣhatriyasya na vidyate\n",
             "verse_number": 31,
             "word_meanings": "swa-dharmam—one’s duty in accordance with the Vedas; api—also; cha—and; avekṣhya—considering; na—not; vikampitum—to waver; arhasi—should; dharmyāt—for righteousness; hi—indeed; yuddhāt—than fighting; śhreyaḥ—better; anyat—another; kṣhatriyasya—of a warrior; na—not; vidyate—exists\n",
-            "audio_number": 31
+            "audio_number": 31,
+            "verse_id": 78
         },
         {
             "chapter_number": 2,
@@ -873,7 +951,8 @@ const data = {
             "transliteration": "yadṛichchhayā chopapannaṁ swarga-dvāram apāvṛitam\nsukhinaḥ kṣhatriyāḥ pārtha labhante yuddham īdṛiśham\n",
             "verse_number": 32,
             "word_meanings": "yadṛichchhayā—unsought; cha—and; upapannam—come; swarga—celestial abodes; dvāram—door; apāvṛitam—wide open; sukhinaḥ—happy; kṣhatriyāḥ—warriors; pārtha—Arjun, the son of Pritha; labhante—obtain; yuddham—war; īdṛiśham—such\n",
-            "audio_number": 32
+            "audio_number": 32,
+            "verse_id": 79
         },
         {
             "chapter_number": 2,
@@ -882,7 +961,8 @@ const data = {
             "transliteration": "atha chet tvam imaṁ dharmyaṁ saṅgrāmaṁ na kariṣhyasi\ntataḥ sva-dharmaṁ kīrtiṁ cha hitvā pāpam avāpsyasi\n",
             "verse_number": 33,
             "word_meanings": "atha chet—if, however; tvam—you; imam—this; dharmyam saṅgrāmam—righteous war; na—not; kariṣhyasi—act; tataḥ—then; sva-dharmam—one’s duty in accordance with the Vedas; kīrtim—reputation; cha—and; hitvā—abandoning; pāpam—sin; avāpsyasi—will incur\n",
-            "audio_number": 33
+            "audio_number": 33,
+            "verse_id": 80
         },
         {
             "chapter_number": 2,
@@ -891,7 +971,8 @@ const data = {
             "transliteration": "akīrtiṁ chāpi bhūtāni\nkathayiṣhyanti te ’vyayām\nsambhāvitasya chākīrtir\nmaraṇād atirichyate\n",
             "verse_number": 34,
             "word_meanings": "akīrtim—infamy; cha—and; api—also; bhūtāni—people; kathayiṣhyanti—will speak; te—of your; avyayām—everlasting; sambhāvitasya—of a respectable person; cha—and; akīrtiḥ—infamy; maraṇāt—than death; atirichyate—is greater\n",
-            "audio_number": 34
+            "audio_number": 34,
+            "verse_id": 81
         },
         {
             "chapter_number": 2,
@@ -900,7 +981,8 @@ const data = {
             "transliteration": "bhayād raṇād uparataṁ mansyante tvāṁ mahā-rathāḥ\nyeṣhāṁ cha tvaṁ bahu-mato bhūtvā yāsyasi lāghavam\n",
             "verse_number": 35,
             "word_meanings": "bhayāt—out of fear; raṇāt—from the battlefield; uparatam—have fled; maṁsyante—will think; tvām—you; mahā-rathāḥ—warriors who could single handedly match the strength of ten thousand ordinary warriors; yeṣhām—for whom; cha—and; tvam—you; bahu-mataḥ—high esteemed; bhūtvā—having been; yāsyasi—you will loose; lāghavam—decreased in value\n",
-            "audio_number": 35
+            "audio_number": 35,
+            "verse_id": 82
         },
         {
             "chapter_number": 2,
@@ -909,7 +991,8 @@ const data = {
             "transliteration": "avāchya-vādānśh cha bahūn vadiṣhyanti tavāhitāḥ\nnindantastava sāmarthyaṁ tato duḥkhataraṁ nu kim\n",
             "verse_number": 36,
             "word_meanings": "avāchya-vādān—using harsh words; cha—and; bahūn—many; vadiṣhyanti—will say; tava—your; ahitāḥ—enemies; nindantaḥ—defame; tava—your; sāmarthyam—might; tataḥ—than that; duḥkha-taram—more painful; nu—indeed; kim—what\n",
-            "audio_number": 36
+            "audio_number": 36,
+            "verse_id": 83
         },
         {
             "chapter_number": 2,
@@ -918,7 +1001,8 @@ const data = {
             "transliteration": "hato vā prāpsyasi swargaṁ jitvā vā bhokṣhyase mahīm\ntasmād uttiṣhṭha kaunteya yuddhāya kṛita-niśhchayaḥ\n",
             "verse_number": 37,
             "word_meanings": "hataḥ—slain; vā—or; prāpsyasi—you will attain; swargam—celestial abodes; jitvā—by achieving victory; vā—or; bhokṣhyase—you shall enjoy; mahīm—the kingdom on earth; tasmāt—therefore; uttiṣhṭha—arise; kaunteya—Arjun, the son of Kunti; yuddhāya—for fight; kṛita-niśhchayaḥ—with determination\n",
-            "audio_number": 37
+            "audio_number": 37,
+            "verse_id": 84
         },
         {
             "chapter_number": 2,
@@ -927,7 +1011,8 @@ const data = {
             "transliteration": "sukha-duḥkhe same kṛitvā lābhālābhau jayājayau\ntato yuddhāya yujyasva naivaṁ pāpam avāpsyasi\n",
             "verse_number": 38,
             "word_meanings": "sukha—happiness; duḥkhe—in distress; same kṛitvā—treating alike; lābha-alābhau—gain and loss; jaya-ajayau—victory and defeat; tataḥ—thereafter; yuddhāya—for fighting; yujyasva—engage; na—never; evam—thus; pāpam—sin; avāpsyasi—shall incur\n",
-            "audio_number": 38
+            "audio_number": 38,
+            "verse_id": 85
         },
         {
             "chapter_number": 2,
@@ -936,7 +1021,8 @@ const data = {
             "transliteration": "eṣhā te ’bhihitā sānkhye\nbuddhir yoge tvimāṁ śhṛiṇu\nbuddhyā yukto yayā pārtha\nkarma-bandhaṁ prahāsyasi\n",
             "verse_number": 39,
             "word_meanings": "eṣhā—hitherto; te—to you; abhihitā—explained; sānkhye—by analytical knowledge; buddhiḥ yoge—by the yog of intellect; tu—indeed; imām—this; śhṛiṇu—listen; buddhyā—by understanding; yuktaḥ—united; yayā—by which; pārtha—Arjun, the son of Pritha; karma-bandham—bondage of karma; prahāsyasi—you shall be released from\n",
-            "audio_number": 39
+            "audio_number": 39,
+            "verse_id": 86
         },
         {
             "chapter_number": 2,
@@ -945,7 +1031,8 @@ const data = {
             "transliteration": "nehābhikrama-nāśho ’sti pratyavāyo na vidyate\nsvalpam apyasya dharmasya trāyate mahato bhayāt\n",
             "verse_number": 40,
             "word_meanings": "na—not; iha—in this; abhikrama—efforts; nāśhaḥ—loss; asti—there is; pratyavāyaḥ—adverse result; na—not; vidyate—is; su-alpam—a little; api—even; asya—of this; dharmasya—occupation; trāyate—saves; mahataḥ—from great; bhayāt—danger\n",
-            "audio_number": 40
+            "audio_number": 40,
+            "verse_id": 87
         },
         {
             "chapter_number": 2,
@@ -954,7 +1041,8 @@ const data = {
             "transliteration": "vyavasāyātmikā buddhir ekeha kuru-nandana\nbahu-śhākhā hyanantāśh cha buddhayo ’vyavasāyinām\n",
             "verse_number": 41,
             "word_meanings": "vyavasāya-ātmikā—resolute; buddhiḥ—intellect; ekā—single; iha—on this path; kuru-nandana—descendent of the Kurus; bahu-śhākhāḥ—many-branched; hi—indeed; anantāḥ—endless; cha—also; buddhayaḥ—intellect; avyavasāyinām—of the irresolute\n",
-            "audio_number": 41
+            "audio_number": 41,
+            "verse_id": 88
         },
         {
             "chapter_number": 2,
@@ -963,7 +1051,8 @@ const data = {
             "transliteration": "yāmimāṁ puṣhpitāṁ vāchaṁ pravadanty-avipaśhchitaḥ\nveda-vāda-ratāḥ pārtha nānyad astīti vādinaḥ\n kāmātmānaḥ swarga-parā janma-karma-phala-pradām\nkriyā-viśheṣha-bahulāṁ bhogaiśhwarya-gatiṁ prati\n",
             "verse_number": 42,
             "word_meanings": "yām imām—all these; puṣhpitām—flowery; vācham—words; pravadanti—speak; avipaśhchitaḥ—those with limited understanding; veda-vāda-ratāḥ—attached to the flowery words of the Vedas; pārtha—Arjun, the son of Pritha; na anyat—no other; asti—is; iti—thus; vādinaḥ—advocate;\n kāma-ātmānaḥ—desirous of sensual pleasure; swarga-parāḥ—aiming to achieve the heavenly planets; janma-karma-phala—high birth and fruitive results; pradāṁ—awarding; kriyā-viśheṣha—pompous ritualistic ceremonies; bahulām—various; bhoga—gratification; aiśhwarya—luxury; gatim—progress; prati—toward\n",
-            "audio_number": 42
+            "audio_number": 42,
+            "verse_id": 89
         },
         {
             "chapter_number": 2,
@@ -972,7 +1061,8 @@ const data = {
             "transliteration": "bhogaiśwvarya-prasaktānāṁ tayāpahṛita-chetasām\nvyavasāyātmikā buddhiḥ samādhau na vidhīyate\n",
             "verse_number": 44,
             "word_meanings": "bhoga—gratification; aiśhwarya—luxury; prasaktānām—whose minds are deeply attached; tayā—by that; apahṛita-chetasām—bewildered in intellect; vyavasāya-ātmikā—resolute; buddhiḥ—intellect; samādhau—fulfilment; na—never; vidhīyate—occurs\n",
-            "audio_number": 43
+            "audio_number": 43,
+            "verse_id": 90
         },
         {
             "chapter_number": 2,
@@ -981,7 +1071,8 @@ const data = {
             "transliteration": "trai-guṇya-viṣhayā vedā nistrai-guṇyo bhavārjuna\nnirdvandvo nitya-sattva-stho niryoga-kṣhema ātmavān\n",
             "verse_number": 45,
             "word_meanings": "trai-guṇya—of the three modes of material nature; viṣhayāḥ—subject matter; vedāḥ—Vedic scriptures; nistrai-guṇyaḥ—above the three modes of material nature, transcendental; bhava—be; arjuna—Arjun; nirdvandvaḥ—free from dualities; nitya-sattva-sthaḥ—eternally fixed in truth; niryoga-kṣhemaḥ—unconcerned about gain and preservation; ātma-vān—situated in the self\n",
-            "audio_number": 44
+            "audio_number": 44,
+            "verse_id": 91
         },
         {
             "chapter_number": 2,
@@ -990,7 +1081,8 @@ const data = {
             "transliteration": "yāvān artha udapāne sarvataḥ samplutodake\ntāvānsarveṣhu vedeṣhu brāhmaṇasya vijānataḥ\n",
             "verse_number": 46,
             "word_meanings": "yāvān—whatever; arthaḥ—purpose; uda-pāne—a well of water; sarvataḥ—in all respects; sampluta-udake—by a large lake; tāvān—that many; sarveṣhu—in all; vedeṣhu—Vedas; brāhmaṇasya—one who realizes the Absolute Truth; vijānataḥ—who is in complete knowledge\n",
-            "audio_number": 45
+            "audio_number": 45,
+            "verse_id": 92
         },
         {
             "chapter_number": 2,
@@ -999,7 +1091,8 @@ const data = {
             "transliteration": "karmaṇy-evādhikāras te mā phaleṣhu kadāchana\nmā karma-phala-hetur bhūr mā te saṅgo ’stvakarmaṇi\n",
             "verse_number": 47,
             "word_meanings": "karmaṇi—in prescribed duties; eva—only; adhikāraḥ—right; te—your; mā—not; phaleṣhu—in the fruits; kadāchana—at any time; mā—never; karma-phala—results of the activities; hetuḥ—cause; bhūḥ—be; mā—not; te—your; saṅgaḥ—attachment; astu—must be; akarmaṇi—in inaction\n",
-            "audio_number": 46
+            "audio_number": 46,
+            "verse_id": 93
         },
         {
             "chapter_number": 2,
@@ -1008,7 +1101,8 @@ const data = {
             "transliteration": "yoga-sthaḥ kuru karmāṇi saṅgaṁ tyaktvā dhanañjaya\nsiddhy-asiddhyoḥ samo bhūtvā samatvaṁ yoga uchyate\n",
             "verse_number": 48,
             "word_meanings": "yoga-sthaḥ—being steadfast in yog; kuru—perform; karmāṇi—duties; saṅgam—attachment; tyaktvā—having abandoned; dhanañjaya—Arjun; siddhi-asiddhyoḥ—in success and failure; samaḥ—equipoised; bhūtvā—becoming; samatvam—equanimity; yogaḥ—Yog; uchyate—is called\n",
-            "audio_number": 47
+            "audio_number": 47,
+            "verse_id": 94
         },
         {
             "chapter_number": 2,
@@ -1017,7 +1111,8 @@ const data = {
             "transliteration": "dūreṇa hy-avaraṁ karma buddhi-yogād dhanañjaya\nbuddhau śharaṇam anvichchha kṛipaṇāḥ phala-hetavaḥ\n",
             "verse_number": 49,
             "word_meanings": "dūreṇa—(discrad) from far away; hi—certainly; avaram—inferior; karma—reward-seeking actions; buddhi-yogāt—with the intellect established in Divine knowledge; dhanañjaya—Arjun; buddhau—divine knowledge and insight; śharaṇam—refuge; anvichchha—seek; kṛipaṇāḥ—miserly; phala-hetavaḥ—those seeking fruits of their work\n",
-            "audio_number": 48
+            "audio_number": 48,
+            "verse_id": 95
         },
         {
             "chapter_number": 2,
@@ -1026,7 +1121,8 @@ const data = {
             "transliteration": "buddhi-yukto jahātīha ubhe sukṛita-duṣhkṛite\ntasmād yogāya yujyasva yogaḥ karmasu kauśhalam\n",
             "verse_number": 50,
             "word_meanings": "buddhi-yuktaḥ—endowed with wisdom; jahāti—get rid of; iha—in this life; ubhe—both; sukṛita-duṣhkṛite—good and bad deeds; tasmāt—therefore; yogāya—for Yog; yujyasva—strive for; yogaḥ—yog is; karmasu kauśhalam—the art of working skillfully\n",
-            "audio_number": 49
+            "audio_number": 49,
+            "verse_id": 96
         },
         {
             "chapter_number": 2,
@@ -1035,7 +1131,8 @@ const data = {
             "transliteration": "karma-jaṁ buddhi-yuktā hi phalaṁ tyaktvā manīṣhiṇaḥ\njanma-bandha-vinirmuktāḥ padaṁ gachchhanty-anāmayam\n",
             "verse_number": 51,
             "word_meanings": "karma-jam—born of fruitive actions; buddhi-yuktāḥ—endowed with equanimity of intellect; hi—as; phalam—fruits; tyaktvā—abandoning; manīṣhiṇaḥ—the wise; janma-bandha-vinirmuktāḥ—freedom from the bondage of life and death; padam—state; gachchhanti—attain; anāmayam—devoid of sufferings\n",
-            "audio_number": 50
+            "audio_number": 50,
+            "verse_id": 97
         },
         {
             "chapter_number": 2,
@@ -1044,7 +1141,8 @@ const data = {
             "transliteration": "yadā te moha-kalilaṁ buddhir vyatitariṣhyati\ntadā gantāsi nirvedaṁ śhrotavyasya śhrutasya cha\n",
             "verse_number": 52,
             "word_meanings": "yadā—when; te—your; moha—delusion; kalilam—quagmire; buddhiḥ—intellect; vyatitariṣhyati—crosses; tadā—then; gantāsi—you shall acquire; nirvedam—indifferent; śhrotavyasya—to what is yet to be heard; śhrutasya—to what has been heard; cha—and\n",
-            "audio_number": 51
+            "audio_number": 51,
+            "verse_id": 98
         },
         {
             "chapter_number": 2,
@@ -1053,7 +1151,8 @@ const data = {
             "transliteration": "śhruti-vipratipannā te yadā sthāsyati niśhchalā\nsamādhāv-achalā buddhis tadā yogam avāpsyasi\n",
             "verse_number": 53,
             "word_meanings": "śhruti-vipratipannā—not allured by the fruitive sections of the Vedas; te—your; yadā—when; sthāsyati—remains; niśhchalā—steadfast; samādhau—in divine consciousness; achalā—steadfast; buddhiḥ—intellect; tadā—at that time; yogam—Yog; avāpsyasi—you will attain\n",
-            "audio_number": 52
+            "audio_number": 52,
+            "verse_id": 99
         },
         {
             "chapter_number": 2,
@@ -1062,7 +1161,8 @@ const data = {
             "transliteration": "arjuna uvācha\nsthita-prajñasya kā bhāṣhā samādhi-sthasya keśhava\nsthita-dhīḥ kiṁ prabhāṣheta kim āsīta vrajeta kim\n",
             "verse_number": 54,
             "word_meanings": "arjunaḥ uvācha—Arjun said; sthita-prajñasya—one with steady intellect; kā—what; bhāṣhā—talk; samādhi-sthasya—situated in divine consciousness; keśhava—Shree Krishna, killer of the Keshi Demon; sthita-dhīḥ—enlightened person; kim—what; prabhāṣheta—talks; kim—how; āsīta—sits; vrajeta—walks; kim—how\n",
-            "audio_number": 53
+            "audio_number": 53,
+            "verse_id": 100
         },
         {
             "chapter_number": 2,
@@ -1071,7 +1171,8 @@ const data = {
             "transliteration": "śhrī bhagavān uvācha\nprajahāti yadā kāmān sarvān pārtha mano-gatān\nātmany-evātmanā tuṣhṭaḥ sthita-prajñas tadochyate\n",
             "verse_number": 55,
             "word_meanings": "śhrī-bhagavān uvācha—The Supreme Lord said; prajahāti—discards; yadā—when; kāmān—selfish desires; sarvān—all; pārtha—Arjun, the son of Pritha; manaḥ-gatān—of the mind; ātmani—of the self; eva—only; ātmanā—by the purified mind; tuṣhṭaḥ—satisfied; sthita-prajñaḥ—one with steady intellect; tadā—at that time; uchyate—is said\n",
-            "audio_number": 54
+            "audio_number": 54,
+            "verse_id": 101
         },
         {
             "chapter_number": 2,
@@ -1080,7 +1181,8 @@ const data = {
             "transliteration": "duḥkheṣhv-anudvigna-manāḥ sukheṣhu vigata-spṛihaḥ\nvīta-rāga-bhaya-krodhaḥ sthita-dhīr munir uchyate\n",
             "verse_number": 56,
             "word_meanings": "duḥkheṣhu—amidst miseries; anudvigna-manāḥ—one whose mind is undisturbed; sukheṣhu—in pleasure; vigata-spṛihaḥ—without craving; vīta—free from; rāga—attachment; bhaya—fear; krodhaḥ—anger; sthita-dhīḥ—enlightened person; muniḥ—a sage; uchyate—is called\n",
-            "audio_number": 55
+            "audio_number": 55,
+            "verse_id": 102
         },
         {
             "chapter_number": 2,
@@ -1089,7 +1191,8 @@ const data = {
             "transliteration": "yaḥ sarvatrānabhisnehas tat tat prāpya śhubhāśhubham\nnābhinandati na dveṣhṭi tasya prajñā pratiṣhṭhitā\n",
             "verse_number": 57,
             "word_meanings": "yaḥ—who; sarvatra—in all conditions; anabhisnehaḥ—unattached; tat—that; tat—that; prāpya—attaining; śhubha—good; aśhubham—evil; na—neither; abhinandati—delight in; na—nor; dveṣhṭi—dejected by; tasya—his; prajñā—knowledge; pratiṣhṭhitā—is fixed\n",
-            "audio_number": 56
+            "audio_number": 56,
+            "verse_id": 103
         },
         {
             "chapter_number": 2,
@@ -1098,7 +1201,8 @@ const data = {
             "transliteration": "yadā sanharate chāyaṁ kūrmo ’ṅgānīva sarvaśhaḥ\nindriyāṇīndriyārthebhyas tasya prajñā pratiṣhṭhitā\n",
             "verse_number": 58,
             "word_meanings": "yadā—when; sanharate—withdraw; cha—and; ayam—this; kūrmaḥ—tortoise; aṅgāni—limbs; iva—as; sarvaśhaḥ—fully; indriyāṇi—senses; indriya-arthebhyaḥ—from the sense objects; tasya—his; prajñā—divine wisdom; pratiṣhṭhitā—fixed in\n",
-            "audio_number": 57
+            "audio_number": 57,
+            "verse_id": 104
         },
         {
             "chapter_number": 2,
@@ -1107,7 +1211,8 @@ const data = {
             "transliteration": "viṣhayā vinivartante nirāhārasya dehinaḥ\nrasa-varjaṁ raso ’pyasya paraṁ dṛiṣhṭvā nivartate\n",
             "verse_number": 59,
             "word_meanings": "viṣhayāḥ—objects for senses; vinivartante—restrain; nirāhārasya—practicing self restraint; dehinaḥ—for the embodied; rasa-varjam—cessation of taste; rasaḥ—taste; api—however; asya—person’s; param—the Supreme; dṛiṣhṭvā—on realization; nivartate—ceases to be\n",
-            "audio_number": 58
+            "audio_number": 58,
+            "verse_id": 105
         },
         {
             "chapter_number": 2,
@@ -1116,7 +1221,8 @@ const data = {
             "transliteration": "yatato hyapi kaunteya puruṣhasya vipaśhchitaḥ\nindriyāṇi pramāthīni haranti prasabhaṁ manaḥ\n",
             "verse_number": 60,
             "word_meanings": "yatataḥ—while practicing self-control; hi—for; api—even; kaunteya—Arjun, the son of Kunti; puruṣhasya—of a person; vipaśhchitaḥ—one endowed with discrimination; indriyāṇi—the senses; pramāthīni—turbulent; haranti—carry away; prasabham—forcibly; manaḥ—the mind\n",
-            "audio_number": 59
+            "audio_number": 59,
+            "verse_id": 106
         },
         {
             "chapter_number": 2,
@@ -1125,7 +1231,8 @@ const data = {
             "transliteration": "tāni sarvāṇi sanyamya yukta āsīta mat-paraḥ\nvaśhe hi yasyendriyāṇi tasya prajñā pratiṣhṭhitā\n",
             "verse_number": 61,
             "word_meanings": "tāni—them; sarvāṇi—all; sanyamya—subduing; yuktaḥ—united; āsīta—seated; mat-paraḥ—toward me (Shree Krishna); vaśhe—control; hi—certainly; yasya—whose; indriyāṇi—senses; tasya—their; prajñā—perfect knowledge pratiṣhṭhitā\n",
-            "audio_number": 60
+            "audio_number": 60,
+            "verse_id": 107
         },
         {
             "chapter_number": 2,
@@ -1134,7 +1241,8 @@ const data = {
             "transliteration": "dhyāyato viṣhayān puṁsaḥ saṅgas teṣhūpajāyate\nsaṅgāt sañjāyate kāmaḥ kāmāt krodho ’bhijāyate\n",
             "verse_number": 62,
             "word_meanings": "dhyāyataḥ—contemplating; viṣhayān—sense objects; puṁsaḥ—of a person; saṅgaḥ—attachment; teṣhu—to them (sense objects); upajāyate—arises; saṅgāt—from attachment; sañjāyate—develops; kāmaḥ—desire; kāmāt—from desire; krodhaḥ—anger; abhijāyate—arises\n",
-            "audio_number": 61
+            "audio_number": 61,
+            "verse_id": 108
         },
         {
             "chapter_number": 2,
@@ -1143,7 +1251,8 @@ const data = {
             "transliteration": "krodhād bhavati sammohaḥ sammohāt smṛiti-vibhramaḥ\nsmṛiti-bhranśhād buddhi-nāśho buddhi-nāśhāt praṇaśhyati\n",
             "verse_number": 63,
             "word_meanings": "krodhāt—from anger; bhavati—comes; sammohaḥ—clouding of judgement; sammohāt—from clouding of judgement; smṛiti—memory; vibhramaḥ—bewilderment; smṛiti-bhranśhāt—from bewilderment of memory; buddhi-nāśhaḥ—destruction of intellect; buddhi-nāśhāt—from destruction of intellect; praṇaśhyati—one is ruined\n",
-            "audio_number": 62
+            "audio_number": 62,
+            "verse_id": 109
         },
         {
             "chapter_number": 2,
@@ -1152,7 +1261,8 @@ const data = {
             "transliteration": "rāga-dveṣha-viyuktais tu viṣhayān indriyaiśh charan\nātma-vaśhyair-vidheyātmā prasādam adhigachchhati\n",
             "verse_number": 64,
             "word_meanings": "rāga—attachment; dveṣha—aversion; viyuktaiḥ—free; tu—but; viṣhayān—objects of the senses; indriyaiḥ—by the senses; charan—while using; ātma-vaśhyaiḥ—controlling one’s mind; vidheya-ātmā—one who controls the mind; prasādam—the Grace of God; adhigachchhati—attains\n",
-            "audio_number": 63
+            "audio_number": 63,
+            "verse_id": 110
         },
         {
             "chapter_number": 2,
@@ -1161,7 +1271,8 @@ const data = {
             "transliteration": "prasāde sarva-duḥkhānāṁ hānir asyopajāyate\nprasanna-chetaso hyāśhu buddhiḥ paryavatiṣhṭhate\n",
             "verse_number": 65,
             "word_meanings": "prasāde—by divine grace; sarva—all; duḥkhānām—of sorrows; hāniḥ—destruction; asya—his; upajāyate—comes; prasanna-chetasaḥ—with a tranquil mind; hi—indeed; āśhu—soon; buddhiḥ—intellect; paryavatiṣhṭhate—becomes firmly established\n",
-            "audio_number": 64
+            "audio_number": 64,
+            "verse_id": 111
         },
         {
             "chapter_number": 2,
@@ -1170,7 +1281,8 @@ const data = {
             "transliteration": "nāsti buddhir-ayuktasya na chāyuktasya bhāvanā\nna chābhāvayataḥ śhāntir aśhāntasya kutaḥ sukham\n",
             "verse_number": 66,
             "word_meanings": "na—not; asti—is; buddhiḥ—intellect; ayuktasya—not united; na—not; cha—and; ayuktasya—not united; bhāvanā—contemplation; na—nor; cha—and; abhāvayataḥ—for those not united; śhāntiḥ—peace; aśhāntasya—of the unpeaceful; kutaḥ—where; sukham—happiness\n",
-            "audio_number": 65
+            "audio_number": 65,
+            "verse_id": 112
         },
         {
             "chapter_number": 2,
@@ -1179,7 +1291,8 @@ const data = {
             "transliteration": "indriyāṇāṁ hi charatāṁ yan mano ’nuvidhīyate\ntadasya harati prajñāṁ vāyur nāvam ivāmbhasi\n",
             "verse_number": 67,
             "word_meanings": "indriyāṇām—of the senses; hi—indeed; charatām—roaming; yat—which; manaḥ—the mind; anuvidhīyate—becomes constantly engaged; tat—that; asya—of that; harati—carries away; prajñām—intellect; vāyuḥ—wind; nāvam—boat; iva—as; ambhasi—on the water\n",
-            "audio_number": 66
+            "audio_number": 66,
+            "verse_id": 113
         },
         {
             "chapter_number": 2,
@@ -1188,7 +1301,8 @@ const data = {
             "transliteration": "tasmād yasya mahā-bāho nigṛihītāni sarvaśhaḥ\nindriyāṇīndriyārthebhyas tasya prajñā pratiṣhṭhitā\n",
             "verse_number": 68,
             "word_meanings": "tasmāt—therefore; yasya—whose; mahā-bāho—mighty-armed one; nigṛihītāni—restrained; sarvaśhaḥ—completely; indriyāṇi—senses; indriya-arthebhyaḥ—from sense objects; tasya—of that person; prajñā—transcendental knowledge; pratiṣhṭhitā—remains fixed\n",
-            "audio_number": 67
+            "audio_number": 67,
+            "verse_id": 114
         },
         {
             "chapter_number": 2,
@@ -1197,7 +1311,8 @@ const data = {
             "transliteration": "yā niśhā sarva-bhūtānāṁ tasyāṁ jāgarti sanyamī\nyasyāṁ jāgrati bhūtāni sā niśhā paśhyato muneḥ\n",
             "verse_number": 69,
             "word_meanings": "yā—which; niśhā—night; sarva-bhūtānām—of all living beings; tasyām—in that; jāgarti—is awake; sanyamī—self-controlled; yasyām—in which; jāgrati—are awake; bhūtāni—creatures; sā—that; niśhā—night; paśhyataḥ—see; muneḥ—sage\n",
-            "audio_number": 68
+            "audio_number": 68,
+            "verse_id": 115
         },
         {
             "chapter_number": 2,
@@ -1206,7 +1321,8 @@ const data = {
             "transliteration": "āpūryamāṇam achala-pratiṣhṭhaṁ\nsamudram āpaḥ praviśhanti yadvat\ntadvat kāmā yaṁ praviśhanti sarve\nsa śhāntim āpnoti na kāma-kāmī\n",
             "verse_number": 70,
             "word_meanings": "āpūryamāṇam—filled from all sides; achala-pratiṣhṭham—undisturbed; samudram—ocean; āpaḥ—waters; praviśhanti—enter; yadvat—as; tadvat—likewise; kāmāḥ—desires; yam—whom; praviśhanti—enter; sarve—all; saḥ—that person; śhāntim—peace; āpnoti—attains; na—not; kāma-kāmī—one who strives to satisfy desires\n",
-            "audio_number": 69
+            "audio_number": 69,
+            "verse_id": 116
         },
         {
             "chapter_number": 2,
@@ -1215,7 +1331,8 @@ const data = {
             "transliteration": "vihāya kāmān yaḥ sarvān pumānśh charati niḥspṛihaḥ\nnirmamo nirahankāraḥ sa śhāntim adhigachchhati\n",
             "verse_number": 71,
             "word_meanings": "vihāya—giving up; kāmān—material desires; yaḥ—who; sarvān—all; pumān—a person; charati—lives; niḥspṛihaḥ—free from hankering; nirmamaḥ—without a sense of proprietorship; nirahankāraḥ—without egoism; saḥ—that person; śhāntim—perfect peace; adhigachchhati—attains\n",
-            "audio_number": 70
+            "audio_number": 70,
+            "verse_id": 117
         },
         {
             "chapter_number": 2,
@@ -1224,7 +1341,8 @@ const data = {
             "transliteration": "eṣhā brāhmī sthitiḥ pārtha naināṁ prāpya vimuhyati\nsthitvāsyām anta-kāle ’pi brahma-nirvāṇam ṛichchhati\n",
             "verse_number": 72,
             "word_meanings": "eṣhā—such; brāhmī sthitiḥ—state of God-realization; pārtha—Arjun, the son of Pritha; na—never; enām—this; prāpya—having attained; vimuhyati—is deluded; sthitvā—being established; asyām—in this; anta-kāle—at the hour of death; api—even; brahma-nirvāṇam—liberation from Maya; ṛichchhati—attains\n",
-            "audio_number": 71
+            "audio_number": 71,
+            "verse_id": 118
         },
         {
             "chapter_number": 3,
@@ -1233,7 +1351,8 @@ const data = {
             "transliteration": "arjuna uvācha\njyāyasī chet karmaṇas te matā buddhir janārdana\ntat kiṁ karmaṇi ghore māṁ niyojayasi keśhava\n",
             "verse_number": 1,
             "word_meanings": "arjunaḥ uvācha—Arjun said; jyāyasī—superior; chet—if; karmaṇaḥ—than fruitive action; te—by you; matā—is considered; buddhiḥ—intellect; janārdana—he who looks after the public, Krishna; tat—then; kim—why; karmaṇi—action; ghore—terrible; mām—me; niyojayasi—do you engage; keśhava—Krishna, the killer of the demon named Keshi;\n",
-            "audio_number": 1
+            "audio_number": 1,
+            "verse_id": 119
         },
         {
             "chapter_number": 3,
@@ -1242,7 +1361,8 @@ const data = {
             "transliteration": "vyāmiśhreṇeva vākyena buddhiṁ mohayasīva me\ntad ekaṁ vada niśhchitya yena śhreyo ’ham āpnuyām\n",
             "verse_number": 2,
             "word_meanings": "vyāmiśhreṇa iva—by your apparently ambiguous; vākyena—words; buddhim—intellect; mohayasi—I am getting bewildered; iva—as it were; me—my; tat—therefore; ekam—one; vada—please tell; niśhchitya—decisively; yena—by which; śhreyaḥ—the highest good; aham—I; āpnuyām—may attain\n",
-            "audio_number": 2
+            "audio_number": 2,
+            "verse_id": 120
         },
         {
             "chapter_number": 3,
@@ -1251,7 +1371,8 @@ const data = {
             "transliteration": "śhrī bhagavān uvācha\nloke’smin dvi-vidhā niṣhṭhā purā proktā mayānagha\njñāna-yogena sāṅkhyānāṁ karma-yogena yoginām\n",
             "verse_number": 3,
             "word_meanings": "śhrī-bhagavān uvācha—the Blessed Lord said; loke—in the world; asmin—this; dvi-vidhā—two kinds of; niṣhṭhā—faith; purā—previously; proktā—explained; mayā—by me (Shree Krishna); anagha—sinless; jñāna-yogena—through the path of knowledge; sānkhyānām—for those inclined toward contemplation; karma-yogena—through the path of action; yoginām—of the yogis\n",
-            "audio_number": 3
+            "audio_number": 3,
+            "verse_id": 121
         },
         {
             "chapter_number": 3,
@@ -1260,7 +1381,8 @@ const data = {
             "transliteration": "na karmaṇām anārambhān naiṣhkarmyaṁ puruṣho ’śhnute\nna cha sannyasanād eva siddhiṁ samadhigachchhati\n",
             "verse_number": 4,
             "word_meanings": "na—not; karmaṇām—of actions; anārambhāt—by abstaining from; naiṣhkarmyam—freedom from karmic reactions; puruṣhaḥ—a person; aśhnute—attains; na—not; cha—and; sannyasanāt—by renunciation; eva—only; siddhim—perfection; samadhigachchhati—attains\n",
-            "audio_number": 4
+            "audio_number": 4,
+            "verse_id": 122
         },
         {
             "chapter_number": 3,
@@ -1269,7 +1391,8 @@ const data = {
             "transliteration": "na hi kaśhchit kṣhaṇam api jātu tiṣhṭhatyakarma-kṛit\nkāryate hyavaśhaḥ karma sarvaḥ prakṛiti-jair guṇaiḥ\n",
             "verse_number": 5,
             "word_meanings": "na—not; hi—certainly; kaśhchit—anyone; kṣhaṇam—a moment; api—even; jātu—ever; tiṣhṭhati—can remain; akarma-kṛit—without action; kāryate—are performed; hi—certainly; avaśhaḥ—helpless; karma—work; sarvaḥ—all; prakṛiti-jaiḥ—born of material nature; guṇaiḥ—by the qualities\n",
-            "audio_number": 5
+            "audio_number": 5,
+            "verse_id": 123
         },
         {
             "chapter_number": 3,
@@ -1278,7 +1401,8 @@ const data = {
             "transliteration": "karmendriyāṇi sanyamya ya āste manasā smaran\nindriyārthān vimūḍhātmā mithyāchāraḥ sa uchyate\n",
             "verse_number": 6,
             "word_meanings": "karma-indriyāṇi—the organs of action; sanyamya—restrain; yaḥ—who; āste—remain; manasā—in the mind; smaran—to remember; indriya-arthān—sense objects; vimūḍha-ātmā—the deluded; mithyā-āchāraḥ—hypocrite; saḥ—they; uchyate—are called\n",
-            "audio_number": 6
+            "audio_number": 6,
+            "verse_id": 124
         },
         {
             "chapter_number": 3,
@@ -1287,7 +1411,8 @@ const data = {
             "transliteration": "yas tvindriyāṇi manasā niyamyārabhate ’rjuna\nkarmendriyaiḥ karma-yogam asaktaḥ sa viśhiṣhyate\n",
             "verse_number": 7,
             "word_meanings": "yaḥ—who; tu—but; indriyāṇi—the senses; manasā—by the mind; niyamya—control; ārabhate—begins; arjuna—Arjun; karma-indriyaiḥ—by the working senses; karma-yogam—karm yog; asaktaḥ—without attachment; saḥ—they; viśhiṣhyate—are superior\n",
-            "audio_number": 7
+            "audio_number": 7,
+            "verse_id": 125
         },
         {
             "chapter_number": 3,
@@ -1296,7 +1421,8 @@ const data = {
             "transliteration": "niyataṁ kuru karma tvaṁ karma jyāyo hyakarmaṇaḥ\nśharīra-yātrāpi cha te na prasiddhyed akarmaṇaḥ\n",
             "verse_number": 8,
             "word_meanings": "niyatam—constantly; kuru—perform; karma—Vedic duties; tvam—you; karma—action; jyāyaḥ—superior; hi—certainly; akarmaṇaḥ—than inaction; śharīra—bodily; yātrā—maintenance; api—even; cha—and; te—your; na prasiddhyet—would not be possible; akarmaṇaḥ—inaction\n ",
-            "audio_number": 8
+            "audio_number": 8,
+            "verse_id": 126
         },
         {
             "chapter_number": 3,
@@ -1305,7 +1431,8 @@ const data = {
             "transliteration": "yajñārthāt karmaṇo ’nyatra loko ’yaṁ karma-bandhanaḥ\ntad-arthaṁ karma kaunteya mukta-saṅgaḥ samāchara\n",
             "verse_number": 9,
             "word_meanings": "yajña-arthāt—for the sake of sacrifice; karmaṇaḥ—than action; anyatra—else; lokaḥ—material world; ayam—this; karma-bandhanaḥ—bondage through one’s work; tat—that; artham—for the sake of; karma—action; kaunteya—Arjun, the son of Kunti; mukta-saṅgaḥ—free from attachment; samāchara—perform properly\n",
-            "audio_number": 9
+            "audio_number": 9,
+            "verse_id": 127
         },
         {
             "chapter_number": 3,
@@ -1314,7 +1441,8 @@ const data = {
             "transliteration": "saha-yajñāḥ prajāḥ sṛiṣhṭvā purovācha prajāpatiḥ\nanena prasaviṣhyadhvam eṣha vo ’stviṣhṭa-kāma-dhuk\n",
             "verse_number": 10,
             "word_meanings": "saha—along with; yajñāḥ—sacrifices; prajāḥ—humankind; sṛiṣhṭvā—created; purā—in beginning; uvācha—said; prajā-patiḥ—Brahma; anena—by this; prasaviṣhyadhvam—increase prosperity; eṣhaḥ—these; vaḥ—your; astu—shall be; iṣhṭa-kāma-dhuk—bestower of all wishes\n",
-            "audio_number": 10
+            "audio_number": 10,
+            "verse_id": 128
         },
         {
             "chapter_number": 3,
@@ -1323,7 +1451,8 @@ const data = {
             "transliteration": "devān bhāvayatānena te devā bhāvayantu vaḥ\nparasparaṁ bhāvayantaḥ śhreyaḥ param avāpsyatha\n",
             "verse_number": 11,
             "word_meanings": "devān—celestial gods; bhāvayatā—will be pleased; anena—by these (sacrifices); te—those; devāḥ—celestial gods; bhāvayantu—will be pleased; vaḥ—you; parasparam—one another; bhāvayantaḥ—pleasing one another; śhreyaḥ—prosperity; param—the supreme; avāpsyatha—shall achieve\n",
-            "audio_number": 11
+            "audio_number": 11,
+            "verse_id": 129
         },
         {
             "chapter_number": 3,
@@ -1332,7 +1461,8 @@ const data = {
             "transliteration": "iṣhṭān bhogān hi vo devā dāsyante yajña-bhāvitāḥ\ntair dattān apradāyaibhyo yo bhuṅkte stena eva saḥ\n",
             "verse_number": 12,
             "word_meanings": "iṣhṭān—desired; bhogān—necessities of life; hi—certainly; vaḥ—unto you; devāḥ—the celestial gods; dāsyante—will grant; yajña-bhāvitāḥ—satisfied by sacrifice; taiḥ—by them; dattān—things granted; apradāya—without offering; ebhyaḥ—to them; yaḥ—who; bhuṅkte—enjoys; stenaḥ—thieves; eva—verily; saḥ—they\n",
-            "audio_number": 12
+            "audio_number": 12,
+            "verse_id": 130
         },
         {
             "chapter_number": 3,
@@ -1341,7 +1471,8 @@ const data = {
             "transliteration": "yajña-śhiṣhṭāśhinaḥ santo muchyante sarva-kilbiṣhaiḥ\nbhuñjate te tvaghaṁ pāpā ye pachantyātma-kāraṇāt\n",
             "verse_number": 13,
             "word_meanings": "yajña-śhiṣhṭa—of remnants of food offered in sacrifice; aśhinaḥ—eaters; santaḥ—saintly persons; muchyante—are released; sarva—all kinds of; kilbiṣhaiḥ—from sins; bhuñjate—enjoy; te—they; tu—but; agham—sins; pāpāḥ—sinners; ye—who; pachanti—cook (food); ātma-kāraṇāt—for their own sake\n",
-            "audio_number": 13
+            "audio_number": 13,
+            "verse_id": 131
         },
         {
             "chapter_number": 3,
@@ -1350,7 +1481,8 @@ const data = {
             "transliteration": "annād bhavanti bhūtāni parjanyād anna-sambhavaḥ\nyajñād bhavati parjanyo yajñaḥ karma-samudbhavaḥ\n",
             "verse_number": 14,
             "word_meanings": "annāt—from food; bhavanti—subsist; bhūtāni—living beings; parjanyāt—from rains; anna—of food grains; sambhavaḥ—production; yajñāt—from the performance of sacrifice; bhavati—becomes possible; parjanyaḥ—rain; yajñaḥ—performance of sacrifice; karma—prescribed duties; samudbhavaḥ—born of\n",
-            "audio_number": 14
+            "audio_number": 14,
+            "verse_id": 132
         },
         {
             "chapter_number": 3,
@@ -1359,7 +1491,8 @@ const data = {
             "transliteration": "karma brahmodbhavaṁ viddhi brahmākṣhara-samudbhavam\ntasmāt sarva-gataṁ brahma nityaṁ yajñe pratiṣhṭhitam\n",
             "verse_number": 15,
             "word_meanings": "karma—duties; brahma—in the Vedas; udbhavam—manifested; viddhi—you should know; brahma—The Vedas; akṣhara—from the Imperishable (God); samudbhavam—directly manifested; tasmāt—therefore; sarva-gatam—all-pervading; brahma—The Lord; nityam—eternally; yajñe—in sacrifice; pratiṣhṭhitam—established\n",
-            "audio_number": 15
+            "audio_number": 15,
+            "verse_id": 133
         },
         {
             "chapter_number": 3,
@@ -1368,7 +1501,8 @@ const data = {
             "transliteration": "evaṁ pravartitaṁ chakraṁ nānuvartayatīha yaḥ\naghāyur indriyārāmo moghaṁ pārtha sa jīvati\n",
             "verse_number": 16,
             "word_meanings": "evam—thus; pravartitam—set into motion; chakram—cycle; na—not; anuvartayati—follow; iha—in this life; yaḥ—who; agha-āyuḥ—sinful living; indriya-ārāmaḥ—for the delight of their senses; mogham—vainly; pārtha—Arjun, the son of Pritha; saḥ—they; jīvati—live\n",
-            "audio_number": 16
+            "audio_number": 16,
+            "verse_id": 134
         },
         {
             "chapter_number": 3,
@@ -1377,7 +1511,8 @@ const data = {
             "transliteration": "yas tvātma-ratir eva syād ātma-tṛiptaśh cha mānavaḥ\nātmanyeva cha santuṣhṭas tasya kāryaṁ na vidyate\n",
             "verse_number": 17,
             "word_meanings": "yaḥ—who; tu—but; ātma-ratiḥ—rejoice in the self; eva—certainly; syāt—is; ātma-tṛiptaḥ—self-satisfied; cha—and; mānavaḥ—human being; ātmani—in the self; eva—certainly; cha—and; santuṣhṭaḥ—satisfied; tasya—his; kāryam—duty; na—not; vidyate—exist\n",
-            "audio_number": 17
+            "audio_number": 17,
+            "verse_id": 135
         },
         {
             "chapter_number": 3,
@@ -1386,7 +1521,8 @@ const data = {
             "transliteration": "naiva tasya kṛitenārtho nākṛiteneha kaśhchana\nna chāsya sarva-bhūteṣhu kaśhchid artha-vyapāśhrayaḥ\n",
             "verse_number": 18,
             "word_meanings": "na—not; eva—indeed; tasya—his; kṛitena—by discharge of duty; arthaḥ—gain; na—not; akṛitena—without discharge of duty; iha—here; kaśhchana—whatsoever; na—never; cha—and; asya—of that person; sarva-bhūteṣhu—among all living beings; kaśhchit—any; artha—necessity; vyapāśhrayaḥ—to depend upon\n",
-            "audio_number": 18
+            "audio_number": 18,
+            "verse_id": 136
         },
         {
             "chapter_number": 3,
@@ -1395,7 +1531,8 @@ const data = {
             "transliteration": "tasmād asaktaḥ satataṁ kāryaṁ karma samāchara\nasakto hyācharan karma param āpnoti pūruṣhaḥ\n",
             "verse_number": 19,
             "word_meanings": "tasmāt—therefore; asaktaḥ—without attachment; satatam—constantly; kāryam—duty; karma—action; samāchara—perform; asaktaḥ—unattached; hi—certainly; ācharan—performing; karma—work; param—the Supreme; āpnoti—attains; pūruṣhaḥ—a person\n",
-            "audio_number": 19
+            "audio_number": 19,
+            "verse_id": 137
         },
         {
             "chapter_number": 3,
@@ -1404,7 +1541,8 @@ const data = {
             "transliteration": "karmaṇaiva hi sansiddhim āsthitā janakādayaḥ\nloka-saṅgraham evāpi sampaśhyan kartum arhasi\n",
             "verse_number": 20,
             "word_meanings": "karmaṇā—by the performance of prescribed duties; eva—only; hi—certainly; sansiddhim—perfection; āsthitāḥ—attained; janaka-ādayaḥ—King Janak and other kings; loka-saṅgraham—for the welfare of the masses; eva api—only; sampaśhyan—considering; kartum—to perform; arhasi—you should;\n",
-            "audio_number": 20
+            "audio_number": 20,
+            "verse_id": 138
         },
         {
             "chapter_number": 3,
@@ -1413,7 +1551,8 @@ const data = {
             "transliteration": "yad yad ācharati śhreṣhṭhas tat tad evetaro janaḥ\nsa yat pramāṇaṁ kurute lokas tad anuvartate\n",
             "verse_number": 21,
             "word_meanings": "yat yat—whatever; ācharati—does; śhreṣhṭhaḥ—the best; tat tat—that (alone); eva—certainly; itaraḥ—common; janaḥ—people; saḥ—they; yat—whichever; pramāṇam—standard; kurute—perform; lokaḥ—world; tat—that; anuvartate—pursues\n",
-            "audio_number": 21
+            "audio_number": 21,
+            "verse_id": 139
         },
         {
             "chapter_number": 3,
@@ -1422,7 +1561,8 @@ const data = {
             "transliteration": "na me pārthāsti kartavyaṁ triṣhu lokeṣhu kiñchana\nnānavāptam avāptavyaṁ varta eva cha karmaṇi\n",
             "verse_number": 22,
             "word_meanings": "na—not; me—mine; pārtha—Arjun; asti—is; kartavyam—duty; triṣhu—in the three; lokeṣhu—worlds; kiñchana—any; na—not; anavāptam—to be attained; avāptavyam—to be gained; varte—I am engaged; eva—yet; cha—also; karmaṇi—in prescribed duties\n",
-            "audio_number": 22
+            "audio_number": 22,
+            "verse_id": 140
         },
         {
             "chapter_number": 3,
@@ -1431,7 +1571,8 @@ const data = {
             "transliteration": "yadi hyahaṁ na varteyaṁ jātu karmaṇyatandritaḥ\nmama vartmānuvartante manuṣhyāḥ pārtha sarvaśhaḥ\n",
             "verse_number": 23,
             "word_meanings": "yadi—if; hi—certainly; aham—I; na—not; varteyam—thus engage; jātu—ever; karmaṇi—in the performance of prescribed duties; atandritaḥ—carefully; mama—my; vartma—path; anuvartante—follow; manuṣhyāḥ—all men; pārtha—Arjun, the son of Pritha; sarvaśhaḥ—in all respects\n",
-            "audio_number": 23
+            "audio_number": 23,
+            "verse_id": 141
         },
         {
             "chapter_number": 3,
@@ -1440,7 +1581,8 @@ const data = {
             "transliteration": "utsīdeyur ime lokā na kuryāṁ karma ched aham\nsankarasya cha kartā syām upahanyām imāḥ prajāḥ\n",
             "verse_number": 24,
             "word_meanings": "utsīdeyuḥ—would perish; ime—all these; lokāḥ—worlds; na—not; kuryām—I perform; karma—prescribed duties; chet—if; aham—I; sankarasya—of uncultured population; cha—and; kartā—responsible; syām—would be; upahanyām—would destroy; imāḥ—all these; prajāḥ—living entities\n",
-            "audio_number": 24
+            "audio_number": 24,
+            "verse_id": 142
         },
         {
             "chapter_number": 3,
@@ -1449,7 +1591,8 @@ const data = {
             "transliteration": "saktāḥ karmaṇyavidvānso yathā kurvanti bhārata\nkuryād vidvāns tathāsaktaśh chikīrṣhur loka-saṅgraham\n",
             "verse_number": 25,
             "word_meanings": "saktāḥ—attached; karmaṇi—duties; avidvānsaḥ—the ignorant; yathā—as much as; kurvanti—act; bhārata—scion of Bharat (Arjun); kuryāt—should do; vidvān—the wise; tathā—thus; asaktaḥ—unattached; chikīrṣhuḥ—wishing; loka-saṅgraham—welfare of the world\n",
-            "audio_number": 25
+            "audio_number": 25,
+            "verse_id": 143
         },
         {
             "chapter_number": 3,
@@ -1458,7 +1601,8 @@ const data = {
             "transliteration": "na buddhi-bhedaṁ janayed ajñānāṁ karma-saṅginām\njoṣhayet sarva-karmāṇi vidvān yuktaḥ samācharan\n",
             "verse_number": 26,
             "word_meanings": "na—not; buddhi-bhedam—discord in the intellects; janayet—should create; ajñānām—of the ignorant; karma-saṅginām—who are attached to fruitive actions; joṣhayet—should inspire (them) to perform; sarva—all; karmāṇi—prescribed; vidvān—the wise; yuktaḥ—enlightened; samācharan—performing properly\n",
-            "audio_number": 26
+            "audio_number": 26,
+            "verse_id": 144
         },
         {
             "chapter_number": 3,
@@ -1467,7 +1611,8 @@ const data = {
             "transliteration": "prakṛiteḥ kriyamāṇāni guṇaiḥ karmāṇi sarvaśhaḥ\nahankāra-vimūḍhātmā kartāham iti manyate\n",
             "verse_number": 27,
             "word_meanings": "prakṛiteḥ—of material nature; kriyamāṇāni—carried out; guṇaiḥ—by the three modes; karmāṇi—activities; sarvaśhaḥ—all kinds of; ahankāra-vimūḍha-ātmā—those who are bewildered by the ego and misidentify themselves with the body; kartā—the doer; aham—I; iti—thus; manyate—thinks\n",
-            "audio_number": 27
+            "audio_number": 27,
+            "verse_id": 145
         },
         {
             "chapter_number": 3,
@@ -1476,7 +1621,8 @@ const data = {
             "transliteration": "tattva-vit tu mahā-bāho guṇa-karma-vibhāgayoḥ\nguṇā guṇeṣhu vartanta iti matvā na sajjate\n",
             "verse_number": 28,
             "word_meanings": "tattva-vit—the knower of the Truth; tu—but; mahā-bāho—mighty-armed one; guṇa-karma—from guṇas and karma; vibhāgayoḥ—distinguish; guṇāḥ—modes of material nature in the shape of the senses, mind, etc; guṇeṣhu—modes of material nature in the shape of objects of perception; vartante—are engaged; iti—thus; matvā—knowing; na—never; sajjate—becomes attached\n",
-            "audio_number": 28
+            "audio_number": 28,
+            "verse_id": 146
         },
         {
             "chapter_number": 3,
@@ -1485,7 +1631,8 @@ const data = {
             "transliteration": "prakṛiter guṇa-sammūḍhāḥ sajjante guṇa-karmasu\ntān akṛitsna-vido mandān kṛitsna-vin na vichālayet\n",
             "verse_number": 29,
             "word_meanings": "prakṛiteḥ—of material nature; guṇa—by the modes of material nature; sammūḍhāḥ—deluded; sajjante—become attached; guṇa-karmasu—to results of actions; tān—those; akṛitsna-vidaḥ—persons without knowledge; mandān—the ignorant; kṛitsna-vit—persons with knowledge; na vichālayet—should not unsettle\n",
-            "audio_number": 29
+            "audio_number": 29,
+            "verse_id": 147
         },
         {
             "chapter_number": 3,
@@ -1494,7 +1641,8 @@ const data = {
             "transliteration": "mayi sarvāṇi karmāṇi sannyasyādhyātma-chetasā\nnirāśhīr nirmamo bhūtvā yudhyasva vigata-jvaraḥ\n",
             "verse_number": 30,
             "word_meanings": "mayi—unto me; sarvāṇi—all; karmāṇi—works; sannyasya—renouncing completely; adhyātma-chetasā—with the thoughts resting on God; nirāśhīḥ—free from hankering for the results of the actions; nirmamaḥ—without ownership; bhūtvā—so being; yudhyasva—fight; vigata-jvaraḥ—without mental fever\n",
-            "audio_number": 30
+            "audio_number": 30,
+            "verse_id": 148
         },
         {
             "chapter_number": 3,
@@ -1503,7 +1651,8 @@ const data = {
             "transliteration": "ye me matam idaṁ nityam anutiṣhṭhanti mānavāḥ\nśhraddhāvanto ’nasūyanto muchyante te ’pi karmabhiḥ\n",
             "verse_number": 31,
             "word_meanings": "ye—who; me—my; matam—teachings; idam—these; nityam—constantly; anutiṣhṭhanti—abide by; mānavāḥ—human beings; śhraddhā-vantaḥ—with profound faith; anasūyantaḥ—free from cavilling; muchyante—become free; te—those; api—also; karmabhiḥ—from the bondage of karma\n",
-            "audio_number": 31
+            "audio_number": 31,
+            "verse_id": 149
         },
         {
             "chapter_number": 3,
@@ -1512,7 +1661,8 @@ const data = {
             "transliteration": "ye tvetad abhyasūyanto nānutiṣhṭhanti me matam\nsarva-jñāna-vimūḍhāns tān viddhi naṣhṭān achetasaḥ\n",
             "verse_number": 32,
             "word_meanings": "ye—those; tu—but; etat—this; abhyasūyantaḥ—cavilling; na—not; anutiṣhṭhanti—follow; me—my; matam—teachings; sarva-jñāna—in all types of knowledge; vimūḍhān—deluded; tān—they are; viddhi—know; naṣhṭān—ruined; achetasaḥ—devoid of discrimination\n",
-            "audio_number": 32
+            "audio_number": 32,
+            "verse_id": 150
         },
         {
             "chapter_number": 3,
@@ -1521,7 +1671,8 @@ const data = {
             "transliteration": "sadṛiśhaṁ cheṣhṭate svasyāḥ prakṛiter jñānavān api\nprakṛitiṁ yānti bhūtāni nigrahaḥ kiṁ kariṣhyati\n",
             "verse_number": 33,
             "word_meanings": "sadṛiśham—accordingly; cheṣhṭate—act; svasyāḥ—by their own; prakṛiteḥ—modes of nature; jñāna-vān—the wise; api—even; prakṛitim—nature; yānti—follow; bhūtāni—all living beings; nigrahaḥ—repression; kim—what; kariṣhyati—will do\n",
-            "audio_number": 33
+            "audio_number": 33,
+            "verse_id": 151
         },
         {
             "chapter_number": 3,
@@ -1530,7 +1681,8 @@ const data = {
             "transliteration": "indriyasyendriyasyārthe rāga-dveṣhau vyavasthitau\ntayor na vaśham āgachchhet tau hyasya paripanthinau\n",
             "verse_number": 34,
             "word_meanings": "indriyasya—of the senses; indriyasya arthe—in the sense objects; rāga—attachment; dveṣhau—aversion; vyavasthitau—situated; tayoḥ—of them; na—never; vaśham—be controlled; āgachchhet—should become; tau—those; hi—certainly; asya—for him; paripanthinau—foes\n",
-            "audio_number": 34
+            "audio_number": 34,
+            "verse_id": 152
         },
         {
             "chapter_number": 3,
@@ -1539,7 +1691,8 @@ const data = {
             "transliteration": "śhreyān swa-dharmo viguṇaḥ para-dharmāt sv-anuṣhṭhitāt\nswa-dharme nidhanaṁ śhreyaḥ para-dharmo bhayāvahaḥ\n",
             "verse_number": 35,
             "word_meanings": "śhreyān—better; swa-dharmaḥ—personal duty; viguṇaḥ—tinged with faults; para-dharmāt—than another’s prescribed duties; su-anuṣhṭhitāt—perfectly done; swa-dharme—in one’s personal duties; nidhanam—death; śhreyaḥ—better; para-dharmaḥ—duties prescribed for others; bhaya-āvahaḥ—fraught with fear\n",
-            "audio_number": 35
+            "audio_number": 35,
+            "verse_id": 153
         },
         {
             "chapter_number": 3,
@@ -1548,7 +1701,8 @@ const data = {
             "transliteration": "arjuna uvācha\natha kena prayukto ’yaṁ pāpaṁ charati pūruṣhaḥ\nanichchhann api vārṣhṇeya balād iva niyojitaḥ\n",
             "verse_number": 36,
             "word_meanings": "arjunaḥ uvācha—Arjun said; atha—then; kena—by what; prayuktaḥ—impelled; ayam—one; pāpam—sins; charati—commit; pūruṣhaḥ—a person; anichchhan—unwillingly; api—even; vārṣhṇeya—he who belongs to the Vrishni clan, Shree Krishna; balāt—by force; iva—as if; niyojitaḥ—engaged\n",
-            "audio_number": 36
+            "audio_number": 36,
+            "verse_id": 154
         },
         {
             "chapter_number": 3,
@@ -1557,7 +1711,8 @@ const data = {
             "transliteration": "śhrī bhagavān uvācha\nkāma eṣha krodha eṣha rajo-guṇa-samudbhavaḥ\nmahāśhano mahā-pāpmā viddhyenam iha vairiṇam\n",
             "verse_number": 37,
             "word_meanings": "śhri-bhagavān uvācha—the Supreme Lord said; kāmaḥ—desire; eṣhaḥ—this; krodhaḥ—wrath; eṣhaḥ—this; rajaḥ-guṇa—the mode of passion; samudbhavaḥ—born of; mahā-aśhanaḥ—all-devouring; mahā-pāpmā—greatly sinful; viddhi—know; enam—this; iha—in the material world; vairiṇam—the enemy\n",
-            "audio_number": 37
+            "audio_number": 37,
+            "verse_id": 155
         },
         {
             "chapter_number": 3,
@@ -1566,7 +1721,8 @@ const data = {
             "transliteration": "dhūmenāvriyate vahnir yathādarśho malena cha\nyatholbenāvṛito garbhas tathā tenedam āvṛitam\n",
             "verse_number": 38,
             "word_meanings": "dhūmena—by smoke; āvriyate—is covered; vahniḥ—fire; yathā—just as; ādarśhaḥ—mirror; malena—by dust; cha—also; yathā—just as; ulbena—by the womb; āvṛitaḥ—is covered; garbhaḥ—embryo; tathā—similarly; tena—by that (desire); idam—this; āvṛitam—is covered\n",
-            "audio_number": 38
+            "audio_number": 38,
+            "verse_id": 156
         },
         {
             "chapter_number": 3,
@@ -1575,7 +1731,8 @@ const data = {
             "transliteration": "āvṛitaṁ jñānam etena jñānino nitya-vairiṇā\nkāma-rūpeṇa kaunteya duṣhpūreṇānalena cha\n",
             "verse_number": 39,
             "word_meanings": "āvṛitam—covered; jñānam—knowledge; etena—by this; jñāninaḥ—of the wise; nitya-vairiṇā—by the perpetual enemy; kāma-rūpeṇa—in the form of desires; kaunteya—Arjun the son of Kunti; duṣhpūreṇa—insatiable; analena—like fire; cha—and\n",
-            "audio_number": 39
+            "audio_number": 39,
+            "verse_id": 157
         },
         {
             "chapter_number": 3,
@@ -1584,7 +1741,8 @@ const data = {
             "transliteration": "indriyāṇi mano buddhir asyādhiṣhṭhānam uchyate\netair vimohayatyeṣha jñānam āvṛitya dehinam\n",
             "verse_number": 40,
             "word_meanings": "indriyāṇi—the senses; manaḥ—the mind; buddhiḥ—the intellect; asya—of this; adhiṣhṭhānam—dwelling place; uchyate—are said to be; etaiḥ—by these; vimohayati—deludes; eṣhaḥ—this; jñānam—knowledge; āvṛitya—clouds; dehinam—the embodied soul\n",
-            "audio_number": 40
+            "audio_number": 40,
+            "verse_id": 158
         },
         {
             "chapter_number": 3,
@@ -1593,7 +1751,8 @@ const data = {
             "transliteration": "tasmāt tvam indriyāṇyādau niyamya bharatarṣhabha\npāpmānaṁ prajahi hyenaṁ jñāna-vijñāna-nāśhanam\n",
             "verse_number": 41,
             "word_meanings": "tasmāt—therefore; tvam—you; indriyāṇi—senses; ādau—in the very beginning; niyamya—having controlled; bharata-ṛiṣhabha—Arjun, the best of the Bharatas; pāpmānam—the sinful; prajahi—slay; hi—certainly; enam—this; jñāna—knowledge; vijñāna—realization; nāśhanam—the destroyer\n",
-            "audio_number": 41
+            "audio_number": 41,
+            "verse_id": 159
         },
         {
             "chapter_number": 3,
@@ -1602,7 +1761,8 @@ const data = {
             "transliteration": "indriyāṇi parāṇyāhur indriyebhyaḥ paraṁ manaḥ\nmanasas tu parā buddhir yo buddheḥ paratas tu saḥ\n",
             "verse_number": 42,
             "word_meanings": "indriyāṇi—senses; parāṇi—superior; āhuḥ—are said; indriyebhyaḥ—than the senses; param—superior; manaḥ—the mind; manasaḥ—than the mind; tu—but; parā—superior; buddhiḥ—intellect; yaḥ—who; buddheḥ—than the intellect; parataḥ—more superior; tu—but; saḥ—that (soul)\n",
-            "audio_number": 42
+            "audio_number": 42,
+            "verse_id": 160
         },
         {
             "chapter_number": 3,
@@ -1611,7 +1771,8 @@ const data = {
             "transliteration": "evaṁ buddheḥ paraṁ buddhvā sanstabhyātmānam ātmanā\njahi śhatruṁ mahā-bāho kāma-rūpaṁ durāsadam\n",
             "verse_number": 43,
             "word_meanings": "evam—thus; buddheḥ—than the intellect; param—superior; buddhvā—knowing; sanstabhya—subdue; ātmānam—the lower self (senses, mind, and intellect); ātmanā—by higher self (soul); jahi—kill; śhatrum—the enemy; mahā-bāho—mighty-armed one; kāma-rūpam—in the form of desire; durāsadam—formidable\n",
-            "audio_number": 43
+            "audio_number": 43,
+            "verse_id": 161
         },
         {
             "chapter_number": 4,
@@ -1620,7 +1781,8 @@ const data = {
             "transliteration": "śhrī bhagavān uvācha\nimaṁ vivasvate yogaṁ proktavān aham avyayam\nvivasvān manave prāha manur ikṣhvākave ’bravīt\n",
             "verse_number": 1,
             "word_meanings": "śhrī-bhagavān uvācha—the Supreme Lord Shree Krishna said; imam—this; vivasvate—to the Sun-god; yogam—the science of Yog; proktavān—taught; aham—I; avyayam—eternal; vivasvān—Sun-god; manave—to Manu, the original progenitor of humankind; prāha—told; manuḥ—Manu; ikṣhvākave—to Ikshvaku, first king of the Solar dynasty; abravīt—instructed\t\n",
-            "audio_number": 1
+            "audio_number": 1,
+            "verse_id": 162
         },
         {
             "chapter_number": 4,
@@ -1629,7 +1791,8 @@ const data = {
             "transliteration": "evaṁ paramparā-prāptam imaṁ rājarṣhayo viduḥ\nsa kāleneha mahatā yogo naṣhṭaḥ parantapa\n\n",
             "verse_number": 2,
             "word_meanings": "evam—thus; paramparā—in a continuous tradition; prāptam—received; imam—this (science); rāja-ṛiṣhayaḥ—the saintly kings; viduḥ—understood; saḥ—that; kālena—with the long passage of time; iha—in this world; mahatā—great; yogaḥ—the science of Yog; naṣhṭaḥ—lost; parantapa—Arjun, the scorcher of foes\n\n",
-            "audio_number": 2
+            "audio_number": 2,
+            "verse_id": 163
         },
         {
             "chapter_number": 4,
@@ -1638,7 +1801,8 @@ const data = {
             "transliteration": "sa evāyaṁ mayā te ’dya yogaḥ proktaḥ purātanaḥ\nbhakto ’si me sakhā cheti rahasyaṁ hyetad uttamam\n\n",
             "verse_number": 3,
             "word_meanings": "saḥ—that; eva—certainly; ayam—this; mayā—by me; te—unto you; adya—today; yogaḥ—the science of Yog; proktaḥ—reveal; purātanaḥ—ancient; bhaktaḥ—devotee; asi—you are; me—my; sakhā—friend; cha—and; iti—therefore; rahasyam—secret; hi—certainly; etat—this; uttamam—supreme\n\n",
-            "audio_number": 3
+            "audio_number": 3,
+            "verse_id": 164
         },
         {
             "chapter_number": 4,
@@ -1647,7 +1811,8 @@ const data = {
             "transliteration": "arjuna uvācha\naparaṁ bhavato janma paraṁ janma vivasvataḥ\nkatham etad vijānīyāṁ tvam ādau proktavān iti\n\n",
             "verse_number": 4,
             "word_meanings": "arjunaḥ uvācha—Arjun said; aparam—later; bhavataḥ—your; janma—birth; param—prior; janma—birth; vivasvataḥ—Vivasvan, the sun-god; katham—how; etat—this; vijānīyām—am I to understand; tvam—you; ādau—in the beginning; proktavān—taught; iti—thus\n\n",
-            "audio_number": 4
+            "audio_number": 4,
+            "verse_id": 165
         },
         {
             "chapter_number": 4,
@@ -1656,7 +1821,8 @@ const data = {
             "transliteration": "śhrī bhagavān uvācha\nbahūni me vyatītāni janmāni tava chārjuna\ntānyahaṁ veda sarvāṇi na tvaṁ vettha parantapa\n\n",
             "verse_number": 5,
             "word_meanings": "śhrī-bhagavān uvācha—the Supreme Lord said; bahūni—many; me—of mine; vyatītāni—have passed; janmāni—births; tava—of yours; cha—and; arjuna—Arjun; tāni—them; aham—I; veda—know; sarvāṇi—all; na—not; tvam—you; vettha—know; parantapa—Arjun, the scorcher of foes\n\n",
-            "audio_number": 5
+            "audio_number": 5,
+            "verse_id": 166
         },
         {
             "chapter_number": 4,
@@ -1665,7 +1831,8 @@ const data = {
             "transliteration": "ajo ’pi sannavyayātmā bhūtānām īśhvaro ’pi san\nprakṛitiṁ svām adhiṣhṭhāya sambhavāmyātma-māyayā\n\n",
             "verse_number": 6,
             "word_meanings": "ajaḥ—unborn; api—although; san—being so; avyaya ātmā—Imperishable nature; bhūtānām—of (all) beings; īśhvaraḥ—the Lord; api—although; san—being; prakṛitim—nature; svām—of myself; adhiṣhṭhāya—situated; sambhavāmi—I manifest; ātma-māyayā—by my Yogmaya power\n\n",
-            "audio_number": 6
+            "audio_number": 6,
+            "verse_id": 167
         },
         {
             "chapter_number": 4,
@@ -1674,7 +1841,8 @@ const data = {
             "transliteration": "yadā yadā hi dharmasya glānir bhavati bhārata\nabhyutthānam adharmasya tadātmānaṁ sṛijāmyaham\n\n",
             "verse_number": 7,
             "word_meanings": "yadā yadā—whenever; hi—certainly; dharmasya—of righteousness; glāniḥ—decline; bhavati—is; bhārata—Arjun, descendant of Bharat; abhyutthānam—increase; adharmasya—of unrighteousness; tadā—at that time; ātmānam—self; sṛijāmi—manifest; aham—I\n\n",
-            "audio_number": 7
+            "audio_number": 7,
+            "verse_id": 168
         },
         {
             "chapter_number": 4,
@@ -1683,7 +1851,8 @@ const data = {
             "transliteration": "paritrāṇāya sādhūnāṁ vināśhāya cha duṣhkṛitām\ndharma-sansthāpanārthāya sambhavāmi yuge yuge\n\n",
             "verse_number": 8,
             "word_meanings": "paritrāṇāya—to protect; sādhūnām—the righteous; vināśhāya—to annihilate; cha—and; duṣhkṛitām—the wicked; dharma—the eternal religion; sansthāpana-arthāya—to reestablish; sambhavāmi—I appear; yuge yuge—age after age\n\n",
-            "audio_number": 8
+            "audio_number": 8,
+            "verse_id": 169
         },
         {
             "chapter_number": 4,
@@ -1692,7 +1861,8 @@ const data = {
             "transliteration": "janma karma cha me divyam evaṁ yo vetti tattvataḥ\ntyaktvā dehaṁ punar janma naiti mām eti so ’rjuna\n\n",
             "verse_number": 9,
             "word_meanings": "janma—birth; karma—activities; cha—and; me—of mine; divyam—divine; evam—thus; yaḥ—who; vetti—know; tattvataḥ—in truth; tyaktvā—having abandoned; deham—the body; punaḥ—again; janma—birth; na—never; eti—takes; mām—to me; eti—comes; saḥ—he; arjuna—Arjun\n\n",
-            "audio_number": 9
+            "audio_number": 9,
+            "verse_id": 170
         },
         {
             "chapter_number": 4,
@@ -1701,7 +1871,8 @@ const data = {
             "transliteration": "vīta-rāga-bhaya-krodhā man-mayā mām upāśhritāḥ\nbahavo jñāna-tapasā pūtā mad-bhāvam āgatāḥ\n\n",
             "verse_number": 10,
             "word_meanings": "vīta—freed from; rāga—attachment; bhaya—fear; krodhāḥ—and anger; mat-mayā—completely absorbed in me; mām—in me; upāśhritāḥ—taking refuge (of); bahavaḥ—many (persons); jñāna—of knowledge; tapasā—by the fire of knowledge; pūtāḥ—purified; mat-bhāvam—my divine love; āgatāḥ—attained\n\n",
-            "audio_number": 10
+            "audio_number": 10,
+            "verse_id": 171
         },
         {
             "chapter_number": 4,
@@ -1710,7 +1881,8 @@ const data = {
             "transliteration": "ye yathā māṁ prapadyante tāns tathaiva bhajāmyaham\nmama vartmānuvartante manuṣhyāḥ pārtha sarvaśhaḥ\n\n",
             "verse_number": 11,
             "word_meanings": "ye—who; yathā—in whatever way; mām—unto me; prapadyante—surrender; tān—them; tathā—so; eva—certainly; bhajāmi—reciprocate; aham—I; mama—my; vartma—path; anuvartante—follow; manuṣhyāḥ—men; pārtha—Arjun, the son of Pritha; sarvaśhaḥ—in all respects\n\n",
-            "audio_number": 11
+            "audio_number": 11,
+            "verse_id": 172
         },
         {
             "chapter_number": 4,
@@ -1719,7 +1891,8 @@ const data = {
             "transliteration": "kāṅkṣhantaḥ karmaṇāṁ siddhiṁ yajanta iha devatāḥ\nkṣhipraṁ hi mānuṣhe loke siddhir bhavati karmajā\n\n",
             "verse_number": 12,
             "word_meanings": "kāṅkṣhantaḥ—desiring; karmaṇām—material activities; siddhim—success; yajante—worship; iha—in this world; devatāḥ—the celestial gods; kṣhipram—quickly; hi—certainly; mānuṣhe—in human society; loke—within this world; siddhiḥ—rewarding; bhavati—manifest; karma-jā—from material activities\n\n",
-            "audio_number": 12
+            "audio_number": 12,
+            "verse_id": 173
         },
         {
             "chapter_number": 4,
@@ -1728,7 +1901,8 @@ const data = {
             "transliteration": "chātur-varṇyaṁ mayā sṛiṣhṭaṁ guṇa-karma-vibhāgaśhaḥ\ntasya kartāram api māṁ viddhyakartāram avyayam\n\n",
             "verse_number": 13,
             "word_meanings": "chātuḥ-varṇyam—the four categories of occupations; mayā—by me; sṛiṣhṭam—were created; guṇa—of quality; karma—and activities; vibhāgaśhaḥ—according to divisions; tasya—of that; kartāram—the creator; api—although; mām—me; viddhi—know; akartāram—non-doer; avyayam—unchangeable\n\n",
-            "audio_number": 13
+            "audio_number": 13,
+            "verse_id": 174
         },
         {
             "chapter_number": 4,
@@ -1737,7 +1911,8 @@ const data = {
             "transliteration": "na māṁ karmāṇi limpanti na me karma-phale spṛihā\niti māṁ yo ’bhijānāti karmabhir na sa badhyate\n\n",
             "verse_number": 14,
             "word_meanings": "na—not; mām—me; karmāṇi—activities; limpanti—taint; na—nor; me—my; karma-phale—the fruits of action; spṛihā—desire; iti—thus; mām—me; yaḥ—who; abhijānāti—knows; karmabhiḥ—result of action; na—never; saḥ—that person; badhyate—is bound\n\n",
-            "audio_number": 14
+            "audio_number": 14,
+            "verse_id": 175
         },
         {
             "chapter_number": 4,
@@ -1746,7 +1921,8 @@ const data = {
             "transliteration": "evaṁ jñātvā kṛitaṁ karma pūrvair api mumukṣhubhiḥ\nkuru karmaiva tasmāttvaṁ pūrvaiḥ pūrvataraṁ kṛitam\n\n",
             "verse_number": 15,
             "word_meanings": "evam—thus; jñātvā—knowing; kṛitam—performed; karma—actions; pūrvaiḥ—of ancient times; api—indeed; mumukṣhubhiḥ—seekers of liberation; kuru—should perform; karma—duty; eva—certainly; tasmāt—therefore; tvam—you; pūrvaiḥ—of those ancient sages; pūrva-taram—in ancient times; kṛitam—performed\n\n",
-            "audio_number": 15
+            "audio_number": 15,
+            "verse_id": 176
         },
         {
             "chapter_number": 4,
@@ -1755,7 +1931,8 @@ const data = {
             "transliteration": "kiṁ karma kim akarmeti kavayo ’pyatra mohitāḥ\ntat te karma pravakṣhyāmi yaj jñātvā mokṣhyase ’śhubhāt\n\n",
             "verse_number": 16,
             "word_meanings": "kim—what; karma—action; kim—what; akarma—inaction; iti—thus; kavayaḥ—the wise; api—even; atra—in this; mohitāḥ—are confused; tat—that; te—to you; karma—action; pravakṣhyāmi—I shall explain; yat—which; jñātvā—knowing; mokṣhyase—you may free yourself; aśhubhāt—from inauspiciousness\n\n",
-            "audio_number": 16
+            "audio_number": 16,
+            "verse_id": 177
         },
         {
             "chapter_number": 4,
@@ -1764,7 +1941,8 @@ const data = {
             "transliteration": "karmaṇo hyapi boddhavyaṁ boddhavyaṁ cha vikarmaṇaḥ\nakarmaṇaśh cha boddhavyaṁ gahanā karmaṇo gatiḥ\n\n",
             "verse_number": 17,
             "word_meanings": "karmaṇaḥ—recommended action; hi—certainly; api—also; boddhavyam—should be known; boddhavyam—must understand; cha—and; vikarmaṇaḥ—forbidden action; akarmaṇaḥ—inaction; cha—and; boddhavyam—must understand; gahanā—profound; karmaṇaḥ—of action; gatiḥ—the true path\n\n",
-            "audio_number": 17
+            "audio_number": 17,
+            "verse_id": 178
         },
         {
             "chapter_number": 4,
@@ -1773,7 +1951,8 @@ const data = {
             "transliteration": "karmaṇyakarma yaḥ paśhyed akarmaṇi cha karma yaḥ\nsa buddhimān manuṣhyeṣhu sa yuktaḥ kṛitsna-karma-kṛit\n\n",
             "verse_number": 18,
             "word_meanings": "karmaṇi—action; akarma—in inaction; yaḥ—who; paśhyet—see; akarmaṇi—inaction; cha—also; karma—action; yaḥ—who; saḥ—they; buddhi-mān—wise; manuṣhyeṣhu—amongst humans; saḥ—they; yuktaḥ—yogis; kṛitsna-karma-kṛit—performers all kinds of actions\n\n",
-            "audio_number": 18
+            "audio_number": 18,
+            "verse_id": 179
         },
         {
             "chapter_number": 4,
@@ -1782,7 +1961,8 @@ const data = {
             "transliteration": "yasya sarve samārambhāḥ kāma-saṅkalpa-varjitāḥ\njñānāgni-dagdha-karmāṇaṁ tam āhuḥ paṇḍitaṁ budhāḥ\n\n",
             "verse_number": 19,
             "word_meanings": "yasya—whose; sarve—every; samārambhāḥ—undertakings; kāma—desire for material pleasures; saṅkalpa—resolve; varjitāḥ—devoid of; jñāna—divine knowledge; agni—in the fire; dagdha—burnt; karmāṇam—actions; tam—him; āhuḥ—address; paṇḍitam—a sage; budhāḥ—the wise\n\n",
-            "audio_number": 19
+            "audio_number": 19,
+            "verse_id": 180
         },
         {
             "chapter_number": 4,
@@ -1791,7 +1971,8 @@ const data = {
             "transliteration": "tyaktvā karma-phalāsaṅgaṁ nitya-tṛipto nirāśhrayaḥ\nkarmaṇyabhipravṛitto ’pi naiva kiñchit karoti saḥ\n\n",
             "verse_number": 20,
             "word_meanings": "tyaktvā—having given up; karma-phala-āsaṅgam—attachment to the fruits of action; nitya—always; tṛiptaḥ—satisfied; nirāśhrayaḥ—without dependence; karmaṇi—in activities; abhipravṛittaḥ—engaged; api—despite; na—not; eva—certainly; kiñchit—anything; karoti—do; saḥ—that person\n\n",
-            "audio_number": 20
+            "audio_number": 20,
+            "verse_id": 181
         },
         {
             "chapter_number": 4,
@@ -1800,7 +1981,8 @@ const data = {
             "transliteration": "nirāśhīr yata-chittātmā tyakta-sarva-parigrahaḥ\nśhārīraṁ kevalaṁ karma kurvan nāpnoti kilbiṣham\n\n",
             "verse_number": 21,
             "word_meanings": "nirāśhīḥ—free from expectations; yata—controlled; chitta-ātmā—mind and intellect; tyakta—having abandoned; sarva—all; parigrahaḥ—the sense of ownership; śhārīram—bodily; kevalam—only; karma—actions; kurvan—performing; na—never; āpnoti—incurs; kilbiṣham—sin\n\n",
-            "audio_number": 21
+            "audio_number": 21,
+            "verse_id": 182
         },
         {
             "chapter_number": 4,
@@ -1809,7 +1991,8 @@ const data = {
             "transliteration": "yadṛichchhā-lābha-santuṣhṭo dvandvātīto vimatsaraḥ\nsamaḥ siddhāvasiddhau cha kṛitvāpi na nibadhyate\n\n",
             "verse_number": 22,
             "word_meanings": "yadṛichchhā—which comes of its own accord; lābha—gain; santuṣhṭaḥ—contented; dvandva—duality; atītaḥ—surpassed; vimatsaraḥ—free from envy; samaḥ—equipoised; siddhau—in success; asiddhau—failure; cha—and; kṛitvā—performing; api—even; na—never; nibadhyate—is bound\n\n",
-            "audio_number": 22
+            "audio_number": 22,
+            "verse_id": 183
         },
         {
             "chapter_number": 4,
@@ -1818,7 +2001,8 @@ const data = {
             "transliteration": "gata-saṅgasya muktasya jñānāvasthita-chetasaḥ\nyajñāyācharataḥ karma samagraṁ pravilīyate\n\n",
             "verse_number": 23,
             "word_meanings": "gata-saṅgasya—free from material attachments; muktasya—of the liberated; jñāna-avasthita—established in divine knowledge; chetasaḥ—whose intellect; yajñāya—as a sacrifice (to God); ācharataḥ—performing; karma—action; samagram—completely; pravilīyate—are freed\n\n",
-            "audio_number": 23
+            "audio_number": 23,
+            "verse_id": 184
         },
         {
             "chapter_number": 4,
@@ -1827,7 +2011,8 @@ const data = {
             "transliteration": "brahmārpaṇaṁ brahma havir brahmāgnau brahmaṇā hutam\nbrahmaiva tena gantavyaṁ brahma-karma-samādhinā\n\n",
             "verse_number": 24,
             "word_meanings": "brahma—Brahman; arpaṇam—the ladle and other offerings; brahma—Brahman; haviḥ—the oblation; brahma—Brahman; agnau—in the sacrificial fire; brahmaṇā—by that person; hutam—offered; brahma—Brahman; eva—certainly; tena—by that; gantavyam—to be attained; brahma—Brahman; karma—offering; samādhinā—those completely absorbed in God-consciousness\n\n",
-            "audio_number": 24
+            "audio_number": 24,
+            "verse_id": 185
         },
         {
             "chapter_number": 4,
@@ -1836,7 +2021,8 @@ const data = {
             "transliteration": "daivam evāpare yajñaṁ yoginaḥ paryupāsate\nbrahmāgnāvapare yajñaṁ yajñenaivopajuhvati\n\n",
             "verse_number": 25,
             "word_meanings": "daivam—the celestial gods; eva—indeed; apare—others; yajñam—sacrifice; yoginaḥ—spiritual practioners; paryupāsate—worship; brahma—of the Supreme Truth; agnau—in the fire; apare—others; yajñam—sacrifice; yajñena—by sacrifice; eva—indeed; upajuhvati—offer\n\n",
-            "audio_number": 25
+            "audio_number": 25,
+            "verse_id": 186
         },
         {
             "chapter_number": 4,
@@ -1845,7 +2031,8 @@ const data = {
             "transliteration": "śhrotrādīnīndriyāṇyanye sanyamāgniṣhu juhvati\nśhabdādīn viṣhayānanya indriyāgniṣhu juhvati\n\n",
             "verse_number": 26,
             "word_meanings": "śhrotra-ādīni—such as the hearing process; indriyāṇi—senses; anye—others; sanyama—restraint; agniṣhu—in the sacrficial fire; juhvati—sacrifice; śhabda-ādīn—sound vibration, etc; viṣhayān—objects of sense-gratification; anye—others; indriya—of the senses; agniṣhu—in the fire; juhvati—sacrifice\n\n",
-            "audio_number": 26
+            "audio_number": 26,
+            "verse_id": 187
         },
         {
             "chapter_number": 4,
@@ -1854,7 +2041,8 @@ const data = {
             "transliteration": "sarvāṇīndriya-karmāṇi prāṇa-karmāṇi chāpare\nātma-sanyama-yogāgnau juhvati jñāna-dīpite\n\n",
             "verse_number": 27,
             "word_meanings": "sarvāṇi—all; indriya—the senses; karmāṇi—functions; prāṇa-karmāṇi—functions of the life breath; cha—and; apare—others; ātma-sanyama yogāgnau—in the fire of the controlled mind; juhvati—sacrifice; jñāna-dīpite—kindled by knowledge\n\n",
-            "audio_number": 27
+            "audio_number": 27,
+            "verse_id": 188
         },
         {
             "chapter_number": 4,
@@ -1863,7 +2051,8 @@ const data = {
             "transliteration": "dravya-yajñās tapo-yajñā yoga-yajñās tathāpare\nswādhyāya-jñāna-yajñāśh cha yatayaḥ sanśhita-vratāḥ\n\n",
             "verse_number": 28,
             "word_meanings": "dravya-yajñāḥ—offering one’s own wealth as sacrifice; tapaḥ-yajñāḥ—offering severe austerities as sacrifice; yoga-yajñāḥ—performance of eight-fold path of yogic practices as sacrifice; tathā—thus; apare—others; swādhyāya—cultivating knowledge by studying the scriptures; jñāna-yajñāḥ—those offer cultivation of transcendental knowledge as sacrifice; cha—also; yatayaḥ—these ascetics; sanśhita-vratāḥ—observing strict vows\n\n",
-            "audio_number": 28
+            "audio_number": 28,
+            "verse_id": 189
         },
         {
             "chapter_number": 4,
@@ -1872,7 +2061,8 @@ const data = {
             "transliteration": "apāne juhvati prāṇaṁ prāṇe ’pānaṁ tathāpare\nprāṇāpāna-gatī ruddhvā prāṇāyāma-parāyaṇāḥ\n apare niyatāhārāḥ prāṇān prāṇeṣhu juhvati\nsarve ’pyete yajña-vido yajña-kṣhapita-kalmaṣhāḥ\n",
             "verse_number": -1,
             "word_meanings": "apāne—the incoming breath; juhvati—offer; prāṇam—the outgoing breath; prāṇe—in the outgoing breath; apānam—incoming breath; tathā—also; apare—others; prāṇa—of the outgoing breath; apāna—and the incoming breath; gatī—movement; ruddhvā—blocking; prāṇa-āyāma—control of breath; parāyaṇāḥ—wholly devoted\n apare—others; niyata—having controlled; āhārāḥ—food intake; prāṇān—life-breaths; prāṇeṣhu—life-energy; juhvati—sacrifice; sarve—all; api—also; ete—these; yajña-vidaḥ—knowers of sacrifices; yajña-kṣhapita—being cleansed by performances of sacrifices; kalmaṣhāḥ—of impurities\n",
-            "audio_number": -1
+            "audio_number": -1,
+            "verse_id": 190
         },
         {
             "chapter_number": 4,
@@ -1881,7 +2071,8 @@ const data = {
             "transliteration": "yajña-śhiṣhṭāmṛita-bhujo yānti brahma sanātanam\nnāyaṁ loko ’styayajñasya kuto ’nyaḥ kuru-sattama\n\n",
             "verse_number": 31,
             "word_meanings": "yajña-śhiṣhṭa amṛita-bhujaḥ—they partake of the nectarean remnants of sacrifice; yānti—go; brahma—the Absolute Truth; sanātanam—eternal; na—never; ayam—this; lokaḥ—planet; asti—is; ayajñasya—for one who performs no sacrifice; kutaḥ—how; anyaḥ—other (world); kuru-sat-tama—best of the Kurus, Arjun\n\n",
-            "audio_number": 31
+            "audio_number": 31,
+            "verse_id": 191
         },
         {
             "chapter_number": 4,
@@ -1890,7 +2081,8 @@ const data = {
             "transliteration": "evaṁ bahu-vidhā yajñā vitatā brahmaṇo mukhe\nkarma-jān viddhi tān sarvān evaṁ jñātvā vimokṣhyase\n\n",
             "verse_number": 32,
             "word_meanings": "evam—thus; bahu-vidhāḥ—various kinds of; yajñāḥ—sacrifices; vitatāḥ—have been described; brahmaṇaḥ—of the Vedas; mukhe—through the mouth; karma-jān—originating from works; viddhi—know; tān—them; sarvān—all; evam—thus; jñātvā—having known; vimokṣhyase—you shall be liberated\n\n",
-            "audio_number": 32
+            "audio_number": 32,
+            "verse_id": 192
         },
         {
             "chapter_number": 4,
@@ -1899,7 +2091,8 @@ const data = {
             "transliteration": "śhreyān dravya-mayād yajñāj jñāna-yajñaḥ parantapa\nsarvaṁ karmākhilaṁ pārtha jñāne parisamāpyate\n\n",
             "verse_number": 33,
             "word_meanings": "śhreyān—superior; dravya-mayāt—of material possessions; yajñāt—than the sacrifice; jñāna-yajñaḥ—sacrifice performed in knowledge; parantapa—subduer of enemies, Arjun; sarvam—all; karma—works; akhilam—all; pārtha—Arjun, the son of Pritha; jñāne—in knowledge; parisamāpyate—culminate\n\n",
-            "audio_number": 33
+            "audio_number": 33,
+            "verse_id": 193
         },
         {
             "chapter_number": 4,
@@ -1908,7 +2101,8 @@ const data = {
             "transliteration": "tad viddhi praṇipātena paripraśhnena sevayā\nupadekṣhyanti te jñānaṁ jñāninas tattva-darśhinaḥ\n\n",
             "verse_number": 34,
             "word_meanings": "tat—the Truth; viddhi—try to learn; praṇipātena—by approaching a spiritual master; paripraśhnena—by humble inquiries; sevayā—by rendering service; upadekṣhyanti—can impart; te—unto you; jñānam—knowledge; jñāninaḥ—the enlightened; tattva-darśhinaḥ—those who have realized the Truth\n\n",
-            "audio_number": 34
+            "audio_number": 34,
+            "verse_id": 194
         },
         {
             "chapter_number": 4,
@@ -1917,7 +2111,8 @@ const data = {
             "transliteration": "yaj jñātvā na punar moham evaṁ yāsyasi pāṇḍava\nyena bhūtānyaśheṣheṇa drakṣhyasyātmanyatho mayi\n\n",
             "verse_number": 35,
             "word_meanings": "yat—which; jñātvā—having known; na—never; punaḥ—again; moham—delusion; evam—like this; yāsyasi—you shall get; pāṇḍava—Arjun, the son of Pandu; yena—by this; bhūtāni—living beings; aśheṣhāṇi—all; drakṣhyasi—you will see; ātmani—within me (Shree Krishna); atho—that is to say; mayi—in me\n\n",
-            "audio_number": 35
+            "audio_number": 35,
+            "verse_id": 195
         },
         {
             "chapter_number": 4,
@@ -1926,7 +2121,8 @@ const data = {
             "transliteration": "api ched asi pāpebhyaḥ sarvebhyaḥ pāpa-kṛit-tamaḥ\nsarvaṁ jñāna-plavenaiva vṛijinaṁ santariṣhyasi\n\n",
             "verse_number": 36,
             "word_meanings": "api—even; chet—if; asi—you are; pāpebhyaḥ—sinners; sarvebhyaḥ—of all; pāpa-kṛit-tamaḥ—most sinful; sarvam—all; jñāna-plavena—by the boat of divine knowledge; eva—certainly; vṛijinam—sin; santariṣhyasi—you shall cross over\n\n",
-            "audio_number": 36
+            "audio_number": 36,
+            "verse_id": 196
         },
         {
             "chapter_number": 4,
@@ -1935,7 +2131,8 @@ const data = {
             "transliteration": "yathaidhānsi samiddho ’gnir bhasma-sāt kurute ’rjuna\njñānāgniḥ sarva-karmāṇi bhasma-sāt kurute tathā\n\n",
             "verse_number": 37,
             "word_meanings": "yathā—as; edhānsi—firewood; samiddhaḥ—blazing; agniḥ—fire; bhasma-sāt—to ashes; kurute—turns; arjuna—Arjun; jñāna-agniḥ—the fire of knowledge; sarva-karmāṇi—all reactions from material activities; bhasma-sāt—to ashes; kurute—it turns; tathā—similarly\n\n",
-            "audio_number": 37
+            "audio_number": 37,
+            "verse_id": 197
         },
         {
             "chapter_number": 4,
@@ -1944,7 +2141,8 @@ const data = {
             "transliteration": "na hi jñānena sadṛiśhaṁ pavitramiha vidyate\ntatsvayaṁ yogasansiddhaḥ kālenātmani vindati\n\n",
             "verse_number": 38,
             "word_meanings": "na—not; hi—certainly; jñānena—with divine knowledge; sadṛiśham—like; pavitram—pure; iha—in this world; vidyate—exists; tat—that; svayam—oneself; yoga—practice of yog; sansiddhaḥ—he who has attained perfection; kālena—in course of time; ātmani—wihtin the heart; vindati—finds\n\n",
-            "audio_number": 38
+            "audio_number": 38,
+            "verse_id": 198
         },
         {
             "chapter_number": 4,
@@ -1953,7 +2151,8 @@ const data = {
             "transliteration": "śhraddhāvān labhate jñānaṁ tat-paraḥ sanyatendriyaḥ\njñānaṁ labdhvā parāṁ śhāntim achireṇādhigachchhati\n\n",
             "verse_number": 39,
             "word_meanings": "śhraddhā-vān—a faithful person; labhate—achieves; jñānam—divine knowledge; tat-paraḥ—devoted (to that); sanyata—controlled; indriyaḥ—senses; jñānam—transcendental knowledge; labdhvā—having achieved; parām—supreme; śhāntim—peace; achireṇa—without delay; adhigachchhati—attains\n\n",
-            "audio_number": 39
+            "audio_number": 39,
+            "verse_id": 199
         },
         {
             "chapter_number": 4,
@@ -1962,7 +2161,8 @@ const data = {
             "transliteration": "ajñaśh chāśhraddadhānaśh cha sanśhayātmā vinaśhyati\nnāyaṁ loko ’sti na paro na sukhaṁ sanśhayātmanaḥ\n\n",
             "verse_number": 40,
             "word_meanings": "ajñaḥ—the ignorant; cha—and; aśhraddadhānaḥ—without faith; cha—and; sanśhaya—skeptical; ātmā—a person; vinaśhyati—falls down; na—never; ayam—in this; lokaḥ—world; asti—is; na—not; paraḥ—in the next; na—not; sukham—happiness; sanśhaya-ātmanaḥ—for the skeptical soul\n\n",
-            "audio_number": 40
+            "audio_number": 40,
+            "verse_id": 200
         },
         {
             "chapter_number": 4,
@@ -1971,7 +2171,8 @@ const data = {
             "transliteration": "yoga-sannyasta-karmāṇaṁ jñāna-sañchhinna-sanśhayam\nātmavantaṁ na karmāṇi nibadhnanti dhanañjaya\n\n",
             "verse_number": 41,
             "word_meanings": "yoga-sannyasta-karmāṇam—those who renounce ritualistic karm, dedicating their body, mind, and soul to God; jñāna—by knowledge; sañchhinna—dispelled; sanśhayam—doubts; ātma-vantam—situated in knowledge of the self; na—not; karmāṇi—actions; nibadhnanti—bind; dhanañjaya—Arjun, the conqueror of wealth\n\n",
-            "audio_number": 41
+            "audio_number": 41,
+            "verse_id": 201
         },
         {
             "chapter_number": 4,
@@ -1980,7 +2181,8 @@ const data = {
             "transliteration": "tasmād ajñāna-sambhūtaṁ hṛit-sthaṁ jñānāsinātmanaḥ\nchhittvainaṁ sanśhayaṁ yogam ātiṣhṭhottiṣhṭha bhārata\n\n",
             "verse_number": 42,
             "word_meanings": "tasmāt—therefore; ajñāna-sambhūtam—born of ignorance; hṛit-stham—situated in the heart; jñāna—of knowledge; asinā—with the sword; ātmanaḥ—of the self; chhittvā—cut asunder; enam—this; sanśhayam—doubt; yogam—in karm yog; ātiṣhṭha—take shelter; uttiṣhṭha—arise; bhārata—Arjun, descendant of Bharat\n\n",
-            "audio_number": 42
+            "audio_number": 42,
+            "verse_id": 202
         },
         {
             "chapter_number": 5,
@@ -1989,7 +2191,8 @@ const data = {
             "transliteration": "arjuna uvācha\nsannyāsaṁ karmaṇāṁ kṛiṣhṇa punar yogaṁ cha śhansasi\nyach chhreya etayor ekaṁ tan me brūhi su-niśhchitam\n\n",
             "verse_number": 1,
             "word_meanings": "arjunaḥ uvācha—Arjun said; sanyāsam—renunciation; karmaṇām—of actions; kṛiṣhṇa—Shree Krishna; punaḥ—again; yogam—about karm yog; cha—also; śhansasi—you praise; yat—which; śhreyaḥ—more beneficial; etayoḥ—of the two; ekam—one; tat—that; me—unto me; brūhi—please tell; su-niśhchitam—conclusively\n\n",
-            "audio_number": 1
+            "audio_number": 1,
+            "verse_id": 203
         },
         {
             "chapter_number": 5,
@@ -1998,7 +2201,8 @@ const data = {
             "transliteration": "śhrī bhagavān uvācha\nsannyāsaḥ karma-yogaśh cha niḥśhreyasa-karāvubhau\ntayos tu karma-sannyāsāt karma-yogo viśhiṣhyate\n\n",
             "verse_number": 2,
             "word_meanings": "śhrī-bhagavān uvācha—the Supreme Lord said; sanyāsaḥ—renunciation; karma-yogaḥ—working in devotion; cha—and; niḥśhreyasa-karau—lead to the supreme goal; ubhau—both; tayoḥ—of the two; tu—but; karma-sanyāsāt—renunciation of actions; karma-yogaḥ—working in devotion; viśhiṣhyate—is superior\n\n",
-            "audio_number": 2
+            "audio_number": 2,
+            "verse_id": 204
         },
         {
             "chapter_number": 5,
@@ -2007,7 +2211,8 @@ const data = {
             "transliteration": "jñeyaḥ sa nitya-sannyāsī yo na dveṣhṭi na kāṅkṣhati\nnirdvandvo hi mahā-bāho sukhaṁ bandhāt pramuchyate\n\n",
             "verse_number": 3,
             "word_meanings": "jñeyaḥ—should be considered; saḥ—that person; nitya—always; sanyāsī—practising renunciation; yaḥ—who; na—never; dveṣhṭi—hate; na—nor; kāṅkṣhati—desire; nirdvandvaḥ—free from all dualities; hi—certainly; mahā-bāho—mighty-armed one; sukham—easily; bandhāt—from bondage; pramuchyate—is liberated\n\n",
-            "audio_number": 3
+            "audio_number": 3,
+            "verse_id": 205
         },
         {
             "chapter_number": 5,
@@ -2016,7 +2221,8 @@ const data = {
             "transliteration": "sānkhya-yogau pṛithag bālāḥ pravadanti na paṇḍitāḥ\nekamapyāsthitaḥ samyag ubhayor vindate phalam\n\n",
             "verse_number": 4,
             "word_meanings": "sānkhya—renunciation of actions; yogau—karm yog; pṛithak—different; bālāḥ—the ignorant; pravadanti—say; na—never; paṇḍitāḥ—the learned; ekam—in one; api—even; āsthitaḥ—being situated; samyak—completely; ubhayoḥ—of both; vindate—achieve; phalam—the result\n\n",
-            "audio_number": 4
+            "audio_number": 4,
+            "verse_id": 206
         },
         {
             "chapter_number": 5,
@@ -2025,7 +2231,8 @@ const data = {
             "transliteration": "\nyat sānkhyaiḥ prāpyate sthānaṁ tad yogair api gamyate\nekaṁ sānkhyaṁ cha yogaṁ cha yaḥ paśhyati sa paśhyati\n\n",
             "verse_number": 5,
             "word_meanings": "yat—what; sānkhyaiḥ—by means of karm sanyās; prāpyate—is attained; sthānam—place; tat—that; yogaiḥ—by working in devotion; api—also; gamyate—is attained; ekam—one; sānkhyam—renunciation of actions; cha—and; yogam—karm yog; cha—and; yaḥ—who; paśhyati—sees; saḥ—that person; paśhyati—actually sees\n\n",
-            "audio_number": 5
+            "audio_number": 5,
+            "verse_id": 207
         },
         {
             "chapter_number": 5,
@@ -2034,7 +2241,8 @@ const data = {
             "transliteration": "sannyāsas tu mahā-bāho duḥkham āptum ayogataḥ\nyoga-yukto munir brahma na chireṇādhigachchhati\n\n",
             "verse_number": 6,
             "word_meanings": "sanyāsaḥ—renunciation; tu—but; mahā-bāho—mighty-armed one; duḥkham—distress; āptum—attains; ayogataḥ—without karm yog; yoga-yuktaḥ—one who is adept in karm yog; muniḥ—a sage; brahma—Brahman; na chireṇa—quickly; adhigachchhati—goes\n\n",
-            "audio_number": 6
+            "audio_number": 6,
+            "verse_id": 208
         },
         {
             "chapter_number": 5,
@@ -2043,7 +2251,8 @@ const data = {
             "transliteration": "yoga-yukto viśhuddhātmā vijitātmā jitendriyaḥ\nsarva-bhūtātma-bhūtātmā kurvann api na lipyate\n\n",
             "verse_number": 7,
             "word_meanings": "yoga-yuktaḥ—united in consciousness with God; viśhuddha-ātmā—one with purified intellect; vijita-ātmā—one who has conquered the mind; jita-indriyaḥ—having conquered the senses; sarva-bhūta-ātma-bhūta-ātmā—one who sees the Soul of all souls in every living being; kurvan—performing; api—although; na—never; lipyate—entangled\n",
-            "audio_number": 7
+            "audio_number": 7,
+            "verse_id": 209
         },
         {
             "chapter_number": 5,
@@ -2052,7 +2261,8 @@ const data = {
             "transliteration": "naiva kiñchit karomīti yukto manyeta tattva-vit\npaśhyañ śhṛiṇvan spṛiśhañjighrann aśhnangachchhan svapañśhvasan\n pralapan visṛijan gṛihṇann unmiṣhan nimiṣhann api\nindriyāṇīndriyārtheṣhu vartanta iti dhārayan\n",
             "verse_number": 8,
             "word_meanings": "na—not; eva—certainly; kiñchit—anything; karomi—I do; iti—thus; yuktaḥ—steadfast in karm yog; manyeta—thinks; tattva-vit—one who knows the truth; paśhyan—seeing; śhṛiṇvan—hearing; spṛiśhan—touching; jighran—smelling; aśhnan—eating; gachchhan—moving; svapan—sleeping; śhvasan—breathing;\n pralapan—talking; visṛijan—giving up; gṛihṇan—accepting; unmiṣhan—opening (the eyes); nimiṣhan—closing (the eyes); api—although; indriyāṇi—the senses; indriya-artheṣhu—in sense-objects; vartante—moving; iti—thus; dhārayan—convinced\n",
-            "audio_number": 8
+            "audio_number": 8,
+            "verse_id": 210
         },
         {
             "chapter_number": 5,
@@ -2061,7 +2271,8 @@ const data = {
             "transliteration": "brahmaṇyādhāya karmāṇi saṅgaṁ tyaktvā karoti yaḥ\nlipyate na sa pāpena padma-patram ivāmbhasā\n\n",
             "verse_number": 10,
             "word_meanings": "brahmaṇi—to God; ādhāya—dedicating; karmāṇi—all actions; saṅgam—attachment; tyaktvā—abandoning; karoti—performs; yaḥ—who; lipyate—is affected; na—never; saḥ—that person; pāpena—by sin; padma-patram—a lotus leaf; iva—like; ambhasā—by water\n\n",
-            "audio_number": 9
+            "audio_number": 9,
+            "verse_id": 211
         },
         {
             "chapter_number": 5,
@@ -2070,7 +2281,8 @@ const data = {
             "transliteration": "kāyena manasā buddhyā kevalair indriyair api\nyoginaḥ karma kurvanti saṅgaṁ tyaktvātma-śhuddhaye\n\n",
             "verse_number": 11,
             "word_meanings": "kāyena—with the body; manasā—with the mind; buddhyā—with the intellect; kevalaiḥ—only; indriyaiḥ—with the senses; api—even; yoginaḥ—the yogis; karma—actions; kurvanti—perform; saṅgam—attachment; tyaktvā—giving up; ātma—of the self; śhuddhaye—for the purification\n\n",
-            "audio_number": 10
+            "audio_number": 10,
+            "verse_id": 212
         },
         {
             "chapter_number": 5,
@@ -2079,7 +2291,8 @@ const data = {
             "transliteration": "yuktaḥ karma-phalaṁ tyaktvā śhāntim āpnoti naiṣhṭhikīm\nayuktaḥ kāma-kāreṇa phale sakto nibadhyate\n\n",
             "verse_number": 12,
             "word_meanings": "yuktaḥ—one who is united in consciousness with God; karma-phalam—the results of all activities; tyaktvā—giving up; śhāntim—peace; āpnoti—attains; naiṣhṭhikīm—everlasting; ayuktaḥ—one who is not united with God in consciousness; kāma-kāreṇa—impelled by desires; phale—in the result; saktaḥ—attached; nibadhyate—becomes entangled\n\n",
-            "audio_number": 11
+            "audio_number": 11,
+            "verse_id": 213
         },
         {
             "chapter_number": 5,
@@ -2088,7 +2301,8 @@ const data = {
             "transliteration": "sarva-karmāṇi manasā sannyasyāste sukhaṁ vaśhī\nnava-dvāre pure dehī naiva kurvan na kārayan\n\n",
             "verse_number": 13,
             "word_meanings": "sarva—all; karmāṇi—activities; manasā—by the mind; sannyasya—having renounced; āste—remains; sukham—happily; vaśhī—the self-controlled; nava-dvāre—of nine gates; pure—in the city; dehī—the embodied being; na—never; eva—certainly; kurvan—doing anything; na—not; kārayan—causing to be done\n\n",
-            "audio_number": 12
+            "audio_number": 12,
+            "verse_id": 214
         },
         {
             "chapter_number": 5,
@@ -2097,7 +2311,8 @@ const data = {
             "transliteration": "na kartṛitvaṁ na karmāṇi lokasya sṛijati prabhuḥ\nna karma-phala-saṅyogaṁ svabhāvas tu pravartate\n\n",
             "verse_number": 14,
             "word_meanings": "na—neither; kartṛitvam—sense of doership; na—nor; karmāṇi—actions; lokasya—of the people; sṛijati—creates; prabhuḥ—God; na—nor; karma-phala—fruits of actions; sanyogam—connection; svabhāvaḥ—one’s nature; tu—but; pravartate—is enacted\n\n",
-            "audio_number": 13
+            "audio_number": 13,
+            "verse_id": 215
         },
         {
             "chapter_number": 5,
@@ -2106,7 +2321,8 @@ const data = {
             "transliteration": "nādatte kasyachit pāpaṁ na chaiva sukṛitaṁ vibhuḥ\najñānenāvṛitaṁ jñānaṁ tena muhyanti jantavaḥ\n\n",
             "verse_number": 15,
             "word_meanings": "na—not; ādatte—accepts; kasyachit—anyone’s; pāpam—sin; na—not; cha—and; eva—certainly; su-kṛitam—virtuous deeds; vibhuḥ—the omnipresent God; ajñānena—by ignorance; āvṛitam—covered; jñānam—knowledge; tena—by that; muhyanti—are deluded; jantavaḥ—the living entities\n\n",
-            "audio_number": 14
+            "audio_number": 14,
+            "verse_id": 216
         },
         {
             "chapter_number": 5,
@@ -2115,7 +2331,8 @@ const data = {
             "transliteration": "jñānena tu tad ajñānaṁ yeṣhāṁ nāśhitam ātmanaḥ\nteṣhām āditya-vaj jñānaṁ prakāśhayati tat param\n\n",
             "verse_number": 16,
             "word_meanings": "jñānena—by divine knowledge; tu—but; tat—that; ajñānam—ignorance; yeṣhām—whose; nāśhitam—has been destroyed; ātmanaḥ—of the self; teṣhām—their; āditya-vat—like the sun; jñānam—knowledge; prakāśhayati—illumines; tat—that; param—Supreme Entity\n\n",
-            "audio_number": 15
+            "audio_number": 15,
+            "verse_id": 217
         },
         {
             "chapter_number": 5,
@@ -2124,7 +2341,8 @@ const data = {
             "transliteration": "tad-buddhayas tad-ātmānas tan-niṣhṭhās tat-parāyaṇāḥ\ngachchhantyapunar-āvṛittiṁ jñāna-nirdhūta-kalmaṣhāḥ\n\n",
             "verse_number": 17,
             "word_meanings": "tat-buddhayaḥ—those whose intellect is directed toward God; tat-ātmānaḥ—those whose heart (mind and intellect) is solely absorbed in God; tat-niṣhṭhāḥ—those whose intellect has firm faith in God; tat-parāyaṇāḥ—those who strive after God as the supreme goal and refuge; gachchhanti—go; apunaḥ-āvṛittim—not returning; jñāna—by knowledge; nirdhūta—dispelled; kalmaṣhāḥ—sins\n\n",
-            "audio_number": 16
+            "audio_number": 16,
+            "verse_id": 218
         },
         {
             "chapter_number": 5,
@@ -2133,7 +2351,8 @@ const data = {
             "transliteration": "vidyā-vinaya-sampanne brāhmaṇe gavi hastini\nśhuni chaiva śhva-pāke cha paṇḍitāḥ sama-darśhinaḥ\n\n",
             "verse_number": 18,
             "word_meanings": "vidyā—divine knowledge; vinaya—humbleness; sampanne—equipped with; brāhmaṇe—a Brahmin; gavi—a cow; hastini—an elephant; śhuni—a dog; cha—and; eva—certainly; śhva-pāke—a dog-eater; cha—and; paṇḍitāḥ—the learned; sama-darśhinaḥ—see with equal vision\n\n",
-            "audio_number": 17
+            "audio_number": 17,
+            "verse_id": 219
         },
         {
             "chapter_number": 5,
@@ -2142,7 +2361,8 @@ const data = {
             "transliteration": "ihaiva tair jitaḥ sargo yeṣhāṁ sāmye sthitaṁ manaḥ\nnirdoṣhaṁ hi samaṁ brahma tasmād brahmaṇi te sthitāḥ\n\n",
             "verse_number": 19,
             "word_meanings": "iha eva—in this very life; taiḥ—by them; jitaḥ—conquer; sargaḥ—the creation; yeṣhām—whose; sāmye—in equanimity; sthitam—situated; manaḥ—mind; nirdoṣham—flawless; hi—certainly; samam—in equality; brahma—God; tasmāt—therefore; brahmaṇi—in the Absolute Truth; te—they; sthitāḥ—are seated\n\n",
-            "audio_number": 18
+            "audio_number": 18,
+            "verse_id": 220
         },
         {
             "chapter_number": 5,
@@ -2151,7 +2371,8 @@ const data = {
             "transliteration": "na prahṛiṣhyet priyaṁ prāpya nodvijet prāpya chāpriyam\nsthira-buddhir asammūḍho brahma-vid brahmaṇi sthitaḥ\n\n",
             "verse_number": 20,
             "word_meanings": "na—neither; prahṛiṣhyet—rejoice; priyam—the pleasant; prāpya—obtaining; na—nor; udvijet—become disturbed; prāpya—attaining; cha—also; apriyam—the unpleasant; sthira-buddhiḥ—steady intellect; asammūḍhaḥ—firmly situated; brahma-vit—having a firm understanding of divine knowledge; brahmaṇi—established in God; sthitaḥ—situated\n\n",
-            "audio_number": 19
+            "audio_number": 19,
+            "verse_id": 221
         },
         {
             "chapter_number": 5,
@@ -2160,7 +2381,8 @@ const data = {
             "transliteration": "bāhya-sparśheṣhvasaktātmā vindatyātmani yat sukham\nsa brahma-yoga-yuktātmā sukham akṣhayam aśhnute\n\n",
             "verse_number": 21,
             "word_meanings": "bāhya-sparśheṣhu—external sense pleasure; asakta-ātmā—those who are unattached; vindati—find; ātmani—in the self; yat—which; sukham—bliss; saḥ—that person; brahma-yoga yukta-ātmā—those who are united with God through yog; sukham—happiness; akṣhayam—unlimited; aśhnute—experiences\n\n",
-            "audio_number": 20
+            "audio_number": 20,
+            "verse_id": 222
         },
         {
             "chapter_number": 5,
@@ -2169,7 +2391,8 @@ const data = {
             "transliteration": "ye hi sansparśha-jā bhogā duḥkha-yonaya eva te\nādyantavantaḥ kaunteya na teṣhu ramate budhaḥ\n\n",
             "verse_number": 22,
             "word_meanings": "ye—which; hi—verily; sansparśha-jāḥ—born of contact with the sense objects; bhogāḥ—pleasures; duḥkha—misery; yonayaḥ—source of; eva—verily; te—they are; ādya-antavantaḥ—having beginning and end; kaunteya—Arjun, the son of Kunti; na—never; teṣhu—in those; ramate—takes delight; budhaḥ—the wise\n\n",
-            "audio_number": 21
+            "audio_number": 21,
+            "verse_id": 223
         },
         {
             "chapter_number": 5,
@@ -2178,7 +2401,8 @@ const data = {
             "transliteration": "śhaknotīhaiva yaḥ soḍhuṁ prāk śharīra-vimokṣhaṇāt\nkāma-krodhodbhavaṁ vegaṁ sa yuktaḥ sa sukhī naraḥ\n\n",
             "verse_number": 23,
             "word_meanings": "śhaknoti—is able; iha eva—in the present body; yaḥ—who; soḍhum—to withstand; prāk—before; śharīra—the body; vimokṣhaṇāt—giving up; kāma—desire; krodha—anger; udbhavam—generated from; vegam—forces; saḥ—that person; yuktaḥ—yogi; saḥ—that person; sukhī—happy; naraḥ—person\n\n",
-            "audio_number": 22
+            "audio_number": 22,
+            "verse_id": 224
         },
         {
             "chapter_number": 5,
@@ -2187,7 +2411,8 @@ const data = {
             "transliteration": "yo 'ntaḥ-sukho 'ntar-ārāmas tathāntar-jyotir eva yaḥ\nsa yogī brahma-nirvāṇaṁ brahma-bhūto 'dhigachchhati\n\n",
             "verse_number": 24,
             "word_meanings": "yaḥ—who; antaḥ-sukhaḥ—happy within the self; antaḥ-ārāmaḥ—enjoying within the self; tathā; antaḥ-jyotiḥ—illumined by the inner light; eva—certainly; yaḥ—who; saḥ; yogī—yogi; brahma-nirvāṇam—liberation from material existence; brahmabhūtaḥ— united with the Lord; adhigachchhati—attains\n\n",
-            "audio_number": 23
+            "audio_number": 23,
+            "verse_id": 225
         },
         {
             "chapter_number": 5,
@@ -2196,7 +2421,8 @@ const data = {
             "transliteration": "labhante brahma-nirvāṇam ṛiṣhayaḥ kṣhīṇa-kalmaṣhāḥ\nchhinna-dvaidhā yatātmānaḥ sarva-bhūta-hite ratāḥ\n\n",
             "verse_number": 25,
             "word_meanings": "labhante—achieve; brahma-nirvāṇam—liberation from material existence; ṛiṣhayaḥ—holy persons; kṣhīṇa-kalmaṣhāḥ—whose sins have been purged; chhinna—annihilated; dvaidhāḥ—doubts; yata-ātmānaḥ—whose minds are disciplined; sarva-bhūta—for all living entities; hite—in welfare work; ratāḥ—rejoice\n\n",
-            "audio_number": 24
+            "audio_number": 24,
+            "verse_id": 226
         },
         {
             "chapter_number": 5,
@@ -2205,7 +2431,8 @@ const data = {
             "transliteration": "kāma-krodha-viyuktānāṁ yatīnāṁ yata-chetasām\nabhito brahma-nirvāṇaṁ vartate viditātmanām\n\n",
             "verse_number": 26,
             "word_meanings": "kāma—desires; krodha—anger; vimuktānām—of those who are liberated; yatīnām—of the saintly persons; yata-chetasām—those self-realized persons who have subdued their mind; abhitaḥ—from every side; brahma—spiritual; nirvāṇam—liberation from material existence; vartate—exists; vidita-ātmanām—of those who are self-realized\n\n",
-            "audio_number": 25
+            "audio_number": 25,
+            "verse_id": 227
         },
         {
             "chapter_number": 5,
@@ -2214,7 +2441,8 @@ const data = {
             "transliteration": "sparśhān kṛitvā bahir bāhyānśh chakṣhuśh chaivāntare bhruvoḥ\nprāṇāpānau samau kṛitvā nāsābhyantara-chāriṇau\n yatendriya-mano-buddhir munir mokṣha-parāyaṇaḥ\nvigatechchhā-bhaya-krodho yaḥ sadā mukta eva saḥ\n",
             "verse_number": 27,
             "word_meanings": "sparśhān—contacts (through senses); kṛitvā—keeping; bahiḥ—outside; bāhyān—external; chakṣhuḥ—eyes; cha—and; eva—certainly; antare—between; bhruvoḥ—of the eyebrows; prāṇa-apānau—the outgoing and incoming breaths; samau—equal; kṛitvā—keeping; nāsa-abhyantara—within the nostrils; chāriṇau—moving; \n yata—controlled; indriya—senses; manaḥ—mind; buddhiḥ—intellect; muniḥ—the sage; mokṣha—liberation; parāyaṇaḥ—dedicated; vigata—free; ichchhā—desires; bhaya—fear; krodhaḥ—anger; yaḥ—who; sadā—always; muktaḥ—liberated; eva—certainly; saḥ—that person\n",
-            "audio_number": 26
+            "audio_number": 26,
+            "verse_id": 228
         },
         {
             "chapter_number": 5,
@@ -2223,7 +2451,8 @@ const data = {
             "transliteration": "bhoktāraṁ yajña-tapasāṁ sarva-loka-maheśhvaram\nsuhṛidaṁ sarva-bhūtānāṁ jñātvā māṁ śhāntim ṛichchhati\n\n",
             "verse_number": 29,
             "word_meanings": "bhoktāram—the enjoyer; yajña—sacrifices; tapasām—austerities; sarva-loka—of all worlds; mahā-īśhvaram—the Supreme Lord; su-hṛidam—the selfless Friend; sarva—of all; bhūtānām—the living beings; jñātvā—having realized; mām—me (Lord Krishna); śhāntim—peace; ṛichchhati—attains\n\n",
-            "audio_number": 27
+            "audio_number": 27,
+            "verse_id": 229
         },
         {
             "chapter_number": 6,
@@ -2232,7 +2461,8 @@ const data = {
             "transliteration": "śhrī bhagavān uvācha\nanāśhritaḥ karma-phalaṁ kāryaṁ karma karoti yaḥ\nsa sannyāsī cha yogī cha na niragnir na chākriyaḥ\n",
             "verse_number": 1,
             "word_meanings": "śhrī-bhagavān uvācha—the Supreme Lord said; anāśhritaḥ—not desiring; karma-phalam—results of actions; kāryam—obligatory; karma—work; karoti—perform; yaḥ—one who; saḥ—that person; sanyāsī—in the renounced order; cha—and; yogī—yogi; cha—and; na—not; niḥ—without; agniḥ—fire; na—not; cha—also; akriyaḥ—without activity\n",
-            "audio_number": 1
+            "audio_number": 1,
+            "verse_id": 230
         },
         {
             "chapter_number": 6,
@@ -2241,7 +2471,8 @@ const data = {
             "transliteration": "yaṁ sannyāsam iti prāhur yogaṁ taṁ viddhi pāṇḍava\nna hyasannyasta-saṅkalpo yogī bhavati kaśhchana\n",
             "verse_number": 2,
             "word_meanings": "yam—what; sanyāsam—renunciation; iti—thus; prāhuḥ—they say; yogam—yog; tam—that; viddhi—know; pāṇḍava—Arjun, the son of Pandu; na—not; hi—certainly; asannyasta—without giving up; saṅkalpaḥ—desire; yogī—a yogi; bhavati—becomes; kaśhchana—anyone\n",
-            "audio_number": 2
+            "audio_number": 2,
+            "verse_id": 231
         },
         {
             "chapter_number": 6,
@@ -2250,7 +2481,8 @@ const data = {
             "transliteration": "ārurukṣhor muner yogaṁ karma kāraṇam uchyate\nyogārūḍhasya tasyaiva śhamaḥ kāraṇam uchyate\n",
             "verse_number": 3,
             "word_meanings": "ārurukṣhoḥ—a beginner; muneḥ—of a sage; yogam—Yog; karma—working without attachment; kāraṇam—the cause; uchyate—is said; yoga ārūḍhasya—of those who are elevated in Yog; tasya—their; eva—certainly; śhamaḥ—meditation; kāraṇam—the cause; uchyate—is said\n",
-            "audio_number": 3
+            "audio_number": 3,
+            "verse_id": 232
         },
         {
             "chapter_number": 6,
@@ -2259,7 +2491,8 @@ const data = {
             "transliteration": "yadā hi nendriyārtheṣhu na karmasv-anuṣhajjate\nsarva-saṅkalpa-sannyāsī yogārūḍhas tadochyate\n",
             "verse_number": 4,
             "word_meanings": "yadā—when; hi—certainly; na—not; indriya-artheṣhu—for sense-objects; na—not; karmasu—to actions; anuṣhajjate—is attachment; sarva-saṅkalpa—all desires for the fruits of actions; sanyāsī—renouncer; yoga-ārūḍhaḥ—elevated in the science of Yog; tadā—at that time; uchyate—is said\n",
-            "audio_number": 4
+            "audio_number": 4,
+            "verse_id": 233
         },
         {
             "chapter_number": 6,
@@ -2268,7 +2501,8 @@ const data = {
             "transliteration": "uddhared ātmanātmānaṁ nātmānam avasādayet\nātmaiva hyātmano bandhur ātmaiva ripur ātmanaḥ\n",
             "verse_number": 5,
             "word_meanings": "uddharet—elevate; ātmanā—through the mind; ātmānam—the self; na—not; ātmānam—the self; avasādayet—degrade; ātmā—the mind; eva—certainly; hi—indeed; ātmanaḥ—of the self; bandhuḥ—friend; ātmā—the mind; eva—certainly; ripuḥ—enemy; ātmanaḥ—of the self\n",
-            "audio_number": 5
+            "audio_number": 5,
+            "verse_id": 234
         },
         {
             "chapter_number": 6,
@@ -2277,7 +2511,8 @@ const data = {
             "transliteration": "bandhur ātmātmanas tasya yenātmaivātmanā jitaḥ\nanātmanas tu śhatrutve vartetātmaiva śhatru-vat\n",
             "verse_number": 6,
             "word_meanings": "bandhuḥ—friend; ātmā—the mind; ātmanaḥ—for the person; tasya—of him; yena—by whom; ātmā—the mind; eva—certainly; ātmanā—for the person; jitaḥ—conquered; anātmanaḥ—of those with unconquered mind; tu—but; śhatrutve—for an enemy; varteta—remains; ātmā—the mind; eva—as; śhatru-vat—like an enemy\n",
-            "audio_number": 6
+            "audio_number": 6,
+            "verse_id": 235
         },
         {
             "chapter_number": 6,
@@ -2286,7 +2521,8 @@ const data = {
             "transliteration": "jitātmanaḥ praśhāntasya paramātmā samāhitaḥ\nśhītoṣhṇa-sukha-duḥkheṣhu tathā mānāpamānayoḥ\n",
             "verse_number": 7,
             "word_meanings": "jita-ātmanaḥ—one who has conquered one’s mind; praśhāntasya—of the peaceful; parama-ātmā—God; samāhitaḥ—steadfast; śhīta—in cold; uṣhṇa—heat; sukha—happiness; duḥkheṣhu—and distress; tathā—also; māna—in honor; apamānayoḥ—and dishonor\n",
-            "audio_number": 7
+            "audio_number": 7,
+            "verse_id": 236
         },
         {
             "chapter_number": 6,
@@ -2295,7 +2531,8 @@ const data = {
             "transliteration": "jñāna-vijñāna-tṛiptātmā kūṭa-stho vijitendriyaḥ\nyukta ityuchyate yogī sama-loṣhṭāśhma-kāñchanaḥ\n",
             "verse_number": 8,
             "word_meanings": "jñāna—knowledge; vijñāna—realized knowledge, wisdom from within; tṛipta ātmā—one fully satisfied; kūṭa-sthaḥ—undisturbed; vijita-indriyaḥ—one who has conquered the senses; yuktaḥ—one who is in constant communion with the Supreme; iti—thus; uchyate—is said; yogī—a yogi; sama—looks equally; loṣhṭra—pebbles; aśhma—stone; kāñchanaḥ—gold\n",
-            "audio_number": 8
+            "audio_number": 8,
+            "verse_id": 237
         },
         {
             "chapter_number": 6,
@@ -2304,7 +2541,8 @@ const data = {
             "transliteration": "suhṛin-mitrāryudāsīna-madhyastha-dveṣhya-bandhuṣhu\nsādhuṣhvapi cha pāpeṣhu sama-buddhir viśhiṣhyate\n",
             "verse_number": 9,
             "word_meanings": "su-hṛit—toward the well-wishers; mitra—friends; ari—enemies; udāsīna—neutral persons; madhya-stha—mediators; dveṣhya—the envious; bandhuṣhu—relatives; sādhuṣhu—pious; api—as well as; cha—and; pāpeṣhu—the sinners; sama-buddhiḥ—of impartial intellect; viśhiṣhyate—is distinguished\n",
-            "audio_number": 9
+            "audio_number": 9,
+            "verse_id": 238
         },
         {
             "chapter_number": 6,
@@ -2313,7 +2551,8 @@ const data = {
             "transliteration": "yogī yuñjīta satatam ātmānaṁ rahasi sthitaḥ\nekākī yata-chittātmā nirāśhīr aparigrahaḥ\n",
             "verse_number": 10,
             "word_meanings": "yogī—a yogi; yuñjīta—should remain engaged in meditation; satatam—constantly; ātmānam—self; rahasi—in seclusion; sthitaḥ—remaining; ekākī—alone; yata-chitta-ātmā—with a controlled mind and body; nirāśhīḥ—free from desires; aparigrahaḥ—free from desires for possessions for enjoyment\n",
-            "audio_number": 10
+            "audio_number": 10,
+            "verse_id": 239
         },
         {
             "chapter_number": 6,
@@ -2322,7 +2561,8 @@ const data = {
             "transliteration": "śhuchau deśhe pratiṣhṭhāpya sthiram āsanam ātmanaḥ\nnātyuchchhritaṁ nāti-nīchaṁ chailājina-kuśhottaram\n",
             "verse_number": 11,
             "word_meanings": "śhuchau—in a clean; deśhe—place; pratiṣhṭhāpya—having established; sthiram—steadfast; āsanam—seat; ātmanaḥ—his own; na—not; ati—too; uchchhritam—high; na—not; ati—too; nīcham—low; chaila—cloth; ajina—a deerskin; kuśha—kuśh grass; uttaram—one over the other\n",
-            "audio_number": 11
+            "audio_number": 11,
+            "verse_id": 240
         },
         {
             "chapter_number": 6,
@@ -2331,7 +2571,8 @@ const data = {
             "transliteration": "tatraikāgraṁ manaḥ kṛitvā yata-chittendriya-kriyaḥ\nupaviśhyāsane yuñjyād yogam ātma-viśhuddhaye\n",
             "verse_number": 12,
             "word_meanings": "tatra—there; eka-agram—one-pointed; manaḥ—mind; kṛitvā—having made; yata-chitta—controlling the mind; indriya—senses; kriyaḥ—activities; upaviśhya—being seated; āsane—on the seat; yuñjyāt yogam—should strive to practice yog; ātma viśhuddhaye—for purification of the mind; \n",
-            "audio_number": 11
+            "audio_number": 11,
+            "verse_id": 241
         },
         {
             "chapter_number": 6,
@@ -2340,7 +2581,8 @@ const data = {
             "transliteration": "samaṁ kāya-śhiro-grīvaṁ dhārayann achalaṁ sthiraḥ\nsamprekṣhya nāsikāgraṁ svaṁ diśhaśh chānavalokayan\n",
             "verse_number": 13,
             "word_meanings": "samam—straight; kāya—body; śhiraḥ—head; grīvam—neck; dhārayan—holding; achalam—unmoving; sthiraḥ—still; samprekṣhya—gazing; nāsika-agram—at the tip of the nose; svam—own; diśhaḥ—directions; cha—and; anavalokayan—not looking\n",
-            "audio_number": 12
+            "audio_number": 12,
+            "verse_id": 242
         },
         {
             "chapter_number": 6,
@@ -2349,7 +2591,8 @@ const data = {
             "transliteration": "praśhāntātmā vigata-bhīr brahmachāri-vrate sthitaḥ\nmanaḥ sanyamya mach-chitto yukta āsīta mat-paraḥ\n",
             "verse_number": 14,
             "word_meanings": "praśhānta—serene; ātmā—mind; vigata-bhīḥ—fearless; brahmachāri-vrate—in the vow of celibacy; sthitaḥ—situated; manaḥ—mind; sanyamya—having controlled; mat-chittaḥ—meditate on me (Shree Krishna); yuktaḥ—engaged; āsīta—should sit; mat-paraḥ—having me as the supreme goal\n",
-            "audio_number": 12
+            "audio_number": 12,
+            "verse_id": 243
         },
         {
             "chapter_number": 6,
@@ -2358,7 +2601,8 @@ const data = {
             "transliteration": "yuñjann evaṁ sadātmānaṁ yogī niyata-mānasaḥ\nśhantiṁ nirvāṇa-paramāṁ mat-sansthām adhigachchhati\n",
             "verse_number": 15,
             "word_meanings": "yuñjan—keeping the mind absorbed in God; evam—thus; sadā—constantly; ātmānam—the mind; yogī—a yogi; niyata-mānasaḥ—one with a disciplined mind; śhāntim—peace; nirvāṇa—liberation from the material bondage; paramām—supreme; mat-sansthām—abides in me; adhigachchhati—attains\n",
-            "audio_number": 13
+            "audio_number": 13,
+            "verse_id": 244
         },
         {
             "chapter_number": 6,
@@ -2367,7 +2611,8 @@ const data = {
             "transliteration": "nātyaśhnatastu yogo ’sti na chaikāntam anaśhnataḥ\nna chāti-svapna-śhīlasya jāgrato naiva chārjuna\n",
             "verse_number": 16,
             "word_meanings": "na—not; ati—too much; aśhnataḥ—of one who eats; tu—however; yogaḥ—Yog; asti—there is; na—not; cha—and; ekāntam—at all; anaśhnataḥ—abstaining from eating; na—not; cha—and; ati—too much; svapna-śhīlasya—of one who sleeps; jāgrataḥ—of one who does not sleep enough; na—not; eva—certainly; cha—and; arjuna—Arjun\n",
-            "audio_number": 14
+            "audio_number": 14,
+            "verse_id": 245
         },
         {
             "chapter_number": 6,
@@ -2376,7 +2621,8 @@ const data = {
             "transliteration": "yuktāhāra-vihārasya yukta-cheṣhṭasya karmasu\nyukta-svapnāvabodhasya yogo bhavati duḥkha-hā\n",
             "verse_number": 17,
             "word_meanings": "yukta—moderate; āhāra—eating; vihārasya—recreation; yukta cheṣhṭasya karmasu—balanced in work; yukta—regulated; svapna-avabodhasya—sleep and wakefulness; yogaḥ—Yog; bhavati—becomes; duḥkha-hā—the slayer of sorrows\n",
-            "audio_number": 15
+            "audio_number": 15,
+            "verse_id": 246
         },
         {
             "chapter_number": 6,
@@ -2385,7 +2631,8 @@ const data = {
             "transliteration": "yadā viniyataṁ chittam ātmanyevāvatiṣhṭhate\nniḥspṛihaḥ sarva-kāmebhyo yukta ityuchyate tadā\n",
             "verse_number": 18,
             "word_meanings": "yadā—when; viniyatam—fully controlled; chittam—the mind; ātmani—of the self; eva—certainly; avatiṣhṭhate—stays; nispṛihaḥ—free from cravings: sarva; kāmebhyaḥ—for yearning of the senses; yuktaḥ—situated in perfect Yog; iti—thus; uchyate—is said; tadā—then\n",
-            "audio_number": 16
+            "audio_number": 16,
+            "verse_id": 247
         },
         {
             "chapter_number": 6,
@@ -2394,7 +2641,8 @@ const data = {
             "transliteration": "yathā dīpo nivāta-stho neṅgate sopamā smṛitā\nyogino yata-chittasya yuñjato yogam ātmanaḥ\n",
             "verse_number": 19,
             "word_meanings": "yathā—as; dīpaḥ—a lamp; nivāta-sthaḥ—in a windless place; na—does not; iṅgate—flickers; sā—this; upamā—analogy; smṛitā—is considered; yoginaḥ—of a yogi; yata-chittasya—whose mind is disciplined; yuñjataḥ—steadily practicing; yogam—in meditation; ātmanaḥ—on the Supreme\n",
-            "audio_number": 17
+            "audio_number": 17,
+            "verse_id": 248
         },
         {
             "chapter_number": 6,
@@ -2403,7 +2651,8 @@ const data = {
             "transliteration": "yatroparamate chittaṁ niruddhaṁ yoga-sevayā\nyatra chaivātmanātmānaṁ paśhyann ātmani tuṣhyati\n",
             "verse_number": 20,
             "word_meanings": "yatra—when; uparamate—rejoice inner joy; chittam—the mind; niruddham—restrained; yoga-sevayā—by the practice of yog; yatra—when; cha—and; eva—certainly; ātmanā—through the purified mind; ātmānam—the soul; paśhyan—behold; ātmani—in the self; tuṣhyati—is satisfied\n",
-            "audio_number": 18
+            "audio_number": 18,
+            "verse_id": 249
         },
         {
             "chapter_number": 6,
@@ -2412,7 +2661,8 @@ const data = {
             "transliteration": "sukham ātyantikaṁ yat tad buddhi-grāhyam atīndriyam\nvetti yatra na chaivāyaṁ sthitaśh chalati tattvataḥ\n",
             "verse_number": 21,
             "word_meanings": "sukham—happiness; ātyantikam—limitless; yat—which; tat—that; buddhi—by intellect; grāhyam—grasp; atīndriyam—transcending the senses; vetti—knows; yatra—wherein; na—never; cha—and; eva—certainly; ayam—he; sthitaḥ—situated; chalati—deviates; tattvataḥ—from the Eternal Truth\n",
-            "audio_number": 18
+            "audio_number": 18,
+            "verse_id": 250
         },
         {
             "chapter_number": 6,
@@ -2421,7 +2671,8 @@ const data = {
             "transliteration": "yaṁ labdhvā chāparaṁ lābhaṁ manyate nādhikaṁ tataḥ\nyasmin sthito na duḥkhena guruṇāpi vichālyate\n",
             "verse_number": 22,
             "word_meanings": "yam—which; labdhvā—having gained; cha—and; aparam—any other; lābham—gain; manyate—considers; na—not; adhikam—greater; tataḥ—than that; yasmin—in which; sthitaḥ—being situated; na—never; duḥkhena—by sorrow; guruṇā—(by) the greatest; api—even; vichālyate—is shaken\n",
-            "audio_number": 18
+            "audio_number": 18,
+            "verse_id": 251
         },
         {
             "chapter_number": 6,
@@ -2430,7 +2681,8 @@ const data = {
             "transliteration": "taṁ vidyād duḥkha-sanyoga-viyogaṁ yogasaṅjñitam\nsa niśhchayena yoktavyo yogo ’nirviṇṇa-chetasā\n",
             "verse_number": 23,
             "word_meanings": "tam—that; vidyāt—you should know; duḥkha-sanyoga-viyogam—state of severance from union with misery; yoga-saṁjñitam—is known as yog; saḥ—that; niśhchayena—resolutely; yoktavyaḥ—should be practiced; yogaḥ—yog; anirviṇṇa-chetasā—with an undeviating mind\n",
-            "audio_number": 18
+            "audio_number": 18,
+            "verse_id": 252
         },
         {
             "chapter_number": 6,
@@ -2439,7 +2691,8 @@ const data = {
             "transliteration": "saṅkalpa-prabhavān kāmāns tyaktvā sarvān aśheṣhataḥ\nmanasaivendriya-grāmaṁ viniyamya samantataḥ\n",
             "verse_number": 24,
             "word_meanings": "saṅkalpa—a resolve; prabhavān—born of; kāmān—desires; tyaktvā—having abandoned; sarvān—all; aśheṣhataḥ—completely; manasā—through the mind; eva—certainly; indriya-grāmam—the group of senses; viniyamya—restraining; samantataḥ—from all sides;\n",
-            "audio_number": 19
+            "audio_number": 19,
+            "verse_id": 253
         },
         {
             "chapter_number": 6,
@@ -2448,7 +2701,8 @@ const data = {
             "transliteration": "śhanaiḥ śhanair uparamed buddhyā dhṛiti-gṛihītayā\nātma-sansthaṁ manaḥ kṛitvā na kiñchid api chintayet\n",
             "verse_number": 25,
             "word_meanings": "śhanaiḥ—gradually; śhanaiḥ—gradually; uparamet—attain peace; buddhyā—by intellect; dhṛiti-gṛihītayā—achieved through determination of resolve that is in accordance with scriptures; ātma-sanstham—fixed in God; manaḥ—mind; kṛitvā—having made; na—not; kiñchit—anything; api—even; chintayet—should think of\n",
-            "audio_number": 20
+            "audio_number": 20,
+            "verse_id": 254
         },
         {
             "chapter_number": 6,
@@ -2457,7 +2711,8 @@ const data = {
             "transliteration": "yato yato niśhcharati manaśh chañchalam asthiram\ntatas tato niyamyaitad ātmanyeva vaśhaṁ nayet\n",
             "verse_number": 26,
             "word_meanings": "yataḥ yataḥ—whenever and wherever; niśhcharati—wanders; manaḥ—the mind; chañchalam—restless; asthiram—unsteady; tataḥ tataḥ—from there; niyamya—having restrained; etat—this; ātmani—on God; eva—certainly; vaśham—control; nayet—should bring\n",
-            "audio_number": 21
+            "audio_number": 21,
+            "verse_id": 255
         },
         {
             "chapter_number": 6,
@@ -2466,7 +2721,8 @@ const data = {
             "transliteration": "praśhānta-manasaṁ hyenaṁ yoginaṁ sukham uttamam\nupaiti śhānta-rajasaṁ brahma-bhūtam akalmaṣham\n",
             "verse_number": 27,
             "word_meanings": "praśhānta—peaceful; manasam—mind; hi—certainly; enam—this; yoginam—yogi; sukham uttamam—the highest bliss; upaiti—attains; śhānta-rajasam—whose passions are subdued; brahma-bhūtam—endowed with God-realization; akalmaṣham—without sin\n",
-            "audio_number": 22
+            "audio_number": 22,
+            "verse_id": 256
         },
         {
             "chapter_number": 6,
@@ -2475,7 +2731,8 @@ const data = {
             "transliteration": "yuñjann evaṁ sadātmānaṁ yogī vigata-kalmaṣhaḥ\nsukhena brahma-sansparśham atyantaṁ sukham aśhnute\n",
             "verse_number": 28,
             "word_meanings": "yuñjan—uniting (the self with God); evam—thus; sadā—always; ātmānam—the self; yogī—a yogi; vigata—freed from; kalmaṣhaḥ—sins; sukhena—easily; brahma-sansparśham—constantly in touch with the Supreme; atyantam—the highest; sukham—bliss; aśhnute—attains\n",
-            "audio_number": 23
+            "audio_number": 23,
+            "verse_id": 257
         },
         {
             "chapter_number": 6,
@@ -2484,7 +2741,8 @@ const data = {
             "transliteration": "sarva-bhūta-stham ātmānaṁ sarva-bhūtāni chātmani\nīkṣhate yoga-yuktātmā sarvatra sama-darśhanaḥ\n",
             "verse_number": 29,
             "word_meanings": "sarva-bhūta-stham—situated in all living beings; ātmānam—Supreme Soul; sarva—all; bhūtāni—living beings; cha—and; ātmani—in God; īkṣhate—sees; yoga-yukta-ātmā—one united in consciousness with God; sarvatra—everywhere; sama-darśhanaḥ—equal vision\n",
-            "audio_number": 24
+            "audio_number": 24,
+            "verse_id": 258
         },
         {
             "chapter_number": 6,
@@ -2493,7 +2751,8 @@ const data = {
             "transliteration": "yo māṁ paśhyati sarvatra sarvaṁ cha mayi paśhyati\ntasyāhaṁ na praṇaśhyāmi sa cha me na praṇaśhyati\n",
             "verse_number": 30,
             "word_meanings": "yaḥ—who; mām—me; paśhyati—see; sarvatra—everywhere; sarvam—everything; cha—and; mayi—in me; paśhyati—see; tasya—for him; aham—I; na—not; praṇaśhyāmi—lost; saḥ—that person; cha—and; me—to me; na—nor; praṇaśhyati—lost\n",
-            "audio_number": 25
+            "audio_number": 25,
+            "verse_id": 259
         },
         {
             "chapter_number": 6,
@@ -2502,7 +2761,8 @@ const data = {
             "transliteration": "sarva-bhūta-sthitaṁ yo māṁ bhajatyekatvam āsthitaḥ\nsarvathā vartamāno ’pi sa yogī mayi vartate\n",
             "verse_number": 31,
             "word_meanings": "sarva-bhūta-sthitam—situated in all beings; yaḥ—who; mām—me; bhajati—worships; ekatvam—in unity; āsthitaḥ—established; sarvathā—in all kinds of; varta-mānaḥ—remain; api—although; saḥ—he; yogī—a yogi; mayi—in me; vartate—dwells\n",
-            "audio_number": 26
+            "audio_number": 26,
+            "verse_id": 260
         },
         {
             "chapter_number": 6,
@@ -2511,7 +2771,8 @@ const data = {
             "transliteration": "ātmaupamyena sarvatra samaṁ paśhyati yo ’rjuna\nsukhaṁ vā yadi vā duḥkhaṁ sa yogī paramo mataḥ\n",
             "verse_number": 32,
             "word_meanings": "ātma-aupamyena—similar to oneself; sarvatra—everywhere; samam—equally; paśhyati—see; yaḥ—who; arjuna—Arjun; sukham—joy; vā—or; yadi—if; vā—or; duḥkham—sorrow; saḥ—such; yogī—a yogi; paramaḥ—highest; mataḥ—is considered\n",
-            "audio_number": 27
+            "audio_number": 27,
+            "verse_id": 261
         },
         {
             "chapter_number": 6,
@@ -2520,7 +2781,8 @@ const data = {
             "transliteration": "arjuna uvācha\nyo ’yaṁ yogas tvayā proktaḥ sāmyena madhusūdana\netasyāhaṁ na paśhyāmi chañchalatvāt sthitiṁ sthirām\n",
             "verse_number": 33,
             "word_meanings": "arjunaḥ uvācha—Arjun said; yaḥ—which; ayam—this; yogaḥ—system of Yog; tvayā—by you; proktaḥ—described; sāmyena—by equanimity; madhu-sūdana—Shree Krishna, the killer of the demon named Madhu; etasya—of this; aham—I; na—do not; paśhyāmi—see; chañchalatvāt—due to restlessness; sthitim—situation; sthirām—steady\n",
-            "audio_number": 28
+            "audio_number": 28,
+            "verse_id": 262
         },
         {
             "chapter_number": 6,
@@ -2529,7 +2791,8 @@ const data = {
             "transliteration": "chañchalaṁ hi manaḥ kṛiṣhṇa pramāthi balavad dṛiḍham\ntasyāhaṁ nigrahaṁ manye vāyor iva su-duṣhkaram\n",
             "verse_number": 34,
             "word_meanings": "chañchalam—restless; hi—certainly; manaḥ—mind; kṛiṣhṇa—Shree Krishna; pramāthi—turbulent; bala-vat—strong; dṛiḍham—obstinate; tasya—its; aham—I; nigraham—control; manye—think; vāyoḥ—of the wind; iva—like; su-duṣhkaram—difficult to perform\n",
-            "audio_number": 29
+            "audio_number": 29,
+            "verse_id": 263
         },
         {
             "chapter_number": 6,
@@ -2538,7 +2801,8 @@ const data = {
             "transliteration": "śhrī bhagavān uvācha\nasanśhayaṁ mahā-bāho mano durnigrahaṁ chalam\nabhyāsena tu kaunteya vairāgyeṇa cha gṛihyate\n",
             "verse_number": 35,
             "word_meanings": "śhrī-bhagavān uvācha—Lord Krishna said; asanśhayam—undoubtedly; mahā-bāho—mighty-armed one; manaḥ—the mind; durnigraham—difficult to restrain; chalam—restless; abhyāsena—by practice; tu—but; kaunteya—Arjun, the son of Kunti; vairāgyeṇa—by detachment; cha—and; gṛihyate—can be controlled\n",
-            "audio_number": 30
+            "audio_number": 30,
+            "verse_id": 264
         },
         {
             "chapter_number": 6,
@@ -2547,7 +2811,8 @@ const data = {
             "transliteration": "asaṅyatātmanā yogo duṣhprāpa iti me matiḥ\nvaśhyātmanā tu yatatā śhakyo ’vāptum upāyataḥ\n",
             "verse_number": 36,
             "word_meanings": "asanyata-ātmanā—one whose mind is unbridled; yogaḥ—Yog; duṣhprāpaḥ—difficult to attain; iti—thus; me—my; matiḥ—opinion; vaśhya-ātmanā—by one whose mind is controlled; tu—but; yatatā—one who strives; śhakyaḥ—possible; avāptum—to achieve; upāyataḥ—by right means\n",
-            "audio_number": 31
+            "audio_number": 31,
+            "verse_id": 265
         },
         {
             "chapter_number": 6,
@@ -2556,7 +2821,8 @@ const data = {
             "transliteration": "arjuna uvācha\nayatiḥ śhraddhayopeto yogāch chalita-mānasaḥ\naprāpya yoga-sansiddhiṁ kāṅ gatiṁ kṛiṣhṇa gachchhati\n",
             "verse_number": 37,
             "word_meanings": "arjunaḥ uvācha—Arjun said; ayatiḥ—lax; śhraddhayā—with faith; upetaḥ—possessed; yogāt—from Yog; chalita-mānasaḥ—whose mind becomes deviated; aprāpya—failing to attain; yoga-sansiddhim—the highest perfection in yog; kām—which; gatim—destination; kṛiṣhṇa—Shree Krishna; gachchhati—goes\n",
-            "audio_number": 32
+            "audio_number": 32,
+            "verse_id": 266
         },
         {
             "chapter_number": 6,
@@ -2565,7 +2831,8 @@ const data = {
             "transliteration": "kachchin nobhaya-vibhraṣhṭaśh chhinnābhram iva naśhyati\napratiṣhṭho mahā-bāho vimūḍho brahmaṇaḥ pathi\n",
             "verse_number": 38,
             "word_meanings": "kachchit—whether; na—not; ubhaya—both; vibhraṣhṭaḥ—deviated from; chhinna—broken; abhram—cloud; iva—like; naśhyati—perishes; apratiṣhṭhaḥ—without any support; mahā-bāho—mighty-armed Krishna; vimūḍhaḥ—bewildered; brahmaṇaḥ—of God-realization; pathi—one on the path\n",
-            "audio_number": 33
+            "audio_number": 33,
+            "verse_id": 267
         },
         {
             "chapter_number": 6,
@@ -2574,7 +2841,8 @@ const data = {
             "transliteration": "etan me sanśhayaṁ kṛiṣhṇa chhettum arhasyaśheṣhataḥ\ntvad-anyaḥ sanśhayasyāsya chhettā na hyupapadyate\n",
             "verse_number": 39,
             "word_meanings": "etat—this; me—my; sanśhayam—doubt; kṛiṣhṇa—Krishna; chhettum—to dispel; arhasi—you can; aśheṣhataḥ—completely; tvat—than you; anyaḥ—other; sanśhayasya—of doubt; asya—this; chhettā—a dispeller; na—never; hi—certainly; upapadyate—is fit\n",
-            "audio_number": 34
+            "audio_number": 34,
+            "verse_id": 268
         },
         {
             "chapter_number": 6,
@@ -2583,7 +2851,8 @@ const data = {
             "transliteration": "śhrī bhagavān uvācha\npārtha naiveha nāmutra vināśhas tasya vidyate\nna hi kalyāṇa-kṛit kaśhchid durgatiṁ tāta gachchhati\n",
             "verse_number": 40,
             "word_meanings": "śhrī-bhagavān uvācha—the Supreme Lord said; pārtha—Arjun, the son of Pritha; na eva—never; iha—in this world; na—never; amutra—in the next world; vināśhaḥ—destruction; tasya—his; vidyate—exists; na—never; hi—certainly; kalyāṇa-kṛit—one who strives for God-realization; kaśhchit—anyone; durgatim—evil destination; tāta—my friend; gachchhati—goes\n",
-            "audio_number": 35
+            "audio_number": 35,
+            "verse_id": 269
         },
         {
             "chapter_number": 6,
@@ -2592,7 +2861,8 @@ const data = {
             "transliteration": "prāpya puṇya-kṛitāṁ lokān uṣhitvā śhāśhvatīḥ samāḥ\nśhuchīnāṁ śhrīmatāṁ gehe yoga-bhraṣhṭo’bhijāyate\n",
             "verse_number": 41,
             "word_meanings": "prāpya—attain; puṇya-kṛitām—of the virtuous; lokān—abodes; uṣhitvā—after dwelling; śhāśhvatīḥ—many; samāḥ—ages; śhuchīnām—of the pious; śhrī-matām—of the prosperous; gehe—in the house; yoga-bhraṣhṭaḥ—the unsuccessful yogis; abhijāyate—take birth; \n",
-            "audio_number": 36
+            "audio_number": 36,
+            "verse_id": 270
         },
         {
             "chapter_number": 6,
@@ -2601,7 +2871,8 @@ const data = {
             "transliteration": "atha vā yoginām eva kule bhavati dhīmatām\netad dhi durlabhataraṁ loke janma yad īdṛiśham\n",
             "verse_number": 42,
             "word_meanings": "atha vā—else; yoginām—of those endowed with divine wisdom; eva—certainly; kule—in the family; bhavati—take birth; dhī-matām—of the wise; etat—this; hi—certainly; durlabha-taram—very rare; loke—in this world; janma—birth; yat—which; īdṛiśham—like this\n",
-            "audio_number": 37
+            "audio_number": 37,
+            "verse_id": 271
         },
         {
             "chapter_number": 6,
@@ -2610,7 +2881,8 @@ const data = {
             "transliteration": "tatra taṁ buddhi-sanyogaṁ labhate paurva-dehikam\nyatate cha tato bhūyaḥ sansiddhau kuru-nandana\n",
             "verse_number": 43,
             "word_meanings": "tatra—there; tam—that; buddhi-sanyogam—reawaken their wisdom; labhate—obtains; paurva-dehikam—from the previous lives; yatate—strives; cha—and; tataḥ—thereafter; bhūyaḥ—again; sansiddhau—for perfection; kuru-nandana—Arjun, descendant of the Kurus\n",
-            "audio_number": 38
+            "audio_number": 38,
+            "verse_id": 272
         },
         {
             "chapter_number": 6,
@@ -2619,7 +2891,8 @@ const data = {
             "transliteration": "pūrvābhyāsena tenaiva hriyate hyavaśho ’pi saḥ\njijñāsur api yogasya śhabda-brahmātivartate\n",
             "verse_number": 44,
             "word_meanings": "pūrva—past; abhyāsena—discipline; tena—by that; eva—certainly; hriyate—is attracted; hi—surely; avaśhaḥ—helplessly; api—although; saḥ—that person; jijñāsuḥ—inquisitive; api—even; yogasya—about yog; śhabda-brahma—fruitive portion of the Vedas; ativartate—transcends\n",
-            "audio_number": 39
+            "audio_number": 39,
+            "verse_id": 273
         },
         {
             "chapter_number": 6,
@@ -2628,7 +2901,8 @@ const data = {
             "transliteration": "prayatnād yatamānas tu yogī sanśhuddha-kilbiṣhaḥ\naneka-janma-sansiddhas tato yāti parāṁ gatim\n",
             "verse_number": 45,
             "word_meanings": "prayatnāt—with great effort; yatamānaḥ—endeavoring; tu—and; yogī—a yogi; sanśhuddha—purified; kilbiṣhaḥ—from material desires; aneka—after many, many; janma—births; sansiddhaḥ—attain perfection; tataḥ—then; yāti—attains; parām—the highest; gatim—path\n",
-            "audio_number": 40
+            "audio_number": 40,
+            "verse_id": 274
         },
         {
             "chapter_number": 6,
@@ -2637,7 +2911,8 @@ const data = {
             "transliteration": "tapasvibhyo ’dhiko yogī\njñānibhyo ’pi mato ’dhikaḥ\nkarmibhyaśh chādhiko yogī\ntasmād yogī bhavārjuna\n",
             "verse_number": 46,
             "word_meanings": "tapasvibhyaḥ—than the ascetics; adhikaḥ—superior; yogī—a yogi; jñānibhyaḥ—than the persons of learning; api—even; mataḥ—considered; adhikaḥ—superior; karmibhyaḥ—than the ritualistic performers; cha—and; adhikaḥ—superior; yogī—a yogi; tasmāt—therefore; yogī—a yogi; bhava—just become; arjuna—Arjun\n",
-            "audio_number": 41
+            "audio_number": 41,
+            "verse_id": 275
         },
         {
             "chapter_number": 6,
@@ -2646,7 +2921,8 @@ const data = {
             "transliteration": "yoginām api sarveṣhāṁ mad-gatenāntar-ātmanā\nśhraddhāvān bhajate yo māṁ sa me yuktatamo mataḥ\n",
             "verse_number": 47,
             "word_meanings": "yoginām—of all yogis; api—however; sarveṣhām—all types of; mat-gatena—absorbed in me (God); antaḥ—inner; ātmanā—with the mind; śhraddhā-vān—with great faith; bhajate—engage in devotion; yaḥ—who; mām—to me; saḥ—he; me—by me; yukta-tamaḥ—the highest yogi; mataḥ—is considered\n",
-            "audio_number": 42
+            "audio_number": 42,
+            "verse_id": 276
         },
         {
             "chapter_number": 7,
@@ -2655,7 +2931,8 @@ const data = {
             "transliteration": "śhrī bhagavān uvācha\nmayyāsakta-manāḥ pārtha yogaṁ yuñjan mad-āśhrayaḥ\nasanśhayaṁ samagraṁ māṁ yathā jñāsyasi tach chhṛiṇu\n",
             "verse_number": 1,
             "word_meanings": "śhrī-bhagavān uvācha—the Supreme Lord said; mayi—to me; āsakta-manāḥ—with the mind attached; pārtha—Arjun, the son of Pritha; yogam—bhakti yog; yuñjan—practicing; mat-āśhrayaḥ—surrendering to me; asanśhayam—free from doubt; samagram—completely; mām—me; yathā—how; jñāsyasi—you shall know; tat—that; śhṛiṇu—listen\n",
-            "audio_number": 1
+            "audio_number": 1,
+            "verse_id": 277
         },
         {
             "chapter_number": 7,
@@ -2664,7 +2941,8 @@ const data = {
             "transliteration": "jñānaṁ te ’haṁ sa-vijñānam idaṁ vakṣhyāmyaśheṣhataḥ\nyaj jñātvā neha bhūyo ’nyaj jñātavyam-avaśhiṣhyate\n",
             "verse_number": 2,
             "word_meanings": "jñānam—knowledge; te—unto you; aham—I; sa—with; vijñānam—wisdom; idam—this; vakṣhyāmi—shall reveal; aśheṣhataḥ—in full; yat—which; jñātvā—having known; na—not; iha—in this world; bhūyaḥ—further; anyat—anything else; jñātavyam—to be known; avaśhiṣhyate—remains\n",
-            "audio_number": 2
+            "audio_number": 2,
+            "verse_id": 278
         },
         {
             "chapter_number": 7,
@@ -2673,7 +2951,8 @@ const data = {
             "transliteration": "manuṣhyāṇāṁ sahasreṣhu kaśhchid yatati siddhaye\nyatatām api siddhānāṁ kaśhchin māṁ vetti tattvataḥ\n",
             "verse_number": 3,
             "word_meanings": "manuṣhyāṇām—of men; sahasreṣhu—out of many thousands; kaśhchit—someone; yatati—strives; siddhaye—for perfection; yatatām—of those who strive; api—even; siddhānām—of those who have achieved perfection; kaśhchit—someone; mām—me; vetti—knows; tattvataḥ—in truth\n",
-            "audio_number": 3
+            "audio_number": 3,
+            "verse_id": 279
         },
         {
             "chapter_number": 7,
@@ -2682,7 +2961,8 @@ const data = {
             "transliteration": "bhūmir-āpo ’nalo vāyuḥ khaṁ mano buddhir eva cha\nahankāra itīyaṁ me bhinnā prakṛitir aṣhṭadhā\n",
             "verse_number": 4,
             "word_meanings": "bhūmiḥ—earth; āpaḥ—water; analaḥ—fire; vāyuḥ—air; kham—space; manaḥ—mind; buddhiḥ—intellect; eva—certainly; cha—and; ahankāraḥ—ego; iti—thus; iyam—all these; me—my; bhinnā—divisions; prakṛitiḥ—material energy; aṣhṭadhā—eightfold\n",
-            "audio_number": 4
+            "audio_number": 4,
+            "verse_id": 280
         },
         {
             "chapter_number": 7,
@@ -2691,7 +2971,8 @@ const data = {
             "transliteration": "apareyam itas tvanyāṁ prakṛitiṁ viddhi me parām\njīva-bhūtāṁ mahā-bāho yayedaṁ dhāryate jagat\n",
             "verse_number": 5,
             "word_meanings": "aparā—inferior; iyam—this; itaḥ—besides this; tu—but; anyām—another; prakṛitim—energy; viddhi—know; me—my; parām—superior; jīva-bhūtām—living beings; mahā-bāho—mighty-armed one; yayā—by whom; idam—this; dhāryate—the basis; jagat—the material world\n",
-            "audio_number": 5
+            "audio_number": 5,
+            "verse_id": 281
         },
         {
             "chapter_number": 7,
@@ -2700,7 +2981,8 @@ const data = {
             "transliteration": "etad-yonīni bhūtāni sarvāṇītyupadhāraya\nahaṁ kṛitsnasya jagataḥ prabhavaḥ pralayas tathā\n",
             "verse_number": 6,
             "word_meanings": "etat yonīni—these two (energies) are the source of; bhūtāni—living beings; sarvāṇi—all; iti—that; upadhāraya—know; aham—I; kṛitsnasya—entire; jagataḥ—creation; prabhavaḥ—the source; pralayaḥ—dissolution; tathā—and\n",
-            "audio_number": 6
+            "audio_number": 6,
+            "verse_id": 282
         },
         {
             "chapter_number": 7,
@@ -2709,7 +2991,8 @@ const data = {
             "transliteration": "mattaḥ parataraṁ nānyat kiñchid asti dhanañjaya\nmayi sarvam idaṁ protaṁ sūtre maṇi-gaṇā iva\n",
             "verse_number": 7,
             "word_meanings": "mattaḥ—than me; para-taram—superior; na—not; anyat kiñchit—anything else; asti—there is; dhanañjaya—Arjun, conqueror of wealth; mayi—in me; sarvam—all; idam—which we see; protam—is strung; sūtre—on a thread; maṇi-gaṇāḥ—beads; iva—like\n",
-            "audio_number": 7
+            "audio_number": 7,
+            "verse_id": 283
         },
         {
             "chapter_number": 7,
@@ -2718,7 +3001,8 @@ const data = {
             "transliteration": "raso ’ham apsu kaunteya prabhāsmi śhaśhi-sūryayoḥ\npraṇavaḥ sarva-vedeṣhu śhabdaḥ khe pauruṣhaṁ nṛiṣhu\n",
             "verse_number": 8,
             "word_meanings": "rasaḥ—taste; aham—I; apsu—in water; kaunteya—Arjun, the son of Kunti; prabhā—the radiance; asmi—I am; śhaśhi-sūryayoḥ—of the moon and the sun; praṇavaḥ—the sacred syllable Om; sarva—in all; vedeṣhu—Vedas; śhabdaḥ—sound; khe—in ether; pauruṣham—ability; nṛiṣhu—in humans\n",
-            "audio_number": 8
+            "audio_number": 8,
+            "verse_id": 284
         },
         {
             "chapter_number": 7,
@@ -2727,7 +3011,8 @@ const data = {
             "transliteration": "puṇyo gandhaḥ pṛithivyāṁ cha tejaśh chāsmi vibhāvasau\njīvanaṁ sarva-bhūteṣhu tapaśh chāsmi tapasviṣhu\n",
             "verse_number": 9,
             "word_meanings": "puṇyaḥ—pure; gandhaḥ—fragrance; pṛithivyām—of the earth; cha—and; tejaḥ—brilliance; cha—and; asmi—I am; vibhāvasau—in the fire; jīvanam—the life-force; sarva—in all; bhūteṣhu—beings; tapaḥ—penance; cha—and; asmi—I am; tapasviṣhu—of the ascetics\n",
-            "audio_number": 9
+            "audio_number": 9,
+            "verse_id": 285
         },
         {
             "chapter_number": 7,
@@ -2736,7 +3021,8 @@ const data = {
             "transliteration": "bījaṁ māṁ sarva-bhūtānāṁ viddhi pārtha sanātanam\nbuddhir buddhimatām asmi tejas tejasvinām aham\n",
             "verse_number": 10,
             "word_meanings": "bījam—the seed; mām—me; sarva-bhūtānām—of all beings; viddhi—know; pārtha—Arjun, the son of Pritha; sanātanam—the eternal; buddhiḥ—intellect; buddhi-matām—of the intelligent; asmi—(I) am; tejaḥ—splendor; tejasvinām—of the splendid; aham—I\n",
-            "audio_number": 10
+            "audio_number": 10,
+            "verse_id": 286
         },
         {
             "chapter_number": 7,
@@ -2745,7 +3031,8 @@ const data = {
             "transliteration": "balaṁ balavatāṁ chāhaṁ kāma-rāga-vivarjitam\ndharmāviruddho bhūteṣhu kāmo ’smi bharatarṣhabha\n",
             "verse_number": 11,
             "word_meanings": "balam—strength; bala-vatām—of the strong; cha—and; aham—I; kāma—desire; rāga—passion; vivarjitam—devoid of; dharma-aviruddhaḥ—not conflicting with dharma; bhūteṣhu—in all beings; kāmaḥ—sexual activity; asmi—(I) am; bharata-ṛiṣhabha—Arjun, the best of the Bharats\n",
-            "audio_number": 11
+            "audio_number": 11,
+            "verse_id": 287
         },
         {
             "chapter_number": 7,
@@ -2754,7 +3041,8 @@ const data = {
             "transliteration": "ye chaiva sāttvikā bhāvā rājasās tāmasāśh cha ye\nmatta eveti tān viddhi na tvahaṁ teṣhu te mayi\n",
             "verse_number": 12,
             "word_meanings": "ye—whatever; cha—and; eva—certainly; sāttvikāḥ—in the mode of goodness; bhāvāḥ—states of material existence; rājasāḥ—in the mode of passion; tāmasāḥ—in the mode of ignorance; cha—and; ye—whatever; mattaḥ—from me; eva—certainly; iti—thus; tān—those; viddhi—know; na—not; tu—but; aham—I; teṣhu—in them; te—they; mayi—in me\n",
-            "audio_number": 12
+            "audio_number": 12,
+            "verse_id": 288
         },
         {
             "chapter_number": 7,
@@ -2763,7 +3051,8 @@ const data = {
             "transliteration": "tribhir guṇa-mayair bhāvair ebhiḥ sarvam idaṁ jagat\nmohitaṁ nābhijānāti māmebhyaḥ param avyayam\n",
             "verse_number": 13,
             "word_meanings": "tribhiḥ—by three; guṇa-mayaiḥ—consisting of the modes of material nature; bhāvaiḥ—states; ebhiḥ—all these; sarvam—whole; idam—this; jagat—universe; mohitam—deluded; na—not; abhijānāti—know; mām—me; ebhyaḥ—these; param—the supreme; avyayam—imperishable\n",
-            "audio_number": 13
+            "audio_number": 13,
+            "verse_id": 289
         },
         {
             "chapter_number": 7,
@@ -2772,7 +3061,8 @@ const data = {
             "transliteration": "daivī hyeṣhā guṇa-mayī mama māyā duratyayā\nmām eva ye prapadyante māyām etāṁ taranti te\n",
             "verse_number": 14,
             "word_meanings": "daivī—divine; hi—certainly; eṣhā—this; guṇa-mayī—consisting of the three modes of nature; mama—my; māyā—one of God’s energies. It that veils God’s true nature from souls who have not yet attained the eligibility for God-realization; duratyayā—very difficult to overcome; mām—unto me; eva—certainly; ye—who; prapadyante—surrender; māyām etām—this Maya; taranti—cross over; te—they\n",
-            "audio_number": 14
+            "audio_number": 14,
+            "verse_id": 290
         },
         {
             "chapter_number": 7,
@@ -2781,7 +3071,8 @@ const data = {
             "transliteration": "na māṁ duṣhkṛitino mūḍhāḥ prapadyante narādhamāḥ\nmāyayāpahṛita-jñānā āsuraṁ bhāvam āśhritāḥ\n",
             "verse_number": 15,
             "word_meanings": "na—not; mām—unto me; duṣhkṛitinaḥ—the evil doers; mūḍhāḥ—the ignorant; prapadyante—surrender; nara-adhamāḥ—one who lazily follows one’s lower nature; māyayā—by God’s material energy; apahṛita jñānāḥ—those with deluded intellect; āsuram—demoniac; bhāvam—nature; āśhritāḥ—surrender\n",
-            "audio_number": 15
+            "audio_number": 15,
+            "verse_id": 291
         },
         {
             "chapter_number": 7,
@@ -2790,7 +3081,8 @@ const data = {
             "transliteration": "chatur-vidhā bhajante māṁ janāḥ sukṛitino ’rjuna\nārto jijñāsur arthārthī jñānī cha bharatarṣhabha\n",
             "verse_number": 16,
             "word_meanings": "chatuḥ-vidhāḥ—four kinds; bhajante—worship; mām—me; janāḥ—people; su-kṛitinaḥ—those who are pious; arjuna—Arjun; ārtaḥ—the distressed; jijñāsuḥ—the seekers of knowledge; artha-arthī—the seekers of material gain; jñānī—those who are situated in knowledge; cha—and; bharata-ṛiṣhabha—The best amongst the Bharatas, Arjun\n",
-            "audio_number": 16
+            "audio_number": 16,
+            "verse_id": 292
         },
         {
             "chapter_number": 7,
@@ -2799,7 +3091,8 @@ const data = {
             "transliteration": "teṣhāṁ jñānī nitya-yukta eka-bhaktir viśhiṣhyate\npriyo hi jñānino ’tyartham ahaṁ sa cha mama priyaḥ\n",
             "verse_number": 17,
             "word_meanings": "teṣhām—amongst these; jñānī—those who are situated in knowledge; nitya-yuktaḥ—ever steadfast; eka—exclusively; bhaktiḥ—devotion; viśhiṣhyate—highest; priyaḥ—very dear; hi—certainly; jñāninaḥ—to the person in knowledge; atyartham—highly; aham—I; saḥ—he; cha—and; mama—to me; priyaḥ—dear\n",
-            "audio_number": 17
+            "audio_number": 17,
+            "verse_id": 293
         },
         {
             "chapter_number": 7,
@@ -2808,7 +3101,8 @@ const data = {
             "transliteration": "udārāḥ sarva evaite jñānī tvātmaiva me matam\nāsthitaḥ sa hi yuktātmā mām evānuttamāṁ gatim\n",
             "verse_number": 18,
             "word_meanings": "udārāḥ—noble; sarve—all; eva—indeed; ete—these; jñānī—those in knowledge; tu—but; ātmā eva—my very self; me—my; matam—opinion; āsthitaḥ—situated; saḥ—he; hi—certainly; yukta-ātmā—those who are united; mām—in me; eva—certainly; anuttamām—the supreme; gatim—goal\n",
-            "audio_number": 18
+            "audio_number": 18,
+            "verse_id": 294
         },
         {
             "chapter_number": 7,
@@ -2817,7 +3111,8 @@ const data = {
             "transliteration": "bahūnāṁ janmanām ante jñānavān māṁ prapadyate\nvāsudevaḥ sarvam iti sa mahātmā su-durlabhaḥ\n",
             "verse_number": 19,
             "word_meanings": "bahūnām—many; janmanām—births; ante—after; jñāna-vān—one who is endowed with knowledge; mām—unto me; prapadyate—surrenders; vāsudevaḥ—Shree Krishna, the son of Vasudev; sarvam—all; iti—that; saḥ—that; mahā-ātmā—great soul; su-durlabhaḥ—very rare\n",
-            "audio_number": 19
+            "audio_number": 19,
+            "verse_id": 295
         },
         {
             "chapter_number": 7,
@@ -2826,7 +3121,8 @@ const data = {
             "transliteration": "kāmais tais tair hṛita-jñānāḥ prapadyante ’nya-devatāḥ\ntaṁ taṁ niyamam āsthāya prakṛityā niyatāḥ svayā\n",
             "verse_number": 20,
             "word_meanings": "kāmaiḥ—by material desires; taiḥ taiḥ—by various; hṛita-jñānāḥ—whose knowledge has been carried away; prapadyante—surrender; anya—to other; devatāḥ—celestial gods; tam tam—the various; niyamam—rules and regulations; āsthāya—following; prakṛityā—by nature; niyatāḥ—controlled; svayā—by their own\n",
-            "audio_number": 20
+            "audio_number": 20,
+            "verse_id": 296
         },
         {
             "chapter_number": 7,
@@ -2835,7 +3131,8 @@ const data = {
             "transliteration": "yo yo yāṁ yāṁ tanuṁ bhaktaḥ śhraddhayārchitum ichchhati\ntasya tasyāchalāṁ śhraddhāṁ tām eva vidadhāmyaham\n",
             "verse_number": 21,
             "word_meanings": "yaḥ yaḥ—whoever; yām yām—whichever; tanum—form; bhaktaḥ—devotee; śhraddhayā—with faith; architum—to worship; ichchhati—desires; tasya tasya—to him; achalām—steady; śhraddhām—faith; tām—in that; eva—certainly; vidadhāmi—bestow; aham—I\n",
-            "audio_number": 21
+            "audio_number": 21,
+            "verse_id": 297
         },
         {
             "chapter_number": 7,
@@ -2844,7 +3141,8 @@ const data = {
             "transliteration": "sa tayā śhraddhayā yuktas tasyārādhanam īhate\nlabhate cha tataḥ kāmān mayaiva vihitān hi tān\n",
             "verse_number": 22,
             "word_meanings": "saḥ—he; tayā—with that; śhraddhayā—faith; yuktaḥ—endowed with; tasya—of that; ārādhanam—worship; īhate—tries to engange in; labhate—obtains; cha—and; tataḥ—from that; kāmān—desires; mayā—by me; eva—alone; vihitān—granted; hi—certainly; tān—those\n",
-            "audio_number": 22
+            "audio_number": 22,
+            "verse_id": 298
         },
         {
             "chapter_number": 7,
@@ -2853,7 +3151,8 @@ const data = {
             "transliteration": "antavat tu phalaṁ teṣhāṁ tad bhavatyalpa-medhasām\ndevān deva-yajo yānti mad-bhaktā yānti mām api\n",
             "verse_number": 23,
             "word_meanings": "anta-vat—perishable; tu—but; phalam—fruit; teṣhām—by them; tat—that; bhavati—is; alpa-medhasām—people of small understanding; devān—to the celestial gods; deva-yajaḥ—the worshipers of the celestial gods; yānti—go; mat—my; bhaktāḥ—devotees; yānti—go; mām—to me; api—whereas\n",
-            "audio_number": 23
+            "audio_number": 23,
+            "verse_id": 299
         },
         {
             "chapter_number": 7,
@@ -2862,7 +3161,8 @@ const data = {
             "transliteration": "avyaktaṁ vyaktim āpannaṁ manyante mām abuddhayaḥ\nparaṁ bhāvam ajānanto mamāvyayam anuttamam\n",
             "verse_number": 24,
             "word_meanings": "avyaktam—formless; vyaktim—possessing a personality; āpannam—to have assumed; manyante—think; mām—me; abuddhayaḥ—less intelligent; param—Supreme; bhāvam—nature; ajānantaḥ—not understanding; mama—my; avyayam—imperishable; anuttamam—excellent\n",
-            "audio_number": 24
+            "audio_number": 24,
+            "verse_id": 300
         },
         {
             "chapter_number": 7,
@@ -2871,7 +3171,8 @@ const data = {
             "transliteration": "nāhaṁ prakāśhaḥ sarvasya yoga-māyā-samāvṛitaḥ\nmūḍho ’yaṁ nābhijānāti loko mām ajam avyayam\n",
             "verse_number": 25,
             "word_meanings": "na—not; aham—I; prakāśhaḥ—manifest; sarvasya—to everyone; yoga-māyā—God’s supreme (divine) energy; samāvṛitaḥ—veiled; mūḍhaḥ—deluded; ayam—these; na—not; abhijānāti—know; lokaḥ—persons; mām—me; ajam—unborn; avyayam—immutable\n",
-            "audio_number": 25
+            "audio_number": 25,
+            "verse_id": 301
         },
         {
             "chapter_number": 7,
@@ -2880,7 +3181,8 @@ const data = {
             "transliteration": "vedāhaṁ samatītāni vartamānāni chārjuna\nbhaviṣhyāṇi cha bhūtāni māṁ tu veda na kaśhchana\n",
             "verse_number": 26,
             "word_meanings": "veda—know; aham—I; samatītāni—the past; vartamānāni—the present; cha—and; arjuna—Arjun; bhaviṣhyāṇi—the future; cha—also; bhūtāni—all living beings; mām—me; tu—but; veda—knows; na kaśhchana—no one\n",
-            "audio_number": 26
+            "audio_number": 26,
+            "verse_id": 302
         },
         {
             "chapter_number": 7,
@@ -2889,7 +3191,8 @@ const data = {
             "transliteration": "ichchhā-dveṣha-samutthena dvandva-mohena bhārata\nsarva-bhūtāni sammohaṁ sarge yānti parantapa\n",
             "verse_number": 27,
             "word_meanings": "ichchhā—desire; dveṣha—aversion; samutthena—arise from; dvandva—of duality; mohena—from the illusion; bhārata—Arjun, descendant of Bharat; sarva—all; bhūtāni—living beings; sammoham—into delusion; sarge—since birth; yānti—enter; parantapa—Arjun, conqueror of enemies\n",
-            "audio_number": 27
+            "audio_number": 27,
+            "verse_id": 303
         },
         {
             "chapter_number": 7,
@@ -2898,7 +3201,8 @@ const data = {
             "transliteration": "yeṣhāṁ tvanta-gataṁ pāpaṁ janānāṁ puṇya-karmaṇām\nte dvandva-moha-nirmuktā bhajante māṁ dṛiḍha-vratāḥ\n",
             "verse_number": 28,
             "word_meanings": "yeṣhām—whose; tu—but; anta-gatam—completely destroyed; pāpam—sins; janānām—of persons; puṇya—pious; karmaṇām—activities; te—they; dvandva—of dualities; moha—illusion; nirmuktāḥ—free from; bhajante—worship;mām; dṛiḍha-vratāḥ—with determination\n",
-            "audio_number": 28
+            "audio_number": 28,
+            "verse_id": 304
         },
         {
             "chapter_number": 7,
@@ -2907,7 +3211,8 @@ const data = {
             "transliteration": "jarā-maraṇa-mokṣhāya mām āśhritya yatanti ye\nte brahma tadviduḥ kṛitsnam adhyātmaṁ karma chākhilam\n",
             "verse_number": 29,
             "word_meanings": "jarā—from old age; maraṇa—and death; mokṣhāya—for liberation; mām—me; āśhritya—take shelter in; yatanti—strive; ye—who; te—they; brahma—Brahman; tat—that; viduḥ—know; kṛitsnam—everything; adhyātmam—the individual self; karma—karmic action; cha—and; akhilam—entire\n",
-            "audio_number": 29
+            "audio_number": 29,
+            "verse_id": 305
         },
         {
             "chapter_number": 7,
@@ -2916,7 +3221,8 @@ const data = {
             "transliteration": "sādhibhūtādhidaivaṁ māṁ sādhiyajñaṁ cha ye viduḥ\nprayāṇa-kāle ’pi cha māṁ te vidur yukta-chetasaḥ\n",
             "verse_number": 30,
             "word_meanings": "sa-adhibhūta—governing principle of the field of matter; adhidaivam—governing principle of the celestial gods; mām—me; sa-adhiyajñam—governing principle of the Lord all sacrificial performances; cha—and; ye—who; viduḥ—know; prayāṇa—of death; kāle—at the time; api—even; cha—and; mām—me; te—they; viduḥ—know; yukta-chetasaḥ—in full consciousness of me\n",
-            "audio_number": 30
+            "audio_number": 30,
+            "verse_id": 306
         },
         {
             "chapter_number": 8,
@@ -2925,7 +3231,8 @@ const data = {
             "transliteration": "arjuna uvācha\nkiṁ tad brahma kim adhyātmaṁ kiṁ karma puruṣhottama\nadhibhūtaṁ cha kiṁ proktam adhidaivaṁ kim uchyate\n",
             "verse_number": 1,
             "word_meanings": "arjunaḥ uvācha—Arjun said; kim—what; tat—that; brahma—Brahman; kim—what; adhyātmam—the individual soul; kim—what; karma—the principle of karma; puruṣha-uttama—Shree Krishna, the Supreme Divine Personality; adhibhūtam—the material manifestation; cha—and; kim—what; proktam—is called; adhidaivam—the Lord of the celestial gods; kim—what; uchyate—is called; \n",
-            "audio_number": 1
+            "audio_number": 1,
+            "verse_id": 307
         },
         {
             "chapter_number": 8,
@@ -2934,7 +3241,8 @@ const data = {
             "transliteration": "adhiyajñaḥ kathaṁ ko ’tra dehe ’smin madhusūdana\nprayāṇa-kāle cha kathaṁ jñeyo ’si niyatātmabhiḥ\n",
             "verse_number": 2,
             "word_meanings": "adhiyajñaḥ—the Lord all sacrificial performances; katham—how; kaḥ—who; atra—here; dehe—in body; asmin—this; madhusūdana—Shree Krishna, the killer of the demon named Madhu; prayāṇa-kāle—at the time of death; cha—and; katham—how; jñeyaḥ—to be known; asi—are (you); niyata-ātmabhiḥ—by those of steadfast mind\n",
-            "audio_number": 2
+            "audio_number": 2,
+            "verse_id": 308
         },
         {
             "chapter_number": 8,
@@ -2943,7 +3251,8 @@ const data = {
             "transliteration": "śhrī bhagavān uvācha\nakṣharaṁ brahma paramaṁ svabhāvo ’dhyātmam uchyate\nbhūta-bhāvodbhava-karo visargaḥ karma-sanjñitaḥ\n",
             "verse_number": 3,
             "word_meanings": "śhrī-bhagavān uvācha—the Blessed Lord said; akṣharam—indestructible; brahma—Brahman; paramam—the Supreme; svabhāvaḥ—nature; adhyātmam—one’s own self; uchyate—is called; bhūta-bhāva-udbhava-karaḥ—Actions pertaining to the material personality of living beings, and its development; visargaḥ—creation; karma—fruitive activities; sanjñitaḥ—are called\n",
-            "audio_number": 3
+            "audio_number": 3,
+            "verse_id": 309
         },
         {
             "chapter_number": 8,
@@ -2952,7 +3261,8 @@ const data = {
             "transliteration": "adhibhūtaṁ kṣharo bhāvaḥ puruṣhaśh chādhidaivatam\nadhiyajño ’ham evātra dehe deha-bhṛitāṁ vara\n",
             "verse_number": 4,
             "word_meanings": "adhibhūtam—the ever changing physical manifestation; kṣharaḥ—perishable; bhāvaḥ—nature; puruṣhaḥ—the cosmic personality of God, encompassing the material creation; cha—and; adhidaivatam—the Lord of the celestial gods; adhiyajñaḥ—the Lord of all sacrifices; aham—I; eva—certainly; atra—here; dehe—in the body; deha-bhṛitām—of the embodied; vara—O best\n",
-            "audio_number": 4
+            "audio_number": 4,
+            "verse_id": 310
         },
         {
             "chapter_number": 8,
@@ -2961,7 +3271,8 @@ const data = {
             "transliteration": "anta-kāle cha mām eva smaran muktvā kalevaram\nyaḥ prayāti sa mad-bhāvaṁ yāti nāstyatra sanśhayaḥ\n",
             "verse_number": 5,
             "word_meanings": "anta-kāle—at the time of death; cha—and; mām—me; eva—alone; smaran—remembering; muktvā—relinquish; kalevaram—the body; yaḥ—who; prayāti—goes; saḥ—he; mat-bhāvam—Godlike nature; yāti—achieves; na—no; asti—there is; atra—here; sanśhayaḥ—doubt\n",
-            "audio_number": 5
+            "audio_number": 5,
+            "verse_id": 311
         },
         {
             "chapter_number": 8,
@@ -2970,7 +3281,8 @@ const data = {
             "transliteration": "yaṁ yaṁ vāpi smaran bhāvaṁ tyajatyante kalevaram\ntaṁ tam evaiti kaunteya sadā tad-bhāva-bhāvitaḥ\n",
             "verse_number": 6,
             "word_meanings": "yam yam—whatever; vā—or; api—even; smaran—remembering; bhāvam—remembrance; tyajati—gives up; ante—in the end; kalevaram—the body; tam—to that; tam—to that; eva—certainly; eti—gets; kaunteya—Arjun, the son of Kunti; sadā—always; tat—that; bhāva-bhāvitaḥ—absorbed in contemplation\n",
-            "audio_number": 6
+            "audio_number": 6,
+            "verse_id": 312
         },
         {
             "chapter_number": 8,
@@ -2979,7 +3291,8 @@ const data = {
             "transliteration": "tasmāt sarveṣhu kāleṣhu mām anusmara yudhya cha\nmayyarpita-mano-buddhir mām evaiṣhyasyasanśhayam\n",
             "verse_number": 7,
             "word_meanings": "tasmāt—therefore; sarveṣhu—in all; kāleṣhu—times; mām—me; anusmara—remember; yudhya—fight; cha—and; mayi—to me; arpita—surrender; manaḥ—mind; buddhiḥ—intellect; mām—to me; eva—surely; eṣhyasi—you shall attain; asanśhayaḥ—without a doubt\n",
-            "audio_number": 7
+            "audio_number": 7,
+            "verse_id": 313
         },
         {
             "chapter_number": 8,
@@ -2988,7 +3301,8 @@ const data = {
             "transliteration": "abhyāsa-yoga-yuktena chetasā nānya-gāminā\nparamaṁ puruṣhaṁ divyaṁ yāti pārthānuchintayan\n",
             "verse_number": 8,
             "word_meanings": "abhyāsa-yoga—by practice of yog; yuktena—being constantly engaged in remembrance; chetasā—by the mind; na anya-gāminā—without deviating; paramam puruṣham—the Supreme Divine Personality; divyam—divine; yāti—one attains; pārtha—Arjun, the son of Pritha; anuchintayan—constant remembrance\n",
-            "audio_number": 8
+            "audio_number": 8,
+            "verse_id": 314
         },
         {
             "chapter_number": 8,
@@ -2997,7 +3311,8 @@ const data = {
             "transliteration": "kaviṁ purāṇam anuśhāsitāram\naṇor aṇīyānsam anusmared yaḥ\nsarvasya dhātāram achintya-rūpam\nāditya-varṇaṁ tamasaḥ parastāt\n",
             "verse_number": 9,
             "word_meanings": "kavim—poet; purāṇam—ancient; anuśhāsitāram—the controller; aṇoḥ—than the atom; aṇīyānsam—smaller; anusmaret—always remembers; yaḥ—who; sarvasya—of everything; dhātāram—the support; achintya—inconceivable; rūpam—divine form; āditya-varṇam—effulgent like the sun; tamasaḥ—to the darkness of ignorance; parastāt—beyond;\n",
-            "audio_number": 9
+            "audio_number": 9,
+            "verse_id": 315
         },
         {
             "chapter_number": 8,
@@ -3006,7 +3321,8 @@ const data = {
             "transliteration": "prayāṇa-kāle manasāchalena\nbhaktyā yukto yoga-balena chaiva\nbhruvor madhye prāṇam āveśhya samyak\nsa taṁ paraṁ puruṣham upaiti divyam\n",
             "verse_number": 10,
             "word_meanings": "prayāṇa-kāle—at the time of death; manasā—mind; achalena—steadily; bhaktyā—remembering with great devotion; yuktaḥ—united; yoga-balena—through the power of yog; cha—and; eva—certainly; bhruvoḥ—the two eyebrows; madhye—between; prāṇam—life airs; āveśhya—fixing; samyak—completely; saḥ—he; tam—him; param puruṣham—the Supreme Divine Lord; upaiti—attains; divyam—divine\n",
-            "audio_number": 10
+            "audio_number": 10,
+            "verse_id": 316
         },
         {
             "chapter_number": 8,
@@ -3015,7 +3331,8 @@ const data = {
             "transliteration": "yad akṣharaṁ veda-vido vadanti\nviśhanti yad yatayo vīta-rāgāḥ\nyad ichchhanto brahmacharyaṁ charanti\ntat te padaṁ saṅgraheṇa pravakṣhye\n",
             "verse_number": 11,
             "word_meanings": "yat—which; akṣharam—Imperishable; veda-vidaḥ—scholars of the Vedas; vadanti—describe; viśhanti—enter; yat—which; yatayaḥ—great ascetics; vīta-rāgāḥ—free from attachment; yat—which; ichchhantaḥ—desiring; brahmacharyam—celibacy; charanti—practice; tat—that; te—to you; padam—goal; saṅgraheṇa—briefly; pravakṣhye—I shall explain\n",
-            "audio_number": 11
+            "audio_number": 11,
+            "verse_id": 317
         },
         {
             "chapter_number": 8,
@@ -3024,7 +3341,8 @@ const data = {
             "transliteration": "sarva-dvārāṇi sanyamya mano hṛidi nirudhya cha\nmūrdhnyādhāyātmanaḥ prāṇam āsthito yoga-dhāraṇām\n",
             "verse_number": 12,
             "word_meanings": "sarva-dvārāṇi—all gates; sanyamya—restraining; manaḥ—the mind; hṛidi—in the heart region; nirudhya—confining; cha—and; mūrdhni—in the head; ādhāya—establish; ātmanaḥ—of the self; prāṇam—the life breath; āsthitaḥ—situated (in); yoga-dhāraṇām—the yogic concentration\n",
-            "audio_number": 12
+            "audio_number": 12,
+            "verse_id": 318
         },
         {
             "chapter_number": 8,
@@ -3033,7 +3351,8 @@ const data = {
             "transliteration": "oṁ ityekākṣharaṁ brahma vyāharan mām anusmaran\nyaḥ prayāti tyajan dehaṁ sa yāti paramāṁ gatim\n",
             "verse_number": 13,
             "word_meanings": "om—sacred syllable representing the formless aspect of God; iti—thus; eka-akṣharam—one syllabled; brahma—the Absolute Truth; vyāharan—chanting; mām—me (Shree Krishna); anusmaran—remembering; yaḥ—who; prayāti—departs; tyajan—quitting; deham—the body; saḥ—he; yāti—attains; paramām—the supreme; gatim—goal\n",
-            "audio_number": 13
+            "audio_number": 13,
+            "verse_id": 319
         },
         {
             "chapter_number": 8,
@@ -3042,7 +3361,8 @@ const data = {
             "transliteration": "ananya-chetāḥ satataṁ yo māṁ smarati nityaśhaḥ\ntasyāhaṁ sulabhaḥ pārtha nitya-yuktasya yoginaḥ\n",
             "verse_number": 14,
             "word_meanings": "ananya-chetāḥ—without deviation of the mind; satatam—always; yaḥ—who; mām—me; smarati—remembers; nityaśhaḥ—regularly; tasya—to him; aham—I; su-labhaḥ—easily attainable; pārtha—Arjun, the son of Pritha; nitya—constantly; yuktasya—engaged; yoginaḥ—of the yogis\n",
-            "audio_number": 14
+            "audio_number": 14,
+            "verse_id": 320
         },
         {
             "chapter_number": 8,
@@ -3051,7 +3371,8 @@ const data = {
             "transliteration": "mām upetya punar janma duḥkhālayam aśhāśhvatam\nnāpnuvanti mahātmānaḥ sansiddhiṁ paramāṁ gatāḥ\n",
             "verse_number": 15,
             "word_meanings": "mām—me; upetya—having attained; punaḥ—again; janma—birth; duḥkha-ālayam—place full of miseries; aśhāśhvatam—temporary; na—never; āpnuvanti—attain; mahā-ātmānaḥ—the great souls; sansiddhim—perfection; paramām—highest; gatāḥ—having achieved\n",
-            "audio_number": 15
+            "audio_number": 15,
+            "verse_id": 321
         },
         {
             "chapter_number": 8,
@@ -3060,7 +3381,8 @@ const data = {
             "transliteration": "ā-brahma-bhuvanāl lokāḥ punar āvartino ’rjuna\nmām upetya tu kaunteya punar janma na vidyate\n",
             "verse_number": 16,
             "word_meanings": "ā-brahma-bhuvanāt—up to the abode of Brahma; lokāḥ—worlds; punaḥ āvartinaḥ—subject to rebirth; arjuna—Arjun; mām—mine; upetya—having attained; tu—but; kaunteya—Arjun, the son of Kunti; punaḥ janma—rebirth; na—never; vidyate—is\n",
-            "audio_number": 16
+            "audio_number": 16,
+            "verse_id": 322
         },
         {
             "chapter_number": 8,
@@ -3069,7 +3391,8 @@ const data = {
             "transliteration": "sahasra-yuga-paryantam ahar yad brahmaṇo viduḥ\nrātriṁ yuga-sahasrāntāṁ te ’ho-rātra-vido janāḥ\n",
             "verse_number": 17,
             "word_meanings": "sahasra—one thousand; yuga—age; paryantam—until; ahaḥ—one day; yat—which; brahmaṇaḥ—of Brahma; viduḥ—know; rātrim—night; yuga-sahasra-antām—lasts one thousand yugas; te—they; ahaḥ-rātra-vidaḥ—those who know his day and night; janāḥ—people\n",
-            "audio_number": 17
+            "audio_number": 17,
+            "verse_id": 323
         },
         {
             "chapter_number": 8,
@@ -3078,7 +3401,8 @@ const data = {
             "transliteration": "avyaktād vyaktayaḥ sarvāḥ prabhavantyahar-āgame\nrātryāgame pralīyante tatraivāvyakta-sanjñake\n",
             "verse_number": 18,
             "word_meanings": "avyaktāt—from the unmanifested; vyaktayaḥ—the manifested; sarvāḥ—all; prabhavanti—emanate; ahaḥ-āgame—at the advent of Brahma’s day; rātri-āgame—at the fall of Brahma’s night; pralīyante—they dissolve; tatra—into that; eva—certainly; avyakta-sanjñake—in that which is called the unmanifest\n",
-            "audio_number": 18
+            "audio_number": 18,
+            "verse_id": 324
         },
         {
             "chapter_number": 8,
@@ -3087,7 +3411,8 @@ const data = {
             "transliteration": "bhūta-grāmaḥ sa evāyaṁ bhūtvā bhūtvā pralīyate\nrātryāgame ’vaśhaḥ pārtha prabhavatyahar-āgame\n",
             "verse_number": 19,
             "word_meanings": "bhūta-grāmaḥ—the multitude of beings; saḥ—these; eva—certainly; ayam—this; bhūtvā bhūtvā—repeatedly taking birth; pralīyate—dissolves; rātri-āgame—with the advent of night; avaśhaḥ—helpless; pārtha—Arjun, the son of Pritha; prabhavati—become manifest; ahaḥ-āgame—with the advent of day\n",
-            "audio_number": 19
+            "audio_number": 19,
+            "verse_id": 325
         },
         {
             "chapter_number": 8,
@@ -3096,7 +3421,8 @@ const data = {
             "transliteration": "paras tasmāt tu bhāvo ’nyo ’vyakto ’vyaktāt sanātanaḥ\nyaḥ sa sarveṣhu bhūteṣhu naśhyatsu na vinaśhyati\n",
             "verse_number": 20,
             "word_meanings": "paraḥ—transcendental; tasmāt—than that; tu—but; bhāvaḥ—creation; anyaḥ—another; avyaktaḥ—unmanifest; avyaktāt—to the unmanifest; sanātanaḥ—eternal; yaḥ—who; saḥ—that; sarveṣhu—all; bhūteṣhu—in beings; naśhyatsu—cease to exist; na—never; vinaśhyati—is annihilated\n",
-            "audio_number": 20
+            "audio_number": 20,
+            "verse_id": 326
         },
         {
             "chapter_number": 8,
@@ -3105,7 +3431,8 @@ const data = {
             "transliteration": "avyakto ’kṣhara ityuktas tam āhuḥ paramāṁ gatim\nyaṁ prāpya na nivartante tad dhāma paramaṁ mama\n",
             "verse_number": 21,
             "word_meanings": "avyaktaḥ—unmanifest; akṣharaḥ—imperishable; iti—thus; uktaḥ—is said; tam—that; āhuḥ—is called; paramām—the supreme; gatim—destination; yam—which; prāpya—having reached; na—never; nivartante—come back; tat—that; dhāma—abode; paramam—the supreme; mama—my\n",
-            "audio_number": 21
+            "audio_number": 21,
+            "verse_id": 327
         },
         {
             "chapter_number": 8,
@@ -3114,7 +3441,8 @@ const data = {
             "transliteration": "puruṣhaḥ sa paraḥ pārtha bhaktyā labhyas tvananyayā\nyasyāntaḥ-sthāni bhūtāni yena sarvam idaṁ tatam\n",
             "verse_number": 22,
             "word_meanings": "puruṣhaḥ—the Supreme Divine Personality; saḥ—he; paraḥ—greatest; pārtha—Arjun, the son of Pritha; bhaktyā—through devotion; labhyaḥ—is attainable; tu—indeed; ananyayā—without another; yasya—of whom; antaḥ-sthāni—situated within; bhūtāni—beings; yena—by whom; sarvam—all; idam—this; tatam—is pervaded\n",
-            "audio_number": 22
+            "audio_number": 22,
+            "verse_id": 328
         },
         {
             "chapter_number": 8,
@@ -3123,7 +3451,8 @@ const data = {
             "transliteration": "yatra kāle tvanāvṛittim āvṛittiṁ chaiva yoginaḥ\nprayātā yānti taṁ kālaṁ vakṣhyāmi bharatarṣhabha\n",
             "verse_number": 23,
             "word_meanings": "yatra—where; kāle—time; tu—certainly; anāvṛittim—no return; āvṛittim—return; cha—and; eva—certainly; yoginaḥ—a yogi; prayātāḥ—having departed; yānti—attain; tam—that; kālam—time; vakṣhyāmi—I shall describe; bharata-ṛiṣhabha—Arjun, the best of the Bharatas;\n",
-            "audio_number": 23
+            "audio_number": 23,
+            "verse_id": 329
         },
         {
             "chapter_number": 8,
@@ -3132,7 +3461,8 @@ const data = {
             "transliteration": "agnir jyotir ahaḥ śhuklaḥ ṣhaṇ-māsā uttarāyaṇam\ntatra prayātā gachchhanti brahma brahma-vido janāḥ\n",
             "verse_number": 24,
             "word_meanings": "agniḥ—fire; jyotiḥ—light; ahaḥ—day; śhuklaḥ—the bright fortnight of the moon; ṣhaṭ-māsāḥ—six months; uttara-ayanam—the sun’s northern course; tatra—there; prayātāḥ—departed; gachchhanti—go; brahma—Brahman; brahma-vidaḥ—those who know the Brahman; janāḥ—persons;\n",
-            "audio_number": 24
+            "audio_number": 24,
+            "verse_id": 330
         },
         {
             "chapter_number": 8,
@@ -3141,7 +3471,8 @@ const data = {
             "transliteration": "dhūmo rātris tathā kṛiṣhṇaḥ ṣhaṇ-māsā dakṣhiṇāyanam\ntatra chāndramasaṁ jyotir yogī prāpya nivartate\n",
             "verse_number": 25,
             "word_meanings": "dhūmaḥ—smoke; rātriḥ—night; tathā—and; kṛiṣhṇaḥ—the dark fortnight of the moon; ṣhaṭ-māsāḥ—six months; dakṣhiṇa-ayanam—the sun’s southern course; tatra—there; chāndra-masam—lunar; jyotiḥ—light; yogī—a yogi; prāpya—attain; nivartate—comes back;\n",
-            "audio_number": 25
+            "audio_number": 25,
+            "verse_id": 331
         },
         {
             "chapter_number": 8,
@@ -3150,7 +3481,8 @@ const data = {
             "transliteration": "śhukla-kṛiṣhṇe gatī hyete jagataḥ śhāśhvate mate\nekayā yātyanāvṛittim anyayāvartate punaḥ\n",
             "verse_number": 26,
             "word_meanings": "śhukla—bright; kṛiṣhṇe—dark; gatī—paths; hi—certainly; ete—these; jagataḥ—of the material world; śhāśhvate—eternal; mate—opinion; ekayā—by one; yāti—goes; anāvṛittim—to non return; anyayā—by the other; āvartate—comes back; punaḥ—again\n",
-            "audio_number": 26
+            "audio_number": 26,
+            "verse_id": 332
         },
         {
             "chapter_number": 8,
@@ -3159,7 +3491,8 @@ const data = {
             "transliteration": "naite sṛitī pārtha jānan yogī muhyati kaśhchana\ntasmāt sarveṣhu kāleṣhu yoga-yukto bhavārjuna\n",
             "verse_number": 27,
             "word_meanings": "na—never; ete—these two; sṛitī—paths; pārtha—Arjun, the son of Pritha; jānan—knowing; yogī—a yogi; muhyati—bewildered; kaśhchana—any; tasmāt—therefore; sarveṣhu kāleṣhu—always; yoga-yuktaḥ—situated in Yog; bhava—be; arjuna—Arjun\n",
-            "audio_number": 27
+            "audio_number": 27,
+            "verse_id": 333
         },
         {
             "chapter_number": 8,
@@ -3168,7 +3501,8 @@ const data = {
             "transliteration": "vedeṣhu yajñeṣhu tapaḥsu chaiva\ndāneṣhu yat puṇya-phalaṁ pradiṣhṭam\natyeti tat sarvam idaṁ viditvā\nyogī paraṁ sthānam upaiti chādyam\n",
             "verse_number": 28,
             "word_meanings": "vedeṣhu—in the study of the Vedas; yajñeṣhu—in performance of sacrifices; tapaḥsu—in austerities; cha—and; eva—certainly; dāneṣhu—in giving charities; yat—which; puṇya-phalam—fruit of merit; pradiṣhṭam—is gained; atyeti—surpasses; tat sarvam—all; idam—this; viditvā—having known; yogī—a yogi; param—Supreme; sthānam—Abode; upaiti—achieves; cha—and; ādyam—original\n",
-            "audio_number": 28
+            "audio_number": 28,
+            "verse_id": 334
         },
         {
             "chapter_number": 9,
@@ -3177,7 +3511,8 @@ const data = {
             "transliteration": "śhrī bhagavān uvācha\nidaṁ tu te guhyatamaṁ pravakṣhyāmyanasūyave\njñānaṁ vijñāna-sahitaṁ yaj jñātvā mokṣhyase ’śhubhāt\n",
             "verse_number": 1,
             "word_meanings": "śhrī-bhagavān uvācha—the Supreme Lord said; idam—this; tu—but; te—to you; guhya-tamam—the most confidential; pravakṣhyāmi—I shall impart; anasūyave—nonenvious; jñānam—knowledge; vijñāna—realized knowledge; sahitam—with; yat—which; jñātvā—knowing; mokṣhyase—you will be released; aśhubhāt—miseries of material existence\n",
-            "audio_number": 1
+            "audio_number": 1,
+            "verse_id": 335
         },
         {
             "chapter_number": 9,
@@ -3186,7 +3521,8 @@ const data = {
             "transliteration": "rāja-vidyā rāja-guhyaṁ pavitram idam uttamam\npratyakṣhāvagamaṁ dharmyaṁ su-sukhaṁ kartum avyayam\n",
             "verse_number": 2,
             "word_meanings": "rāja-vidyā—the king of sciences; rāja-guhyam—the most profound secret; pavitram—pure; idam—this; uttamam—highest; pratyakṣha—directly perceptible; avagamam—directly realizable; dharmyam—virtuous; su-sukham—easy; kartum—to practice; avyayam—everlasting\n",
-            "audio_number": 2
+            "audio_number": 2,
+            "verse_id": 336
         },
         {
             "chapter_number": 9,
@@ -3195,7 +3531,8 @@ const data = {
             "transliteration": "aśhraddadhānāḥ puruṣhā dharmasyāsya parantapa\naprāpya māṁ nivartante mṛityu-samsāra-vartmani\n",
             "verse_number": 3,
             "word_meanings": "aśhraddadhānāḥ—people without faith; puruṣhāḥ—(such) persons; dharmasya—of dharma; asya—this; parantapa—Arjun, conqueror the enemies; aprāpya—without attaining; mām—me; nivartante—come back; mṛityu—death; samsāra—material existence; vartmani—in the path\n",
-            "audio_number": 3
+            "audio_number": 3,
+            "verse_id": 337
         },
         {
             "chapter_number": 9,
@@ -3204,7 +3541,8 @@ const data = {
             "transliteration": "mayā tatam idaṁ sarvaṁ jagad avyakta-mūrtinā\nmat-sthāni sarva-bhūtāni na chāhaṁ teṣhvavasthitaḥ\n",
             "verse_number": 4,
             "word_meanings": "mayā—by me; tatam—pervaded; idam—this; sarvam—entire; jagat—cosmic manifestation; avyakta-mūrtinā—the unmanifested form; mat-sthāni—in me; sarva-bhūtāni—all living beings; na—not; cha—and; aham—I; teṣhu—in them; avasthitaḥ—dwell\n",
-            "audio_number": 4
+            "audio_number": 4,
+            "verse_id": 338
         },
         {
             "chapter_number": 9,
@@ -3213,7 +3551,8 @@ const data = {
             "transliteration": "na cha mat-sthāni bhūtāni paśhya me yogam aiśhwaram\nbhūta-bhṛin na cha bhūta-stho mamātmā bhūta-bhāvanaḥ\n",
             "verse_number": 5,
             "word_meanings": "na—never; cha—and; mat-sthāni—abide in me; bhūtāni—all living beings; paśhya—behold; me—my; yogam aiśhwaram—divine energy; bhūta-bhṛit—the sustainer of all living beings; na—never; cha—yet; bhūta-sthaḥ—dwelling in; mama—my; ātmā—self; bhūta-bhāvanaḥ—the creator of all beings\n",
-            "audio_number": 5
+            "audio_number": 5,
+            "verse_id": 339
         },
         {
             "chapter_number": 9,
@@ -3222,7 +3561,8 @@ const data = {
             "transliteration": "yathākāśha-sthito nityaṁ vāyuḥ sarvatra-go mahān\ntathā sarvāṇi bhūtāni mat-sthānītyupadhāraya\n",
             "verse_number": 6,
             "word_meanings": "yathā—as; ākāśha-sthitaḥ—rests in the sky; nityam—always; vāyuḥ—the wind; sarvatra-gaḥ—blowing everywhere; mahān—mighty; tathā—likewise; sarvāṇi bhūtāni—all living beings; mat-sthāni—rest in me; iti—thus; upadhāraya—know\n",
-            "audio_number": 6
+            "audio_number": 6,
+            "verse_id": 340
         },
         {
             "chapter_number": 9,
@@ -3231,7 +3571,8 @@ const data = {
             "transliteration": "sarva-bhūtāni kaunteya prakṛitiṁ yānti māmikām\nkalpa-kṣhaye punas tāni kalpādau visṛijāmyaham\n",
             "verse_number": 7,
             "word_meanings": "sarva-bhūtāni—all living beings; kaunteya—Arjun, the son of Kunti; prakṛitim—primordial material energy; yānti—merge; māmikām—my; kalpa-kṣhaye—at the end of a kalpa; punaḥ—again; tāni—them; kalpa-ādau—at the beginning of a kalpa; visṛijāmi—manifest; aham—I\n",
-            "audio_number": 7
+            "audio_number": 7,
+            "verse_id": 341
         },
         {
             "chapter_number": 9,
@@ -3240,7 +3581,8 @@ const data = {
             "transliteration": "prakṛitiṁ svām avaṣhṭabhya visṛijāmi punaḥ punaḥ\nbhūta-grāmam imaṁ kṛitsnam avaśhaṁ prakṛiter vaśhāt\n",
             "verse_number": 8,
             "word_meanings": "prakṛitim—the material energy; svām—my own; avaṣhṭabhya—presiding over; visṛijāmi—generate; punaḥ punaḥ—again and again; bhūta-grāmam—myriad forms; imam—these; kṛitsnam—all; avaśham—beyond their control; prakṛiteḥ—nature; vaśhāt—force\n",
-            "audio_number": 8
+            "audio_number": 8,
+            "verse_id": 342
         },
         {
             "chapter_number": 9,
@@ -3249,7 +3591,8 @@ const data = {
             "transliteration": "na cha māṁ tāni karmāṇi nibadhnanti dhanañjaya\nudāsīna-vad āsīnam asaktaṁ teṣhu karmasu\n",
             "verse_number": 9,
             "word_meanings": "na—none; cha—as; mām—me; tāni—those; karmāṇi—actions; nibadhnanti—bind; dhanañjaya—Arjun, conqueror of wealth; udāsīna-vat—as neutral; āsīnam—situated; asaktam—detached; teṣhu—those; karmasu—actions\n",
-            "audio_number": 9
+            "audio_number": 9,
+            "verse_id": 343
         },
         {
             "chapter_number": 9,
@@ -3258,7 +3601,8 @@ const data = {
             "transliteration": "mayādhyakṣheṇa prakṛitiḥ sūyate sa-charācharam\nhetunānena kaunteya jagad viparivartate\n",
             "verse_number": 10,
             "word_meanings": "mayā—by me; adhyakṣheṇa—direction; prakṛitiḥ—material energy; sūyate—brings into being; sa—both; chara-acharam—the animate and the inanimate; hetunā—reason; anena—this; kaunteya—Arjun, the son of Kunti; jagat—the material world; viparivartate—undergoes the changes\n",
-            "audio_number": 10
+            "audio_number": 10,
+            "verse_id": 344
         },
         {
             "chapter_number": 9,
@@ -3267,7 +3611,8 @@ const data = {
             "transliteration": "avajānanti māṁ mūḍhā mānuṣhīṁ tanum āśhritam\nparaṁ bhāvam ajānanto mama bhūta-maheśhvaram\n",
             "verse_number": 11,
             "word_meanings": "avajānanti—disregard; mām—me; mūḍhāḥ—dim-witted; mānuṣhīm—human; tanum—form; āśhritam—take on; param—divine; bhāvam—personality; ajānantaḥ—not knowing; mama—my; bhūta—all beings; mahā-īśhvaram—the Supreme Lord\n",
-            "audio_number": 11
+            "audio_number": 11,
+            "verse_id": 345
         },
         {
             "chapter_number": 9,
@@ -3276,7 +3621,8 @@ const data = {
             "transliteration": "moghāśhā mogha-karmāṇo mogha-jñānā vichetasaḥ\nrākṣhasīm āsurīṁ chaiva prakṛitiṁ mohinīṁ śhritāḥ\n",
             "verse_number": 12,
             "word_meanings": "mogha-āśhāḥ—of vain hopes; mogha-karmāṇaḥ—of vain actions; mogha-jñānāḥ—of baffled knowledge; vichetasaḥ—deluded; rākṣhasīm—demoniac; āsurīm—atheistic; cha—and; eva—certainly; prakṛitim—material energy; mohinīm—bewildered; śhritāḥ—take shelter\n",
-            "audio_number": 12
+            "audio_number": 12,
+            "verse_id": 346
         },
         {
             "chapter_number": 9,
@@ -3285,7 +3631,8 @@ const data = {
             "transliteration": "mahātmānas tu māṁ pārtha daivīṁ prakṛitim āśhritāḥ\nbhajantyananya-manaso jñātvā bhūtādim avyayam\n",
             "verse_number": 13,
             "word_meanings": "mahā-ātmānaḥ—the great souls; tu—but; mām—me; pārtha—Arjun, the son of Pritha; daivīm prakṛitim—divine energy; āśhritāḥ—take shelter of; bhajanti—engage in devotion; ananya-manasaḥ—with mind fixed exclusively; jñātvā—knowing; bhūta—all creation; ādim—the origin; avyayam—imperishable\n",
-            "audio_number": 13
+            "audio_number": 13,
+            "verse_id": 347
         },
         {
             "chapter_number": 9,
@@ -3294,7 +3641,8 @@ const data = {
             "transliteration": "satataṁ kīrtayanto māṁ yatantaśh cha dṛiḍha-vratāḥ\nnamasyantaśh cha māṁ bhaktyā nitya-yuktā upāsate\n",
             "verse_number": 14,
             "word_meanings": "satatam—always; kīrtayantaḥ—singing divine glories; mām—me; yatantaḥ—striving; cha—and; dṛiḍha-vratāḥ—with great determination; namasyantaḥ—humbly bowing down; cha—and; mām—me; bhaktyā—loving devotion; nitya-yuktāḥ—constantly united; upāsate—worship\n",
-            "audio_number": 14
+            "audio_number": 14,
+            "verse_id": 348
         },
         {
             "chapter_number": 9,
@@ -3303,7 +3651,8 @@ const data = {
             "transliteration": "jñāna-yajñena chāpyanye yajanto mām upāsate\nekatvena pṛithaktvena bahudhā viśhvato-mukham\n",
             "verse_number": 15,
             "word_meanings": "jñāna-yajñena—yajña of cultivating knowledge; cha—and; api—also; anye—others; yajantaḥ—worship; mām—me; upāsate—worship; ekatvena—undifferentiated oneness; pṛithaktvena—separately; bahudhā—various; viśhwataḥ-mukham—the cosmic form\n",
-            "audio_number": 15
+            "audio_number": 15,
+            "verse_id": 349
         },
         {
             "chapter_number": 9,
@@ -3312,7 +3661,8 @@ const data = {
             "transliteration": "ahaṁ kratur ahaṁ yajñaḥ svadhāham aham auṣhadham\nmantro ’ham aham evājyam aham agnir ahaṁ hutam\n",
             "verse_number": 16,
             "word_meanings": "aham—I; kratuḥ—Vedic ritual; aham—I; yajñaḥ—sacrifice; svadhā—oblation; aham—I; aham—I; auṣhadham—medicinal herb; mantraḥ—Vedic mantra; aham—I; aham—I; eva—also; ājyam—clarified butter; aham—I; agniḥ—fire; aham—I; hutam—the act offering;\n",
-            "audio_number": 16
+            "audio_number": 16,
+            "verse_id": 350
         },
         {
             "chapter_number": 9,
@@ -3321,7 +3671,8 @@ const data = {
             "transliteration": "pitāham asya jagato mātā dhātā pitāmahaḥ\nvedyaṁ pavitram oṁkāra ṛik sāma yajur eva cha\n",
             "verse_number": 17,
             "word_meanings": "pitā—Father; aham—I; asya—of this; jagataḥ—universe; mātā—Mother; dhātā—Sustainer; pitāmahaḥ—Grandsire; vedyam—the goal of knowledge; pavitram—the purifier; om-kāra—the sacred syllable Om; ṛik—the Rig Veda; sāma—the Sama Veda; yajuḥ—the Yajur Veda; eva—also; cha—and\n",
-            "audio_number": 17
+            "audio_number": 17,
+            "verse_id": 351
         },
         {
             "chapter_number": 9,
@@ -3330,7 +3681,8 @@ const data = {
             "transliteration": "gatir bhartā prabhuḥ sākṣhī nivāsaḥ śharaṇaṁ suhṛit\nprabhavaḥ pralayaḥ sthānaṁ nidhānaṁ bījam avyayam\n",
             "verse_number": 18,
             "word_meanings": "gatiḥ—the supreme goal; bhartā—sustainer; prabhuḥ—master; sākṣhī—witness; nivāsaḥ—abode; śharaṇam—shelter; su-hṛit—friend; prabhavaḥ—the origin; pralayaḥ—dissolution; sthānam—store house; nidhānam—resting place; bījam—seed; avyayam—imperishable\n",
-            "audio_number": 18
+            "audio_number": 18,
+            "verse_id": 352
         },
         {
             "chapter_number": 9,
@@ -3339,7 +3691,8 @@ const data = {
             "transliteration": "tapāmyaham ahaṁ varṣhaṁ nigṛihṇāmyutsṛijāmi cha\namṛitaṁ chaiva mṛityuśh cha sad asach chāham arjuna\n",
             "verse_number": 19,
             "word_meanings": "tapāmi—radiate heat; aham—I; aham—I; varṣham—rain; nigṛihṇāmi—withhold; utsṛijāmi—send forth; cha—and; amṛitam—immortality; cha—and; eva—also; mṛityuḥ—death; cha—and; sat—eternal spirit; asat—temporary matter; cha—and; aham—I; arjuna—Arjun\n",
-            "audio_number": 19
+            "audio_number": 19,
+            "verse_id": 353
         },
         {
             "chapter_number": 9,
@@ -3348,7 +3701,8 @@ const data = {
             "transliteration": "trai-vidyā māṁ soma-pāḥ pūta-pāpā\nyajñair iṣhṭvā svar-gatiṁ prārthayante\nte puṇyam āsādya surendra-lokam\naśhnanti divyān divi deva-bhogān\n",
             "verse_number": 20,
             "word_meanings": "trai-vidyāḥ—the science of karm kāṇḍ (Vedic Rituals); mām—me; soma-pāḥ—drinkers of the Soma juice; pūta—purified; pāpāḥ—sins; yajñaiḥ—through sacrifices; iṣhṭvā—worship; svaḥ-gatim—way to the abode of the king of heaven; prārthayante—seek; te—they; puṇyam—pious; āsādya—attain; sura-indra—of Indra; lokam—abode; aśhnanti—enjoy; divyān—celestial; divi—in heaven; deva-bhogān—the pleasures of the celestial gods\n",
-            "audio_number": 20
+            "audio_number": 20,
+            "verse_id": 354
         },
         {
             "chapter_number": 9,
@@ -3357,7 +3711,8 @@ const data = {
             "transliteration": "te taṁ bhuktvā swarga-lokaṁ viśhālaṁ\nkṣhīṇe puṇye martya-lokaṁ viśhanti\nevaṁ trayī-dharmam anuprapannā\ngatāgataṁ kāma-kāmā labhante\n",
             "verse_number": 21,
             "word_meanings": "te—they; tam—that; bhuktvā—having enjoyed; swarga-lokam—heaven; viśhālam—vast; kṣhīṇe—at the exhaustion of; puṇye—stock of merits; martya-lokam—to the earthly plane; viśhanti—return; evam—thus; trayī dharmam—the karm-kāṇḍ portion of the three Vedas; anuprapannāḥ—follow; gata-āgatam—repeated coming and going; kāma-kāmāḥ—desiring objects of enjoyments; labhante—attain\n",
-            "audio_number": 21
+            "audio_number": 21,
+            "verse_id": 355
         },
         {
             "chapter_number": 9,
@@ -3366,7 +3721,8 @@ const data = {
             "transliteration": "ananyāśh chintayanto māṁ ye janāḥ paryupāsate\nteṣhāṁ nityābhiyuktānāṁ yoga-kṣhemaṁ vahāmyaham\n",
             "verse_number": 22,
             "word_meanings": "ananyāḥ—always; chintayantaḥ—think of; mām—me; ye—those who; janāḥ—persons; paryupāsate—worship exclusively; teṣhām—of them; nitya abhiyuktānām—who are always absorbed; yoga—supply spiritual assets; kṣhemam—protect spiritual assets; vahāmi—carry; aham—I\n",
-            "audio_number": 22
+            "audio_number": 22,
+            "verse_id": 356
         },
         {
             "chapter_number": 9,
@@ -3375,7 +3731,8 @@ const data = {
             "transliteration": "ye ’pyanya-devatā-bhaktā yajante śhraddhayānvitāḥ\nte ’pi mām eva kaunteya yajantyavidhi-pūrvakam\n",
             "verse_number": 23,
             "word_meanings": "ye—those who; api—although; anya—other; devatā—celestial gods; bhaktāḥ—devotees; yajante—worship; śhraddhayā anvitāḥ—faithfully; te—they; api—also; mām—me; eva—only; kaunteya—Arjun, the son of Kunti; yajanti—worship; avidhi-pūrvakam—by the wrong method\n",
-            "audio_number": 23
+            "audio_number": 23,
+            "verse_id": 357
         },
         {
             "chapter_number": 9,
@@ -3384,7 +3741,8 @@ const data = {
             "transliteration": "ahaṁ hi sarva-yajñānāṁ bhoktā cha prabhureva cha\nna tu mām abhijānanti tattvenātaśh chyavanti te\n",
             "verse_number": 24,
             "word_meanings": "aham—I; hi—verily; sarva—of all; yajñānām—sacrifices; bhoktā—the enjoyer; cha—and; prabhuḥ—the Lord; eva—only; cha—and; na—not; tu—but; mām—me; abhijānanti—realize; tattvena—divine nature; ataḥ—therefore; chyavanti—fall down (wander in samsara); te—they\n",
-            "audio_number": 24
+            "audio_number": 24,
+            "verse_id": 358
         },
         {
             "chapter_number": 9,
@@ -3393,7 +3751,8 @@ const data = {
             "transliteration": "yānti deva-vratā devān pitṝīn yānti pitṛi-vratāḥ\nbhūtāni yānti bhūtejyā yānti mad-yājino ’pi mām\n",
             "verse_number": 25,
             "word_meanings": "yānti—go; deva-vratāḥ—worshipers of celestial gods; devān—amongst the celestial gods; pitṝīn—to the ancestors; yānti—go; pitṛi-vratā—worshippers of ancestors; bhūtāni—to the ghosts; yānti—go; bhūta-ijyāḥ—worshippers of ghosts; yānti—go; mat—my; yājinaḥ—devotees; api—and; mām—to me\n",
-            "audio_number": 25
+            "audio_number": 25,
+            "verse_id": 359
         },
         {
             "chapter_number": 9,
@@ -3402,7 +3761,8 @@ const data = {
             "transliteration": "patraṁ puṣhpaṁ phalaṁ toyaṁ yo me bhaktyā prayachchhati\ntadahaṁ bhaktyupahṛitam aśhnāmi prayatātmanaḥ\n",
             "verse_number": 26,
             "word_meanings": "patram—a leaf; puṣhpam—a flower; phalam—a fruit; toyam—water; yaḥ—who; me—to me; bhaktyā—with devotion; prayachchhati—offers; tat—that; aham—I; bhakti-upahṛitam—offered with devotion; aśhnāmi—partake; prayata-ātmanaḥ—one in pure consciousness\n",
-            "audio_number": 26
+            "audio_number": 26,
+            "verse_id": 360
         },
         {
             "chapter_number": 9,
@@ -3411,7 +3771,8 @@ const data = {
             "transliteration": "yat karoṣhi yad aśhnāsi yaj juhoṣhi dadāsi yat\nyat tapasyasi kaunteya tat kuruṣhva mad-arpaṇam\n",
             "verse_number": 27,
             "word_meanings": "yat—whatever; karoṣhi—you do; yat—whatever; aśhnāsi—you eat; yat—whatever; juhoṣhi—offer to the sacred fire; dadāsi—bestow as a gift; yat—whatever; yat—whatever; tapasyasi—austerities you perform; kaunteya—Arjun, the son of Kunti; tat—them; kuruṣhva—do; mad arpaṇam—as an offering to me\n",
-            "audio_number": 27
+            "audio_number": 27,
+            "verse_id": 361
         },
         {
             "chapter_number": 9,
@@ -3420,7 +3781,8 @@ const data = {
             "transliteration": "śhubhāśhubha-phalair evaṁ mokṣhyase karma-bandhanaiḥ\nsannyāsa-yoga-yuktātmā vimukto mām upaiṣhyasi\n",
             "verse_number": 28,
             "word_meanings": "śhubha aśhubha phalaiḥ—from good and bad results; evam—thus; mokṣhyase—you shall be freed; karma—work; bandhanaiḥ—from the bondage; sanyāsa-yoga—renunciation of selfishness; yukta-ātmā—having the mind attached to me; vimuktaḥ—liberated; mām—to me; upaiṣhyasi—you shall reach\n",
-            "audio_number": 28
+            "audio_number": 28,
+            "verse_id": 362
         },
         {
             "chapter_number": 9,
@@ -3429,7 +3791,8 @@ const data = {
             "transliteration": "samo ’haṁ sarva-bhūteṣhu na me dveṣhyo ’sti na priyaḥ\nye bhajanti tu māṁ bhaktyā mayi te teṣhu chāpyaham\n",
             "verse_number": 29,
             "word_meanings": "samaḥ—equally disposed; aham—I; sarva-bhūteṣhu—to all living beings; na—no one; me—to me; dveṣhyaḥ—inimical; asti—is; na—not; priyaḥ—dear; ye—who; bhajanti—worship with love; tu—but; mām—me; bhaktyā—with devotion; mayi—reside in me; te—such persons; teṣhu—in them; cha—and; api—also; aham—I\n",
-            "audio_number": 29
+            "audio_number": 29,
+            "verse_id": 363
         },
         {
             "chapter_number": 9,
@@ -3438,7 +3801,8 @@ const data = {
             "transliteration": "api chet su-durāchāro bhajate mām ananya-bhāk\nsādhur eva sa mantavyaḥ samyag vyavasito hi saḥ\n",
             "verse_number": 30,
             "word_meanings": "api—even; chet—if; su-durāchāraḥ—the vilest sinners; bhajate—worship; mām—me; ananya-bhāk—exclusive devotion; sādhuḥ—righteous; eva—certainly; saḥ—that person; mantavyaḥ—is to be considered; samyak—properly; vyavasitaḥ—resolve; hi—certainly; saḥ—that person\n",
-            "audio_number": 30
+            "audio_number": 30,
+            "verse_id": 364
         },
         {
             "chapter_number": 9,
@@ -3447,7 +3811,8 @@ const data = {
             "transliteration": "kṣhipraṁ bhavati dharmātmā śhaśhvach-chhāntiṁ nigachchhati\nkaunteya pratijānīhi na me bhaktaḥ praṇaśhyati\n",
             "verse_number": 31,
             "word_meanings": "kṣhipram—quickly; bhavati—become; dharma-ātmā—virtuous; śhaśhvat-śhāntim—lasting peace; nigachchhati—attain; kaunteya—Arjun, the son of Kunti; pratijānīhi—declare; na—never; me—my; bhaktaḥ—devotee; praṇaśhyati—perishes\n",
-            "audio_number": 31
+            "audio_number": 31,
+            "verse_id": 365
         },
         {
             "chapter_number": 9,
@@ -3456,7 +3821,8 @@ const data = {
             "transliteration": "māṁ hi pārtha vyapāśhritya ye ’pi syuḥ pāpa-yonayaḥ\nstriyo vaiśhyās tathā śhūdrās te ’pi yānti parāṁ gatim\n",
             "verse_number": 32,
             "word_meanings": "mām—in me; hi—certainly; pārtha—Arjun, the son of Pritha; vyapāśhritya—take refuge; ye—who; api—even; syuḥ—may be; pāpa yonayaḥ—of low birth; striyaḥ—women; vaiśhyāḥ—mercantile people; tathā—and; śhūdrāḥ—manual workers; te api—even they; yānti—go; parām—the supreme; gatim—destination\n",
-            "audio_number": 32
+            "audio_number": 32,
+            "verse_id": 366
         },
         {
             "chapter_number": 9,
@@ -3465,7 +3831,8 @@ const data = {
             "transliteration": "kiṁ punar brāhmaṇāḥ puṇyā bhaktā rājarṣhayas tathā\nanityam asukhaṁ lokam imaṁ prāpya bhajasva mām\n",
             "verse_number": 33,
             "word_meanings": "kim—what; punaḥ—then; brāhmaṇāḥ—sages; puṇyāḥ—meritorius; bhaktāḥ—devotees; rāja-ṛiṣhayaḥ—saintly kings; tathā—and; anityam—transient; asukham—joyless; lokam—world; imam—this; prāpya—having achieved; bhajasva—engage in devotion; mām—unto me\n",
-            "audio_number": 33
+            "audio_number": 33,
+            "verse_id": 367
         },
         {
             "chapter_number": 9,
@@ -3474,7 +3841,8 @@ const data = {
             "transliteration": "man-manā bhava mad-bhakto mad-yājī māṁ namaskuru\nmām evaiṣhyasi yuktvaivam ātmānaṁ mat-parāyaṇaḥ\n",
             "verse_number": 34,
             "word_meanings": "mat-manāḥ—always think of me; bhava—be; mat—my; bhaktaḥ—devotee; mat—my; yājī—worshipper; mām—to me; namaskuru—offer obeisances; mām—to me; eva—certainly; eṣhyasi—you will come; yuktvā—united with me; evam—thus; ātmānam—your mind and body; mat-parāyaṇaḥ—having dedicated to me\n",
-            "audio_number": 34
+            "audio_number": 34,
+            "verse_id": 368
         },
         {
             "chapter_number": 10,
@@ -3483,7 +3851,8 @@ const data = {
             "transliteration": "śhrī bhagavān uvācha\nbhūya eva mahā-bāho śhṛiṇu me paramaṁ vachaḥ\nyatte ’haṁ prīyamāṇāya vakṣhyāmi hita-kāmyayā\n",
             "verse_number": 1,
             "word_meanings": "śhrī-bhagavān uvācha—the Blessed Lord said; bhūyaḥ—again; eva—verily; mahā-bāho—mighty armed one; śhṛiṇu—hear; me—my; paramam—divine; vachaḥ—teachings; yat—which; te—to you; aham—I; prīyamāṇāya—you are my beloved confidant; vakṣhyāmi—say; hita-kāmyayā—for desiring your welfare\n",
-            "audio_number": 1
+            "audio_number": 1,
+            "verse_id": 369
         },
         {
             "chapter_number": 10,
@@ -3492,7 +3861,8 @@ const data = {
             "transliteration": "na me viduḥ sura-gaṇāḥ prabhavaṁ na maharṣhayaḥ\naham ādir hi devānāṁ maharṣhīṇāṁ cha sarvaśhaḥ\n",
             "verse_number": 2,
             "word_meanings": "na—neither; me—my; viduḥ—know; sura-gaṇāḥ—the celestial gods; prabhavam—origin; na—nor; mahā-ṛiṣhayaḥ—the great sages; aham—I; ādiḥ—the source; hi—certainly; devānām—of the celestial gods; mahā-ṛiṣhīṇām—of the great seers; cha—also; sarvaśhaḥ—in every way\n",
-            "audio_number": 2
+            "audio_number": 2,
+            "verse_id": 370
         },
         {
             "chapter_number": 10,
@@ -3501,7 +3871,8 @@ const data = {
             "transliteration": "yo māmajam anādiṁ cha vetti loka-maheśhvaram\nasammūḍhaḥ sa martyeṣhu sarva-pāpaiḥ pramuchyate\n",
             "verse_number": 3,
             "word_meanings": "verseyaḥ—who; mām—me; ajam—unborn; anādim—beginningless; cha—and; vetti—know; loka—of the universe; mahā-īśhvaram—the Supreme Lord; asammūḍhaḥ—undeluded; saḥ—they; martyeṣhu—among mortals; sarva-pāpaiḥ—from all evils; pramuchyate—are freed from-3\n",
-            "audio_number": 3
+            "audio_number": 3,
+            "verse_id": 371
         },
         {
             "chapter_number": 10,
@@ -3510,7 +3881,8 @@ const data = {
             "transliteration": "buddhir jñānam asammohaḥ kṣhamā satyaṁ damaḥ śhamaḥ\nsukhaṁ duḥkhaṁ bhavo ’bhāvo bhayaṁ chābhayameva cha\n",
             "verse_number": 4,
             "word_meanings": "buddhiḥ—intellect; jñānam—knowledge; asammohaḥ—clarity of thought; kṣhamā—forgiveness; satyam—truthfulness; damaḥ—control over the senses; śhamaḥ—control of the mind; sukham—joy; duḥkham—sorrow; bhavaḥ—birth; abhāvaḥ—death; bhayam—fear; cha—and; abhayam—courage; eva—certainly; cha—and;\n",
-            "audio_number": 4
+            "audio_number": 4,
+            "verse_id": 372
         },
         {
             "chapter_number": 10,
@@ -3519,7 +3891,8 @@ const data = {
             "transliteration": "maharṣhayaḥ sapta pūrve chatvāro manavas tathā\nmad-bhāvā mānasā jātā yeṣhāṁ loka imāḥ prajāḥ\n",
             "verse_number": 6,
             "word_meanings": "mahā-ṛiṣhayaḥ—the great Sages; sapta—seven; pūrve—before; chatvāraḥ—four; manavaḥ—Manus; tathā—also; mat bhāvāḥ—are born from me; mānasāḥ—mind; jātāḥ—born; yeṣhām—from them; loke—in the world; imāḥ—all these; prajāḥ—people\n",
-            "audio_number": 5
+            "audio_number": 5,
+            "verse_id": 373
         },
         {
             "chapter_number": 10,
@@ -3528,7 +3901,8 @@ const data = {
             "transliteration": "etāṁ vibhūtiṁ yogaṁ cha mama yo vetti tattvataḥ\nso ’vikampena yogena yujyate nātra sanśhayaḥ\n",
             "verse_number": 7,
             "word_meanings": "etām—these; vibhūtim—glories; yogam—divine powers; cha—and; mama—my; yaḥ—those who; vetti—know; tattvataḥ—in truth; saḥ—they; avikalpena—unwavering; yogena—in bhakti yog; yujyate—becomes united; na—never; atra—here; sanśhayaḥ—doubt\n",
-            "audio_number": 6
+            "audio_number": 6,
+            "verse_id": 374
         },
         {
             "chapter_number": 10,
@@ -3537,7 +3911,8 @@ const data = {
             "transliteration": "ahaṁ sarvasya prabhavo mattaḥ sarvaṁ pravartate\niti matvā bhajante māṁ budhā bhāva-samanvitāḥ\n",
             "verse_number": 8,
             "word_meanings": "aham—I; sarvasya—of all creation; prabhavaḥ—the origin of; mattaḥ—from me; sarvam—everything; pravartate—proceeds; iti—thus; matvā—having known; bhajante—worship; mām—me; budhāḥ—the wise; bhāva-samanvitāḥ—endowed with great faith and devotion\n",
-            "audio_number": 7
+            "audio_number": 7,
+            "verse_id": 375
         },
         {
             "chapter_number": 10,
@@ -3546,7 +3921,8 @@ const data = {
             "transliteration": "mach-chittā mad-gata-prāṇā bodhayantaḥ parasparam\nkathayantaśh cha māṁ nityaṁ tuṣhyanti cha ramanti cha\n",
             "verse_number": 9,
             "word_meanings": "mat-chittāḥ—those with minds fixed on me; mat-gata-prāṇāḥ—those who have surrendered their lives to me; bodhayantaḥ—enlightening (with divine knowledge of God); parasparam—one another; kathayantaḥ—speaking; cha—and; mām—about me; nityam—continously; tuṣhyanti—satisfaction; cha—and; ramanti—(they) delight; cha—also\n",
-            "audio_number": 8
+            "audio_number": 8,
+            "verse_id": 376
         },
         {
             "chapter_number": 10,
@@ -3555,7 +3931,8 @@ const data = {
             "transliteration": "teṣhāṁ satata-yuktānāṁ bhajatāṁ prīti-pūrvakam\ndadāmi buddhi-yogaṁ taṁ yena mām upayānti te\n",
             "verse_number": 10,
             "word_meanings": "teṣhām—to them; satata-yuktānām—ever steadfast; bhajatām—who engage in devotion; prīti-pūrvakam—with love; dadāmi—I give; buddhi-yogam—divine knowledge; tam—that; yena—by which; mām—to me; upayānti—come; te—they\n",
-            "audio_number": 9
+            "audio_number": 9,
+            "verse_id": 377
         },
         {
             "chapter_number": 10,
@@ -3564,7 +3941,8 @@ const data = {
             "transliteration": "teṣhām evānukampārtham aham ajñāna-jaṁ tamaḥ\nnāśhayāmyātma-bhāva-stho jñāna-dīpena bhāsvatā\n",
             "verse_number": 11,
             "word_meanings": "teṣhām—for them; eva—only; anukampā-artham—out of compassion; aham—I; ajñāna-jam—born of ignorance; tamaḥ—darkness; nāśhayāmi—destroy; ātma-bhāva—within their hearts; sthaḥ—dwelling; jñāna—of knowledge; dīpena—with the lamp; bhāsvatā—luminous\n",
-            "audio_number": 10
+            "audio_number": 10,
+            "verse_id": 378
         },
         {
             "chapter_number": 10,
@@ -3573,7 +3951,8 @@ const data = {
             "transliteration": "arjuna uvācha\nparaṁ brahma paraṁ dhāma pavitraṁ paramaṁ bhavān\npuruṣhaṁ śhāśhvataṁ divyam ādi-devam ajaṁ vibhum\n",
             "verse_number": 12,
             "word_meanings": "arjunaḥ uvācha—Arjun said; param—Supreme; brahma—Brahman; param—Supreme; dhāma—Abode; pavitram—purifier; paramam—Supreme; bhavān—you; puruṣham—personality; śhāśhvatam—Eternal; divyam—Divine; ādi-devam—the Primal Being; ajam—the Unborn; vibhum—the Great;\n",
-            "audio_number": 11
+            "audio_number": 11,
+            "verse_id": 379
         },
         {
             "chapter_number": 10,
@@ -3582,7 +3961,8 @@ const data = {
             "transliteration": "āhus tvām ṛiṣhayaḥ sarve devarṣhir nāradas tathā\nasito devalo vyāsaḥ svayaṁ chaiva bravīṣhi me\n",
             "verse_number": 13,
             "word_meanings": "āhuḥ—(they) declare; tvām—you; ṛiṣhayaḥ—sages; sarve—all; deva-ṛiṣhiḥ-nāradaḥ—devarṣhi Narad; tathā—also; asitaḥ—Asit; devalaḥ—Deval; vyāsaḥ—Vyās; svayam—personally; cha—and; eva—even; bravīṣhī—you are declaring; me—to me\n",
-            "audio_number": 11
+            "audio_number": 11,
+            "verse_id": 380
         },
         {
             "chapter_number": 10,
@@ -3591,7 +3971,8 @@ const data = {
             "transliteration": "sarvam etad ṛitaṁ manye yan māṁ vadasi keśhava\nna hi te bhagavan vyaktiṁ vidur devā na dānavāḥ\n",
             "verse_number": 14,
             "word_meanings": "sarvam—everything; etat—this; ṛitam—truth; manye—I accept; yat—which; mām—me; vadasi—you tell; keśhava—Shree Krishna, the killer of the demon named Keshi; na—neither; hi—verily; te—your; bhagavan—the Supreme Lord; vyaktim—personality; viduḥ—can understand; devāḥ—the celestial gods; na—nor; dānavāḥ—the demons\n",
-            "audio_number": 12
+            "audio_number": 12,
+            "verse_id": 381
         },
         {
             "chapter_number": 10,
@@ -3600,7 +3981,8 @@ const data = {
             "transliteration": "swayam evātmanātmānaṁ vettha tvaṁ puruṣhottama\nbhūta-bhāvana bhūteśha deva-deva jagat-pate\n",
             "verse_number": 15,
             "word_meanings": "swayam—yourself; eva—indeed; ātmanā—by yourself; ātmānam—yourself; vettha—know; tvam—you; puruṣha-uttama—the Supreme Personality; bhūta-bhāvana—the Creator of all beings; bhūta-īśha—the Lord of everything; deva-deva—the God of gods; jagat-pate—the Lord of the universe\n",
-            "audio_number": 13
+            "audio_number": 13,
+            "verse_id": 382
         },
         {
             "chapter_number": 10,
@@ -3609,7 +3991,8 @@ const data = {
             "transliteration": "vaktum arhasyaśheṣheṇa divyā hyātma-vibhūtayaḥ\nyābhir vibhūtibhir lokān imāṁs tvaṁ vyāpya tiṣhṭhasi\n",
             "verse_number": 16,
             "word_meanings": "vaktum—to describe; arhasi—please do; aśheṣheṇa—completely; divyāḥ—divine; hi—indeed; ātma—your own; vibhūtayaḥ—opulences; yābhiḥ—by which; vibhūtibhiḥ—opulences; lokān—all worlds; imān—these; tvam—you; vyāpya—pervade; tiṣhṭhasi—reside;\n",
-            "audio_number": 14
+            "audio_number": 14,
+            "verse_id": 383
         },
         {
             "chapter_number": 10,
@@ -3618,7 +4001,8 @@ const data = {
             "transliteration": "kathaṁ vidyām ahaṁ yogins tvāṁ sadā parichintayan\nkeṣhu keṣhu cha bhāveṣhu chintyo ’si bhagavan mayā\n",
             "verse_number": 17,
             "word_meanings": "katham—how; vidyām aham—shall I know; yogin—the Supreme Master of Yogmaya; tvām—you; sadā—always; parichintayan—meditating; keṣhu—in what; keṣhu—in what; cha—and; bhāveṣhu—forms; chintyaḥ asi—to be thought of; bhagavan—the Supreme Divine Personality; mayā—by me\n",
-            "audio_number": 15
+            "audio_number": 15,
+            "verse_id": 384
         },
         {
             "chapter_number": 10,
@@ -3627,7 +4011,8 @@ const data = {
             "transliteration": "vistareṇātmano yogaṁ vibhūtiṁ cha janārdana\nbhūyaḥ kathaya tṛiptir hi śhṛiṇvato nāsti me ’mṛitam\n",
             "verse_number": 18,
             "word_meanings": "vistareṇa—in detail; ātmanaḥ—your; yogam—divine glories; vibhūtim—opulences; cha—also; janaārdana—Shree Krishna, he who looks after the public; bhūyaḥ—again; kathaya—describe; tṛiptiḥ—satisfaction; hi—because; śhṛiṇvataḥ—hearing; na—not; asti—is; me—my; amṛitam—nectar\n",
-            "audio_number": 16
+            "audio_number": 16,
+            "verse_id": 385
         },
         {
             "chapter_number": 10,
@@ -3636,7 +4021,8 @@ const data = {
             "transliteration": "śhrī bhagavān uvācha\nhanta te kathayiṣhyāmi divyā hyātma-vibhūtayaḥ\nprādhānyataḥ kuru-śhreṣhṭha nāstyanto vistarasya me\n",
             "verse_number": 19,
             "word_meanings": "śhrī-bhagavān uvācha—the Blessed Lord spoke; hanta—yes; te—to you; kathayiṣhyāmi—I shall describe; divyāḥ—divine; hi—certainly; ātma-vibhūtayaḥ—my divine glories; prādhānyataḥ—salient; kuru-śhreṣhṭha—best of the Kurus; na—not; asti—is; antaḥ—limit; vistarasya—extensive glories; me—my\n",
-            "audio_number": 17
+            "audio_number": 17,
+            "verse_id": 386
         },
         {
             "chapter_number": 10,
@@ -3645,7 +4031,8 @@ const data = {
             "transliteration": "aham ātmā guḍākeśha sarva-bhūtāśhaya-sthitaḥ\naham ādiśh cha madhyaṁ cha bhūtānām anta eva cha\n",
             "verse_number": 20,
             "word_meanings": "aham—I; ātmā—soul; guḍākeśha—Arjun, the conqueror of sleep; sarva-bhūta—of all living entities; āśhaya-sthitaḥ—seated in the heart; aham—I; ādiḥ—the beginning; cha—and; madhyam—middle; cha—and; bhūtānām—of all beings; antaḥ—end; eva—even; cha—also\n",
-            "audio_number": 18
+            "audio_number": 18,
+            "verse_id": 387
         },
         {
             "chapter_number": 10,
@@ -3654,7 +4041,8 @@ const data = {
             "transliteration": "ādityānām ahaṁ viṣhṇur jyotiṣhāṁ ravir anśhumān\nmarīchir marutām asmi nakṣhatrāṇām ahaṁ śhaśhī\n",
             "verse_number": 21,
             "word_meanings": "ādityānām—amongst the twelve sons of Aditi; aham—I; viṣhṇuḥ—Lord Vishnu; jyotiṣhām—amongst luminous objects; raviḥ—the sun; anśhu-mān—radiant; marīchiḥ—Marichi; marutām—of the Maruts; asmi—(I) am; nakṣhatrāṇām—amongst the stars; aham—I; śhaśhī—the moon\n",
-            "audio_number": 19
+            "audio_number": 19,
+            "verse_id": 388
         },
         {
             "chapter_number": 10,
@@ -3663,7 +4051,8 @@ const data = {
             "transliteration": "vedānāṁ sāma-vedo ’smi devānām asmi vāsavaḥ\nindriyāṇāṁ manaśh chāsmi bhūtānām asmi chetanā\n",
             "verse_number": 22,
             "word_meanings": "vedānām—amongst the Vedas; sāma-vedaḥ—the Sāma Veda; asmi—I am; devānām—of all the celestial gods; asmi—I am; vāsavaḥ̣—Indra; indriyāṇām—of amongst the senses; manaḥ—the mind; ca—and; asmi—I am; bhūtānām—amongst the living beings; asmi—I am; chetanā—consciousness\n",
-            "audio_number": 20
+            "audio_number": 20,
+            "verse_id": 389
         },
         {
             "chapter_number": 10,
@@ -3672,7 +4061,8 @@ const data = {
             "transliteration": "rudrāṇāṁ śhaṅkaraśh chāsmi vitteśho yakṣha-rakṣhasām\nvasūnāṁ pāvakaśh chāsmi meruḥ śhikhariṇām aham\n",
             "verse_number": 23,
             "word_meanings": "rudrāṇām—amongst the Rudras; śhaṅkaraḥ—Lord Shiv; cha—and; asmi—I am; vitta-īśhaḥ—the god of wealth and the treasurer of the celestial gods; yakṣha—amongst the semi-divine demons; rakṣhasām—amongst the demons; vasūnām—amongst the Vasus; pāvakaḥ—Agni (fire); cha—and; asmi—I am; meruḥ—Mount Meru; śhikhariṇām—amongst the mountains; aham—I am\n",
-            "audio_number": 21
+            "audio_number": 21,
+            "verse_id": 390
         },
         {
             "chapter_number": 10,
@@ -3681,7 +4071,8 @@ const data = {
             "transliteration": "purodhasāṁ cha mukhyaṁ māṁ viddhi pārtha bṛihaspatim\nsenānīnām ahaṁ skandaḥ sarasām asmi sāgaraḥ\n",
             "verse_number": 24,
             "word_meanings": "purodhasām—amongst priests; cha—and; mukhyam—the chiefs; mām—me; viddhi—know; pārtha—Arjun, the son of Pritha; bṛihaspatim—Brihaspati; senānīnām—warrior chief; aham—I; skandaḥ—Kartikeya; sarasām—amongst reservoirs of water; asmi—I am; sāgaraḥ—the ocean\n",
-            "audio_number": 22
+            "audio_number": 22,
+            "verse_id": 391
         },
         {
             "chapter_number": 10,
@@ -3690,7 +4081,8 @@ const data = {
             "transliteration": "maharṣhīṇāṁ bhṛigur ahaṁ girām asmyekam akṣharam\nyajñānāṁ japa-yajño ’smi sthāvarāṇāṁ himālayaḥ\n",
             "verse_number": 25,
             "word_meanings": "mahā-ṛiṣhīṇām—among the great seers; bhṛiguḥ—Bhrigu; aham—I; girām—amongst chants; asmi—I am; ekam akṣharam—the syllable Om; yajñānām—of sacrifices; japa-yajñaḥ—sacrifice of the devotional repetition of the divine names of God; asmi—I am; sthāvarāṇām—amongst immovable things; himālayaḥ—the Himalayas\n",
-            "audio_number": 23
+            "audio_number": 23,
+            "verse_id": 392
         },
         {
             "chapter_number": 10,
@@ -3699,7 +4091,8 @@ const data = {
             "transliteration": "aśhvatthaḥ sarva-vṛikṣhāṇāṁ devarṣhīṇāṁ cha nāradaḥ\ngandharvāṇāṁ chitrarathaḥ siddhānāṁ kapilo muniḥ\n",
             "verse_number": 26,
             "word_meanings": "aśhvatthaḥ—the banyan tree; sarva-vṛikṣhāṇām—amongst all trees; deva-ṛiṣhīṇām—amongst celestial sages; cha—and; nāradaḥ—Narad; gandharvāṇām—amongst the gandharvas; chitrarathaḥ—Chitrarath; siddhānām—of all those who are perfected; kapilaḥ muniḥ—sage Kapil\n",
-            "audio_number": 24
+            "audio_number": 24,
+            "verse_id": 393
         },
         {
             "chapter_number": 10,
@@ -3708,7 +4101,8 @@ const data = {
             "transliteration": "uchchaiḥśhravasam aśhvānāṁ viddhi mām amṛitodbhavam\nairāvataṁ gajendrāṇāṁ narāṇāṁ cha narādhipam\n",
             "verse_number": 27,
             "word_meanings": "uchchaiḥśhravasam—Uchchaihshrava; aśhvānām—amongst horses; viddhi—know; mām—me; amṛita-udbhavam—begotten from the churning of the ocean of nectar; airāvatam—Airavata; gaja-indrāṇām—amongst all lordly elephants; narāṇām—amongst humans; cha—and; nara-adhipam—the king\n",
-            "audio_number": 25
+            "audio_number": 25,
+            "verse_id": 394
         },
         {
             "chapter_number": 10,
@@ -3717,7 +4111,8 @@ const data = {
             "transliteration": "āyudhānām ahaṁ vajraṁ dhenūnām asmi kāmadhuk\nprajanaśh chāsmi kandarpaḥ sarpāṇām asmi vāsukiḥ\n",
             "verse_number": 28,
             "word_meanings": "āyudhānām—amongst weapons; aham—I; vajram—the Vajra (thunderbolt); dhenūnām—amongst cows; asmi—I am; kāma-dhuk—Kamdhenu; prajanaḥ—amongst causes for procreation; cha—and; asmi—I am; kandarpaḥ—Kaamdev, the god of love; sarpāṇām—amongst serpents; asmi—I am; vāsukiḥ—serpent Vasuki\n",
-            "audio_number": 26
+            "audio_number": 26,
+            "verse_id": 395
         },
         {
             "chapter_number": 10,
@@ -3726,7 +4121,8 @@ const data = {
             "transliteration": "anantaśh chāsmi nāgānāṁ varuṇo yādasām aham\npitṝīṇām aryamā chāsmi yamaḥ sanyamatām aham\n",
             "verse_number": 29,
             "word_meanings": "anantaḥ—Anant; cha—and; asmi—I am; nāgānām—amongst snakes; varuṇaḥ—the celestial god of the ocean; yādasām—amongst aquatics; aham—I; pitṝīṇām—amongst the departed ancestors; aryamā—Aryama; cha—and; asmi—am; yamaḥ—the celestial god of death; sanyamatām—amongst dispensers of law; aham—I\n",
-            "audio_number": 27
+            "audio_number": 27,
+            "verse_id": 396
         },
         {
             "chapter_number": 10,
@@ -3735,7 +4131,8 @@ const data = {
             "transliteration": "prahlādaśh chāsmi daityānāṁ kālaḥ kalayatām aham\nmṛigāṇāṁ cha mṛigendro ’haṁ vainateyaśh cha pakṣhiṇām\n",
             "verse_number": 30,
             "word_meanings": "prahlādaḥ—Prahlad; cha—and; asmi—I am; daityānām—of the demons; kālaḥ—time; kalayatām—of all that controls; aham—I; mṛigāṇām—amongst animals; cha—and; mṛiga-indraḥ—the lion; aham—I; vainateyaḥ—Garud; cha—and; pakṣhiṇām—amongst birds\n",
-            "audio_number": 28
+            "audio_number": 28,
+            "verse_id": 397
         },
         {
             "chapter_number": 10,
@@ -3744,7 +4141,8 @@ const data = {
             "transliteration": "pavanaḥ pavatām asmi rāmaḥ śhastra-bhṛitām aham\njhaṣhāṇāṁ makaraśh chāsmi srotasām asmi jāhnavī\n",
             "verse_number": 31,
             "word_meanings": "pavanaḥ—the wind; pavatām—of all that purifies; asmi—I am; rāmaḥ—Ram; śhastra-bhṛitām—of the carriers of weapons; aham—I am; jhaṣhāṇām—of all acquatics; makaraḥ—crocodile; cha—also; asmi—I am; srotasām—of flowing rivers; asmi—I am; jāhnavī—the Ganges\n",
-            "audio_number": 29
+            "audio_number": 29,
+            "verse_id": 398
         },
         {
             "chapter_number": 10,
@@ -3753,7 +4151,8 @@ const data = {
             "transliteration": "sargāṇām ādir antaśh cha madhyaṁ chaivāham arjuna\nadhyātma-vidyā vidyānāṁ vādaḥ pravadatām aham\n",
             "verse_number": 32,
             "word_meanings": "sargāṇām—of all creations; ādiḥ—the beginning; antaḥ—end; cha—and; madhyam—middle; cha—and; eva—indeed; aham—I; arjuna—Arjun; adhyātma-vidyā—science of spirituality; vidyānām—amongst sciences; vādaḥ—the logical conclusion; pravadatām—of debates; aham—I\n",
-            "audio_number": 30
+            "audio_number": 30,
+            "verse_id": 399
         },
         {
             "chapter_number": 10,
@@ -3762,7 +4161,8 @@ const data = {
             "transliteration": "अहमेवाक्षय: कालो धाताहं विश्वतोमुख: || 33||\n\nakṣharāṇām a-kāro ’smi dvandvaḥ sāmāsikasya cha\naham evākṣhayaḥ kālo dhātāhaṁ viśhvato-mukhaḥ\n",
             "verse_number": 33,
             "word_meanings": "akṣharāṇām—amongst all letters; a-kāraḥ—the beginning letter “A”; asmi—I am; dvandvaḥ—the dual; sāmāsikasya—amongst grammatical compounds; cha—and; aham—I; eva—only; akṣhayaḥ—endless; kālaḥ—time; dhātā—amongst the creators; aham—I; viśhwataḥ-mukhaḥ—Brahma\n",
-            "audio_number": 31
+            "audio_number": 31,
+            "verse_id": 400
         },
         {
             "chapter_number": 10,
@@ -3771,7 +4171,8 @@ const data = {
             "transliteration": "mṛityuḥ sarva-haraśh chāham udbhavaśh cha bhaviṣhyatām\nkīrtiḥ śhrīr vāk cha nārīṇāṁ smṛitir medhā dhṛitiḥ kṣhamā\n",
             "verse_number": 34,
             "word_meanings": "mṛityuḥ—death; sarva-haraḥ—all-devouring; cha—and; aham—I; udbhavaḥ—the origin; cha—and; bhaviṣhyatām—those things that are yet to be; kīrtiḥ—fame; śhrīḥ—prospective; vāk—fine speech; cha—and; nārīṇām—amongst feminine qualities; smṛitiḥ—memory; medhā—intelligence; dhṛitiḥ—courage; kṣhamā—forgiveness\n",
-            "audio_number": 32
+            "audio_number": 32,
+            "verse_id": 401
         },
         {
             "chapter_number": 10,
@@ -3780,7 +4181,8 @@ const data = {
             "transliteration": "bṛihat-sāma tathā sāmnāṁ gāyatrī chhandasām aham\nmāsānāṁ mārga-śhīrṣho ’ham ṛitūnāṁ kusumākaraḥ\n",
             "verse_number": 35,
             "word_meanings": "bṛihat-sāma—the Brihatsama; tathā—also; sāmnām—amongst the hymns in the Sama Veda; gāyatrī—the Gayatri mantra; chhandasām—amongst poetic meters; aham—I; māsānām—of the twelve months; mārga-śhīrṣhaḥ—the month of November-December; aham—I; ṛitūnām—of all seasons; kusuma-ākaraḥ—spring\n",
-            "audio_number": 33
+            "audio_number": 33,
+            "verse_id": 402
         },
         {
             "chapter_number": 10,
@@ -3789,7 +4191,8 @@ const data = {
             "transliteration": "dyūtaṁ chhalayatām asmi tejas tejasvinām aham\njayo ’smi vyavasāyo ’smi sattvaṁ sattvavatām aham\n",
             "verse_number": 36,
             "word_meanings": "dyūtam—gambling; chhalayatām—of all cheats; asmi—I am; tejaḥ—the splendor; tejasvinām—of the splendid; aham—I; jayaḥ—victory; asmi—I am; vyavasāyaḥ—firm resolve; asmi—I am; sattvam—virtue; sattva-vatām—of the virtuous; aham—I\n",
-            "audio_number": 34
+            "audio_number": 34,
+            "verse_id": 403
         },
         {
             "chapter_number": 10,
@@ -3798,7 +4201,8 @@ const data = {
             "transliteration": "vṛiṣhṇīnāṁ vāsudevo ’smi pāṇḍavānāṁ dhanañjayaḥ\nmunīnām apyahaṁ vyāsaḥ kavīnām uśhanā kaviḥ\n",
             "verse_number": 37,
             "word_meanings": "vṛiṣhṇīnām—amongst the descendants of Vrishni; vāsudevaḥ—Krishna, the son of Vasudev; asmi—I am; pāṇḍavānām—amongst the Pandavas; dhanañjayaḥ—Arjun, the conqueror of wealth; munīnām—amongst the sages; api—also; aham—I; vyāsaḥ—Ved Vyas; kavīnām—amongst the great thinkers; uśhanā—Shukracharya; kaviḥ—the thinker\n",
-            "audio_number": 35
+            "audio_number": 35,
+            "verse_id": 404
         },
         {
             "chapter_number": 10,
@@ -3807,7 +4211,8 @@ const data = {
             "transliteration": "daṇḍo damayatām asmi nītir asmi jigīṣhatām\nmaunaṁ chaivāsmi guhyānāṁ jñānaṁ jñānavatām aham\n",
             "verse_number": 38,
             "word_meanings": "daṇḍaḥ—punishment; damayatām—amongst means of preventing lawlessness; asmi—I am; nītiḥ—proper conduct; asmi—I am; jigīṣhatām—amongst those who seek victory; maunam—silence; cha—and; eva—also; asmi—I am; guhyānām—amongst secrets; jñānam—wisdom; jñāna-vatām—in the wise; aham—I\n",
-            "audio_number": 36
+            "audio_number": 36,
+            "verse_id": 405
         },
         {
             "chapter_number": 10,
@@ -3816,7 +4221,8 @@ const data = {
             "transliteration": "yach chāpi sarva-bhūtānāṁ bījaṁ tad aham arjuna\nna tad asti vinā yat syān mayā bhūtaṁ charācharam\n",
             "verse_number": 39,
             "word_meanings": "yat—which; cha—and; api—also; sarva-bhūtānām—of all living beings; bījam—generating seed; tat—that; aham—I; arjuna—Arjun; na—not; tat—that; asti—is; vinā—without; yat—which; syāt—may exist; mayā—me; bhūtam—creature; chara-acharam—moving and nonmoving\n",
-            "audio_number": 37
+            "audio_number": 37,
+            "verse_id": 406
         },
         {
             "chapter_number": 10,
@@ -3825,7 +4231,8 @@ const data = {
             "transliteration": "nānto ’sti mama divyānāṁ vibhūtīnāṁ parantapa\neṣha tūddeśhataḥ prokto vibhūter vistaro mayā\n",
             "verse_number": 40,
             "word_meanings": "na—not; antaḥ—end; asti—is; mama—my; divyānām—divine; vibhūtīnām—manifestations; parantapa—Arjun, the conqueror of the enemies; eṣhaḥ—this; tu—but; uddeśhataḥ—just one portion; proktaḥ—declared; vibhūteḥ—of (my) glories; vistaraḥ—the breath of the topic; mayā—by me\n",
-            "audio_number": 38
+            "audio_number": 38,
+            "verse_id": 407
         },
         {
             "chapter_number": 10,
@@ -3834,7 +4241,8 @@ const data = {
             "transliteration": "yad yad vibhūtimat sattvaṁ śhrīmad ūrjitam eva vā\ntat tad evāvagachchha tvaṁ mama tejo ’nśha-sambhavam\n",
             "verse_number": 41,
             "word_meanings": "yat yat—whatever; vibhūtimat—opulent; sattvam—being; śhrī-mat—beautiful; ūrjitam—glorious; eva—also; vā—or; tat tat—all that; eva—only; avagachchha—know; tvam—you; mama—my; tejaḥ-anśha-sambhavam—splendor; anśha—a part; sambhavam—born of\n",
-            "audio_number": 39
+            "audio_number": 39,
+            "verse_id": 408
         },
         {
             "chapter_number": 10,
@@ -3843,7 +4251,8 @@ const data = {
             "transliteration": "atha vā bahunaitena kiṁ jñātena tavārjuna\nviṣhṭabhyāham idaṁ kṛitsnam ekānśhena sthito jagat\n",
             "verse_number": 42,
             "word_meanings": "athavā—or; bahunā—detailed; etena—by this; kim—what; jñātena tava—can be known by you; arjuna—Arjun; viṣhṭabhya—pervade and support; aham—I; idam—this; kṛitsnam—entire; eka—by one; anśhena—fraction; sthitaḥ—am situated; jagat—creation\n",
-            "audio_number": 40
+            "audio_number": 40,
+            "verse_id": 409
         },
         {
             "chapter_number": 11,
@@ -3852,7 +4261,8 @@ const data = {
             "transliteration": "arjuna uvācha\nmad-anugrahāya paramaṁ guhyam adhyātma-sanjñitam\nyat tvayoktaṁ vachas tena moho ’yaṁ vigato mama\n",
             "verse_number": 1,
             "word_meanings": "arjunaḥ uvācha—Arjun said; mat-anugrahāya—out of compassion to me; paramam—supreme; guhyam—confidential; adhyātma-sanjñitam—about spiritual knowledge; yat—which; tvayā—by you; uktam—spoken; vachaḥ—words; tena—by that; mohaḥ—illusion; ayam—this; vigataḥ—is dispelled; mama—my\n",
-            "audio_number": 1
+            "audio_number": 1,
+            "verse_id": 410
         },
         {
             "chapter_number": 11,
@@ -3861,7 +4271,8 @@ const data = {
             "transliteration": "bhavāpyayau hi bhūtānāṁ śhrutau vistaraśho mayā\ntvattaḥ kamala-patrākṣha māhātmyam api chāvyayam\n",
             "verse_number": 2,
             "word_meanings": "bhava—appearance; apyayau—disappearance; hi—indeed; bhūtānām—of all living beings; śhrutau—have heard; vistaraśhaḥ—in detail; mayā—by me; tvattaḥ—from you; kamala-patra-akṣha—lotus-eyed one; māhātmyam—greatness; api—also; cha—and; avyayam—eternal\n",
-            "audio_number": 2
+            "audio_number": 2,
+            "verse_id": 411
         },
         {
             "chapter_number": 11,
@@ -3870,7 +4281,8 @@ const data = {
             "transliteration": "evam etad yathāttha tvam ātmānaṁ parameśhvara\ndraṣhṭum ichchhāmi te rūpam aiśhwaraṁ puruṣhottama\n",
             "verse_number": 3,
             "word_meanings": "evam—thus; etat—this; yathā—as; āttha—have spoken; tvam—you; ātmānam—yourself; parama-īśhvara—Supreme Lord; draṣhṭum—to see; ichchhāmi—I desire; te—your; rūpam—form; aiśhwaram—divine; puruṣha-uttama—Shree Krishna, the Supreme Divine Personality\n",
-            "audio_number": 3
+            "audio_number": 3,
+            "verse_id": 412
         },
         {
             "chapter_number": 11,
@@ -3879,7 +4291,8 @@ const data = {
             "transliteration": "manyase yadi tach chhakyaṁ mayā draṣhṭum iti prabho\nyogeśhvara tato me tvaṁ darśhayātmānam avyayam\n",
             "verse_number": 4,
             "word_meanings": "manyase—you think; yadi—if; tat—that; śhakyam—possible; mayā—by me; draṣhṭum—to behold; iti—thus; prabho—Lord; yoga-īśhvara—Lord of all mystic powers; tataḥ—then; me—to me; tvam—you; darśhaya—reveal; ātmānam—yourself; avyayam—imperishable\n",
-            "audio_number": 4
+            "audio_number": 4,
+            "verse_id": 413
         },
         {
             "chapter_number": 11,
@@ -3888,7 +4301,8 @@ const data = {
             "transliteration": "śhrī-bhagavān uvācha\npaśhya me pārtha rūpāṇi śhataśho ’tha sahasraśhaḥ\nnānā-vidhāni divyāni nānā-varṇākṛitīni cha\n",
             "verse_number": 5,
             "word_meanings": "śhrī-bhagavān uvācha—the Supreme Lord said; paśhya—behold; me—my; pārtha—Arjun, the son of Pritha; rūpāṇi—forms; śhataśhaḥ—by the hundreds; atha—and; sahasraśhaḥ—thousands; nānā-vidhāni—various; divyāni—divine; nānā—various; varṇa—colors; ākṛitīni—shapes; cha—and\n",
-            "audio_number": 5
+            "audio_number": 5,
+            "verse_id": 414
         },
         {
             "chapter_number": 11,
@@ -3897,7 +4311,8 @@ const data = {
             "transliteration": "paśhyādityān vasūn rudrān aśhvinau marutas tathā\nbahūny adṛiṣhṭa-pūrvāṇi paśhyāśhcharyāṇi bhārata\n",
             "verse_number": 6,
             "word_meanings": "paśhya—behold; ādityān—the (twelve) sons of Aditi; vasūn—the (eight) Vasus; rudrān—the (eleven) Rudras; aśhvinau—the (twin) Ashvini Kumars; marutaḥ—the (forty-nine) Maruts; tathā—and; bahūni—many; adṛiṣhṭa—never revealed; pūrvāṇi—before; paśhya—behold; āśhcharyāṇi—marvels; bhārata—Arjun, scion of the Bharatas\n",
-            "audio_number": 6
+            "audio_number": 6,
+            "verse_id": 415
         },
         {
             "chapter_number": 11,
@@ -3906,7 +4321,8 @@ const data = {
             "transliteration": "ihaika-sthaṁ jagat kṛitsnaṁ paśhyādya sa-charācharam\nmama dehe guḍākeśha yach chānyad draṣhṭum ichchhasi\n",
             "verse_number": 7,
             "word_meanings": "iha—here; eka-stham—assembled together; jagat—the universe; kṛitsnam—entire; paśhya—behold; adya—now; sa—with; chara—the moving; acharam—the non- moving; mama—my; dehe—in this form; guḍākeśha—Arjun, the conqueror of sleep; yat—whatever; cha—also; anyat—else; draṣhṭum—to see; ichchhasi—you wish\n",
-            "audio_number": 7
+            "audio_number": 7,
+            "verse_id": 416
         },
         {
             "chapter_number": 11,
@@ -3915,7 +4331,8 @@ const data = {
             "transliteration": "na tu māṁ śhakyase draṣhṭum anenaiva sva-chakṣhuṣhā\ndivyaṁ dadāmi te chakṣhuḥ paśhya me yogam aiśhwaram\n",
             "verse_number": 8,
             "word_meanings": "na—not; tu—but; mām—me; śhakyase—you can; draṣhṭum—to see; anena—with these; eva—even; sva-chakṣhuṣhā—with your physical eyes; divyam—divine; dadāmi—I give; te—to you; chakṣhuḥ—eyes; paśhya—behold; me—my; yogam aiśhwaram—majestic opulence\n",
-            "audio_number": 8
+            "audio_number": 8,
+            "verse_id": 417
         },
         {
             "chapter_number": 11,
@@ -3924,7 +4341,8 @@ const data = {
             "transliteration": "sañjaya uvācha\nevam uktvā tato rājan mahā-yogeśhvaro hariḥ\ndarśhayām āsa pārthāya paramaṁ rūpam aiśhwaram\n",
             "verse_number": 9,
             "word_meanings": "sañjayaḥ uvācha—Sanjay said; evam—thus; uktvā—having spoken; tataḥ—then; rājan—King; mahā-yoga-īśhvaraḥ—the Supreme Lord of Yog; hariḥ—Shree Krishna; darśhayām āsa—displayed; pārthāya—to Arjun; paramam—divine; rūpam aiśhwaram—opulence\n",
-            "audio_number": 9
+            "audio_number": 9,
+            "verse_id": 418
         },
         {
             "chapter_number": 11,
@@ -3933,7 +4351,8 @@ const data = {
             "transliteration": "aneka-vaktra-nayanam anekādbhuta-darśhanam\naneka-divyābharaṇaṁ divyānekodyatāyudham\n",
             "verse_number": 10,
             "word_meanings": "aneka—many; vaktra—faces; nayanam—eyes; aneka—many; adbhuta—wonderful; darśhanam—had a vision of; aneka—many; divya—divine; ābharaṇam—ornaments; divya—divine; aneka—many; udyata—uplifted; āyudham—weapons;\n",
-            "audio_number": 10
+            "audio_number": 10,
+            "verse_id": 419
         },
         {
             "chapter_number": 11,
@@ -3942,7 +4361,8 @@ const data = {
             "transliteration": "divya-mālyāmbara-dharaṁ divya-gandhānulepanam\nsarvāśhcharya-mayaṁ devam anantaṁ viśhvato-mukham\n",
             "verse_number": 11,
             "word_meanings": "divya—divine; mālya—garlands; āmbara—garments; dharam—wearing; divya—divine; gandha—fragrances; anulepanam—anointed with; sarva—all; āśhcharya-mayam—wonderful; devam—Lord; anantam—unlimited; viśhwataḥ—all sides; mukham—face\n",
-            "audio_number": 10
+            "audio_number": 10,
+            "verse_id": 420
         },
         {
             "chapter_number": 11,
@@ -3951,7 +4371,8 @@ const data = {
             "transliteration": "divi sūrya-sahasrasya bhaved yugapad utthitā\nyadi bhāḥ sadṛiśhī sā syād bhāsas tasya mahātmanaḥ\n",
             "verse_number": 12,
             "word_meanings": "divi—in the sky; sūrya—suns; sahasrasya—thousand; bhavet—were; yugapat—simultaneously; utthitā—rising; yadi—if; bhāḥ—splendor; sadṛiśhī—like; sā—that; syāt—would be; bhāsaḥ—splendor; tasya—of them; mahā-ātmanaḥ—the great personality\n",
-            "audio_number": 11
+            "audio_number": 11,
+            "verse_id": 421
         },
         {
             "chapter_number": 11,
@@ -3960,7 +4381,8 @@ const data = {
             "transliteration": "tatraika-sthaṁ jagat kṛitsnaṁ pravibhaktam anekadhā\napaśhyad deva-devasya śharīre pāṇḍavas tadā\n",
             "verse_number": 13,
             "word_meanings": "tatra—there; eka-stham—established in one place; jagat—the universe; kṛitsnam—entire; pravibhaktam—divided; anekadhā—many; apaśhyat—could see; deva-devasya—of the God of gods; śharīre—in the body; pāṇḍavaḥ—Arjun; tadā—at that time\n",
-            "audio_number": 12
+            "audio_number": 12,
+            "verse_id": 422
         },
         {
             "chapter_number": 11,
@@ -3969,7 +4391,8 @@ const data = {
             "transliteration": "tataḥ sa vismayāviṣhṭo hṛiṣhṭa-romā dhanañjayaḥ\npraṇamya śhirasā devaṁ kṛitāñjalir abhāṣhata\n",
             "verse_number": 14,
             "word_meanings": "tataḥ—then; saḥ—he; vismaya-āviṣhṭaḥ—full of wonder; hṛiṣhṭa-romā—with hair standing on end; dhanañjayaḥ—Arjun, the conqueror of wealth; praṇamya—bow down; śhirasā—with (his) head; devam—the Lord; kṛita-añjaliḥ—with folded hands; abhāṣhata—he addressed\n",
-            "audio_number": 13
+            "audio_number": 13,
+            "verse_id": 423
         },
         {
             "chapter_number": 11,
@@ -3978,7 +4401,8 @@ const data = {
             "transliteration": "arjuna uvācha\npaśhyāmi devāns tava deva dehe\nsarvāns tathā bhūta-viśheṣha-saṅghān\nbrahmāṇam īśhaṁ kamalāsana-stham\nṛiṣhīnśh cha sarvān uragānśh cha divyān\n",
             "verse_number": 15,
             "word_meanings": "arjunaḥ uvācha—Arjun said; paśhyāmi—I behold; devān—all the gods; tava—your; deva—Lord; dehe—within the body; sarvān—all; tathā—as well as; bhūta viśheṣha-saṅghān—hosts of different beings; brahmāṇam—Lord Brahma; īśham—Shiv; kamala-āsana-stham—seated on the lotus flower; ṛiṣhīn—sages; cha—and; sarvān—all; uragān—serpents; cha—and; divyān—divine\n",
-            "audio_number": 14
+            "audio_number": 14,
+            "verse_id": 424
         },
         {
             "chapter_number": 11,
@@ -3987,7 +4411,8 @@ const data = {
             "transliteration": "aneka-bāhūdara-vaktra-netraṁ\npaśhyāmi tvāṁ sarvato ’nanta-rūpam\nnāntaṁ na madhyaṁ na punas tavādiṁ\npaśhyāmi viśhveśhvara viśhva-rūpa\n",
             "verse_number": 16,
             "word_meanings": "aneka—infinite; bāhu—arms; udara—stomachs; vaktra—faces; netram—eyes; paśhyāmi—I see; tvām—you; sarvataḥ—in every direction; ananta-rūpam—inifinite forms; na antam—without end; na—not; madhyam—middle; na—no; punaḥ—again; tava—your; ādim—beginning; paśhyāmi—I see; viśhwa-īśhwara—The Lord of the universe; viśhwa-rūpa—universal form\n",
-            "audio_number": 15
+            "audio_number": 15,
+            "verse_id": 425
         },
         {
             "chapter_number": 11,
@@ -3996,7 +4421,8 @@ const data = {
             "transliteration": "kirīṭinaṁ gadinaṁ chakriṇaṁ cha\ntejo-rāśhiṁ sarvato dīptimantam\npaśhyāmi tvāṁ durnirīkṣhyaṁ samantād\ndīptānalārka-dyutim aprameyam\n",
             "verse_number": 17,
             "word_meanings": "kirīṭinam—adorned with a crown; gadinam—with club; chakriṇam—with discs; cha—and; tejaḥ-rāśhim—abode of splendor; sarvataḥ—everywhere; dīpti-mantam—shining; paśhyāmi—I see; tvām—you; durnirīkṣhyam—difficult to look upon; samantāt—in all directions; dīpta-anala—blazing fire; arka—like the sun; dyutim—effulgence; aprameyam—immeasurable\n",
-            "audio_number": 16
+            "audio_number": 16,
+            "verse_id": 426
         },
         {
             "chapter_number": 11,
@@ -4005,7 +4431,8 @@ const data = {
             "transliteration": "tvam akṣharaṁ paramaṁ veditavyaṁ\ntvam asya viśhvasya paraṁ nidhānam\ntvam avyayaḥ śhāśhvata-dharma-goptā\nsanātanas tvaṁ puruṣho mato me\n",
             "verse_number": 18,
             "word_meanings": "tvam—you; akṣharam—the imperishable; paramam—the supreme being; veditavyam—worthy of being known; tvam—you; asya—of this; viśhwasya—of the creation; param—supreme; nidhānam—support; tvam—you; avyayaḥ—eternal; śhāśhvata-dharma-goptā—protector of the eternal religion; sanātanaḥ—everlasting; tvam—you; puruṣhaḥ—the Supreme Divine Person; mataḥ me—my opinion\n",
-            "audio_number": 17
+            "audio_number": 17,
+            "verse_id": 427
         },
         {
             "chapter_number": 11,
@@ -4014,7 +4441,8 @@ const data = {
             "transliteration": "स्वतेजसा विश्वमिदं तपन्तम् || 19||\n",
             "verse_number": 19,
             "word_meanings": "anādi-madhyāntam ananta-vīryam\nananta-bāhuṁ śhaśhi-sūrya-netram\npaśhyāmi tvāṁ dīpta-hutāśha-vaktraṁ\nsva-tejasā viśhvam idaṁ tapantam\n",
-            "audio_number": 18
+            "audio_number": 18,
+            "verse_id": 428
         },
         {
             "chapter_number": 11,
@@ -4023,7 +4451,8 @@ const data = {
             "transliteration": "dyāv ā-pṛithivyor idam antaraṁ hi\nvyāptaṁ tvayaikena diśhaśh cha sarvāḥ\ndṛiṣhṭvādbhutaṁ rūpam ugraṁ tavedaṁ\nloka-trayaṁ pravyathitaṁ mahātman\n",
             "verse_number": 20,
             "word_meanings": "dyau-ā-pṛithivyoḥ—between heaven and earth; idam—this; antaram—space between; hi—indeed; vyāptam—pervaded; tvayā—by you; ekena—alone; diśhaḥ—directions; cha—and; sarvāḥ—all; dṛiṣhṭvā—seeing; adbhutam—wondrous; rūpam—form; ugram—terrible; tava—your; idam—this; loka—worlds; trayam—three; pravyathitam—trembling; mahā-ātman—The greatest of all beings\n",
-            "audio_number": 19
+            "audio_number": 19,
+            "verse_id": 429
         },
         {
             "chapter_number": 11,
@@ -4032,7 +4461,8 @@ const data = {
             "transliteration": "amī hi tvāṁ sura-saṅghā viśhanti\nkechid bhītāḥ prāñjalayo gṛiṇanti\nsvastīty uktvā maharṣhi-siddha-saṅghāḥ\nstuvanti tvāṁ stutibhiḥ puṣhkalābhiḥ\n",
             "verse_number": 21,
             "word_meanings": "amī—these; hi—indeed; tvām—you; sura-saṅghāḥ—assembly of celestial gods; viśhanti—are entering; kechit—some; bhītāḥ—in fear; prāñjalayaḥ—with folded hands; gṛiṇanti—praise; svasti—auspicious; iti—thus; uktvā—reciting; mahā-ṛiṣhi—great sages; siddha-saṅghāḥ—perfect beings; stuvanti—are extolling; tvām—you; stutibhiḥ—with prayers; puṣhkalābhiḥ—hymns\n",
-            "audio_number": 20
+            "audio_number": 20,
+            "verse_id": 430
         },
         {
             "chapter_number": 11,
@@ -4041,7 +4471,8 @@ const data = {
             "transliteration": "rudrādityā vasavo ye cha sādhyā\nviśhve ’śhvinau marutaśh choṣhmapāśh cha\ngandharva-yakṣhāsura-siddha-saṅghā\nvīkṣhante tvāṁ vismitāśh chaiva sarve\n",
             "verse_number": 22,
             "word_meanings": "rudra—a form of Lord Shiv; ādityāḥ—the Adityas; vasavaḥ—the Vasus; ye—these; cha—and; sādhyāḥ—the Sadhyas; viśhve—the Vishvadevas; aśhvinau—the Ashvini kumars; marutaḥ—the Maruts; cha—and; uṣhma-pāḥ—the ancestors; cha—and; gandharva—Gandharvas; yakṣha—the Yakshas; asura—the demons; siddha—the perfected beings; saṅghāḥ—the assemblies; vīkṣhante—are beholding; tvām—you; vismitāḥ—in wonder; cha—and; eva—verily; sarve—all\n",
-            "audio_number": 21
+            "audio_number": 21,
+            "verse_id": 431
         },
         {
             "chapter_number": 11,
@@ -4050,7 +4481,8 @@ const data = {
             "transliteration": "rūpaṁ mahat te bahu-vaktra-netraṁ\nmahā-bāho bahu-bāhūru-pādam\nbahūdaraṁ bahu-danṣhṭrā-karālaṁ\ndṛiṣhṭvā lokāḥ pravyathitās tathāham\n",
             "verse_number": 23,
             "word_meanings": "rūpam—form; mahat—magnificent; te—your; bahu—many; vaktra—mouths; netram—eyes; mahā-bāho—mighty-armed Lord; bahu—many; bāhu—arms; ūru—thighs; pādam—legs; bahu-udaram—many stomachs; bahu-danṣhṭrā—many teeth; karālam—terrifying; dṛiṣhṭvā—seeing; lokāḥ—all the worlds; pravyathitāḥ—terror-stricken; tathā—so also; aham—I\n",
-            "audio_number": 22
+            "audio_number": 22,
+            "verse_id": 432
         },
         {
             "chapter_number": 11,
@@ -4059,7 +4491,8 @@ const data = {
             "transliteration": "nabhaḥ-spṛiśhaṁ dīptam aneka-varṇaṁ\nvyāttānanaṁ dīpta-viśhāla-netram\ndṛiṣhṭvā hi tvāṁ pravyathitāntar-ātmā\ndhṛitiṁ na vindāmi śhamaṁ cha viṣhṇo\n",
             "verse_number": 24,
             "word_meanings": "nabhaḥ-spṛiśham—touching the sky; dīptam—effulgent; aneka—many; varṇam—colors; vyātta—open; ānanam—mouths; dīpta—blazing; viśhāla—enormous; netram—eyes; dṛiṣhṭvā—seeing; hi—indeed; tvām—you; pravyathitāntar-ātmā—my heart is trembling with fear; dhṛitim—firmness; na—not; vindāmi—I find; śhamam—mental peace; cha—and; viṣhṇo—Lord Vishnu\n",
-            "audio_number": 23
+            "audio_number": 23,
+            "verse_id": 433
         },
         {
             "chapter_number": 11,
@@ -4068,7 +4501,8 @@ const data = {
             "transliteration": "danṣhṭrā-karālāni cha te mukhāni\ndṛiṣhṭvaiva kālānala-sannibhāni\ndiśho na jāne na labhe cha śharma\nprasīda deveśha jagan-nivāsa\n",
             "verse_number": 25,
             "word_meanings": "danṣhṭrā—teeth; karālāni—terrible; cha—and; te—your; mukhāni—mouths; dṛiṣhṭvā—having seen; eva—indeed; kāla-anala—the fire of annihilation; sannibhāni—resembling; diśhaḥ—the directions; na—not; jāne—know; na—not; labhe—I obtain; cha—and; śharma—peace; prasīda—have mercy; deva-īśha—The Lord of lords; jagat-nivāsa—The shelter of the universe\n",
-            "audio_number": 24
+            "audio_number": 24,
+            "verse_id": 434
         },
         {
             "chapter_number": 11,
@@ -4077,7 +4511,8 @@ const data = {
             "transliteration": "amī cha tvāṁ dhṛitarāśhtrasya putrāḥ\nsarve sahaivāvani-pāla-saṅghaiḥ\nbhīṣhmo droṇaḥ sūta-putras tathāsau\nsahāsmadīyair api yodha-mukhyaiḥ\n vaktrāṇi te tvaramāṇā viśhanti\ndanṣhṭrā-karālāni bhayānakāni\nkechid vilagnā daśhanāntareṣhu\nsandṛiśhyante chūrṇitair uttamāṅgaiḥ\n",
             "verse_number": 26,
             "word_meanings": "amī—these; cha—and; tvām—you; dhṛitarāśhtrasya—of Dhritarashtra; putrāḥ—sons; sarve—all; saha—with; eva—even; avani-pāla—their allied kings; sanghaiḥ—assembly; bhīṣhmaḥ—Bheeshma; droṇaḥ—Dronacharya; sūta-putraḥ—Karna; tathā—and also; asau—this; saha—with; asmadīyaiḥ—from our side; api—also; yodha-mukhyaiḥ—generals;\n vaktrāṇi—mouths; te—your; tvaramāṇāḥ—rushing; viśhanti—enter; danṣhṭrā—teeth; karālāni—terrible; bhayānakāni—fearsome; kechit—some; vilagnāḥ—getting stuck; daśhana-antareṣhu—between the teeth; sandṛiśhyante—are seen; chūrṇitaiḥ—getting smashed; uttama-aṅgaiḥ—heads\n",
-            "audio_number": 25
+            "audio_number": 25,
+            "verse_id": 435
         },
         {
             "chapter_number": 11,
@@ -4086,7 +4521,8 @@ const data = {
             "transliteration": "yathā nadīnāṁ bahavo ’mbu-vegāḥ\nsamudram evābhimukhā dravanti\ntathā tavāmī nara-loka-vīrā\nviśhanti vaktrāṇy abhivijvalanti\n",
             "verse_number": 28,
             "word_meanings": "yathā—as; nadīnām—of the rivers; bahavaḥ—many; ambu-vegāḥ—water waves; samudram—the ocean; eva—indeed; abhimukhāḥ—toward; dravanti—flowing rapidly; tathā—similarly; tava—your; amī—these; nara-loka-vīrāḥ—kings of human society; viśhanti—enter; vaktrāṇi—mouths; abhivijvalanti—blazing;\n",
-            "audio_number": 26
+            "audio_number": 26,
+            "verse_id": 436
         },
         {
             "chapter_number": 11,
@@ -4095,7 +4531,8 @@ const data = {
             "transliteration": "yathā pradīptaṁ jvalanaṁ pataṅgā\nviśhanti nāśhāya samṛiddha-vegāḥ\ntathaiva nāśhāya viśhanti lokās\ntavāpi vaktrāṇi samṛiddha-vegāḥ\n",
             "verse_number": 29,
             "word_meanings": "yathā—as; pradīptam—blazing; jvalanam—fire; pataṅgāḥ—moths; viśhanti—enter; nāśhāya—to be perished; samṛiddha vegāḥ—with great speed; tathā eva—similarly; nāśhāya—to be perished; viśhanti—enter; lokāḥ—these people; tava—your; api—also; vaktrāṇi—mouths; samṛiddha-vegāḥ—with great speed\n",
-            "audio_number": 27
+            "audio_number": 27,
+            "verse_id": 437
         },
         {
             "chapter_number": 11,
@@ -4104,7 +4541,8 @@ const data = {
             "transliteration": "lelihyase grasamānaḥ samantāl\nlokān samagrān vadanair jvaladbhiḥ\ntejobhir āpūrya jagat samagraṁ\nbhāsas tavogrāḥ pratapanti viṣhṇo\n",
             "verse_number": 30,
             "word_meanings": "lelihyase—you are licking; grasamānaḥ—devouring; samantāt—on all sides; lokān—worlds; samagrān—all; vadanaiḥ—with mouths; jvaladbhiḥ—blazing; tejobhiḥ—by effulgence; āpūrya—filled with; jagat—the universe; samagram—all; bhāsaḥ—rays; tava—your; ugrāḥ—fierce; pratapanti—scorching; viṣhṇo—Lord Vishnu\n",
-            "audio_number": 28
+            "audio_number": 28,
+            "verse_id": 438
         },
         {
             "chapter_number": 11,
@@ -4113,7 +4551,8 @@ const data = {
             "transliteration": "ākhyāhi me ko bhavān ugra-rūpo\nnamo ’stu te deva-vara prasīda\nvijñātum ichchhāmi bhavantam ādyaṁ\nna hi prajānāmi tava pravṛittim\n",
             "verse_number": 31,
             "word_meanings": "ākhyāhi—tell; me—me; kaḥ—who; bhavān—you; ugra-rūpaḥ—fierce form; namaḥ astu—I bow; te—to you; deva-vara—God of gods; prasīda—be merciful; vijñātum—to know; ichchhāmi—I wish; bhavantam—you; ādyam—the primeval; na—not; hi—because; prajānāmi—comprehend; tava—your; pravṛittim—workings\n",
-            "audio_number": 29
+            "audio_number": 29,
+            "verse_id": 439
         },
         {
             "chapter_number": 11,
@@ -4122,7 +4561,8 @@ const data = {
             "transliteration": "śhrī-bhagavān uvācha\nkālo ’smi loka-kṣhaya-kṛit pravṛiddho\nlokān samāhartum iha pravṛittaḥ\nṛite ’pi tvāṁ na bhaviṣhyanti sarve\nye ’vasthitāḥ pratyanīkeṣhu yodhāḥ\n",
             "verse_number": 32,
             "word_meanings": "śhrī-bhagavān uvācha—the Supreme Lord said; kālaḥ—time; asmi—I am; loka-kṣhaya-kṛit—the source of destruction of the worlds; pravṛiddhaḥ—mighty; lokān—the worlds; samāhartum—annihilation; iha—this world; pravṛittaḥ—participation; ṛite—without; api—even; tvām—you; na bhaviṣhyanti—shall cease to exist; sarve—all; ye—who; avasthitāḥ—arrayed; prati-anīkeṣhu—in the opposing army; yodhāḥ—the warriors\n",
-            "audio_number": 30
+            "audio_number": 30,
+            "verse_id": 440
         },
         {
             "chapter_number": 11,
@@ -4131,7 +4571,8 @@ const data = {
             "transliteration": "tasmāt tvam uttiṣhṭha yaśho labhasva\njitvā śhatrūn bhuṅkṣhva rājyaṁ samṛiddham\nmayaivaite nihatāḥ pūrvam eva\nnimitta-mātraṁ bhava savya-sāchin\n",
             "verse_number": 33,
             "word_meanings": "tasmāt—therefore; tvam—you; uttiṣhṭha—arise; yaśhaḥ—honor; labhasva—attain; jitvā—conquer; śhatrūn—foes; bhuṅkṣhva—enjoy; rājyam—kingdom; samṛiddham—prosperous; mayā—by me; eva—indeed; ete—these; nihatāḥ—slain; pūrvam—already; eva nimitta-mātram—only an instrument; bhava—become; savya-sāchin—Arjun, the one who can shoot arrows with both hands\n",
-            "audio_number": 31
+            "audio_number": 31,
+            "verse_id": 441
         },
         {
             "chapter_number": 11,
@@ -4140,7 +4581,8 @@ const data = {
             "transliteration": "droṇaṁ cha bhīṣhmaṁ cha jayadrathaṁ cha\nkarṇaṁ tathānyān api yodha-vīrān\nmayā hatāṁs tvaṁ jahi mā vyathiṣhṭhā\nyudhyasva jetāsi raṇe sapatnān\n",
             "verse_number": 34,
             "word_meanings": "droṇam—Dronacharya; cha—and; bhīṣhmam—Bheeshma; cha—and; jayadratham—Jayadratha; cha—and; karṇam—Karn; tathā—also; anyān—others; api—also; yodha-vīrān—brave warriors; mayā—by me; hatān—already killed; tvam—you; jahi—slay; mā—not; vyathiṣhṭhāḥ—be disturbed; yudhyasva—fight; jetā asi—you shall be victorious; raṇe—in battle; sapatnān—enemies\n",
-            "audio_number": 32
+            "audio_number": 32,
+            "verse_id": 442
         },
         {
             "chapter_number": 11,
@@ -4149,7 +4591,8 @@ const data = {
             "transliteration": "sañjaya uvācha\netach chhrutvā vachanaṁ keśhavasya\nkṛitāñjalir vepamānaḥ kirīṭī\nnamaskṛitvā bhūya evāha kṛiṣhṇaṁ\nsa-gadgadaṁ bhīta-bhītaḥ praṇamya\n",
             "verse_number": 35,
             "word_meanings": "sañjayaḥ uvācha—Sanjay said; etat—thus; śhrutvā—hearing; vachanam—words; keśhavasya—of Shree Krishna; kṛita-añjaliḥ—with joined palms; vepamānaḥ—trembling; kirītī—the crowned one, Arjun; namaskṛitvā—with palms joined; bhūyaḥ—again; eva—indeed; āha—spoke; kṛiṣhṇam—to Shree Krishna; sa-gadgadam—in a faltering voice; bhīta-bhītaḥ—overwhelmed with fear; praṇamya—bowed down\n",
-            "audio_number": 33
+            "audio_number": 33,
+            "verse_id": 443
         },
         {
             "chapter_number": 11,
@@ -4158,7 +4601,8 @@ const data = {
             "transliteration": "arjuna uvācha\nsthāne hṛiṣhīkeśha tava prakīrtyā\njagat prahṛiṣhyaty anurajyate cha\nrakṣhānsi bhītāni diśho dravanti\nsarve namasyanti cha siddha-saṅghāḥ\n",
             "verse_number": 36,
             "word_meanings": "arjunaḥ uvācha—Arjun said; sthāne—it is but apt; hṛiṣhīka-īśha—Shree Krishna, the master of the senses; tava—your; prakīrtyā—in praise; jagat—the universe; prahṛiṣhyati—rejoices; anurajyate—be enamored; cha—and; rakṣhānsi—the demons; bhītāni—fearfully; diśhaḥ—in all directions; dravanti—flee; sarve—all; namasyanti—bow down; cha—and; siddha-saṅghāḥ—hosts of perfected saints\n",
-            "audio_number": 34
+            "audio_number": 34,
+            "verse_id": 444
         },
         {
             "chapter_number": 11,
@@ -4167,7 +4611,8 @@ const data = {
             "transliteration": "kasmāch cha te na nameran mahātman\ngarīyase brahmaṇo ’py ādi-kartre\nananta deveśha jagan-nivāsa\ntvam akṣharaṁ sad-asat tat paraṁ yat\n",
             "verse_number": 37,
             "word_meanings": "kasmāt—why; cha—and; te—you; na nameran—should they not bow down; mahā-ātman—The Great one; garīyase—who are greater; brahmaṇaḥ—than Brahma; api—even; ādi-kartre—to the original creator; ananta—The limitless One; deva-īśha—Lord of the devatās; jagat-nivāsa—Refuge of the universe; tvam—you; akṣharam—the imperishable; sat-asat—manifest and non-manifest; tat—that; param—beyond; yat—which\n",
-            "audio_number": 35
+            "audio_number": 35,
+            "verse_id": 445
         },
         {
             "chapter_number": 11,
@@ -4176,7 +4621,8 @@ const data = {
             "transliteration": "tvam ādi-devaḥ puruṣhaḥ purāṇas\ntvam asya viśhvasya paraṁ nidhānam\nvettāsi vedyaṁ cha paraṁ cha dhāma\ntvayā tataṁ viśhvam ananta-rūpa\n",
             "verse_number": 38,
             "word_meanings": "tvam—you; ādi-devaḥ—the original Divine God; puruṣhaḥ—personality; purāṇaḥ—primeval; tvam—you; asya—of (this); viśhwasya—universe; param—Supreme; nidhānam—resting place; vettā—the knower; asi—you are; vedyam—the object of knowledge; cha—and; param—Supreme; cha—and; dhāma—Abode; tvayā—by you; tatam—pervaded; viśhwam—the universe; ananta-rūpa—posessor of infinite forms\n",
-            "audio_number": 36
+            "audio_number": 36,
+            "verse_id": 446
         },
         {
             "chapter_number": 11,
@@ -4185,7 +4631,8 @@ const data = {
             "transliteration": "vāyur yamo ’gnir varuṇaḥ śhaśhāṅkaḥ\nprajāpatis tvaṁ prapitāmahaśh cha\nnamo namas te ’stu sahasra-kṛitvaḥ\npunaśh cha bhūyo ’pi namo namas te\n",
             "verse_number": 39,
             "word_meanings": "vāyuḥ—the god of wind; yamaḥ—the god of death; agniḥ—the god of fire; varuṇaḥ—the god of water; śhaśha-aṅkaḥ—the moon-God; prajāpatiḥ—Brahma; tvam—you; prapitāmahaḥ—the great-grandfather; cha—and; namaḥ—my salutations; namaḥ—my salutations; te—unto you; astu—let there be; sahasra-kṛitvaḥ—a thousand times; punaḥ cha—and again; bhūyaḥ—again; api—also; namaḥ—(offering) my salutations; namaḥ te—offering my salutations unto you\n",
-            "audio_number": 37
+            "audio_number": 37,
+            "verse_id": 447
         },
         {
             "chapter_number": 11,
@@ -4194,7 +4641,8 @@ const data = {
             "transliteration": "namaḥ purastād atha pṛiṣhṭhatas te\nnamo ’stu te sarvata eva sarva\nananta-vīryāmita-vikramas tvaṁ\nsarvaṁ samāpnoṣhi tato ’si sarvaḥ\n",
             "verse_number": 40,
             "word_meanings": "namaḥ—offering salutations; purastāt—from the front; atha—and; pṛiṣhṭhataḥ—the rear; te—to you; namaḥ astu—I offer my salutations; te—to you; sarvataḥ—from all sides; eva—indeed; sarva—all; ananta-vīrya—infinite power; amita-vikramaḥ—infinite valor and might; tvam—you; sarvam—everything; samāpnoṣhi—pervade; tataḥ—thus; asi—(you) are; sarvaḥ—everything\n",
-            "audio_number": 39
+            "audio_number": 39,
+            "verse_id": 448
         },
         {
             "chapter_number": 11,
@@ -4203,7 +4651,8 @@ const data = {
             "transliteration": "sakheti matvā prasabhaṁ yad uktaṁ\nhe kṛiṣhṇa he yādava he sakheti\najānatā mahimānaṁ tavedaṁ\nmayā pramādāt praṇayena vāpi\n",
             "verse_number": 41,
             "word_meanings": "sakhā—friend; iti—as; matvā—thinking; prasabham—presumptuously; yat—whatever; uktam—addressed; he kṛiṣhṇa—O Shree Krishna; he yādava—O Shree Krishna, who was born in the Yadu clan; he sakhe—O my dear mate; iti—thus; ajānatā—in ignorance; mahimānam—majesty; tava—your; idam—this; mayā—by me; pramādāt—out of negligence; praṇayena—out of affection; vā api—or else; \n",
-            "audio_number": 39
+            "audio_number": 39,
+            "verse_id": 449
         },
         {
             "chapter_number": 11,
@@ -4212,7 +4661,8 @@ const data = {
             "transliteration": "yach chāvahāsārtham asat-kṛito ’si\nvihāra-śhayyāsana-bhojaneṣhu\neko ’tha vāpy achyuta tat-samakṣhaṁ\ntat kṣhāmaye tvām aham aprameyam\n",
             "verse_number": 42,
             "word_meanings": "yat—whatever; cha—also; avahāsa-artham—humorously; asat-kṛitaḥ—disrespectfully; asi—you were; vihāra—while at play; śhayyā—while resting; āsana—while sitting; bhojaneṣhu—while eating; ekaḥ—(when) alone; athavā—or; api—even; achyuta—Krishna, the infallible one; tat-samakṣham—before others; tat—all that; kṣhāmaye—beg for forgiveness; tvām—from you; aham—I; aprameyam—immeasurable\n",
-            "audio_number": 39
+            "audio_number": 39,
+            "verse_id": 450
         },
         {
             "chapter_number": 11,
@@ -4221,7 +4671,8 @@ const data = {
             "transliteration": "pitāsi lokasya charācharasya\ntvam asya pūjyaśh cha gurur garīyān\nna tvat-samo ’sty abhyadhikaḥ kuto ’nyo\nloka-traye ’py apratima-prabhāva\n",
             "verse_number": 43,
             "word_meanings": "pitā—the father; asi—you are; lokasya—of the entire universe; chara—moving; acharasya—nonmoving; tvam—you; asya—of this; pūjyaḥ—worshipable; cha—and; guruḥ—spiritual master; garīyān—glorious; na—not; tvat-samaḥ—equal to you; asti—is; abhyadhikaḥ—greater; kutaḥ—who is?; anyaḥ—other; loka-traye—in the three worlds; api—even; apratima-prabhāva—possessor of incomparable power\n",
-            "audio_number": 40
+            "audio_number": 40,
+            "verse_id": 451
         },
         {
             "chapter_number": 11,
@@ -4230,7 +4681,8 @@ const data = {
             "transliteration": "tasmāt praṇamya praṇidhāya kāyaṁ\nprasādaye tvām aham īśham īḍyam\npiteva putrasya sakheva sakhyuḥ\npriyaḥ priyāyārhasi deva soḍhum\n",
             "verse_number": 44,
             "word_meanings": "tasmāt—therefore; praṇamya—bowing down; praṇidhāya—prostrating; kāyam—the body; prasādaye—to implore grace; tvām—your; aham—I; īśham—the Supreme Lord; īḍyam—adorable; pitā—father; iva—as; putrasya—with a son; sakhā—friend; iva—as; sakhyuḥ—with a friend; priyaḥ—a lover; priyāyāḥ—with the beloved; arhasi—you should; deva—Lord; soḍhum—forgive\n",
-            "audio_number": 41
+            "audio_number": 41,
+            "verse_id": 452
         },
         {
             "chapter_number": 11,
@@ -4239,7 +4691,8 @@ const data = {
             "transliteration": "adṛiṣhṭa-pūrvaṁ hṛiṣhito ’smi dṛiṣhṭvā\nbhayena cha pravyathitaṁ mano me\ntad eva me darśhaya deva rūpaṁ\nprasīda deveśha jagan-nivāsa\n",
             "verse_number": 45,
             "word_meanings": "adṛiṣhṭa-pūrvam—that which has not been seen before; hṛiṣhitaḥ—great joy; asmi—I am; dṛiṣhṭvā—having seen; bhayena—with fear; cha—yet; pravyathitam—trembles; manaḥ—mind; me—my; tat—that; eva—certainly; me—to me; darśhaya—show; deva—Lord; rūpam—form; prasīda—please have mercy; deva-īśha—God of gods; jagat-nivāsa—abode of the universe\n",
-            "audio_number": 42
+            "audio_number": 42,
+            "verse_id": 453
         },
         {
             "chapter_number": 11,
@@ -4248,7 +4701,8 @@ const data = {
             "transliteration": "kirīṭinaṁ gadinaṁ chakra-hastam\nichchhāmi tvāṁ draṣhṭum ahaṁ tathaiva\ntenaiva rūpeṇa chatur-bhujena\nsahasra-bāho bhava viśhva-mūrte\n",
             "verse_number": 46,
             "word_meanings": "kirīṭinam—wearing the crown; gadinam—carrying the mace; chakra-hastam—disc in hand; ichchhāmi—I wish; tvām—you; draṣhṭum—to see; aham—I; tathā eva—similarly; tena eva—in that; rūpeṇa—form; chatuḥ-bhujena—four-armed; sahasra-bāho—thousand-armed one; bhava—be; viśhwa-mūrte—universal form\n",
-            "audio_number": 43
+            "audio_number": 43,
+            "verse_id": 454
         },
         {
             "chapter_number": 11,
@@ -4257,7 +4711,8 @@ const data = {
             "transliteration": "śhrī-bhagavān uvācha\nmayā prasannena tavārjunedaṁ\nrūpaṁ paraṁ darśhitam ātma-yogāt\ntejo-mayaṁ viśhvam anantam ādyaṁ\nyan me tvad anyena na dṛiṣhṭa-pūrvam\n",
             "verse_number": 47,
             "word_meanings": "śhrī-bhagavān uvācha—the Blessed Lord said; mayā—by me; prasannena—being pleased; tava—with you; arjuna—Arjun; idam—this; rūpam—form; param—divine; darśhitam—shown; ātma-yogāt—by my Yogmaya power; tejaḥ-mayam—resplendent; viśhwam—cosmic; anantam—unlimited; ādyam—primeval; yat—which; me—my; tvat anyena—other than you; na dṛiṣhṭa-pūrvam—no one has ever seen\n",
-            "audio_number": 44
+            "audio_number": 44,
+            "verse_id": 455
         },
         {
             "chapter_number": 11,
@@ -4266,7 +4721,8 @@ const data = {
             "transliteration": "na veda-yajñādhyayanair na dānair\nna cha kriyābhir na tapobhir ugraiḥ\nevaṁ-rūpaḥ śhakya ahaṁ nṛi-loke\ndraṣhṭuṁ tvad anyena kuru-pravīra\n",
             "verse_number": 48,
             "word_meanings": "na—not; veda-yajña—by performance of sacrifice; adhyayanaiḥ—by study of the Vedas; na—nor; dānaiḥ—by charity; na—nor; cha—and; kriyābhiḥ—by rituals; na—not; tapobhiḥ—by austerities; ugraiḥ—severe; evam-rūpaḥ—in this form; śhakyaḥ—possible; aham—I; nṛi-loke—in the world of the mortals; draṣhṭum—to be seen; tvat—than you; anyena—by another; kuru-pravīra—the best of the Kuru warriors\n",
-            "audio_number": 45
+            "audio_number": 45,
+            "verse_id": 456
         },
         {
             "chapter_number": 11,
@@ -4275,7 +4731,8 @@ const data = {
             "transliteration": "mā te vyathā mā cha vimūḍha-bhāvo\ndṛiṣhṭvā rūpaṁ ghoram īdṛiṅ mamedam\nvyapeta-bhīḥ prīta-manāḥ punas tvaṁ\ntad eva me rūpam idaṁ prapaśhya\n",
             "verse_number": 49,
             "word_meanings": "mā te—you shout not be; vyathā—afraid; mā—not; cha—and; vimūḍha-bhāvaḥ—bewildered state; dṛiṣhṭvā—on seeing; rūpam—form; ghoram—terrible; īdṛik—such; mama—of mine; idam—this; vyapeta-bhīḥ—free from fear; prīta-manāḥ—cheerful mind; punaḥ—again; tvam—you; tat eva—that very; me—my; rūpam—form; idam—this; prapaśhya—behold\n",
-            "audio_number": 46
+            "audio_number": 46,
+            "verse_id": 457
         },
         {
             "chapter_number": 11,
@@ -4284,7 +4741,8 @@ const data = {
             "transliteration": "sañjaya uvācha\nity arjunaṁ vāsudevas tathoktvā\nsvakaṁ rūpaṁ darśhayām āsa bhūyaḥ\nāśhvāsayām āsa cha bhītam enaṁ\nbhūtvā punaḥ saumya-vapur mahātmā\n",
             "verse_number": 50,
             "word_meanings": "sañjayaḥ uvācha—Sanjay said; iti—thus; arjunam—to Arjun; vāsudevaḥ—Krishna, the son of Vasudev; tathā—in that way; uktvā—having spoken; svakam—his personal; rūpam—form; darśhayām āsa—displayed; bhūyaḥ—again; āśhvāsayām āsa—consoled; cha—and; bhītam—frightened; enam—him; bhūtvā—becoming; punaḥ—again; saumya-vapuḥ—the gentle (two-armed) form; mahā-ātmā—the compassionate\n",
-            "audio_number": 47
+            "audio_number": 47,
+            "verse_id": 458
         },
         {
             "chapter_number": 11,
@@ -4293,7 +4751,8 @@ const data = {
             "transliteration": "arjuna uvācha\ndṛiṣhṭvedaṁ mānuṣhaṁ rūpaṁ tava saumyaṁ janārdana\nidānīm asmi saṁvṛittaḥ sa-chetāḥ prakṛitiṁ gataḥ\n",
             "verse_number": 51,
             "word_meanings": "arjunaḥ uvācha—Arjun said; dṛiṣhṭvā—seeing; idam—this; mānuṣham—human; rūpam—form; tava—your; saumyam—gentle; janārdana—he who looks after the public, Krishna; idānīm—now; asmi—I am; saṁvṛittaḥ—composed; sa-chetāḥ—in my mind; prakṛitim—to normality; gataḥ—have become\n",
-            "audio_number": 48
+            "audio_number": 48,
+            "verse_id": 459
         },
         {
             "chapter_number": 11,
@@ -4302,7 +4761,8 @@ const data = {
             "transliteration": "śhrī-bhagavān uvācha\nsu-durdarśham idaṁ rūpaṁ dṛiṣhṭavān asi yan mama\ndevā apy asya rūpasya nityaṁ darśhana-kāṅkṣhiṇaḥ\n",
             "verse_number": 52,
             "word_meanings": "śhrī-bhagavān uvācha—the Supreme Lord said; su-durdarśham—exceedingly difficult to behold; idam—this; rūpam—form; dṛiṣhṭavān asi—that you are seeing; yat—which; mama—of mine; devāḥ—the celestial gods; api—even; asya—this; rūpasya—form; nityam—eternally; darśhana-kāṅkṣhiṇaḥ—aspiring to see;\n",
-            "audio_number": 49
+            "audio_number": 49,
+            "verse_id": 460
         },
         {
             "chapter_number": 11,
@@ -4311,7 +4771,8 @@ const data = {
             "transliteration": "nāhaṁ vedair na tapasā na dānena na chejyayā\nśhakya evaṁ-vidho draṣhṭuṁ dṛiṣhṭavān asi māṁ yathā\n",
             "verse_number": 53,
             "word_meanings": "na—never; aham—I; vedaiḥ—by study of the Vedas; na—never; tapasā—by serious penances; na—never; dānena—by charity; na—never; cha—also; ijyayā—by worship; śhakyaḥ—it is possible; evam-vidhaḥ—like this; draṣhṭum—to see; dṛiṣhṭavān—seeing; asi—you are; mām—me; yathā—as\n",
-            "audio_number": 50
+            "audio_number": 50,
+            "verse_id": 461
         },
         {
             "chapter_number": 11,
@@ -4320,7 +4781,8 @@ const data = {
             "transliteration": "bhaktyā tv ananyayā śhakya aham evaṁ-vidho ’rjuna\njñātuṁ draṣhṭuṁ cha tattvena praveṣhṭuṁ cha parantapa\n",
             "verse_number": 54,
             "word_meanings": "bhaktyā—by devotion; tu—alone; ananyayā—unalloyed; śhakyaḥ—possible; aham—I; evam-vidhaḥ—like this; arjuna—Arjun; jñātum—to be known; draṣhṭum—to be seen; cha—and; tattvena—truly; praveṣhṭum—to enter into (union with me); cha—and; parantapa—scorcher of foes\n",
-            "audio_number": 51
+            "audio_number": 51,
+            "verse_id": 462
         },
         {
             "chapter_number": 11,
@@ -4329,7 +4791,8 @@ const data = {
             "transliteration": "mat-karma-kṛin mat-paramo mad-bhaktaḥ saṅga-varjitaḥ\nnirvairaḥ sarva-bhūteṣhu yaḥ sa mām eti pāṇḍava\n",
             "verse_number": 55,
             "word_meanings": "mat-karma-kṛit—perform duties for my sake; mat-paramaḥ—considering me the Supreme; mat-bhaktaḥ—devoted to me; saṅga-varjitaḥ—free from attachment; nirvairaḥ—without malice; sarva-bhūteṣhu—toward all entities; yaḥ—who; saḥ—he; mām—to me; eti—comes; pāṇḍava—Arjun, the son of Pandu\n",
-            "audio_number": 52
+            "audio_number": 52,
+            "verse_id": 463
         },
         {
             "chapter_number": 12,
@@ -4338,7 +4801,8 @@ const data = {
             "transliteration": "arjuna uvācha\nevaṁ satata-yuktā ye bhaktās tvāṁ paryupāsate\nye chāpy akṣharam avyaktaṁ teṣhāṁ ke yoga-vittamāḥ\n",
             "verse_number": 1,
             "word_meanings": "arjunaḥ uvācha—Arjun said; evam—thus; satata—steadfastly; yuktāḥ—devoted; ye—those; bhaktāḥ—devotees; tvām—you; paryupāsate—worship; ye—those; cha—and; api—also; akṣharam—the imperishable; avyaktam—the formless Brahman; teṣhām—of them; ke—who; yoga-vit-tamāḥ—more perfect in Yog\n",
-            "audio_number": 1
+            "audio_number": 1,
+            "verse_id": 464
         },
         {
             "chapter_number": 12,
@@ -4347,7 +4811,8 @@ const data = {
             "transliteration": "śhrī-bhagavān uvācha\nmayy āveśhya mano ye māṁ nitya-yuktā upāsate\nśhraddhayā parayopetās te me yuktatamā matāḥ\n",
             "verse_number": 2,
             "word_meanings": "śhrī-bhagavān uvācha—the Blessed Lord said; mayi—on me; āveśhya—fix; manaḥ—the mind; ye—those; mām—me; nitya yuktāḥ—always engaged; upāsate—worship; śhraddhayā—with faith; parayā—best; upetāḥ—endowed; te—they; me—by me; yukta-tamāḥ—situated highest in Yog; matāḥ—I consider\n",
-            "audio_number": 2
+            "audio_number": 2,
+            "verse_id": 465
         },
         {
             "chapter_number": 12,
@@ -4356,7 +4821,8 @@ const data = {
             "transliteration": "ye tv akṣharam anirdeśhyam avyaktaṁ paryupāsate\nsarvatra-gam achintyañcha kūṭa-stham achalandhruvam\n sanniyamyendriya-grāmaṁ sarvatra sama-buddhayaḥ\nte prāpnuvanti mām eva sarva-bhūta-hite ratāḥ\n",
             "verse_number": 3,
             "word_meanings": "ye—who; tu—but; akṣharam—the imperishable; anirdeśhyam—the indefinable; avyaktam—the unmanifest; paryupāsate—worship; sarvatra-gam—the all-pervading; achintyam—the unthinkable; cha—and; kūṭa-stham—the unchanging; achalam—the immovable; dhruvam—the eternal; \n sanniyamya—restraining; indriya-grāmam—the senses; sarvatra—everywhere; sama-buddhayaḥ—even-minded; te—they; prāpnuvanti—attain; mām—me; eva—also; sarva-bhūta-hite—in the welfare of all beings; ratāḥ—engaged\n",
-            "audio_number": 3
+            "audio_number": 3,
+            "verse_id": 466
         },
         {
             "chapter_number": 12,
@@ -4365,7 +4831,8 @@ const data = {
             "transliteration": "kleśho ’dhikataras teṣhām avyaktāsakta-chetasām\navyaktā hi gatir duḥkhaṁ dehavadbhir avāpyate\n",
             "verse_number": 5,
             "word_meanings": "kleśhaḥ—tribulations; adhika-taraḥ—full of; teṣhām—of those; avyakta—to the unmanifest; āsakta—attached; chetasām—whose minds; avyaktā—the unmanifest; hi—indeed; gatiḥ—path; duḥkham—exceeding difficulty; deha-vadbhiḥ—for the embodied; avāpyate—is reached\n",
-            "audio_number": 4
+            "audio_number": 4,
+            "verse_id": 467
         },
         {
             "chapter_number": 12,
@@ -4374,7 +4841,8 @@ const data = {
             "transliteration": "ye tu sarvāṇi karmāṇi mayi sannyasya mat-paraḥ\nananyenaiva yogena māṁ dhyāyanta upāsate\n",
             "verse_number": 6,
             "word_meanings": "ye—who; tu—but; sarvāṇi—all; karmāṇi—actions; mayi—to me; sannyasya—dedicating; mat-paraḥ—regarding me as the Supreme goal; ananyena—exclusively; eva—certainly; yogena—with devotion; mām—me; dhyāyantaḥ—meditating; upāsate—worship;\n",
-            "audio_number": 5
+            "audio_number": 5,
+            "verse_id": 468
         },
         {
             "chapter_number": 12,
@@ -4383,7 +4851,8 @@ const data = {
             "transliteration": "teṣhām ahaṁ samuddhartā mṛityu-saṁsāra-sāgarāt\nbhavāmi na chirāt pārtha mayy āveśhita-chetasām\n",
             "verse_number": 7,
             "word_meanings": "teṣhām—of those; aham—I; samuddhartā—the deliverer; mṛityu-saṁsāra-sāgarāt—from the ocean of birth and death; bhavāmi—(I) become; na—not; chirāt—after a long time; pārtha—Arjun, the son of Pritha; mayi—with me; āveśhita chetasām—of those whose consciousness is united\n",
-            "audio_number": 5
+            "audio_number": 5,
+            "verse_id": 469
         },
         {
             "chapter_number": 12,
@@ -4392,7 +4861,8 @@ const data = {
             "transliteration": "mayy eva mana ādhatsva mayi buddhiṁ niveśhaya\nnivasiṣhyasi mayy eva ata ūrdhvaṁ na sanśhayaḥ\n",
             "verse_number": 8,
             "word_meanings": "mayi—on me; eva—alone; manaḥ—mind; ādhatsva—fix; mayi—on me; buddhim—intellect; niveśhaya—surrender; nivasiṣhyasi—you shall always live; mayi—in me; eva—alone; ataḥ ūrdhvam—thereafter; na—not; sanśhayaḥ—doubt\n",
-            "audio_number": 6
+            "audio_number": 6,
+            "verse_id": 470
         },
         {
             "chapter_number": 12,
@@ -4401,7 +4871,8 @@ const data = {
             "transliteration": "atha chittaṁ samādhātuṁ na śhaknoṣhi mayi sthiram\nabhyāsa-yogena tato mām ichchhāptuṁ dhanañjaya\n",
             "verse_number": 9,
             "word_meanings": "atha—if; chittam—mind; samādhātum—to fix; na śhaknoṣhi—(you) are unable; mayi—on me; sthiram—steadily; abhyāsa-yogena—by uniting with God through repeated practice; tataḥ—then; mām—me; ichchhā—desire; āptum—to attain; dhanañjaya—Arjun, the conqueror of wealth\n",
-            "audio_number": 7
+            "audio_number": 7,
+            "verse_id": 471
         },
         {
             "chapter_number": 12,
@@ -4410,7 +4881,8 @@ const data = {
             "transliteration": "abhyāse ’py asamartho ’si mat-karma-paramo bhava\nmad-artham api karmāṇi kurvan siddhim avāpsyasi\n",
             "verse_number": 10,
             "word_meanings": "abhyāse—in practice; api—if; asamarthaḥ—unable; asi—you; mat-karma paramaḥ—devotedly work for me; bhava—be; mat-artham—for my sake; api—also; karmāṇi—work; kurvan—performing; siddhim—perfection; avāpsyasi—you shall achieve\n",
-            "audio_number": 8
+            "audio_number": 8,
+            "verse_id": 472
         },
         {
             "chapter_number": 12,
@@ -4419,7 +4891,8 @@ const data = {
             "transliteration": "athaitad apy aśhakto ’si kartuṁ mad-yogam āśhritaḥ\nsarva-karma-phala-tyāgaṁ tataḥ kuru yatātmavān\n",
             "verse_number": 11,
             "word_meanings": "atha—if; etat—this; api—even; aśhaktaḥ—unable; asi—you are; kartum—to work; mad-yogam—with devotion to me; āśhritaḥ—taking refuge; sarva-karma—of all actions; phala-tyāgam—to renounce the fruits; tataḥ—then; kuru—do; yata-ātma-vān—be situated in the self\n",
-            "audio_number": 9
+            "audio_number": 9,
+            "verse_id": 473
         },
         {
             "chapter_number": 12,
@@ -4428,7 +4901,8 @@ const data = {
             "transliteration": "śhreyo hi jñānam abhyāsāj jñānād dhyānaṁ viśhiṣhyate\ndhyānāt karma-phala-tyāgas tyāgāch chhāntir anantaram\n",
             "verse_number": 12,
             "word_meanings": "śhreyaḥ—better; hi—for; jñānam—knowledge; abhyāsāt—than (mechanical) practice; jñānāt—than knowledge; dhyānam—meditation; viśhiṣhyate—better; dhyānāt—than meditation; karma-phala-tyāgaḥ—renunciation of the fruits of actions; tyāgāt—renunciation; śhāntiḥ—peace; anantaram—immediately\n",
-            "audio_number": 10
+            "audio_number": 10,
+            "verse_id": 474
         },
         {
             "chapter_number": 12,
@@ -4437,7 +4911,8 @@ const data = {
             "transliteration": "adveṣhṭā sarva-bhūtānāṁ maitraḥ karuṇa eva cha\nnirmamo nirahankāraḥ sama-duḥkha-sukhaḥ kṣhamī\n",
             "verse_number": 13,
             "word_meanings": "adveṣhṭā—free from malice; sarva-bhūtānām—toward all living beings; maitraḥ—friendly; karuṇaḥ—compassionate; eva—indeed; cha—and; nirmamaḥ—free from attachment to possession; nirahankāraḥ—free from egoism; sama—equipoised; duḥkha—distress; sukhaḥ—happiness; kṣhamī—forgiving;\n",
-            "audio_number": 11
+            "audio_number": 11,
+            "verse_id": 475
         },
         {
             "chapter_number": 12,
@@ -4446,7 +4921,8 @@ const data = {
             "transliteration": "santuṣhṭaḥ satataṁ yogī yatātmā dṛiḍha-niśhchayaḥ\nmayy arpita-mano-buddhir yo mad-bhaktaḥ sa me priyaḥ\n",
             "verse_number": 14,
             "word_meanings": "santuṣhṭaḥ—contented; satatam—steadily; yogī—united in devotion; yata-ātmā—self-controlled; dṛiḍha-niśhchayaḥ—firm in conviction; mayi—to me; arpita—dedicated; manaḥ—mind; buddhiḥ—intellect; yaḥ—who; mat-bhaktaḥ—my devotees; saḥ—they; me—to me; priyaḥ—very dear\n",
-            "audio_number": 11
+            "audio_number": 11,
+            "verse_id": 476
         },
         {
             "chapter_number": 12,
@@ -4455,7 +4931,8 @@ const data = {
             "transliteration": "yasmān nodvijate loko lokān nodvijate cha yaḥ\nharṣhāmarṣha-bhayodvegair mukto yaḥ sa cha me priyaḥ\n",
             "verse_number": 15,
             "word_meanings": "yasmāt—by whom; na—not; udvijate—are agitated; lokaḥ—people; lokāt—from people; na—not; udvijate—are disturbed; cha—and; yaḥ—who; harṣha—pleasure; amarṣha—pain; bhaya—fear; udvegaiḥ—anxiety; muktaḥ—freed; yaḥ—who; saḥ—they; cha—and; me—to me; priyaḥ—very dear\n",
-            "audio_number": 12
+            "audio_number": 12,
+            "verse_id": 477
         },
         {
             "chapter_number": 12,
@@ -4464,7 +4941,8 @@ const data = {
             "transliteration": "anapekṣhaḥ śhuchir dakṣha udāsīno gata-vyathaḥ\nsarvārambha-parityāgī yo mad-bhaktaḥ sa me priyaḥ\n",
             "verse_number": 16,
             "word_meanings": "anapekṣhaḥ—indifferent to worldly gain; śhuchiḥ—pure; dakṣhaḥ—skillful; udāsīnaḥ—without cares; gata-vyathaḥ—untroubled; sarva-ārambha—of all undertakings; parityāgī—renouncer; saḥ—who; mat-bhaktaḥ—my devotee; saḥ—he; me—to ne; priyaḥ—very dear\n",
-            "audio_number": 13
+            "audio_number": 13,
+            "verse_id": 478
         },
         {
             "chapter_number": 12,
@@ -4473,7 +4951,8 @@ const data = {
             "transliteration": "yo na hṛiṣhyati na dveṣhṭi na śhochati na kāṅkṣhati\nśhubhāśhubha-parityāgī bhaktimān yaḥ sa me priyaḥ\n",
             "verse_number": 17,
             "word_meanings": "yaḥ—who; na—neither; hṛiṣhyati—rejoice; na—nor; dveṣhṭi—despair; na—neither; śhochati—lament; na—nor; kāṅkṣhati—hanker for gain; śhubha-aśhubha-parityāgī—who renounce both good and evil deeds; bhakti-mān—full of devotion; yaḥ—who; saḥ—that person; me—to me; priyaḥ—very dear\n",
-            "audio_number": 14
+            "audio_number": 14,
+            "verse_id": 479
         },
         {
             "chapter_number": 12,
@@ -4482,7 +4961,8 @@ const data = {
             "transliteration": "samaḥ śhatrau cha mitre cha tathā mānāpamānayoḥ\nśhītoṣhṇa-sukha-duḥkheṣhu samaḥ saṅga-vivarjitaḥ\n",
             "verse_number": 18,
             "word_meanings": "samaḥ—alike; śhatrau—to a foe; cha—and; mitre—to a friend; cha tathā—as well as; māna-apamānayoḥ—in honor and dishonor; śhīta-uṣhṇa—in cold and heat; sukha-duḥkheṣhu—in joy and sorrow; samaḥ—equipoised; saṅga-vivarjitaḥ—free from all unfavorable association;\n",
-            "audio_number": 15
+            "audio_number": 15,
+            "verse_id": 480
         },
         {
             "chapter_number": 12,
@@ -4491,7 +4971,8 @@ const data = {
             "transliteration": "tulya-nindā-stutir maunī santuṣhṭo yena kenachit\naniketaḥ sthira-matir bhaktimān me priyo naraḥ\n",
             "verse_number": 19,
             "word_meanings": "tulya—alike; nindā-stutiḥ—reproach and praise; maunī—silent contemplation; santuṣhṭaḥ—contented; yena kenachit—with anything; aniketaḥ—without attachment to the place of residence; sthira—firmly fixed; matiḥ—intellect; bhakti-mān—full of devotion; me—to me; priyaḥ—very dear; naraḥ—a person\n",
-            "audio_number": 15
+            "audio_number": 15,
+            "verse_id": 481
         },
         {
             "chapter_number": 12,
@@ -4500,7 +4981,8 @@ const data = {
             "transliteration": "ye tu dharmyāmṛitam idaṁ yathoktaṁ paryupāsate\nśhraddadhānā mat-paramā bhaktās te ’tīva me priyāḥ\n",
             "verse_number": 20,
             "word_meanings": "ye—who; tu—indeed; dharma—of wisdom; amṛitam—nectar; idam—this; yathā—as; uktam—declared; paryupāsate—exclusive devotion; śhraddadhānāḥ—with faith; mat-paramāḥ—intent on me as the supreme goal; bhaktāḥ—devotees; te—they; atīva—exceedingly; me—to me; priyāḥ—dear\n",
-            "audio_number": 16
+            "audio_number": 16,
+            "verse_id": 482
         },
         {
             "chapter_number": 13,
@@ -4509,7 +4991,8 @@ const data = {
             "transliteration": "arjuna uvācha\nprakṛitiṁ puruṣhaṁ chaiva kṣhetraṁ kṣhetra-jñam eva cha\netad veditum ichchhāmi jñānaṁ jñeyaṁ cha keśhava\n",
             "verse_number": 1,
             "word_meanings": "arjunaḥ uvācha—Arjun said; prakṛitim—material nature; puruṣham—the enjoyer; cha—and; eva—indeed; kṣhetram—the field of activities; kṣhetra-jñam—the knower of the field; eva—even; cha—also; etat—this; veditum—to know; ichchhāmi—I wish; jñānam—knowledge; jñeyam—the goal of knowledge; cha—and; keśhava—Krishna, the killer of the demon named Keshi\n",
-            "audio_number": 1
+            "audio_number": 1,
+            "verse_id": 483
         },
         {
             "chapter_number": 13,
@@ -4518,7 +5001,8 @@ const data = {
             "transliteration": "śhrī-bhagavān uvācha\nidaṁ śharīraṁ kaunteya kṣhetram ity abhidhīyate\netad yo vetti taṁ prāhuḥ kṣhetra-jña iti tad-vidaḥ\n",
             "verse_number": 2,
             "word_meanings": "śhrī-bhagavān uvācha—the Supreme Divine Lord said; idam—this; śharīram—body; kaunteya—Arjun, the son of Kunti; kṣhetram—the field of activities; iti—thus; abhidhīyate—is termed as; etat—this; yaḥ—one who; vetti—knows; tam—that person; prāhuḥ—is called; kṣhetra-jñaḥ—the knower of the field; iti—thus; tat-vidaḥ—those who discern the truth\n",
-            "audio_number": 1
+            "audio_number": 1,
+            "verse_id": 484
         },
         {
             "chapter_number": 13,
@@ -4527,7 +5011,8 @@ const data = {
             "transliteration": "kṣhetra-jñaṁ chāpi māṁ viddhi sarva-kṣhetreṣhu bhārata\nkṣhetra-kṣhetrajñayor jñānaṁ yat taj jñānaṁ mataṁ mama\n",
             "verse_number": 3,
             "word_meanings": "kṣhetra-jñam—the knower of the field; cha—also; api—only; mām—me; viddhi—know; sarva—all; kṣhetreṣhu—in individual fields of activities; bhārata—scion of Bharat; kṣhetra—the field of activities; kṣhetra-jñayoḥ—of the knower of the field; jñānam—understanding of; yat—which; tat—that; jñānam—knowledge; matam—opinion; mama—my\n",
-            "audio_number": 2
+            "audio_number": 2,
+            "verse_id": 485
         },
         {
             "chapter_number": 13,
@@ -4536,7 +5021,8 @@ const data = {
             "transliteration": "tat kṣhetraṁ yach cha yādṛik cha yad-vikāri yataśh cha yat\nsa cha yo yat-prabhāvaśh cha tat samāsena me śhṛiṇu\n",
             "verse_number": 4,
             "word_meanings": "tat—that; kṣhetram—field of activities; yat—what; cha—and; yādṛik—its nature; cha—and; yat-vikāri—how change takes place in it; yataḥ—from what; cha—also; yat—what; saḥ—he; cha—also; yaḥ—who; yat-prabhāvaḥ—what his powers are; cha—and; tat—that; samāsena—in summary; me—from me; śhṛiṇu—listen\n",
-            "audio_number": 3
+            "audio_number": 3,
+            "verse_id": 486
         },
         {
             "chapter_number": 13,
@@ -4545,7 +5031,8 @@ const data = {
             "transliteration": "ṛiṣhibhir bahudhā gītaṁ chhandobhir vividhaiḥ pṛithak\nbrahma-sūtra-padaiśh chaiva hetumadbhir viniśhchitaiḥ\n",
             "verse_number": 5,
             "word_meanings": "ṛiṣhibhiḥ—by great sages; bahudhā—in manifold ways; gītam—sung; chhandobhiḥ—in Vedic hymns; vividhaiḥ—various; pṛithak—variously; brahma-sūtra—the Brahma Sūtra; padaiḥ—by the hymns; cha—and; eva—especially; hetu-madbhiḥ—with logic; viniśhchitaiḥ—conclusive evidence\n",
-            "audio_number": 4
+            "audio_number": 4,
+            "verse_id": 487
         },
         {
             "chapter_number": 13,
@@ -4554,7 +5041,8 @@ const data = {
             "transliteration": "mahā-bhūtāny ahankāro buddhir avyaktam eva cha\nindriyāṇi daśhaikaṁ cha pañcha chendriya-gocharāḥ\n",
             "verse_number": 6,
             "word_meanings": "mahā-bhūtāni—the (five) great elements; ahankāraḥ—the ego; buddhiḥ—the intellect; avyaktam—the unmanifested primordial matter; eva—indeed; cha—and; indriyāṇi—the senses; daśha-ekam—eleven; cha—and; pañcha—five; cha—and; indriya-go-charāḥ—the (five) objects of the senses;\n",
-            "audio_number": 5
+            "audio_number": 5,
+            "verse_id": 488
         },
         {
             "chapter_number": 13,
@@ -4563,7 +5051,8 @@ const data = {
             "transliteration": "ichchhā dveṣhaḥ sukhaṁ duḥkhaṁ saṅghātaśh chetanā dhṛitiḥ\netat kṣhetraṁ samāsena sa-vikāram udāhṛitam\n",
             "verse_number": 7,
             "word_meanings": "ichchhā—desire; dveṣhaḥ—aversion; sukham—happiness; duḥkham—misery; saṅghātaḥ—the aggregate; chetanā—the consciousness; dhṛitiḥ—the will; etat—all these; kṣhetram—the field of activities; samāsena—comprise of; sa-vikāram—with modifications; udāhṛitam—are said\n",
-            "audio_number": 5
+            "audio_number": 5,
+            "verse_id": 489
         },
         {
             "chapter_number": 13,
@@ -4572,7 +5061,8 @@ const data = {
             "transliteration": "amānitvam adambhitvam ahinsā kṣhāntir ārjavam\nāchāryopāsanaṁ śhauchaṁ sthairyam ātma-vinigrahaḥ\n",
             "verse_number": 8,
             "word_meanings": "amānitvam—humbleness; adambhitvam—freedom from hypocrisy; ahinsā—non-violence; kṣhāntiḥ—forgiveness; ārjavam—simplicity; āchārya-upāsanam—service of the Guru; śhaucham—cleanliness of body and mind; sthairyam—steadfastness; ātma-vinigrahaḥ—self-control;\n",
-            "audio_number": 6
+            "audio_number": 6,
+            "verse_id": 490
         },
         {
             "chapter_number": 13,
@@ -4581,7 +5071,8 @@ const data = {
             "transliteration": "indriyārtheṣhu vairāgyam anahankāra eva cha\njanma-mṛityu-jarā-vyādhi-duḥkha-doṣhānudarśhanam\n",
             "verse_number": 9,
             "word_meanings": "indriya-artheṣhu—toward objects of the senses; vairāgyam—dispassion; anahankāraḥ—absence of egotism; eva cha—and also; janma—of birth; mṛityu—death; jarā—old age; vyādhi—disease; duḥkha—evils; doṣha—faults; anudarśhanam—perception;\n",
-            "audio_number": 6
+            "audio_number": 6,
+            "verse_id": 491
         },
         {
             "chapter_number": 13,
@@ -4590,7 +5081,8 @@ const data = {
             "transliteration": "asaktir anabhiṣhvaṅgaḥ putra-dāra-gṛihādiṣhu\nnityaṁ cha sama-chittatvam iṣhṭāniṣhṭopapattiṣhu\n",
             "verse_number": 10,
             "word_meanings": "asaktiḥ—non-attachment; anabhiṣhvaṅgaḥ—absence of craving; putra—children; dāra—spouse; gṛiha-ādiṣhu—home, etc; nityam—constant; cha—and; sama-chittatvam—even-mindedness; iṣhṭa—the desirable; aniṣhṭa—undesirable; upapattiṣhu—having obtained;\n",
-            "audio_number": 6
+            "audio_number": 6,
+            "verse_id": 492
         },
         {
             "chapter_number": 13,
@@ -4599,7 +5091,8 @@ const data = {
             "transliteration": "mayi chānanya-yogena bhaktir avyabhichāriṇī\nvivikta-deśha-sevitvam aratir jana-sansadi\n",
             "verse_number": 11,
             "word_meanings": "mayi—toward me; cha—also; ananya-yogena—exclusively united; bhaktiḥ—devotion; avyabhichāriṇī—constant; vivikta—solitary; deśha—places; sevitvam—inclination for; aratiḥ—aversion; jana-sansadi—for mundane society;\n",
-            "audio_number": 6
+            "audio_number": 6,
+            "verse_id": 493
         },
         {
             "chapter_number": 13,
@@ -4608,7 +5101,8 @@ const data = {
             "transliteration": "adhyātma-jñāna-nityatvaṁ tattva-jñānārtha-darśhanam\netaj jñānam iti proktam ajñānaṁ yad ato ’nyathā\n",
             "verse_number": 12,
             "word_meanings": "adhyātma—spiritual; jñāna—knowledge; nityatvam—constancy; tattva-jñāna—knowledge of spiritual principles; artha—for; darśhanam—philosophy; etat—all this; jñānam—knowledge; iti—thus; proktam—declared; ajñānam—ignorance; yat—what; ataḥ—to this; anyathā—contrary\n",
-            "audio_number": 6
+            "audio_number": 6,
+            "verse_id": 494
         },
         {
             "chapter_number": 13,
@@ -4617,7 +5111,8 @@ const data = {
             "transliteration": "jñeyaṁ yat tat pravakṣhyāmi yaj jñātvāmṛitam aśhnute\nanādi mat-paraṁ brahma na sat tan nāsad uchyate\n",
             "verse_number": 13,
             "word_meanings": "jñeyam—ought to be known; yat—which; tat—that; pravakṣhyāmi—I shall now reveal; yat—which; jñātvā—knowing; amṛitam—immortality; aśhnute—one achieves; anādi—beginningless; mat-param—subordinate to me; brahma—Brahman; na—not; sat—existent; tat—that; na—not; asat—non-existent; uchyate—is called\n",
-            "audio_number": 7
+            "audio_number": 7,
+            "verse_id": 495
         },
         {
             "chapter_number": 13,
@@ -4626,7 +5121,8 @@ const data = {
             "transliteration": "sarvataḥ pāṇi-pādaṁ tat sarvato ’kṣhi-śhiro-mukham\nsarvataḥ śhrutimal loke sarvam āvṛitya tiṣhṭhati\n",
             "verse_number": 14,
             "word_meanings": "sarvataḥ—everywhere; pāṇi—hands; pādam—feet; tat—that; sarvataḥ—everywhere; akṣhi—eyes; śhiraḥ—heads; mukham—faces; sarvataḥ—everywhere; śhruti-mat—having ears; loke—in the universe; sarvam—everything; āvṛitya—pervades; tiṣhṭhati—exists\n",
-            "audio_number": 8
+            "audio_number": 8,
+            "verse_id": 496
         },
         {
             "chapter_number": 13,
@@ -4635,7 +5131,8 @@ const data = {
             "transliteration": "sarvendriya-guṇābhāsaṁ sarvendriya-vivarjitam\nasaktaṁ sarva-bhṛich chaiva nirguṇaṁ guṇa-bhoktṛi cha\n",
             "verse_number": 15,
             "word_meanings": "sarva—all; indriya—senses; guṇa—sense-objects; ābhāsam—the perciever; sarva—all; indriya—senses; vivarjitam—devoid of; asaktam—unattached; sarva-bhṛit—the sustainer of all; cha—yet; eva—indeed; nirguṇam—beyond the three modes of material nature; guṇa-bhoktṛi—the enjoyer of the three modes of material nature; cha—although\n",
-            "audio_number": 9
+            "audio_number": 9,
+            "verse_id": 497
         },
         {
             "chapter_number": 13,
@@ -4644,7 +5141,8 @@ const data = {
             "transliteration": "bahir antaśh cha bhūtānām acharaṁ charam eva cha\nsūkṣhmatvāt tad avijñeyaṁ dūra-sthaṁ chāntike cha tat\n",
             "verse_number": 16,
             "word_meanings": "bahiḥ—outside; antaḥ—inside; cha—and; bhūtānām—all living beings; acharam—not moving; charam—moving; eva—indeed; cha—and; sūkṣhmatvāt—due to subtlety; tat—he; avijñeyam—incomprehensible; dūra-stham—very far away; cha—and; antike—very near; cha—also; tat—he\n",
-            "audio_number": 10
+            "audio_number": 10,
+            "verse_id": 498
         },
         {
             "chapter_number": 13,
@@ -4653,7 +5151,8 @@ const data = {
             "transliteration": "avibhaktaṁ cha bhūteṣhu vibhaktam iva cha sthitam\nbhūta-bhartṛi cha taj jñeyaṁ grasiṣhṇu prabhaviṣhṇu cha\n",
             "verse_number": 17,
             "word_meanings": "avibhaktam—indivisible; cha—although; bhūteṣhu—amongst living beings; vibhaktam—divided; iva—apparently; cha—yet; sthitam—situated; bhūta-bhartṛi—the sustainer of all beings; cha—also; tat—that; jñeyam—to be known; grasiṣhṇu—the annihilator; prabhaviṣhṇu—the creator; cha—and\n",
-            "audio_number": 11
+            "audio_number": 11,
+            "verse_id": 499
         },
         {
             "chapter_number": 13,
@@ -4662,7 +5161,8 @@ const data = {
             "transliteration": "jyotiṣhām api taj jyotis tamasaḥ param uchyate\njñānaṁ jñeyaṁ jñāna-gamyaṁ hṛidi sarvasya viṣhṭhitam\n",
             "verse_number": 18,
             "word_meanings": "jyotiṣhām—in all luminarie; api—and; tat—that; jyotiḥ—the source of light; tamasaḥ—the darkness; param—beyond; uchyate—is said (to be); jñānam—knowledge; jñeyam—the object of knowledge; jñāna-gamyam—the goal of knowledge; hṛidi—within the heart; sarvasya—of all living beings; viṣhṭhitam—dwells\n",
-            "audio_number": 12
+            "audio_number": 12,
+            "verse_id": 500
         },
         {
             "chapter_number": 13,
@@ -4671,7 +5171,8 @@ const data = {
             "transliteration": "iti kṣhetraṁ tathā jñānaṁ jñeyaṁ choktaṁ samāsataḥ\nmad-bhakta etad vijñāya mad-bhāvāyopapadyate\n",
             "verse_number": 19,
             "word_meanings": "iti—thus; kṣhetram—the nature of the field; tathā—and; jñānam—the meaning of knowledge; jñeyam—the object of knowledge; cha—and; uktam—revealed; samāsataḥ—in summary; mat-bhaktaḥ—my devotee; etat—this; vijñāya—having understood; mat-bhāvāya—my divine nature; upapadyate—attain\n",
-            "audio_number": 13
+            "audio_number": 13,
+            "verse_id": 501
         },
         {
             "chapter_number": 13,
@@ -4680,7 +5181,8 @@ const data = {
             "transliteration": "prakṛitiṁ puruṣhaṁ chaiva viddhy anādī ubhāv api\nvikārānśh cha guṇānśh chaiva viddhi prakṛiti-sambhavān\n",
             "verse_number": 20,
             "word_meanings": "prakṛitim—material nature; puruṣham—the individual souls; cha—and; eva—indeed; viddhi—know; anādī—beginningless; ubhau—both; api—and; vikārān—transformations (of the body); cha—also; guṇān—the three modes of nature; cha—and; eva—indeed; viddhi—know; prakṛiti—material energy; sambhavān—produced by\n",
-            "audio_number": 14
+            "audio_number": 14,
+            "verse_id": 502
         },
         {
             "chapter_number": 13,
@@ -4689,7 +5191,8 @@ const data = {
             "transliteration": "kārya-kāraṇa-kartṛitve hetuḥ prakṛitir uchyate\npuruṣhaḥ sukha-duḥkhānāṁ bhoktṛitve hetur uchyate\n",
             "verse_number": 21,
             "word_meanings": "kārya—effect; kāraṇa—cause; kartṛitve—in the matter of creation; hetuḥ—the medium; prakṛitiḥ—the material energy; uchyate—is said to be; puruṣhaḥ—the individual soul; sukha-duḥkhānām—of happiness and distress; bhoktṛitve—in experiencing; hetuḥ—is responsible; uchyate—is said to be\n",
-            "audio_number": 15
+            "audio_number": 15,
+            "verse_id": 503
         },
         {
             "chapter_number": 13,
@@ -4698,7 +5201,8 @@ const data = {
             "transliteration": "puruṣhaḥ prakṛiti-stho hi bhuṅkte prakṛiti-jān guṇān\nkāraṇaṁ guṇa-saṅgo ’sya sad-asad-yoni-janmasu\n",
             "verse_number": 22,
             "word_meanings": "puruṣhaḥ—the individual soul; prakṛiti-sthaḥ—seated in the material energy; hi—indeed; bhuṅkte—desires to enjoy; prakṛiti-jān—produced by the material energy; guṇān—the three modes of nature; kāraṇam—the cause; guṇa-saṅgaḥ—the attachment (to three guṇas); asya—of its; sat-asat-yoni—in superior and inferior wombs; janmasu—of birth\n",
-            "audio_number": 16
+            "audio_number": 16,
+            "verse_id": 504
         },
         {
             "chapter_number": 13,
@@ -4707,7 +5211,8 @@ const data = {
             "transliteration": "upadraṣhṭānumantā cha bhartā bhoktā maheśhvaraḥ\nparamātmeti chāpy ukto dehe ’smin puruṣhaḥ paraḥ\n",
             "verse_number": 23,
             "word_meanings": "upadraṣhṭā—the witness; anumantā—the permitter; cha—and; bhartā—the supporter; bhoktā—the transcendental enjoyer; mahā-īśhvaraḥ—the ultimate controller; parama-ātmā—Superme Soul; iti—that; cha api—and also; uktaḥ—is said; dehe—within the body; asmin—this; puruṣhaḥ paraḥ—the Supreme Lord\n",
-            "audio_number": 17
+            "audio_number": 17,
+            "verse_id": 505
         },
         {
             "chapter_number": 13,
@@ -4716,7 +5221,8 @@ const data = {
             "transliteration": "ya evaṁ vetti puruṣhaṁ prakṛitiṁ cha guṇaiḥ saha\nsarvathā vartamāno ’pi na sa bhūyo ’bhijāyate\n",
             "verse_number": 24,
             "word_meanings": "yaḥ—who; evam—thus; vetti—understand; puruṣham—Puruṣh; prakṛitim—the material nature; cha—and; guṇaiḥ—the three modes of nature; saha—with; sarvathā—in every way; vartamānaḥ—situated; api—although; na—not; saḥ—they; bhūyaḥ—again; abhijāyate—take birth\n",
-            "audio_number": 18
+            "audio_number": 18,
+            "verse_id": 506
         },
         {
             "chapter_number": 13,
@@ -4725,7 +5231,8 @@ const data = {
             "transliteration": "dhyānenātmani paśhyanti kechid ātmānam ātmanā\nanye sānkhyena yogena karma-yogena chāpare\n",
             "verse_number": 25,
             "word_meanings": "dhyānena—through meditation; ātmani—within one’s heart; paśhyanti—percieve; kechit—some; ātmānam—the Supreme soul; ātmanā—by the mind; anye—others; sānkhyena—through cultivation of knowledge; yogena—the yog system; karma-yogena—union with God with through path of action; cha—and; apare—others\n",
-            "audio_number": 19
+            "audio_number": 19,
+            "verse_id": 507
         },
         {
             "chapter_number": 13,
@@ -4734,7 +5241,8 @@ const data = {
             "transliteration": "anye tv evam ajānantaḥ śhrutvānyebhya upāsate\nte ’pi chātitaranty eva mṛityuṁ śhruti-parāyaṇāḥ\n",
             "verse_number": 26,
             "word_meanings": "anye—others; tu—still; evam—thus; ajānantaḥ—those who are unaware (of spiritual paths); śhrutvā—by hearing; anyebhyaḥ—from others; upāsate—begin to worship; te—they; api—also; cha—and; atitaranti—cross over; eva—even; mṛityum—death; śhruti-parāyaṇāḥ—devotion to hearing (from saints)\n",
-            "audio_number": 20
+            "audio_number": 20,
+            "verse_id": 508
         },
         {
             "chapter_number": 13,
@@ -4743,7 +5251,8 @@ const data = {
             "transliteration": "yāvat sañjāyate kiñchit sattvaṁ sthāvara-jaṅgamam\nkṣhetra-kṣhetrajña-sanyogāt tad viddhi bharatarṣhabha\n",
             "verse_number": 27,
             "word_meanings": "yāvat—whatever; sañjāyate—manifesting; kiñchit—anything; sattvam—being; sthāvara—unmoving; jaṅgamam—moving; kṣhetra—field of activities; kṣhetra-jña—knower of the field; sanyogāt—combination of; tat—that; viddhi—know; bharata-ṛiṣhabha—best of the Bharatas\n",
-            "audio_number": 21
+            "audio_number": 21,
+            "verse_id": 509
         },
         {
             "chapter_number": 13,
@@ -4752,7 +5261,8 @@ const data = {
             "transliteration": "samaṁ sarveṣhu bhūteṣhu tiṣhṭhantaṁ parameśhvaram\nvinaśhyatsv avinaśhyantaṁ yaḥ paśhyati sa paśhyati\n",
             "verse_number": 28,
             "word_meanings": "samam—equally; sarveṣhu—in all; bhūteṣhu—beings; tiṣhṭhan-tam—accompanying; parama-īśhvaram—Supreme Soul; vinaśhyatsu—amongst the perishable; avinaśhyantam—the imperishable; yaḥ—who; paśhyati—see; saḥ—they; paśhyati—perceive\n",
-            "audio_number": 22
+            "audio_number": 22,
+            "verse_id": 510
         },
         {
             "chapter_number": 13,
@@ -4761,7 +5271,8 @@ const data = {
             "transliteration": "samaṁ paśhyan hi sarvatra samavasthitam īśhvaram\nna hinasty ātmanātmānaṁ tato yāti parāṁ gatim\n",
             "verse_number": 29,
             "word_meanings": "samam—equally; paśhyan—see; hi—indeed; sarvatra—everywhere; samavasthitam—equally present; īśhvaram—God as the Supreme soul; na—do not; hinasti—degrade; ātmanā—by one’s mind; ātmānam—the self; tataḥ—thereby; yāti—reach; parām—the supreme; gatim—destination\n",
-            "audio_number": 23
+            "audio_number": 23,
+            "verse_id": 511
         },
         {
             "chapter_number": 13,
@@ -4770,7 +5281,8 @@ const data = {
             "transliteration": "prakṛityaiva cha karmāṇi kriyamāṇāni sarvaśhaḥ\nyaḥ paśhyati tathātmānam akartāraṁ sa paśhyati\n",
             "verse_number": 30,
             "word_meanings": "prakṛityā—by material nature; eva—truly; cha—also; karmāṇi—actions; kriyamāṇāni—are performed; sarvaśhaḥ—all; yaḥ—who; paśhyati—see; tathā—also; ātmānam—(embodied) soul; akartāram—actionless; saḥ—they; paśhyati—see\n",
-            "audio_number": 24
+            "audio_number": 24,
+            "verse_id": 512
         },
         {
             "chapter_number": 13,
@@ -4779,7 +5291,8 @@ const data = {
             "transliteration": "yadā bhūta-pṛithag-bhāvam eka-stham anupaśhyati\ntata eva cha vistāraṁ brahma sampadyate tadā\n",
             "verse_number": 31,
             "word_meanings": "yadā—when; bhūta—living entities; pṛithak-bhāvam—diverse variety; eka-stham—situated in the same place; anupaśhyati—see; tataḥ—thereafter; eva—indeed; cha—and; vistāram—born from; brahma—Brahman; sampadyate—(they) attain; tadā—then\n",
-            "audio_number": 25
+            "audio_number": 25,
+            "verse_id": 513
         },
         {
             "chapter_number": 13,
@@ -4788,7 +5301,8 @@ const data = {
             "transliteration": "anāditvān nirguṇatvāt paramātmāyam avyayaḥ\nśharīra-stho ’pi kaunteya na karoti na lipyate\n",
             "verse_number": 32,
             "word_meanings": "anāditvāt—being without beginning; nirguṇatvāt—being devoid of any material qualities; parama—the Supreme; ātmā—soul; ayam—this; avyayaḥ—imperishable; śharīra-sthaḥ—dwelling in the body; api—although; kaunteya—Arjun, the the son of Kunti; na—neither; karoti—acts; na—nor; lipyate—is tainted\n",
-            "audio_number": 26
+            "audio_number": 26,
+            "verse_id": 514
         },
         {
             "chapter_number": 13,
@@ -4797,7 +5311,8 @@ const data = {
             "transliteration": "yathā sarva-gataṁ saukṣhmyād ākāśhaṁ nopalipyate\nsarvatrāvasthito dehe tathātmā nopalipyate\n",
             "verse_number": 33,
             "word_meanings": "yathā—as; sarva-gatam—all-pervading; saukṣhmyāt—due to subtlety; ākāśham—the space; na—not; upalipyate—is contaminated; sarvatra—everywhere; avasthitaḥ—situated; dehe—the body; tathā—similarly; ātmā—the soul; na—not; upalipyate—is contaminated\n",
-            "audio_number": 27
+            "audio_number": 27,
+            "verse_id": 515
         },
         {
             "chapter_number": 13,
@@ -4806,7 +5321,8 @@ const data = {
             "transliteration": "yathā prakāśhayaty ekaḥ kṛitsnaṁ lokam imaṁ raviḥ\nkṣhetraṁ kṣhetrī tathā kṛitsnaṁ prakāśhayati bhārata\n",
             "verse_number": 34,
             "word_meanings": "yathā—as; prakāśhayati—illumines; ekaḥ—one; kṛitsnam—entire; lokam—solar system; imam—this; raviḥ—sun; kṣhetram—the body; kṣhetrī—the soul; tathā—so; kṛitsnam—entire; prakāśhayati—illumine; bhārata—Arjun, the son of Bharat\n",
-            "audio_number": 28
+            "audio_number": 28,
+            "verse_id": 516
         },
         {
             "chapter_number": 13,
@@ -4815,7 +5331,8 @@ const data = {
             "transliteration": "kṣhetra-kṣhetrajñayor evam antaraṁ jñāna-chakṣhuṣhā\nbhūta-prakṛiti-mokṣhaṁ cha ye vidur yānti te param\n",
             "verse_number": 35,
             "word_meanings": "kṣhetra—the body; kṣhetra-jñayoḥ—of the knower of the body; evam—thus; antaram—the difference; jñāna-chakṣhuṣhā—with the eyes of knowledge; bhūta—the living entity; prakṛiti-mokṣham—release from material nature; cha—and; ye—who; viduḥ—know; yānti—approach; te—they; param—the Supreme\n",
-            "audio_number": 29
+            "audio_number": 29,
+            "verse_id": 517
         },
         {
             "chapter_number": 14,
@@ -4824,7 +5341,8 @@ const data = {
             "transliteration": "śhrī-bhagavān uvācha\nparaṁ bhūyaḥ pravakṣhyāmi jñānānāṁ jñānam uttamam\nyaj jñātvā munayaḥ sarve parāṁ siddhim ito gatāḥ\n",
             "verse_number": 1,
             "word_meanings": "śhrī-bhagavān uvācha—the Divine Lord said; param—supreme; bhūyaḥ—again; pravakṣhyāmi—I shall explain; jñānānām—of all knowledge; jñānam uttamam—the supreme wisdom; yat—which; jñātvā—knowing; munayaḥ—saints; sarve—all; parām—highest; siddhim—perfection; itaḥ—through this; gatāḥ—attained\n",
-            "audio_number": 1
+            "audio_number": 1,
+            "verse_id": 518
         },
         {
             "chapter_number": 14,
@@ -4833,7 +5351,8 @@ const data = {
             "transliteration": "idaṁ jñānam upāśhritya mama sādharmyam āgatāḥ\nsarge ’pi nopajāyante pralaye na vyathanti cha\n",
             "verse_number": 2,
             "word_meanings": "idam—this; jñānam—wisdom; upāśhritya—take refuge in; mama—mine; sādharmyam—of similar nature; āgatāḥ—having attained; sarge—at the time of creation; api—even; na—not; upajāyante—are born; pralaye—at the time of dissolution; na-vyathanti—they will not experience misery; cha—and\n",
-            "audio_number": 2
+            "audio_number": 2,
+            "verse_id": 519
         },
         {
             "chapter_number": 14,
@@ -4842,7 +5361,8 @@ const data = {
             "transliteration": "mama yonir mahad brahma tasmin garbhaṁ dadhāmy aham\nsambhavaḥ sarva-bhūtānāṁ tato bhavati bhārata\n",
             "verse_number": 3,
             "word_meanings": "mama—my; yoniḥ—womb; mahat brahma—the total material substance, prakṛiti; tasmin—in that; garbham—womb; dadhāmi—impregnate; aham—I; sambhavaḥ—birth; sarva-bhūtānām—of all living beings; tataḥ—thereby; bhavati—becomes; bhārata—Arjun, the son of Bharat; \n",
-            "audio_number": 3
+            "audio_number": 3,
+            "verse_id": 520
         },
         {
             "chapter_number": 14,
@@ -4851,7 +5371,8 @@ const data = {
             "transliteration": "sarva-yoniṣhu kaunteya mūrtayaḥ sambhavanti yāḥ\ntāsāṁ brahma mahad yonir ahaṁ bīja-pradaḥ pitā\n",
             "verse_number": 4,
             "word_meanings": "sarva—all; yoniṣhu—species of life; kaunteya—Arjun, the son of Kunti; mūrtayaḥ—forms; sambhavanti—are produced; yāḥ—which; tāsām—of all of them; brahma-mahat—great material nature; yoniḥ—womb; aham—I; bīja-pradaḥ—seed-giving; pitā—Father\n",
-            "audio_number": 4
+            "audio_number": 4,
+            "verse_id": 521
         },
         {
             "chapter_number": 14,
@@ -4860,7 +5381,8 @@ const data = {
             "transliteration": "sattvaṁ rajas tama iti guṇāḥ prakṛiti-sambhavāḥ\nnibadhnanti mahā-bāho dehe dehinam avyayam\n",
             "verse_number": 5,
             "word_meanings": "sattvam—mode of goodness; rajaḥ—mode of passion; tamaḥ—mode of ignorance; iti—thus; guṇāḥ—modes; prakṛiti—material nature; sambhavāḥ—consists of; nibadhnanti—bind; mahā-bāho—mighty-armed one; dehe—in the body; dehinam—the embodied soul; avyayam—eternal\n",
-            "audio_number": 5
+            "audio_number": 5,
+            "verse_id": 522
         },
         {
             "chapter_number": 14,
@@ -4869,7 +5391,8 @@ const data = {
             "transliteration": "tatra sattvaṁ nirmalatvāt prakāśhakam anāmayam\nsukha-saṅgena badhnāti jñāna-saṅgena chānagha\n",
             "verse_number": 6,
             "word_meanings": "tatra—amongst these; sattvam—mode of goodness; nirmalatvāt—being purest; prakāśhakam—illuminating; anāmayam—healthy and full of well-being; sukha—happiness; saṅgena—attachment; badhnāti—binds; jñāna—knowledge; saṅgena—attachment; cha—also; anagha—Arjun, the sinless one\n",
-            "audio_number": 6
+            "audio_number": 6,
+            "verse_id": 523
         },
         {
             "chapter_number": 14,
@@ -4878,7 +5401,8 @@ const data = {
             "transliteration": "rajo rāgātmakaṁ viddhi tṛiṣhṇā-saṅga-samudbhavam\ntan nibadhnāti kaunteya karma-saṅgena dehinam\n",
             "verse_number": 7,
             "word_meanings": "rajaḥ—mode of passion; rāga-ātmakam—of the nature of passion; viddhi—know; tṛiṣhṇā—desires; saṅga—association; samudbhavam—arises from; tat—that; nibadhnāti—binds; kaunteya—Arjun, the son of Kunti; karma-saṅgena—through attachment to fruitive actions; dehinam—the embodied soul\n",
-            "audio_number": 7
+            "audio_number": 7,
+            "verse_id": 524
         },
         {
             "chapter_number": 14,
@@ -4887,7 +5411,8 @@ const data = {
             "transliteration": "tamas tv ajñāna-jaṁ viddhi mohanaṁ sarva-dehinām\npramādālasya-nidrābhis tan nibadhnāti bhārata\n",
             "verse_number": 8,
             "word_meanings": "tamaḥ—mode of ignorance; tu—but; ajñāna-jam—born of ignorance; viddhi—know; mohanam—illusion; sarva-dehinām—for all the embodied souls; pramāda—negligence; ālasya—laziness; nidrābhiḥ—and sleep; tat—that; nibadhnāti—binds; bhārata—Arjun, the son of Bharat\n",
-            "audio_number": 8
+            "audio_number": 8,
+            "verse_id": 525
         },
         {
             "chapter_number": 14,
@@ -4896,7 +5421,8 @@ const data = {
             "transliteration": "sattvaṁ sukhe sañjayati rajaḥ karmaṇi bhārata\njñānam āvṛitya tu tamaḥ pramāde sañjayaty uta\n",
             "verse_number": 9,
             "word_meanings": "sattvam—mode of goodness; sukhe—to happiness; sañjayati—binds; rajaḥ—mode of passion; karmaṇi—toward actions; bhārata—Arjun, the son of Bharat; jñānam—wisdom; āvṛitya—clouds; tu—but; tamaḥ—mode of ignorance; pramāde—to delusion; sañjayati—binds; uta—indeed\n",
-            "audio_number": 9
+            "audio_number": 9,
+            "verse_id": 526
         },
         {
             "chapter_number": 14,
@@ -4905,7 +5431,8 @@ const data = {
             "transliteration": "rajas tamaśh chābhibhūya sattvaṁ bhavati bhārata\nrajaḥ sattvaṁ tamaśh chaiva tamaḥ sattvaṁ rajas tathā\n",
             "verse_number": 10,
             "word_meanings": "rajaḥ—mode of passion; tamaḥ—mode of ignorance; cha—and; abhibhūya—prevails; sattvam—mode of goodness; bhavati—becomes; bhārata—Arjun, the son of Bharat; rajaḥ—mode of passion; sattvam—mode of goodness; tamaḥ—mode of ignorance; cha—and; eva—indeed; tamaḥ—mode of ignorance; sattvam—mode of goodness; rajaḥ—mode of passion; tathā—also\n",
-            "audio_number": 10
+            "audio_number": 10,
+            "verse_id": 527
         },
         {
             "chapter_number": 14,
@@ -4914,7 +5441,8 @@ const data = {
             "transliteration": "sarva-dvāreṣhu dehe ’smin prakāśha upajāyate\njñānaṁ yadā tadā vidyād vivṛiddhaṁ sattvam ity uta\n",
             "verse_number": 11,
             "word_meanings": "sarva—all; dvāreṣhu—through the gates; dehe—body; asmin—in this; prakāśhaḥ—illumination; upajāyate—manifest; jñānam—knowledge; yadā—when; tadā—then; vidyāt—know; vivṛiddham—predominates; sattvam—mode of goodness; iti—thus; uta—certainly;\n",
-            "audio_number": 11
+            "audio_number": 11,
+            "verse_id": 528
         },
         {
             "chapter_number": 14,
@@ -4923,7 +5451,8 @@ const data = {
             "transliteration": "lobhaḥ pravṛittir ārambhaḥ karmaṇām aśhamaḥ spṛihā\nrajasy etāni jāyante vivṛiddhe bharatarṣhabha\n\n",
             "verse_number": 12,
             "word_meanings": "lobhaḥ—greed; pravṛittiḥ—activity; ārambhaḥ—exertion; karmaṇām—for fruitive actions; aśhamaḥ—restlessness; spṛihā—craving; rajasi—of the mode of passion; etāni—these; jāyante—develop; vivṛiddhe—when predominates; bharata-ṛiṣhabha—the best of the Bharatas, Arjun;\n",
-            "audio_number": 12
+            "audio_number": 12,
+            "verse_id": 529
         },
         {
             "chapter_number": 14,
@@ -4932,7 +5461,8 @@ const data = {
             "transliteration": "aprakāśho ’pravṛittiśh cha pramādo moha eva cha\ntamasy etāni jāyante vivṛiddhe kuru-nandana\n\n",
             "verse_number": 13,
             "word_meanings": "aprakāśhaḥ—nescience; apravṛittiḥ—inertia; cha—and; pramādaḥ—negligence; mohaḥ—delusion; eva—indeed; cha—also; tamasi—mode of ignorance; etāni—these; jāyante—manifest; vivṛiddhe—when dominates; kuru-nandana—the joy of the Kurus, Arjun\n",
-            "audio_number": 13
+            "audio_number": 13,
+            "verse_id": 530
         },
         {
             "chapter_number": 14,
@@ -4941,7 +5471,8 @@ const data = {
             "transliteration": "yadā sattve pravṛiddhe tu pralayaṁ yāti deha-bhṛit\ntadottama-vidāṁ lokān amalān pratipadyate\n",
             "verse_number": 14,
             "word_meanings": "yadā—when; sattve—in the mode of goodness; pravṛiddhe—when premodinates; tu—indeed; pralayam—death; yāti—reach; deha-bhṛit—the embodied; tadā—then; uttama-vidām—of the learned; lokān—abodes; amalān—pure; pratipadyate—attains;\n",
-            "audio_number": 14
+            "audio_number": 14,
+            "verse_id": 531
         },
         {
             "chapter_number": 14,
@@ -4950,7 +5481,8 @@ const data = {
             "transliteration": "rajasi pralayaṁ gatvā karma-saṅgiṣhu jāyate\ntathā pralīnas tamasi mūḍha-yoniṣhu jāyate\n",
             "verse_number": 15,
             "word_meanings": "rajasi—in the mode of passion; pralayam—death; gatvā—attaining; karma-saṅgiṣhu—among people driven by work; jāyate—are born; tathā—likewise; pralīnaḥ—dying; tamasi—in the mode of ignorance; mūḍha-yoniṣhu—in the animal kingdom; jāyate—takes birth\n",
-            "audio_number": 15
+            "audio_number": 15,
+            "verse_id": 532
         },
         {
             "chapter_number": 14,
@@ -4959,7 +5491,8 @@ const data = {
             "transliteration": "karmaṇaḥ sukṛitasyāhuḥ sāttvikaṁ nirmalaṁ phalam\nrajasas tu phalaṁ duḥkham ajñānaṁ tamasaḥ phalam\n\n",
             "verse_number": 16,
             "word_meanings": "karmaṇaḥ—of action; su-kṛitasya—pure; āhuḥ—is said; sāttvikam—mode of goodness; nirmalam—pure; phalam—result; rajasaḥ—mode of passion; tu—indeed; phalam—result; duḥkham—pain; ajñānam—ignorance; tamasaḥ—mode of ignorance; phalam—result\n",
-            "audio_number": 16
+            "audio_number": 16,
+            "verse_id": 533
         },
         {
             "chapter_number": 14,
@@ -4968,7 +5501,8 @@ const data = {
             "transliteration": "sattvāt sañjāyate jñānaṁ rajaso lobha eva cha\npramāda-mohau tamaso bhavato ’jñānam eva cha\n",
             "verse_number": 17,
             "word_meanings": "sattvāt—from the mode of goodness; sañjāyate—arises; jñānam—knowledge; rajasaḥ—from the mode of passion; lobhaḥ—greed; eva—indeed; cha—and; pramāda—negligence; mohau—delusion; tamasaḥ—from the mode of ignorance; bhavataḥ—arise; ajñānam—ignorance; eva—indeed; cha—and\n",
-            "audio_number": 17
+            "audio_number": 17,
+            "verse_id": 534
         },
         {
             "chapter_number": 14,
@@ -4977,7 +5511,8 @@ const data = {
             "transliteration": "ūrdhvaṁ gachchhanti sattva-sthā madhye tiṣhṭhanti rājasāḥ\njaghanya-guṇa-vṛitti-sthā adho gachchhanti tāmasāḥ\n",
             "verse_number": 18,
             "word_meanings": "ūrdhvam—upward; gachchhanti—rise; sattva-sthāḥ—those situated in the mode of goodness; madhye—in the middle; tiṣhṭhanti—stay; rājasāḥ—those in the mode of passion; jaghanya—abominable; guṇa—quality; vṛitti-sthāḥ—engaged in activities; adhaḥ—down; gachchhanti—go; tāmasāḥ—those in the mode of ignorance\n",
-            "audio_number": 18
+            "audio_number": 18,
+            "verse_id": 535
         },
         {
             "chapter_number": 14,
@@ -4986,7 +5521,8 @@ const data = {
             "transliteration": "nānyaṁ guṇebhyaḥ kartāraṁ yadā draṣhṭānupaśhyati\nguṇebhyaśh cha paraṁ vetti mad-bhāvaṁ so ’dhigachchhati\n",
             "verse_number": 19,
             "word_meanings": "na—no; anyam—other; guṇebhyaḥ—of the guṇas; kartāram—agents of action; yadā—when; draṣhṭā—the seer; anupaśhyati—see; guṇebhyaḥ—to the modes of nature; cha—and; param—transcendental; vetti—know; mat-bhāvam—my divine nature; saḥ—they; adhigachchhati—attain\n",
-            "audio_number": 19
+            "audio_number": 19,
+            "verse_id": 536
         },
         {
             "chapter_number": 14,
@@ -4995,7 +5531,8 @@ const data = {
             "transliteration": "guṇān etān atītya trīn dehī deha-samudbhavān\njanma-mṛityu-jarā-duḥkhair vimukto ’mṛitam aśhnute\n",
             "verse_number": 20,
             "word_meanings": "guṇān—the three modes of material nature; etān—these; atītya—transcending; trīn—three; dehī—the embodied; deha—body; samudbhavān—produced of; janma—birth; mṛityu—death; jarā—old age; duḥkhaiḥ—misery; vimuktaḥ—freed from; amṛitam—immortality; aśhnute—attains\n",
-            "audio_number": 20
+            "audio_number": 20,
+            "verse_id": 537
         },
         {
             "chapter_number": 14,
@@ -5004,7 +5541,8 @@ const data = {
             "transliteration": "arjuna uvācha\nkair liṅgais trīn guṇān etān atīto bhavati prabho\nkim āchāraḥ kathaṁ chaitāns trīn guṇān ativartate\n",
             "verse_number": 21,
             "word_meanings": "arjunaḥ uvācha—Arjun inquired; kaiḥ—by what; liṅgaiḥ—symptoms; trīn—three; guṇān—modes of material nature; etān—these; atītaḥ—having transcended; bhavati—is; prabho—Lord; kim—what; āchāraḥ—conduct; katham—how; cha—and; etān—these; trīn—three; guṇān—modes of material nature; ativartate—transcend\n",
-            "audio_number": 21
+            "audio_number": 21,
+            "verse_id": 538
         },
         {
             "chapter_number": 14,
@@ -5013,7 +5551,8 @@ const data = {
             "transliteration": "śhrī-bhagavān uvācha\nprakāśhaṁ cha pravṛittiṁ cha moham eva cha pāṇḍava\nna dveṣhṭi sampravṛittāni na nivṛittāni kāṅkṣhati\n\n",
             "verse_number": 22,
             "word_meanings": "śhrī-bhagavān uvācha—the Supreme Divine Personality said; prakāśham—illumination; cha—and; pravṛittim—activity; cha—and; moham—delusion; eva—even; cha—and; pāṇḍava—Arjun, the son of Pandu; na dveṣhṭi—do not hate; sampravṛittāni—when present; na—nor; nivṛittāni—when absent; kāṅkṣhati—longs;\n",
-            "audio_number": 22
+            "audio_number": 22,
+            "verse_id": 539
         },
         {
             "chapter_number": 14,
@@ -5022,7 +5561,8 @@ const data = {
             "transliteration": "udāsīna-vad āsīno guṇair yo na vichālyate\nguṇā vartanta ity evaṁ yo ’vatiṣhṭhati neṅgate\n",
             "verse_number": 23,
             "word_meanings": "udāsīna-vat—neutral; āsīnaḥ—situated; guṇaiḥ—to the modes of material nature; yaḥ—who; na—not; vichālyate—are disturbed; guṇāḥ—modes of material nature; vartante—act; iti-evam—knowing it in this way; yaḥ—who; avatiṣhṭhati—established in the self; na—not; iṅgate—wavering\n",
-            "audio_number": 22
+            "audio_number": 22,
+            "verse_id": 540
         },
         {
             "chapter_number": 14,
@@ -5031,7 +5571,8 @@ const data = {
             "transliteration": "sama-duḥkha-sukhaḥ sva-sthaḥ sama-loṣhṭāśhma-kāñchanaḥ\ntulya-priyāpriyo dhīras tulya-nindātma-sanstutiḥ\n",
             "verse_number": 24,
             "word_meanings": "sama—alike; duḥkha—distress; sukhaḥ—happiness; sva-sthaḥ—established in the self; sama—equally; loṣhṭa—a clod; aśhma—stone; kāñchanaḥ—gold; tulya—of equal value; priya—pleasant; apriyaḥ—unpleasant; dhīraḥ—steady; tulya—the same; nindā—blame; ātma-sanstutiḥ—praise;\n",
-            "audio_number": 22
+            "audio_number": 22,
+            "verse_id": 541
         },
         {
             "chapter_number": 14,
@@ -5040,7 +5581,8 @@ const data = {
             "transliteration": "mānāpamānayos tulyas tulyo mitrāri-pakṣhayoḥ\nsarvārambha-parityāgī guṇātītaḥ sa uchyate\n",
             "verse_number": 25,
             "word_meanings": "māna—honor; apamānayoḥ—dishonor; tulyaḥ—equal; tulyaḥ—equal; mitra—friend; ari—foe; pakṣhayoḥ—to the parties; sarva—all; ārambha—enterprises; parityāgī—renouncer; guṇa-atītaḥ—risen above the three modes of material nature; saḥ—they; uchyate—are said to have\n",
-            "audio_number": 22
+            "audio_number": 22,
+            "verse_id": 542
         },
         {
             "chapter_number": 14,
@@ -5049,7 +5591,8 @@ const data = {
             "transliteration": "māṁ cha yo ’vyabhichāreṇa bhakti-yogena sevate\nsa guṇān samatītyaitān brahma-bhūyāya kalpate\n\n",
             "verse_number": 26,
             "word_meanings": "mām—me; cha—only; yaḥ—who; avyabhichāreṇa—unalloyed; bhakti-yogena—through devotion; sevate—serve; saḥ—they; guṇān—the three modes of material nature; samatītya—rise above; etān—these; brahma-bhūyāya—level of Brahman; kalpate—comes to\n",
-            "audio_number": 23
+            "audio_number": 23,
+            "verse_id": 543
         },
         {
             "chapter_number": 14,
@@ -5058,7 +5601,8 @@ const data = {
             "transliteration": "brahmaṇo hi pratiṣhṭhāham amṛitasyāvyayasya cha\nśhāśhvatasya cha dharmasya sukhasyaikāntikasya cha\n",
             "verse_number": 27,
             "word_meanings": "brahmaṇaḥ—of Brahman; hi—only; pratiṣhṭhā—the basis; aham—I; amṛitasya—of the immortal; avyayasya—of the imperishable; cha—and; śhāśhvatasya—of the eternal; cha—and; dharmasya—of the dharma; sukhasya—of bliss; aikāntikasya—unending; cha—and\n",
-            "audio_number": 24
+            "audio_number": 24,
+            "verse_id": 544
         },
         {
             "chapter_number": 15,
@@ -5067,7 +5611,8 @@ const data = {
             "transliteration": "śhrī-bhagavān uvācha\nūrdhva-mūlam adhaḥ-śhākham aśhvatthaṁ prāhur avyayam\nchhandānsi yasya parṇāni yas taṁ veda sa veda-vit\n",
             "verse_number": 1,
             "word_meanings": "śhrī-bhagavān uvācha—the Supreme Divine Personality said; ūrdhva-mūlam—with roots above; adhaḥ—downward; śhākham—branches; aśhvattham—the sacred fig tree; prāhuḥ—they speak; avyayam—eternal; chhandānsi—Vedic mantras; yasya—of which; parṇāni—leaves; yaḥ—who; tam—that; veda—knows; saḥ—he; veda-vit—the knower of the Vedas\n",
-            "audio_number": 1
+            "audio_number": 1,
+            "verse_id": 545
         },
         {
             "chapter_number": 15,
@@ -5076,7 +5621,8 @@ const data = {
             "transliteration": "adhaśh chordhvaṁ prasṛitās tasya śhākhā\nguṇa-pravṛiddhā viṣhaya-pravālāḥ\nadhaśh cha mūlāny anusantatāni\nkarmānubandhīni manuṣhya-loke\n",
             "verse_number": 2,
             "word_meanings": "adhaḥ—downward; cha—and; ūrdhvam—upward; prasṛitāḥ—extended; tasya—its; śhākhāḥ—branches; guṇa—modes of material nature; pravṛiddhāḥ—nourished; viṣhaya—objects of the senses; pravālāḥ—buds; adhaḥ—downward; cha—and; mūlāni—roots; anusantatāni—keep growing; karma—actions; anubandhīni—bound; manuṣhya-loke—in the world of humans\n",
-            "audio_number": 2
+            "audio_number": 2,
+            "verse_id": 546
         },
         {
             "chapter_number": 15,
@@ -5085,7 +5631,8 @@ const data = {
             "transliteration": "na rūpam asyeha tathopalabhyate\nnānto na chādir na cha sampratiṣhṭhā\naśhvattham enaṁ su-virūḍha-mūlam\nasaṅga-śhastreṇa dṛiḍhena chhittvā\n\n",
             "verse_number": 3,
             "word_meanings": "na—not; rūpam—form; asya—of this; iha—in this world; tathā—as such; upalabhyate—is perceived; na—neither; antaḥ—end; na—nor; cha—also; ādiḥ—beginning; na—never; cha—also; sampratiṣhṭhā—the basis; aśhvattham—sacred fig tree; enam—this; su-virūḍha-mūlam—deep-rooted; asaṅga-śhastreṇa—by the axe of detachment; dṛiḍhena—strong; chhittvā—having cut down;\n",
-            "audio_number": 3
+            "audio_number": 3,
+            "verse_id": 547
         },
         {
             "chapter_number": 15,
@@ -5094,7 +5641,8 @@ const data = {
             "transliteration": "tataḥ padaṁ tat parimārgitavyaṁ\nyasmin gatā na nivartanti bhūyaḥ\ntam eva chādyaṁ puruṣhaṁ prapadye\nyataḥ pravṛittiḥ prasṛitā purāṇī\n",
             "verse_number": 4,
             "word_meanings": "tataḥ—then; padam—place; tat—that; parimārgitavyam—one must search out; yasmin—where; gatāḥ—having gone; na—not; nivartanti—return; bhūyaḥ—again; tam—to him; eva—certainly; cha—and; ādyam—original; puruṣham—the Supreme Lord; prapadye—take refuge; yataḥ—whence; pravṛittiḥ—the activity; prasṛitā—streamed forth; purāṇi—very old\n",
-            "audio_number": 3
+            "audio_number": 3,
+            "verse_id": 548
         },
         {
             "chapter_number": 15,
@@ -5103,7 +5651,8 @@ const data = {
             "transliteration": "nirmāna-mohā jita-saṅga-doṣhā\nadhyātma-nityā vinivṛitta-kāmāḥ\ndvandvair vimuktāḥ sukha-duḥkha-sanjñair\ngachchhanty amūḍhāḥ padam avyayaṁ tat\n",
             "verse_number": 5,
             "word_meanings": "niḥ—free from; māna—vanity; mohāḥ—delusion; jita—having overcome; saṅga—attachment; doṣhāḥ—evils; adhyātma-nityāḥ—dwelling constantly in the self and God; vinivṛitta—freed from; kāmāḥ—desire to enjoy senses; dvandvaiḥ—from the dualities; vimuktāḥ—liberated; sukha-duḥkha—pleasure and pain; saṁjñaiḥ—known as; gachchhanti—attain; amūḍhāḥ—unbewildered; padam—abode; avyayam—eternal; tat—that\n",
-            "audio_number": 4
+            "audio_number": 4,
+            "verse_id": 549
         },
         {
             "chapter_number": 15,
@@ -5112,7 +5661,8 @@ const data = {
             "transliteration": "na tad bhāsayate sūryo na śhaśhāṅko na pāvakaḥ\nyad gatvā na nivartante tad dhāma paramaṁ mama\n\n",
             "verse_number": 6,
             "word_meanings": "na—neither; tat—that; bhāsayate—illumine; sūryaḥ—the sun; na—nor; śhaśhāṅkaḥ—the moon; na—nor; pāvakaḥ—fire; yat—where; gatvā—having gone; na—never; nivartante—they return; tat—that; dhāma—abode; paramam—supreme; mama—mine\n",
-            "audio_number": 5
+            "audio_number": 5,
+            "verse_id": 550
         },
         {
             "chapter_number": 15,
@@ -5121,7 +5671,8 @@ const data = {
             "transliteration": "mamaivānśho jīva-loke jīva-bhūtaḥ sanātanaḥ\nmanaḥ-ṣhaṣhṭhānīndriyāṇi prakṛiti-sthāni karṣhati\n",
             "verse_number": 7,
             "word_meanings": "mama—my; eva—only; anśhaḥ—fragmental part; jīva-loke—in the material world; jīva-bhūtaḥ—the embodied souls; sanātanaḥ—eternal; manaḥ—with the mind; ṣhaṣhṭhāni—the six; indriyāṇi—senses; prakṛiti-sthāni—bound by material nature; karṣhati—struggling\n",
-            "audio_number": 6
+            "audio_number": 6,
+            "verse_id": 551
         },
         {
             "chapter_number": 15,
@@ -5130,7 +5681,8 @@ const data = {
             "transliteration": "śharīraṁ yad avāpnoti yach chāpy utkrāmatīśhvaraḥ\ngṛihītvaitāni sanyāti vāyur gandhān ivāśhayāt\n",
             "verse_number": 8,
             "word_meanings": "śharīram—the body; yat—as; avāpnoti—carries; yat—as; cha api—also; utkrāmati—leaves; īśhvaraḥ—the Lord of the material body, the embodied soul; gṛihītvā—taking; etāni—these; sanyāti—goes away; vāyuḥ—the air; gandhān—fragrance; iva—like; āśhayāt—from seats\n",
-            "audio_number": 7
+            "audio_number": 7,
+            "verse_id": 552
         },
         {
             "chapter_number": 15,
@@ -5139,7 +5691,8 @@ const data = {
             "transliteration": "śhrotraṁ chakṣhuḥ sparśhanaṁ cha rasanaṁ ghrāṇam eva cha\nadhiṣhṭhāya manaśh chāyaṁ viṣhayān upasevate\n",
             "verse_number": 9,
             "word_meanings": "śhrotram—ears; chakṣhuḥ—eyes; sparśhanam—the sense of touch; cha—and; rasanam—tongue; ghrāṇam—nose; eva—also; cha—and; adhiṣhṭhāya—grouped around; manaḥ—mind; cha—also; ayam—they; viṣhayān—sense objects; upasevate—savors\n",
-            "audio_number": 8
+            "audio_number": 8,
+            "verse_id": 553
         },
         {
             "chapter_number": 15,
@@ -5148,7 +5701,8 @@ const data = {
             "transliteration": "utkrāmantaṁ sthitaṁ vāpi bhuñjānaṁ vā guṇānvitam\nvimūḍhā nānupaśhyanti paśhyanti jñāna-chakṣhuṣhaḥ\n",
             "verse_number": 10,
             "word_meanings": "utkrāmantam—departing; sthitam—residing; vā api—or even; bhuñjānam—enjoys; vā—or; guṇa-anvitam—under the spell of the modes of material nature; vimūḍhāḥ—the ignorant; na—not; anupaśhyanti—percieve; paśhyanti—behold; jñāna-chakṣhuṣhaḥ—those who possess the eyes of knowledge\n",
-            "audio_number": 9
+            "audio_number": 9,
+            "verse_id": 554
         },
         {
             "chapter_number": 15,
@@ -5157,7 +5711,8 @@ const data = {
             "transliteration": "yatanto yoginaśh chainaṁ paśhyanty ātmany avasthitam\nyatanto ‘py akṛitātmāno nainaṁ paśhyanty achetasaḥ\n",
             "verse_number": 11,
             "word_meanings": "yatantaḥ—striving; yoginaḥ—yogis; cha—too; enam—this (the soul); paśhyanti—see; ātmani—in the body; avasthitam—enshrined; yatantaḥ—strive; api—even though; akṛita-ātmānaḥ—those whose minds are not purified; na—not; enam—this; paśhyanti—cognize; achetasaḥ—unaware\n",
-            "audio_number": 10
+            "audio_number": 10,
+            "verse_id": 555
         },
         {
             "chapter_number": 15,
@@ -5166,7 +5721,8 @@ const data = {
             "transliteration": "yad āditya-gataṁ tejo jagad bhāsayate ’khilam\nyach chandramasi yach chāgnau tat tejo viddhi māmakam\n",
             "verse_number": 12,
             "word_meanings": "yat—which; āditya-gatam—in the sun; tejaḥ—brilliance; jagat—solar system; bhāsayate—illuminates; akhilam—entire; yat—which; chandramasi—in the moon; yat—which; cha—also; agnau—in the fire; tat—that; tejaḥ—brightness; viddhi—know; māmakam—mine\n",
-            "audio_number": 11
+            "audio_number": 11,
+            "verse_id": 556
         },
         {
             "chapter_number": 15,
@@ -5175,7 +5731,8 @@ const data = {
             "transliteration": "gām āviśhya cha bhūtāni dhārayāmy aham ojasā\npuṣhṇāmi chauṣhadhīḥ sarvāḥ somo bhūtvā rasātmakaḥ\n\n",
             "verse_number": 13,
             "word_meanings": "gām—earth; āviśhya—permeating; cha—and; bhūtāni—living beings; dhārayāmi—sustain; aham—I; ojasā—energy; puṣhṇāmi—nourish; cha—and; auṣhadhīḥ—plants; sarvāḥ—all; somaḥ—the moon; bhūtvā—becoming; rasa-ātmakaḥ—supplying the juice of life\n",
-            "audio_number": 12
+            "audio_number": 12,
+            "verse_id": 557
         },
         {
             "chapter_number": 15,
@@ -5184,7 +5741,8 @@ const data = {
             "transliteration": "ahaṁ vaiśhvānaro bhūtvā prāṇināṁ deham āśhritaḥ\nprāṇāpāna-samāyuktaḥ pachāmy annaṁ chatur-vidham\n\n",
             "verse_number": 14,
             "word_meanings": "aham—I; vaiśhvānaraḥ—fire of digestion; bhūtvā—becoming; prāṇinām—of all living beings; deham—the body; āśhritaḥ—situated; prāṇa-apāna—outgoing and incoming breath; samāyuktaḥ—keeping in balance; pachāmi—I digest; annam—foods; chatuḥ-vidham—the four kinds\n",
-            "audio_number": 13
+            "audio_number": 13,
+            "verse_id": 558
         },
         {
             "chapter_number": 15,
@@ -5193,7 +5751,8 @@ const data = {
             "transliteration": "sarvasya chāhaṁ hṛidi sanniviṣhṭo\nmattaḥ smṛitir jñānam apohanaṁ cha\nvedaiśh cha sarvair aham eva vedyo\nvedānta-kṛid veda-vid eva chāham\n\n",
             "verse_number": 15,
             "word_meanings": "sarvasya—of all living beings; cha—and; aham—I; hṛidi—in the hearts; sanniviṣhṭaḥ—seated; mattaḥ—from me; smṛitiḥ—memory; jñānam—knowledge; apohanam—forgetfulness; cha—as well as; vedaiḥ—by the Vedas; cha—and; sarvaiḥ—all; aham—I; eva—alone; vedyaḥ—to be known; vedānta-kṛit—the author of the Vedānt; veda-vit—the knower of the meaning of the Vedas; eva—alone; cha—and; aham—I\n",
-            "audio_number": 14
+            "audio_number": 14,
+            "verse_id": 559
         },
         {
             "chapter_number": 15,
@@ -5202,7 +5761,8 @@ const data = {
             "transliteration": "dvāv imau puruṣhau loke kṣharaśh chākṣhara eva cha\nkṣharaḥ sarvāṇi bhūtāni kūṭa-stho ’kṣhara uchyate\n",
             "verse_number": 16,
             "word_meanings": "dvau—two; imau—these; puruṣhau—beings; loke—in creation; kṣharaḥ—the perishable; cha—and; akṣharaḥ—the imperishable; eva—even; cha—and; kṣharaḥ—the perishable; sarvāṇi—all; bhūtāni—beings; kūṭa-sthaḥ—the liberated; akṣharaḥ—the imperishable; uchyate—is said\n",
-            "audio_number": 15
+            "audio_number": 15,
+            "verse_id": 560
         },
         {
             "chapter_number": 15,
@@ -5211,7 +5771,8 @@ const data = {
             "transliteration": "uttamaḥ puruṣhas tv anyaḥ paramātmety udāhṛitaḥ\nyo loka-trayam āviśhya bibharty avyaya īśhvaraḥ\n\n",
             "verse_number": 17,
             "word_meanings": "uttamaḥ—the Supreme; puruṣhaḥ—Divine Personality; tu—but; anyaḥ—besides; parama-ātmā—the Supreme Soul; iti—thus; udāhṛitaḥ—is said; yaḥ—who; loka trayam—the three worlds; āviśhya—enters; bibharti—supports; avyayaḥ—indestructible; īśhvaraḥ—the controller\n",
-            "audio_number": 16
+            "audio_number": 16,
+            "verse_id": 561
         },
         {
             "chapter_number": 15,
@@ -5220,7 +5781,8 @@ const data = {
             "transliteration": "yasmāt kṣharam atīto ’ham akṣharād api chottamaḥ\nato ’smi loke vede cha prathitaḥ puruṣhottamaḥ\n\n",
             "verse_number": 18,
             "word_meanings": "yasmāt—hence; kṣharam—to the perishable; atītaḥ—transcendental; aham—I; akṣharāt—to the imperishable; api—even; cha—and; uttamaḥ—transcendental; ataḥ—therefore; asmi—I am; loke—in the world; vede—in the Vedas; cha—and; prathitaḥ—celebrated; puruṣha-uttamaḥ—as the Supreme Divine Personality\n",
-            "audio_number": 17
+            "audio_number": 17,
+            "verse_id": 562
         },
         {
             "chapter_number": 15,
@@ -5229,7 +5791,8 @@ const data = {
             "transliteration": "yo mām evam asammūḍho jānāti puruṣhottamam\nsa sarva-vid bhajati māṁ sarva-bhāvena bhārata\n\n",
             "verse_number": 19,
             "word_meanings": "yaḥ—who; mām—me; evam—thus; asammūḍhaḥ—without a doubt; jānāti—know; puruṣha-uttamam—the Supreme Divine Personality; saḥ—they; sarva-vit—those with complete knowledge; bhajati—worship; mām—me; sarva-bhāvena—with one’s whole being; bhārata—Arjun, the son of Bharat\n",
-            "audio_number": 18
+            "audio_number": 18,
+            "verse_id": 563
         },
         {
             "chapter_number": 15,
@@ -5238,7 +5801,8 @@ const data = {
             "transliteration": "iti guhyatamaṁ śhāstram idam uktaṁ mayānagha\netad buddhvā buddhimān syāt kṛita-kṛityaśh cha bhārata\n",
             "verse_number": 20,
             "word_meanings": "iti—these; guhya-tamam—most secret; śhāstram—Vedic scriptures; idam—this; uktam—spoken; mayā—by me; anagha—Arjun, the sinless one; etat—this; buddhvā—understanding; buddhi-mān—enlightened; syāt—one becomes; kṛita-kṛityaḥ—who fulfills all that is to be accomplished; cha—and; bhārata—Arjun, the son of Bharat\n",
-            "audio_number": 19
+            "audio_number": 19,
+            "verse_id": 564
         },
         {
             "chapter_number": 16,
@@ -5247,7 +5811,8 @@ const data = {
             "transliteration": "śhrī-bhagavān uvācha\nabhayaṁ sattva-sanśhuddhir jñāna-yoga-vyavasthitiḥ\ndānaṁ damaśh cha yajñaśh cha svādhyāyas tapa ārjavam\n",
             "verse_number": 1,
             "word_meanings": "śhrī-bhagavān uvācha—the Supreme Divine Personality said; abhayam—fearlessness; sattva-sanśhuddhiḥ—purity of mind; jñāna—knowledge; yoga—spiritual; vyavasthitiḥ—steadfastness; dānam—charity; damaḥ—control of the senses; cha—and; yajñaḥ—performance of sacrifice; cha—and; svādhyāyaḥ—study of sacred books; tapaḥ—austerity; ārjavam—straightforwardness;\n",
-            "audio_number": 1
+            "audio_number": 1,
+            "verse_id": 565
         },
         {
             "chapter_number": 16,
@@ -5256,7 +5821,8 @@ const data = {
             "transliteration": "ahinsā satyam akrodhas tyāgaḥ śhāntir apaiśhunam\ndayā bhūteṣhv aloluptvaṁ mārdavaṁ hrīr achāpalam\n",
             "verse_number": 2,
             "word_meanings": "ahinsā—non-violence; satyam—truthfulness; akrodhaḥ—absence of anger; tyāgaḥ—renunciation; śhāntiḥ—peacefulness; apaiśhunam—restraint from fault-finding; dayā—compassion; bhūteṣhu—toward all living beings; aloluptvam—absence of covetousness; mārdavam—gentleness; hrīḥ—modesty; achāpalam—lack of fickleness;\n",
-            "audio_number": 1
+            "audio_number": 1,
+            "verse_id": 566
         },
         {
             "chapter_number": 16,
@@ -5265,7 +5831,8 @@ const data = {
             "transliteration": "tejaḥ kṣhamā dhṛitiḥ śhaucham adroho nāti-mānitā\nbhavanti sampadaṁ daivīm abhijātasya bhārata\n",
             "verse_number": 3,
             "word_meanings": "tejaḥ—vigor; kṣhamā—forgiveness; dhṛitiḥ—fortitude; śhaucham—cleanliness; adrohaḥ—bearing enmity toward none; na—not; ati-mānitā—absence of vanity; bhavanti—are; sampadam—qualities; daivīm—godly; abhijātasya—of those endowed with; bhārata—scion of Bharat\n",
-            "audio_number": 1
+            "audio_number": 1,
+            "verse_id": 567
         },
         {
             "chapter_number": 16,
@@ -5274,7 +5841,8 @@ const data = {
             "transliteration": "dambho darpo ’bhimānaśh cha krodhaḥ pāruṣhyam eva cha\najñānaṁ chābhijātasya pārtha sampadam āsurīm\n",
             "verse_number": 4,
             "word_meanings": "dambhaḥ—hypocrisy; darpaḥ—arrogance; abhimānaḥ—conceit; cha—and; krodhaḥ—anger; pāruṣhyam—harshness; eva—certainly; cha—and; ajñānam—ignorance; cha—and; abhijātasya—of those who possess; pārtha—Arjun, the son of Pritha; sampadam—qualities; āsurīm—demoniac\n",
-            "audio_number": 2
+            "audio_number": 2,
+            "verse_id": 568
         },
         {
             "chapter_number": 16,
@@ -5283,7 +5851,8 @@ const data = {
             "transliteration": "daivī sampad vimokṣhāya nibandhāyāsurī matā\nmā śhuchaḥ sampadaṁ daivīm abhijāto ’si pāṇḍava\n",
             "verse_number": 5,
             "word_meanings": "daivī—divine; sampat—qualities; vimokṣhāya—toward liberation; nibandhāya—to bondage; āsurī—demoniac qualities; matā—are considered; mā—do not; śhuchaḥ—grieve; sampadam—virtues; daivīm—saintly; abhijātaḥ—born; asi—you are; pāṇḍava—Arjun, the son of Pandu\n",
-            "audio_number": 3
+            "audio_number": 3,
+            "verse_id": 569
         },
         {
             "chapter_number": 16,
@@ -5292,7 +5861,8 @@ const data = {
             "transliteration": "dvau bhūta-sargau loke ’smin daiva āsura eva cha\ndaivo vistaraśhaḥ prokta āsuraṁ pārtha me śhṛiṇu\n",
             "verse_number": 6,
             "word_meanings": "dvau—two; bhūta-sargau—of created living beings; loke—in the world; asmin—this; daivaḥ—divine; āsuraḥ—demoniac; eva—certainly; cha—and; daivaḥ—the divine; vistaraśhaḥ—at great length; proktaḥ—said; āsuram—the demoniac; pārtha—Arjun, the son of Pritha; me—from me; śhṛiṇu—hear\n",
-            "audio_number": 4
+            "audio_number": 4,
+            "verse_id": 570
         },
         {
             "chapter_number": 16,
@@ -5301,7 +5871,8 @@ const data = {
             "transliteration": "pravṛittiṁ cha nivṛittiṁ cha janā na vidur āsurāḥ\nna śhauchaṁ nāpi chāchāro na satyaṁ teṣhu vidyate\n",
             "verse_number": 7,
             "word_meanings": "pravṛittim—proper actions; cha—and; nivṛittim—improper actions; cha—and; janāḥ—persons; na—not; viduḥ—comprehend; āsurāḥ—those possessing demoniac nature; na—neither; śhaucham—purity; na—nor; api—even; cha—and; āchāraḥ—conduct; na—nor; satyam—truthfulness; teṣhu—in them; vidyate—exist\n",
-            "audio_number": 5
+            "audio_number": 5,
+            "verse_id": 571
         },
         {
             "chapter_number": 16,
@@ -5310,7 +5881,8 @@ const data = {
             "transliteration": "asatyam apratiṣhṭhaṁ te jagad āhur anīśhvaram\naparaspara-sambhūtaṁ kim anyat kāma-haitukam\n",
             "verse_number": 8,
             "word_meanings": "asatyam—without absolute truth; apratiṣhṭham—without any basis; te—they; jagat—the world; āhuḥ—say; anīśhvaram—without a God; aparaspara—without cause; sambhūtam—created; kim—what; anyat—other; kāma-haitukam—for sexual gratification only\n",
-            "audio_number": 6
+            "audio_number": 6,
+            "verse_id": 572
         },
         {
             "chapter_number": 16,
@@ -5319,7 +5891,8 @@ const data = {
             "transliteration": "etāṁ dṛiṣhṭim avaṣhṭabhya naṣhṭātmāno ’lpa-buddhayaḥ\nprabhavanty ugra-karmāṇaḥ kṣhayāya jagato ’hitāḥ\n",
             "verse_number": 9,
             "word_meanings": "etām—such; dṛiṣhṭim—views; avaṣhṭabhya—holding; naṣhṭa—misdirected; ātmānaḥ—souls; alpa-buddhayaḥ—of small intellect; prabhavanti—arise; ugra—cruel; karmāṇaḥ—actions; kṣhayāya—destruction; jagataḥ—of the world; ahitāḥ—enemies\n",
-            "audio_number": 7
+            "audio_number": 7,
+            "verse_id": 573
         },
         {
             "chapter_number": 16,
@@ -5328,7 +5901,8 @@ const data = {
             "transliteration": "kāmam āśhritya duṣhpūraṁ dambha-māna-madānvitāḥ\nmohād gṛihītvāsad-grāhān pravartante ’śhuchi-vratāḥ\n",
             "verse_number": 10,
             "word_meanings": "kāmam—lust; āśhritya—harboring; duṣhpūram—insatiable; dambha—hypocrisy; māna—arrogance; mada-anvitāḥ—clinging to false tenets; mohāt—the illusioned; gṛihītvā—being attracted to; asat—impermanent; grāhān—things; pravartante—they flourish; aśhuchi-vratāḥ—with impure resolve\n",
-            "audio_number": 8
+            "audio_number": 8,
+            "verse_id": 574
         },
         {
             "chapter_number": 16,
@@ -5337,7 +5911,8 @@ const data = {
             "transliteration": "chintām aparimeyāṁ cha pralayāntām upāśhritāḥ\nkāmopabhoga-paramā etāvad iti niśhchitāḥ\n",
             "verse_number": 11,
             "word_meanings": "chintām—anxieties; aparimeyām—endless; cha—and; pralaya-antām—until death; upāśhritāḥ—taking refuge; kāma-upabhoga—gratification of desires; paramāḥ—the purpose of life; etāvat—still; iti—thus; niśhchitāḥ—with complete assurance\n",
-            "audio_number": 9
+            "audio_number": 9,
+            "verse_id": 575
         },
         {
             "chapter_number": 16,
@@ -5346,7 +5921,8 @@ const data = {
             "transliteration": "āśhā-pāśha-śhatair baddhāḥ kāma-krodha-parāyaṇāḥ\nīhante kāma-bhogārtham anyāyenārtha-sañchayān\n",
             "verse_number": 12,
             "word_meanings": "āśhā-pāśha—bondage of desires; śhataiḥ—by hundreds; baddhāḥ—bound; kāma—lust; krodha—anger; parāyaṇāḥ—dedicated to; īhante—strive; kāma—lust; bhoga—gratification of the senses; artham—for; anyāyena—by unjust means; artha—wealth; sañchayān—to accumulate\n",
-            "audio_number": 9
+            "audio_number": 9,
+            "verse_id": 576
         },
         {
             "chapter_number": 16,
@@ -5355,7 +5931,8 @@ const data = {
             "transliteration": "idam adya mayā labdham imaṁ prāpsye manoratham\nidam astīdam api me bhaviṣhyati punar dhanam\n",
             "verse_number": 13,
             "word_meanings": "idam—this; adya—today; mayā—by me; labdham—gained; imam—this; prāpsye—I shall acquire; manaḥ-ratham—desire; idam—this; asti—is; idam—this; api—also; me—mine; bhaviṣhyati—in future; punaḥ—again; dhanam—wealth;\n",
-            "audio_number": 10
+            "audio_number": 10,
+            "verse_id": 577
         },
         {
             "chapter_number": 16,
@@ -5364,7 +5941,8 @@ const data = {
             "transliteration": "asau mayā hataḥ śhatrur haniṣhye chāparān api\nīśhvaro ’ham ahaṁ bhogī siddho ’haṁ balavān sukhī\n",
             "verse_number": 14,
             "word_meanings": "asau—that; mayā—by me; hataḥ—has been destroyed; śhatruḥ—enemy; haniṣhye—I shall destroy; cha—and; aparān—others; api—also; īśhvaraḥ—God; aham—I; aham—I; bhogī—the enjoyer; siddhaḥ—powerful; aham—I; bala-vān—powerful; sukhī—happy;\n",
-            "audio_number": 10
+            "audio_number": 10,
+            "verse_id": 578
         },
         {
             "chapter_number": 16,
@@ -5373,7 +5951,8 @@ const data = {
             "transliteration": "āḍhyo ’bhijanavān asmi ko ’nyo ’sti sadṛiśho mayā\nyakṣhye dāsyāmi modiṣhya ity ajñāna-vimohitāḥ\n aneka-chitta-vibhrāntā moha-jāla-samāvṛitāḥ\nprasaktāḥ kāma-bhogeṣhu patanti narake ’śhuchau\n",
             "verse_number": 15,
             "word_meanings": "āḍhyaḥ—wealthy; abhijana-vān—having highly placed relatives; asmi—me; kaḥ—who; anyaḥ—else; asti—is; sadṛiśhaḥ—like; mayā—to me; yakṣhye—I shall perform sacrifices; dāsyāmi—I shall give alms; modiṣhye—I shall rejoice; iti—thus; ajñāna—ignorance; vimohitāḥ—deluded\n aneka—many; chitta—imaginings; vibhrāntāḥ—led astray; moha—delusion; jāla—mesh; samāvṛitāḥ—enveloped; prasaktāḥ—addicted; kāma-bhogeṣhu—gratification of sensuous pleasures; patanti—descend; narake—to hell; aśhuchau—murky\n",
-            "audio_number": 10
+            "audio_number": 10,
+            "verse_id": 579
         },
         {
             "chapter_number": 16,
@@ -5382,7 +5961,8 @@ const data = {
             "transliteration": "ātma-sambhāvitāḥ stabdhā dhana-māna-madānvitāḥ\nyajante nāma-yajñais te dambhenāvidhi-pūrvakam\n",
             "verse_number": 17,
             "word_meanings": "ātma-sambhāvitāḥ—self-conceited; stabdhāḥ—stubborn; dhana—wealth; māna—pride; mada—arrogance; anvitāḥ—full of; yajante—perform sacrifice; nāma—in name only; yajñaiḥ—sacrifices; te—they; dambhena—ostentatiously; avidhi-pūrvakam—with no regards to the rules of the scriptures\n",
-            "audio_number": 12
+            "audio_number": 12,
+            "verse_id": 580
         },
         {
             "chapter_number": 16,
@@ -5391,7 +5971,8 @@ const data = {
             "transliteration": "ahankāraṁ balaṁ darpaṁ kāmaṁ krodhaṁ cha sanśhritāḥ\nmām ātma-para-deheṣhu pradviṣhanto ’bhyasūyakāḥ\n",
             "verse_number": 18,
             "word_meanings": "ahankāram—egotism; balam—strength; darpam—arrogance; kāmam—desire; krodham—anger; cha—and; sanśhritāḥ—covered by; mām—me; ātma-para-deheṣhu—within one’s own and bodies of others; pradviṣhantaḥ—abuse; abhyasūyakāḥ—the demoniac\n",
-            "audio_number": 13
+            "audio_number": 13,
+            "verse_id": 581
         },
         {
             "chapter_number": 16,
@@ -5400,7 +5981,8 @@ const data = {
             "transliteration": "tān ahaṁ dviṣhataḥ krūrān sansāreṣhu narādhamān\nkṣhipāmy ajasram aśhubhān āsurīṣhv eva yoniṣhu\n",
             "verse_number": 19,
             "word_meanings": "tān—these; aham—I; dviṣhataḥ—hateful; krūrān—cruel; sansāreṣhu—in the material world; nara-adhamān—the vile and vicious of humankind; kṣhipāmi—I hurl; ajasram—again and again; aśhubhān—inauspicious; āsurīṣhu—demoniac; eva—indeed; yoniṣhu—in to the wombs;\n",
-            "audio_number": 14
+            "audio_number": 14,
+            "verse_id": 582
         },
         {
             "chapter_number": 16,
@@ -5409,7 +5991,8 @@ const data = {
             "transliteration": "āsurīṁ yonim āpannā mūḍhā janmani janmani\nmām aprāpyaiva kaunteya tato yānty adhamāṁ gatim\n",
             "verse_number": 20,
             "word_meanings": "āsurīm—demoniac; yonim—wombs; āpannāḥ—gaining; mūḍhāḥ—the ignorant; janmani janmani—in birth after birth; mām—me; aprāpya—failing to reach; eva—even; kaunteya—Arjun, the son of Kunti; tataḥ—thereafter; yānti—go; adhamām—abominable; gatim—destination\n",
-            "audio_number": 15
+            "audio_number": 15,
+            "verse_id": 583
         },
         {
             "chapter_number": 16,
@@ -5418,7 +6001,8 @@ const data = {
             "transliteration": "tri-vidhaṁ narakasyedaṁ dvāraṁ nāśhanam ātmanaḥ\nkāmaḥ krodhas tathā lobhas tasmād etat trayaṁ tyajet\n",
             "verse_number": 21,
             "word_meanings": "tri-vidham—three types of; narakasya—to the hell; idam—this; dvāram—gates; nāśhanam—destruction; ātmanaḥ—self; kāmaḥ—lust; krodhaḥ—anger; tathā—and; lobhaḥ—greed; tasmāt—therefore; etat—these; trayam—three; tyajet—should abandon\n",
-            "audio_number": 16
+            "audio_number": 16,
+            "verse_id": 584
         },
         {
             "chapter_number": 16,
@@ -5427,7 +6011,8 @@ const data = {
             "transliteration": "etair vimuktaḥ kaunteya tamo-dvārais tribhir naraḥ\nācharaty ātmanaḥ śhreyas tato yāti parāṁ gatim\n",
             "verse_number": 22,
             "word_meanings": "etaiḥ—from this; vimuktaḥ—freed; kaunteya—Arjun, the son of Kunti; tamaḥ-dvāraiḥ—gates to darkness; tribhiḥ—three; naraḥ—a person; ācharati—endeavor; ātmanaḥ—soul; śhreyaḥ—welfare; tataḥ—thereby; yāti—attain; parām—supreme; gatim—goal\n",
-            "audio_number": 17
+            "audio_number": 17,
+            "verse_id": 585
         },
         {
             "chapter_number": 16,
@@ -5436,7 +6021,8 @@ const data = {
             "transliteration": "yaḥ śhāstra-vidhim utsṛijya vartate kāma-kārataḥ\nna sa siddhim avāpnoti na sukhaṁ na parāṁ gatim\n",
             "verse_number": 23,
             "word_meanings": "yaḥ—who; śhāstra-vidhim—scriptural injunctions; utsṛijya—discarding; vartate—act; kāma-kārataḥ—under the impulse of desire; na—neither; saḥ—they; siddhim—perfection; avāpnoti—attain; na—nor; sukham—happiness; na—nor; parām—the supreme; gatim—goal\n",
-            "audio_number": 18
+            "audio_number": 18,
+            "verse_id": 586
         },
         {
             "chapter_number": 16,
@@ -5445,7 +6031,8 @@ const data = {
             "transliteration": "tasmāch chhāstraṁ pramāṇaṁ te kāryākārya-vyavasthitau\njñātvā śhāstra-vidhānoktaṁ karma kartum ihārhasi\n",
             "verse_number": 24,
             "word_meanings": "tasmāt—therefore; śhāstram—scriptures; pramāṇam—authority; te—your; kārya—duty; akārya—forbidden action; vyavasthitau—in determining; jñātvā—having understood; śhāstra—scriptures; vidhāna—injunctions; uktam—as revealed; karma—actions; kartum—perform; iha—in this world; arhasi—you should\n",
-            "audio_number": 19
+            "audio_number": 19,
+            "verse_id": 587
         },
         {
             "chapter_number": 17,
@@ -5454,7 +6041,8 @@ const data = {
             "transliteration": "arjuna uvācha\nye śhāstra-vidhim utsṛijya yajante śhraddhayānvitāḥ\nteṣhāṁ niṣhṭhā tu kā kṛiṣhṇa sattvam āho rajas tamaḥ\n",
             "verse_number": 1,
             "word_meanings": "arjunaḥ uvācha—Arjun said; ye—who; śhāstra-vidhim—scriptural injunctions; utsṛijya—disregard; yajante—worship; śhraddhayā-anvitāḥ—with faith; teṣhām—their; niṣhṭhā—faith; tu—indeed; kā—what; kṛiṣhṇa—Krishna; sattvam—mode of goodness; āho—or; rajaḥ—mode of passion; tamaḥ—mode of ignorance\n",
-            "audio_number": 1
+            "audio_number": 1,
+            "verse_id": 588
         },
         {
             "chapter_number": 17,
@@ -5463,7 +6051,8 @@ const data = {
             "transliteration": "śhrī-bhagavān uvācha\ntri-vidhā bhavati śhraddhā dehināṁ sā svabhāva-jā\nsāttvikī rājasī chaiva tāmasī cheti tāṁ śhṛiṇu\n",
             "verse_number": 2,
             "word_meanings": "śhrī-bhagavān uvācha—the Supreme Personality said; tri-vidhā—of three kinds; bhavati—is; śhraddhā—faith; dehinām—embodied beings; sā—which; sva-bhāva-jā—born of one’s innate nature; sāttvikī—of the mode of goodness; rājasī—of the mode of passion; cha—and; eva—certainly; tāmasī—of the mode of ignorance; cha—and; iti—thus; tām—about this; śhṛiṇu—hear\n",
-            "audio_number": 2
+            "audio_number": 2,
+            "verse_id": 589
         },
         {
             "chapter_number": 17,
@@ -5472,7 +6061,8 @@ const data = {
             "transliteration": "sattvānurūpā sarvasya śhraddhā bhavati bhārata\nśhraddhā-mayo ‘yaṁ puruṣho yo yach-chhraddhaḥ sa eva saḥ\n",
             "verse_number": 3,
             "word_meanings": "sattva-anurūpā—conforming to the nature of one’s mind; sarvasya—all; śhraddhā—faith; bhavati—is; bhārata—Arjun, the scion of Bharat; śhraddhāmayaḥ—possessing faith; ayam—that; puruṣhaḥ—human being; yaḥ—who; yat-śhraddhaḥ—whatever the nature of their faith; saḥ—their; eva—verily; saḥ—they\n",
-            "audio_number": 3
+            "audio_number": 3,
+            "verse_id": 590
         },
         {
             "chapter_number": 17,
@@ -5481,7 +6071,8 @@ const data = {
             "transliteration": "yajante sāttvikā devān yakṣha-rakṣhānsi rājasāḥ\npretān bhūta-gaṇānśh chānye yajante tāmasā janāḥ\n",
             "verse_number": 4,
             "word_meanings": "yajante—worship; sāttvikāḥ—those in the mode of goodness; devān—celestial gods; yakṣha—semi-celestial beings who exude power and wealth; rakṣhānsi—powerful beings who embody sensual enjoyment, revenge, and wrath; rājasāḥ—those in the mode of passion; pretān-bhūta-gaṇān—ghosts and spirits; cha—and; anye—others; yajante—worship; tāmasāḥ—those in the mode of ignorance; janāḥ—persons\n",
-            "audio_number": 4
+            "audio_number": 4,
+            "verse_id": 591
         },
         {
             "chapter_number": 17,
@@ -5490,7 +6081,8 @@ const data = {
             "transliteration": "aśhāstra-vihitaṁ ghoraṁ tapyante ye tapo janāḥ\ndambhāhankāra-sanyuktāḥ kāma-rāga-balānvitāḥ\n",
             "verse_number": 5,
             "word_meanings": "aśhāstra-vihitam—not enjoined by the scriptures; ghoram—stern; tapyante—perform; ye—who; tapaḥ—austerities; janāḥ—people; dambha—hypocrisy; ahankāra—egotism; sanyuktāḥ—possessed of; kāma—desire; rāga—attachment; bala—force; anvitāḥ—impelled by;\n",
-            "audio_number": 5
+            "audio_number": 5,
+            "verse_id": 592
         },
         {
             "chapter_number": 17,
@@ -5499,7 +6091,8 @@ const data = {
             "transliteration": "karṣhayantaḥ śharīra-sthaṁ bhūta-grāmam achetasaḥ\nmāṁ chaivāntaḥ śharīra-sthaṁ tān viddhy āsura-niśhchayān\n",
             "verse_number": 6,
             "word_meanings": "karṣhayantaḥ—torment; śharīra-stham—within the body; bhūta-grāmam—elements of the body; achetasaḥ—senseless; mām—me; cha—and; eva—even; antaḥ—within; śharīra-stham—dwelling in the body; tān—them; viddhi—know; āsura-niśhchayān—of demoniacal resolves\n",
-            "audio_number": 5
+            "audio_number": 5,
+            "verse_id": 593
         },
         {
             "chapter_number": 17,
@@ -5508,7 +6101,8 @@ const data = {
             "transliteration": "āhāras tv api sarvasya tri-vidho bhavati priyaḥ\nyajñas tapas tathā dānaṁ teṣhāṁ bhedam imaṁ śhṛiṇu\n",
             "verse_number": 7,
             "word_meanings": "āhāraḥ—food; tu—indeed; api—even; sarvasya—of all; tri-vidhaḥ—of three kinds; bhavati—is; priyaḥ—dear; yajñaḥ—sacrifice; tapaḥ—austerity; tathā—and; dānam—charity; teṣhām—of them; bhedam—distinctions; imam—this; śhṛiṇu—hear\n",
-            "audio_number": 6
+            "audio_number": 6,
+            "verse_id": 594
         },
         {
             "chapter_number": 17,
@@ -5517,7 +6111,8 @@ const data = {
             "transliteration": "āyuḥ-sattva-balārogya-sukha-prīti-vivardhanāḥ\nrasyāḥ snigdhāḥ sthirā hṛidyā āhārāḥ sāttvika-priyāḥ\n",
             "verse_number": 8,
             "word_meanings": "āyuḥ sattva—which promote longevity; bala—strength; ārogya—health; sukha—happiness; prīti—satisfaction; vivardhanāḥ—increase; rasyāḥ—juicy; snigdhāḥ—succulent; sthirāḥ—nourishing; hṛidyāḥ—pleasing to the heart; āhārāḥ—food; sāttvika-priyāḥ—dear to those in the mode of goodness\n",
-            "audio_number": 7
+            "audio_number": 7,
+            "verse_id": 595
         },
         {
             "chapter_number": 17,
@@ -5526,7 +6121,8 @@ const data = {
             "transliteration": "kaṭv-amla-lavaṇāty-uṣhṇa- tīkṣhṇa-rūkṣha-vidāhinaḥ\nāhārā rājasasyeṣhṭā duḥkha-śhokāmaya-pradāḥ\n",
             "verse_number": 9,
             "word_meanings": "kaṭu—bitter; amla—sour; lavaṇa—salty; ati-uṣhṇa—very hot; tīkṣhṇa—pungent; rūkṣha—dry; vidāhinaḥ—chiliful; āhārāḥ—food; rājasasya—to persons in the mode of passion; iṣhṭāḥ—dear; duḥkha—pain; śhoka—grief; āmaya—disease; pradāḥ—produce\n",
-            "audio_number": 7
+            "audio_number": 7,
+            "verse_id": 596
         },
         {
             "chapter_number": 17,
@@ -5535,7 +6131,8 @@ const data = {
             "transliteration": "yāta-yāmaṁ gata-rasaṁ pūti paryuṣhitaṁ cha yat\nuchchhiṣhṭam api chāmedhyaṁ bhojanaṁ tāmasa-priyam\n",
             "verse_number": 10,
             "word_meanings": "yāta-yāmam—stale foods; gata-rasam—tasteless; pūti—putrid; paryuṣhitam—polluted; cha—and; yat—which; uchchhiṣhṭam—left over; api—also; cha—and; amedhyam—impure; bhojanam—foods; tāmasa—to persons in the mode of ignorance; priyam—dear\n",
-            "audio_number": 7
+            "audio_number": 7,
+            "verse_id": 597
         },
         {
             "chapter_number": 17,
@@ -5544,7 +6141,8 @@ const data = {
             "transliteration": "aphalākāṅkṣhibhir yajño vidhi-driṣhṭo ya ijyate\nyaṣhṭavyam eveti manaḥ samādhāya sa sāttvikaḥ\n",
             "verse_number": 11,
             "word_meanings": "aphala-ākāṅkṣhibhiḥ—without expectation of any reward; yajñaḥ—sacrifice; vidhi-driṣhṭaḥ—that is in accordance with the scriptural injunctions; yaḥ—which; ijyate—is performed; yaṣhṭavyam-eva-iti—ought to be offered; manaḥ—mind; samādhāya—with conviction; saḥ—that; sāttvikaḥ—of the nature of goodness\n",
-            "audio_number": 8
+            "audio_number": 8,
+            "verse_id": 598
         },
         {
             "chapter_number": 17,
@@ -5553,7 +6151,8 @@ const data = {
             "transliteration": "abhisandhāya tu phalaṁ dambhārtham api chaiva yat\nijyate bharata-śhreṣhṭha taṁ yajñaṁ viddhi rājasam\n",
             "verse_number": 12,
             "word_meanings": "abhisandhāya—motivated by; tu—but; phalam—the result; dambha—pride; artham—for the sake of; api—also; cha—and; eva—certainly; yat—that which; ijyate—is performed; bharata-śhreṣhṭha—Arjun, the best of the Bharatas; tam—that; yajñam—sacrifice; viddhi—know; rājasam—in the mode of passion\n",
-            "audio_number": 9
+            "audio_number": 9,
+            "verse_id": 599
         },
         {
             "chapter_number": 17,
@@ -5562,7 +6161,8 @@ const data = {
             "transliteration": "vidhi-hīnam asṛiṣhṭānnaṁ mantra-hīnam adakṣhiṇam\nśhraddhā-virahitaṁ yajñaṁ tāmasaṁ parichakṣhate\n",
             "verse_number": 13,
             "word_meanings": "vidhi-hīnam—without scriptural direction; asṛiṣhṭa-annam—without distribution of prasādam; mantra-hīnam—with no chanting of the Vedic hymns; adakṣhiṇam—with no remunerations to the priests; śhraddhā—faith; virahitam—without; yajñam—sacrifice; tāmasam—in the mode of ignorance; parichakṣhate—is to be considered\n",
-            "audio_number": 10
+            "audio_number": 10,
+            "verse_id": 600
         },
         {
             "chapter_number": 17,
@@ -5571,7 +6171,8 @@ const data = {
             "transliteration": "deva-dwija-guru-prājña- pūjanaṁ śhaucham ārjavam\nbrahmacharyam ahinsā cha śhārīraṁ tapa uchyate\n",
             "verse_number": 14,
             "word_meanings": "deva—the Supreme Lord; dwija—the Brahmins; guru—the spiritual master; prājña—the elders; pūjanam—worship; śhaucham—cleanliness; ārjavam—simplicity; brahmacharyam—celibacy; ahinsā—non-violence; cha—and; śhārīram—of the body; tapaḥ—austerity; uchyate—is declared as\n",
-            "audio_number": 11
+            "audio_number": 11,
+            "verse_id": 601
         },
         {
             "chapter_number": 17,
@@ -5580,7 +6181,8 @@ const data = {
             "transliteration": "anudvega-karaṁ vākyaṁ satyaṁ priya-hitaṁ cha yat\nsvādhyāyābhyasanaṁ chaiva vāṅ-mayaṁ tapa uchyate\n",
             "verse_number": 15,
             "word_meanings": "anudvega-karam—not causing distress; vākyam—words; satyam—truthful; priya- hitam—beneficial; cha—and; yat—which; svādhyāya-abhyasanam—recitation of the Vedic scriptures; cha eva—as well as; vāṅ-mayam—of speech; tapaḥ—austerity; uchyate—are declared as\n",
-            "audio_number": 12
+            "audio_number": 12,
+            "verse_id": 602
         },
         {
             "chapter_number": 17,
@@ -5589,7 +6191,8 @@ const data = {
             "transliteration": "manaḥ-prasādaḥ saumyatvaṁ maunam ātma-vinigrahaḥ\nbhāva-sanśhuddhir ity etat tapo mānasam uchyate\n",
             "verse_number": 16,
             "word_meanings": "manaḥ-prasādaḥ—serenity of thought; saumyatvam—gentleness; maunam—silence; ātma-vinigrahaḥ—self-control; bhāva-sanśhuddhiḥ—purity of purpose; iti—thus; etat—these; tapaḥ—austerity; mānasam—of the mind; uchyate—are declared as\n",
-            "audio_number": 13
+            "audio_number": 13,
+            "verse_id": 603
         },
         {
             "chapter_number": 17,
@@ -5598,7 +6201,8 @@ const data = {
             "transliteration": "śhraddhayā parayā taptaṁ tapas tat tri-vidhaṁ naraiḥ\naphalākāṅkṣhibhir yuktaiḥ sāttvikaṁ parichakṣhate\n",
             "verse_number": 17,
             "word_meanings": "śhraddhayā—with faith; parayā—transcendental; taptam—practiced; tapaḥ—austerity; tat—that; tri-vidham—three-fold; naraiḥ—by persons; aphala-ākāṅkṣhibhiḥ—without yearning for material rewards; yuktaiḥ—steadfast; sāttvikam—in the mode of goodness; parichakṣhate—are designated\n",
-            "audio_number": 14
+            "audio_number": 14,
+            "verse_id": 604
         },
         {
             "chapter_number": 17,
@@ -5607,7 +6211,8 @@ const data = {
             "transliteration": "satkāra-māna-pūjārthaṁ tapo dambhena chaiva yat\nkriyate tad iha proktaṁ rājasaṁ chalam adhruvam\n",
             "verse_number": 18,
             "word_meanings": "sat-kāra—respect; māna—honor; pūjā—adoration; artham—for the sake of; tapaḥ—austerity; dambhena—with ostentation; cha—also; eva—certainly; yat—which; kriyate—is performed; tat—that; iha—in this world; proktam—is said; rājasam—in the mode of passion; chalam—flickering; adhruvam—temporary\n",
-            "audio_number": 15
+            "audio_number": 15,
+            "verse_id": 605
         },
         {
             "chapter_number": 17,
@@ -5616,7 +6221,8 @@ const data = {
             "transliteration": "mūḍha-grāheṇātmano yat pīḍayā kriyate tapaḥ\nparasyotsādanārthaṁ vā tat tāmasam udāhṛitam\n",
             "verse_number": 19,
             "word_meanings": "mūḍha—those with confused notions; grāheṇa—with endeavor; ātmanaḥ—one’s own self; yat—which; pīḍayā—torturing; kriyate—is performed; tapaḥ—austerity; parasya—of others; utsādana-artham—for harming; vā—or; tat—that; tāmasam—in the mode of ignorance; udāhṛitam—is described to be\n",
-            "audio_number": 16
+            "audio_number": 16,
+            "verse_id": 606
         },
         {
             "chapter_number": 17,
@@ -5625,7 +6231,8 @@ const data = {
             "transliteration": "dātavyam iti yad dānaṁ dīyate ‘nupakāriṇe\ndeśhe kāle cha pātre cha tad dānaṁ sāttvikaṁ smṛitam\n",
             "verse_number": 20,
             "word_meanings": "dātavyam—worthy of charity; iti—thus; yat—which; dānam—charity; dīyate—is given; anupakāriṇe—to one who cannot give in return; deśhe—in the proper place; kāle—at the proper time; cha—and; pātre—to a worthy person; cha—and; tat—that; dānam—charity; sāttvikam—in the mode of goodness; smṛitam—is stated to be\n",
-            "audio_number": 17
+            "audio_number": 17,
+            "verse_id": 607
         },
         {
             "chapter_number": 17,
@@ -5634,7 +6241,8 @@ const data = {
             "transliteration": "yat tu pratyupakārārthaṁ phalam uddiśhya vā punaḥ\ndīyate cha parikliṣhṭaṁ tad dānaṁ rājasaṁ smṛitam\n",
             "verse_number": 21,
             "word_meanings": "yat—which; tu—but; prati-upakāra-artham—with the hope of a return; phalam—reward; uddiśhya—expectation; vā—or; punaḥ—again; dīyate—is given; cha—and; parikliṣhṭam—reluctantly; tat—that; dānam—charity; rājasam—in the mode of passion; smṛitam—is said to be\n",
-            "audio_number": 18
+            "audio_number": 18,
+            "verse_id": 608
         },
         {
             "chapter_number": 17,
@@ -5643,7 +6251,8 @@ const data = {
             "transliteration": "adeśha-kāle yad dānam apātrebhyaśh cha dīyate\nasat-kṛitam avajñātaṁ tat tāmasam udāhṛitam\n",
             "verse_number": 22,
             "word_meanings": "adeśha—at the wrong place; kāle—at the wrong time; yat—which; dānam—charity; apātrebhyaḥ—to unworthy persons; cha—and; dīyate—is given; asat-kṛitam—without respect; avajñātam—with contempt; tat—that; tāmasam—of the nature of nescience; udāhṛitam—is held to be\n",
-            "audio_number": 19
+            "audio_number": 19,
+            "verse_id": 609
         },
         {
             "chapter_number": 17,
@@ -5652,7 +6261,8 @@ const data = {
             "transliteration": "oṁ tat sad iti nirdeśho brahmaṇas tri-vidhaḥ smṛitaḥ\nbrāhmaṇās tena vedāśh cha yajñāśh cha vihitāḥ purā\n",
             "verse_number": 23,
             "word_meanings": "om tat sat—syllables representing aspects of transcendence; iti—thus; nirdeśhaḥ—symbolic representatives; brahmaṇaḥ—the Supreme Absolute Truth; tri-vidhaḥ—of three kinds; smṛitaḥ—have been declared; brāhmaṇāḥ—the priests; tena—from them; vedāḥ—scriptures; cha—and; yajñāḥ—sacrifice; cha—and; vihitāḥ—came about; purā—from the beginning of creation\n",
-            "audio_number": 20
+            "audio_number": 20,
+            "verse_id": 610
         },
         {
             "chapter_number": 17,
@@ -5661,7 +6271,8 @@ const data = {
             "transliteration": "tasmād oṁ ity udāhṛitya yajña-dāna-tapaḥ-kriyāḥ\npravartante vidhānoktāḥ satataṁ brahma-vādinām\n",
             "verse_number": 24,
             "word_meanings": "tasmāt—therefore; om—sacred syllable om; iti—thus; udāhṛitya—by uttering; yajña—sacrifice; dāna—charity; tapaḥ—penance; kriyāḥ—performing; pravartante—begin; vidhāna-uktāḥ—according to the prescriptions of Vedic injunctions; satatam—always; brahma-vādinām—expounders of the Vedas\n",
-            "audio_number": 21
+            "audio_number": 21,
+            "verse_id": 611
         },
         {
             "chapter_number": 17,
@@ -5670,7 +6281,8 @@ const data = {
             "transliteration": "tad ity anabhisandhāya phalaṁ yajña-tapaḥ-kriyāḥ\ndāna-kriyāśh cha vividhāḥ kriyante mokṣha-kāṅkṣhibhiḥ\n",
             "verse_number": 25,
             "word_meanings": "tat—the syllable Tat; iti—thus; anabhisandhāya—without desiring; phalam—fruitive rewards; yajña—sacrifice; tapaḥ—austerity; kriyāḥ—acts; dāna—charity; kriyāḥ—acts; cha—and; vividhāḥ—various; kriyante—are done; mokṣha-kāṅkṣhibhiḥ—by seekers of freedom from material entanglements\n",
-            "audio_number": 22
+            "audio_number": 22,
+            "verse_id": 612
         },
         {
             "chapter_number": 17,
@@ -5679,7 +6291,8 @@ const data = {
             "transliteration": "sad-bhāve sādhu-bhāve cha sad ity etat prayujyate\npraśhaste karmaṇi tathā sach-chhabdaḥ pārtha yujyate\n",
             "verse_number": 26,
             "word_meanings": "sat-bhāve—with the intention of eternal existence and goodness; sādhu-bhāve—with auspicious intention; cha—also; sat—the syllable Sat; iti—thus; etat—this; prayujyate—is used; praśhaste—auspicious; karmaṇi—action; tathā—also; sat-śhabdaḥ—the word “Sat”; pārtha—Arjun, the son of Pritha; yujyate—is used;\n",
-            "audio_number": 23
+            "audio_number": 23,
+            "verse_id": 613
         },
         {
             "chapter_number": 17,
@@ -5688,7 +6301,8 @@ const data = {
             "transliteration": "yajñe tapasi dāne cha sthitiḥ sad iti chochyate\nkarma chaiva tad-arthīyaṁ sad ity evābhidhīyate\n",
             "verse_number": 27,
             "word_meanings": "yajñe—in sacrifice; tapasi—in penance; dāne—in charity; cha—and; sthitiḥ—established in steadiness; sat—the syllable Sat; iti—thus; cha—and; uchyate—is pronounced; karma—action; cha—and; eva—indeed; tat-arthīyam—for such purposes; sat—the syllable Sat; iti—thus; eva—indeed; abhidhīyate—is described\n",
-            "audio_number": 23
+            "audio_number": 23,
+            "verse_id": 614
         },
         {
             "chapter_number": 17,
@@ -5697,7 +6311,8 @@ const data = {
             "transliteration": "aśhraddhayā hutaṁ dattaṁ tapas taptaṁ kṛitaṁ cha yat\nasad ity uchyate pārtha na cha tat pretya no iha\n",
             "verse_number": 28,
             "word_meanings": "aśhraddhayā—without faith; hutam—sacrifice; dattam—charity; tapaḥ—penance; taptam—practiced; kṛitam—done; cha—and; yat—which; asat—perishable; iti—thus; uchyate—are termed as; pārtha—Arjun, the son of Pritha; na—not; cha—and; tat—that; pretya—in the next world; na u—not; iha—in this world\n",
-            "audio_number": 24
+            "audio_number": 24,
+            "verse_id": 615
         },
         {
             "chapter_number": 18,
@@ -5706,7 +6321,8 @@ const data = {
             "transliteration": "arjuna uvācha\nsannyāsasya mahā-bāho tattvam ichchhāmi veditum\ntyāgasya cha hṛiṣhīkeśha pṛithak keśhi-niṣhūdana\n",
             "verse_number": 1,
             "word_meanings": "arjunaḥ uvācha—Arjun said; sanyāsasya—of renunciation of actions; mahā-bāho—mighty-armed one; tattvam—the truth; ichchhāmi—I wish; veditum—to understand; tyāgasya—of renunciation of desires for enjoying the fruits of actions; cha—and; hṛiṣhīkeśha—Krishna, the Lord of the senses; pṛithak—distinctively; keśhī-niṣhūdana—Krishna, the killer of the Keshi demon\n",
-            "audio_number": 1
+            "audio_number": 1,
+            "verse_id": 616
         },
         {
             "chapter_number": 18,
@@ -5715,7 +6331,8 @@ const data = {
             "transliteration": "śhrī-bhagavān uvācha\nkāmyānāṁ karmaṇāṁ nyāsaṁ sannyāsaṁ kavayo viduḥ\nsarva-karma-phala-tyāgaṁ prāhus tyāgaṁ vichakṣhaṇāḥ\n",
             "verse_number": 2,
             "word_meanings": "śhrī-bhagavān uvācha—the Supreme Divine Personality said; kāmyānām—desireful; karmaṇām—of actions; nyāsam—giving up; sanyāsam—renunciation of actions; kavayaḥ—the learned; viduḥ—to understand; sarva—all; karma-phala—fruits of actions; tyāgam—renunciation of desires for enjoying the fruits of actions; prāhuḥ—declare; tyāgam—renunciation of desires for enjoying the fruits of actions; vichakṣhaṇāḥ—the wise\n",
-            "audio_number": 2
+            "audio_number": 2,
+            "verse_id": 617
         },
         {
             "chapter_number": 18,
@@ -5724,7 +6341,8 @@ const data = {
             "transliteration": "tyājyaṁ doṣha-vad ity eke karma prāhur manīṣhiṇaḥ\nyajña-dāna-tapaḥ-karma na tyājyam iti chāpare\n",
             "verse_number": 3,
             "word_meanings": "tyājyam—should be given up; doṣha-vat—as evil; iti—thus; eke—some; karma—actions; prāhuḥ—declare; manīṣhiṇaḥ—the learned; yajña—sacrifice; dāna—charity; tapaḥ—penance; karma—acts; na—never; tyājyam—should be abandoned; iti—thus; cha—and; apare—others\n",
-            "audio_number": 3
+            "audio_number": 3,
+            "verse_id": 618
         },
         {
             "chapter_number": 18,
@@ -5733,7 +6351,8 @@ const data = {
             "transliteration": "niśhchayaṁ śhṛiṇu me tatra tyāge bharata-sattama\ntyāgo hi puruṣha-vyāghra tri-vidhaḥ samprakīrtitaḥ\n",
             "verse_number": 4,
             "word_meanings": "niśhchayam—conclusion; śhṛiṇu—hear; me—my; tatra—there; tyāge—about renunciation of desires for enjoying the fruits of actions; bharata-sat-tama—best of the Bharatas; tyāgaḥ—renunciation of desires for enjoying the fruits of actions; hi—indeed; puruṣha-vyāghra—tiger amongst men; tri-vidhaḥ—of three kinds; samprakīrtitaḥ—declared\n",
-            "audio_number": 4
+            "audio_number": 4,
+            "verse_id": 619
         },
         {
             "chapter_number": 18,
@@ -5742,7 +6361,8 @@ const data = {
             "transliteration": "yajña-dāna-tapaḥ-karma na tyājyaṁ kāryam eva tat\nyajño dānaṁ tapaśh chaiva pāvanāni manīṣhiṇām\n",
             "verse_number": 5,
             "word_meanings": "yajña—sacrifice; dāna—charity; tapaḥ—penance; karma—actions; na—never; tyājyam—should be abandoned; kāryam eva—must certainly be performed; tat—that; yajñaḥ—sacrifice; dānam—charity; tapaḥ—penance; cha—and; eva—indeed; pāvanāni—purifying; manīṣhiṇām—for the wise\n",
-            "audio_number": 5
+            "audio_number": 5,
+            "verse_id": 620
         },
         {
             "chapter_number": 18,
@@ -5751,7 +6371,8 @@ const data = {
             "transliteration": "etāny api tu karmāṇi saṅgaṁ tyaktvā phalāni cha\nkartavyānīti me pārtha niśhchitaṁ matam uttamam\n",
             "verse_number": 6,
             "word_meanings": "etāni—these; api tu—must certainly be; karmāṇi—activities; saṅgam—attachment; tyaktvā—giving up; phalāni—rewards; cha—and; kartavyāni—should be done as duty; iti—such; me—my; pārtha—Arjun, the son of Pritha; niśhchitam—definite; matam—opinion; uttamam—supreme\n",
-            "audio_number": 6
+            "audio_number": 6,
+            "verse_id": 621
         },
         {
             "chapter_number": 18,
@@ -5760,7 +6381,8 @@ const data = {
             "transliteration": "niyatasya tu sannyāsaḥ karmaṇo nopapadyate\nmohāt tasya parityāgas tāmasaḥ parikīrtitaḥ\n",
             "verse_number": 7,
             "word_meanings": "niyatasya—of prescribed duties; tu—but; sanyāsaḥ—renunciation; karmaṇaḥ—actions; na—never; upapadyate—to be performed; mohāt—deluded; tasya—of that; parityāgaḥ—renunciation; tāmasaḥ—in the mode of ignorance; parikīrtitaḥ—has been declared\n",
-            "audio_number": 7
+            "audio_number": 7,
+            "verse_id": 622
         },
         {
             "chapter_number": 18,
@@ -5769,7 +6391,8 @@ const data = {
             "transliteration": "duḥkham ity eva yat karma kāya-kleśha-bhayāt tyajet\nsa kṛitvā rājasaṁ tyāgaṁ naiva tyāga-phalaṁ labhet\n",
             "verse_number": 8,
             "word_meanings": "duḥkham—troublesome; iti—as; eva—indeed; yat—which; karma—duties; kāya—bodily; kleśha—discomfort; bhayāt—out of fear; tyajet—giving up; saḥ—they; kṛitvā—having done; rājasam—in the mode of passion; tyāgam—renunciation of desires for enjoying the fruits of actions; na—never; eva—certainly; tyāga—renunciation of desires for enjoying the fruits of actions; phalam—result; labhet—attain\n",
-            "audio_number": 8
+            "audio_number": 8,
+            "verse_id": 623
         },
         {
             "chapter_number": 18,
@@ -5778,7 +6401,8 @@ const data = {
             "transliteration": "kāryam ity eva yat karma niyataṁ kriyate ‘rjuna\nsaṅgaṁ tyaktvā phalaṁ chaiva sa tyāgaḥ sāttviko mataḥ\n",
             "verse_number": 9,
             "word_meanings": "kāryam—as a duty; iti—as; eva—indeed; yat—which; karma niyatam—obligatory actions; kriyate—are performed; arjuna—Arjun; saṅgam—attachment; tyaktvā—relinquishing; phalam—reward; cha—and; eva—certainly; saḥ—such; tyāgaḥ—renunciation of desires for enjoying the fruits of actions; sāttvikaḥ—in the mode of goodness; mataḥ—considered\n",
-            "audio_number": 9
+            "audio_number": 9,
+            "verse_id": 624
         },
         {
             "chapter_number": 18,
@@ -5787,7 +6411,8 @@ const data = {
             "transliteration": "na dveṣhṭy akuśhalaṁ karma kuśhale nānuṣhajjate\ntyāgī sattva-samāviṣhṭo medhāvī chhinna-sanśhayaḥ\n",
             "verse_number": 10,
             "word_meanings": "na—neither; dveṣhṭi—hate; akuśhalam—disagreeable; karma—work; kuśhale—to an agreeable; na—nor; anuṣhajjate—seek; tyāgī—one who renounces desires for enjoying the fruits of actions; sattva—in the mode of goodness; samāviṣhṭaḥ—endowed with; medhāvī—intelligent; chhinna-sanśhayaḥ—those who have no doubts\n",
-            "audio_number": 10
+            "audio_number": 10,
+            "verse_id": 625
         },
         {
             "chapter_number": 18,
@@ -5796,7 +6421,8 @@ const data = {
             "transliteration": "na hi deha-bhṛitā śhakyaṁ tyaktuṁ karmāṇy aśheṣhataḥ\nyas tu karma-phala-tyāgī sa tyāgīty abhidhīyate\n",
             "verse_number": 11,
             "word_meanings": "na—not; hi—indeed; deha-bhṛitā—for the embodied being; śhakyam—possible; tyaktum—to give up; karmāṇi—activities; aśheṣhataḥ—entirely; yaḥ—who; tu—but; karma-phala—fruits of actions; tyāgī—one who renounces all desires for enjoying the fruits of actions; saḥ—they; tyāgī—one who renounces all desires for enjoying the fruits of actions; iti—as; abhidhīyate—are said\n",
-            "audio_number": 11
+            "audio_number": 11,
+            "verse_id": 626
         },
         {
             "chapter_number": 18,
@@ -5805,7 +6431,8 @@ const data = {
             "transliteration": "aniṣhṭam iṣhṭaṁ miśhraṁ cha tri-vidhaṁ karmaṇaḥ phalam\nbhavaty atyāgināṁ pretya na tu sannyāsināṁ kvachit\n",
             "verse_number": 12,
             "word_meanings": "aniṣhṭam—unpleasant; iṣhṭam—pleasant; miśhram—mixed; cha—and; tri-vidham—three-fold; karmaṇaḥ phalam—fruits of actions; bhavati—accrue; atyāginām—to those who are attached to persona reward; pretya—after death; na—not; tu—but; sanyāsinām—for the renouncers of actions; kvachit—ever\n",
-            "audio_number": 12
+            "audio_number": 12,
+            "verse_id": 627
         },
         {
             "chapter_number": 18,
@@ -5814,7 +6441,8 @@ const data = {
             "transliteration": "pañchaitāni mahā-bāho kāraṇāni nibodha me\nsānkhye kṛitānte proktāni siddhaye sarva-karmaṇām\n",
             "verse_number": 13,
             "word_meanings": "pañcha—five; etāni—these; mahā-bāho—mighty-armed one; kāraṇāni—causes; nibodha—listen; me—from me; sānkhye—of Sānkya; kṛita-ante—stop reactions of karmas; proktāni—explains; siddhaye—for the accomplishment; sarva—all; karmaṇām—of karmas\n",
-            "audio_number": 13
+            "audio_number": 13,
+            "verse_id": 628
         },
         {
             "chapter_number": 18,
@@ -5823,7 +6451,8 @@ const data = {
             "transliteration": "adhiṣhṭhānaṁ tathā kartā karaṇaṁ cha pṛithag-vidham\nvividhāśh cha pṛithak cheṣhṭā daivaṁ chaivātra pañchamam\n",
             "verse_number": 14,
             "word_meanings": "adhiṣhṭhānam—the body; tathā—also; kartā—the doer (soul); karaṇam—senses; cha—and; pṛithak-vidham—various kinds; vividhāḥ—many; cha—and; pṛithak—distinct; cheṣhṭāḥ—efforts; daivam—Divine Providence; cha eva atra—these certainly are (causes); pañchamam—the fifth\n",
-            "audio_number": 13
+            "audio_number": 13,
+            "verse_id": 629
         },
         {
             "chapter_number": 18,
@@ -5832,7 +6461,8 @@ const data = {
             "transliteration": "śharīra-vāṅ-manobhir yat karma prārabhate naraḥ\nnyāyyaṁ vā viparītaṁ vā pañchaite tasya hetavaḥ\n",
             "verse_number": 15,
             "word_meanings": "śharīra-vāk-manobhiḥ—with body, speech, or mind; yat—which; karma—action; prārabhate—performs; naraḥ—a person; nyāyyam—proper; vā—or; viparītam—improper; vā—or; pañcha—five; ete—these; tasya—their; hetavaḥ—factors;\n",
-            "audio_number": 14
+            "audio_number": 14,
+            "verse_id": 630
         },
         {
             "chapter_number": 18,
@@ -5841,7 +6471,8 @@ const data = {
             "transliteration": "tatraivaṁ sati kartāram ātmānaṁ kevalaṁ tu yaḥ\npaśhyaty akṛita-buddhitvān na sa paśhyati durmatiḥ\n",
             "verse_number": 16,
             "word_meanings": "tatra—there; evam sati—in spite of this; kartāram—the doer; ātmānam—the soul; kevalam—only; tu—but; yaḥ—who; paśhyati—see; akṛita-buddhitvāt—with impure intellect; na—not; saḥ—they; paśhyati—see; durmatiḥ—foolish\n",
-            "audio_number": 15
+            "audio_number": 15,
+            "verse_id": 631
         },
         {
             "chapter_number": 18,
@@ -5850,7 +6481,8 @@ const data = {
             "transliteration": "yasya nāhankṛito bhāvo buddhir yasya na lipyate\nhatvā ‘pi sa imāl lokān na hanti na nibadhyate\n",
             "verse_number": 17,
             "word_meanings": "yasya—whose; na ahankṛitaḥ—free from the ego of being the doer; bhāvaḥ—nature; buddhiḥ—intellect; yasya—whose; na lipyate—unattached; hatvā—slay; api—even; saḥ—they; imān—this; lokān—living beings; na—neither; hanti—kill; na—nor; nibadhyate—get bound\n",
-            "audio_number": 16
+            "audio_number": 16,
+            "verse_id": 632
         },
         {
             "chapter_number": 18,
@@ -5859,7 +6491,8 @@ const data = {
             "transliteration": "jñānaṁ jñeyaṁ parijñātā tri-vidhā karma-chodanā\nkaraṇaṁ karma karteti tri-vidhaḥ karma-saṅgrahaḥ\n",
             "verse_number": 18,
             "word_meanings": "jñānam—knowledge; jñeyam—the object of knowledge; parijñātā—the knower; tri-vidhā—three factors; karma-chodanā—factors that induce action; karaṇam—the instrumens of action; karma—the act; kartā—the doer; iti—thus; tri-vidhaḥ—threefold; karma-saṅgrahaḥ—constituents of action\n",
-            "audio_number": 17
+            "audio_number": 17,
+            "verse_id": 633
         },
         {
             "chapter_number": 18,
@@ -5868,7 +6501,8 @@ const data = {
             "transliteration": "jñānaṁ karma cha kartā cha tridhaiva guṇa-bhedataḥ\nprochyate guṇa-saṅkhyāne yathāvach chhṛiṇu tāny api\n",
             "verse_number": 19,
             "word_meanings": "jñānam—knowledge; karma—action; cha—and; kartā—doer; cha—also; tridhā—of three kinds; eva—certainly; guṇa-bhedataḥ—distinguished according to the three modes of material nature; prochyate—are declared; guṇa-saṅkhyāne—Sānkhya philosophy, which describes the modes of material nature; yathā-vat—as they are; śhṛiṇu—listen; tāni—them; api—also\n",
-            "audio_number": 18
+            "audio_number": 18,
+            "verse_id": 634
         },
         {
             "chapter_number": 18,
@@ -5877,7 +6511,8 @@ const data = {
             "transliteration": "sarva-bhūteṣhu yenaikaṁ bhāvam avyayam īkṣhate\navibhaktaṁ vibhakteṣhu taj jñānaṁ viddhi sāttvikam\n",
             "verse_number": 20,
             "word_meanings": "sarva-bhūteṣhu—within all living beings; yena—by which; ekam—one; bhāvam—nature; avyayam—imperishable; īkṣhate—one sees; avibhaktam—undivided; vibhakteṣhu—in diversity; tat—that; jñānam—knowledge; viddhi—understand; sāttvikam—in the mode of goodness\n",
-            "audio_number": 19
+            "audio_number": 19,
+            "verse_id": 635
         },
         {
             "chapter_number": 18,
@@ -5886,7 +6521,8 @@ const data = {
             "transliteration": "pṛithaktvena tu yaj jñānaṁ nānā-bhāvān pṛithag-vidhān\nvetti sarveṣhu bhūteṣhu taj jñānaṁ viddhi rājasam\n",
             "verse_number": 21,
             "word_meanings": "pṛithaktvena—unconnected; tu—however; yat—which; jñānam—knowledge; nānā-bhāvān—manifold entities; pṛithak-vidhān—of diversity; vetti—consider; sarveṣhu—in all; bhūteṣhu—living entities; tat—that; jñānam—knowledge; viddhi—know; rājasam—in the mode of passion\n",
-            "audio_number": 20
+            "audio_number": 20,
+            "verse_id": 636
         },
         {
             "chapter_number": 18,
@@ -5895,7 +6531,8 @@ const data = {
             "transliteration": "yat tu kṛitsna-vad ekasmin kārye saktam ahaitukam\natattvārtha-vad alpaṁ cha tat tāmasam udāhṛitam\n",
             "verse_number": 22,
             "word_meanings": "yat—which; tu—but; kṛitsna-vat—as if it encompasses the whole; ekasmin—in single; kārye—action; saktam—engrossed; ahaitukam—without a reason; atattva-artha-vat—not based on truth; alpam—fragmental; cha—and; tat—that; tāmasam—in the mode of ignorance; udāhṛitam—is said to be\n",
-            "audio_number": 21
+            "audio_number": 21,
+            "verse_id": 637
         },
         {
             "chapter_number": 18,
@@ -5904,7 +6541,8 @@ const data = {
             "transliteration": "niyataṁ saṅga-rahitam arāga-dveṣhataḥ kṛitam\naphala-prepsunā karma yat tat sāttvikam uchyate\n",
             "verse_number": 23,
             "word_meanings": "niyatam—in accordance with scriptures; saṅga-rahitam—free from attachment; arāga-dveṣhataḥ—free from attachment and aversion; kṛitam—done; aphala-prepsunā—without desire for rewards; karma—action; yat—which; tat—that; sāttvikam—in the mode of goodness; uchyate—is called\n",
-            "audio_number": 22
+            "audio_number": 22,
+            "verse_id": 638
         },
         {
             "chapter_number": 18,
@@ -5913,7 +6551,8 @@ const data = {
             "transliteration": "yat tu kāmepsunā karma sāhankāreṇa vā punaḥ\nkriyate bahulāyāsaṁ tad rājasam udāhṛitam\n",
             "verse_number": 24,
             "word_meanings": "yat—which; tu—but; kāma-īpsunā—prompted by selfish desire; karma—action; sa-ahaṅkāreṇa—with pride; vā—or; punaḥ—again; kriyate—enacted; bahula-āyāsam—stressfully; tat—that; rājasam—in the nature of passion; udāhṛitam—is said to be\n",
-            "audio_number": 23
+            "audio_number": 23,
+            "verse_id": 639
         },
         {
             "chapter_number": 18,
@@ -5922,7 +6561,8 @@ const data = {
             "transliteration": "anubandhaṁ kṣhayaṁ hinsām anapekṣhya cha pauruṣham\nmohād ārabhyate karma yat tat tāmasam uchyate\n",
             "verse_number": 25,
             "word_meanings": "anubandham—consequences; kṣhayam—loss; hinsām—injury; anapekṣhya—by disregarding; cha—and; pauruṣham—one’s own ability; mohāt—out of delusion; ārabhyate—is begun; karma—action; yat—which; tat—that; tāmasam—in the mode of ignorance; uchyate—is declared to be\n",
-            "audio_number": 24
+            "audio_number": 24,
+            "verse_id": 640
         },
         {
             "chapter_number": 18,
@@ -5931,7 +6571,8 @@ const data = {
             "transliteration": "mukta-saṅgo ‘nahaṁ-vādī dhṛity-utsāha-samanvitaḥ\nsiddhy-asiddhyor nirvikāraḥ kartā sāttvika uchyate\n",
             "verse_number": 26,
             "word_meanings": "mukta-saṅgaḥ—free from worldly attachment; anaham-vādī—free from ego; dhṛiti—strong resolve; utsāha—zeal; samanvitaḥ—endowed with; siddhi-asiddhyoḥ—in success and failure; nirvikāraḥ—unaffected; kartā—worker; sāttvikaḥ—in the mode of goodness; uchyate—is said to be\n",
-            "audio_number": 25
+            "audio_number": 25,
+            "verse_id": 641
         },
         {
             "chapter_number": 18,
@@ -5940,7 +6581,8 @@ const data = {
             "transliteration": "rāgī karma-phala-prepsur lubdho hinsātmako ‘śhuchiḥ\nharṣha-śhokānvitaḥ kartā rājasaḥ parikīrtitaḥ\n",
             "verse_number": 27,
             "word_meanings": "rāgī—craving; karma-phala—fruit of work; prepsuḥ—covet; lubdhaḥ—greedy; hinsā-ātmakaḥ—violent-natured; aśhuchiḥ—impure; harṣha-śhoka-anvitaḥ—moved by joy and sorrow; kartā—performer; rājasaḥ—in the mode of passion; parikīrtitaḥ—is declared\n",
-            "audio_number": 26
+            "audio_number": 26,
+            "verse_id": 642
         },
         {
             "chapter_number": 18,
@@ -5949,7 +6591,8 @@ const data = {
             "transliteration": "ayuktaḥ prākṛitaḥ stabdhaḥ śhaṭho naiṣhkṛitiko ‘lasaḥ\nviṣhādī dīrgha-sūtrī cha kartā tāmasa uchyate\n",
             "verse_number": 28,
             "word_meanings": "ayuktaḥ—undisciplined; prākṛitaḥ—vulgar; stabdhaḥ—obstinate; śhaṭhaḥ—cunning; naiṣhkṛitikaḥ—dishonest or vile; alasaḥ—slothful; viṣhādī—unhappy and morose; dīrgha-sūtrī—procrastinating; cha—and; kartā—performer; tāmasaḥ—in the mode of ignorance; uchyate—is said to be\n",
-            "audio_number": 27
+            "audio_number": 27,
+            "verse_id": 643
         },
         {
             "chapter_number": 18,
@@ -5958,7 +6601,8 @@ const data = {
             "transliteration": "buddher bhedaṁ dhṛiteśh chaiva guṇatas tri-vidhaṁ śhṛiṇu\nprochyamānam aśheṣheṇa pṛithaktvena dhanañjaya\n",
             "verse_number": 29,
             "word_meanings": "buddheḥ—of intellect; bhedam—the distinctions; dhṛiteḥ—of determination; cha—and; eva—certainly; guṇataḥ tri-vidham—according to the three modes of material nature; śhṛiṇu—hear; prochyamānam—described; aśheṣheṇa—in detail; pṛithaktvena—distinctly; dhanañjaya—conqueror of wealth, Arjun\n",
-            "audio_number": 28
+            "audio_number": 28,
+            "verse_id": 644
         },
         {
             "chapter_number": 18,
@@ -5967,7 +6611,8 @@ const data = {
             "transliteration": "pravṛittiṁ cha nivṛittiṁ cha kāryākārye bhayābhaye\nbandhaṁ mokṣhaṁ cha yā vetti buddhiḥ sā pārtha sāttvikī\n",
             "verse_number": 30,
             "word_meanings": "pravṛittim—activities; cha—and; nivṛittim—renuncation from action; cha—and; kārya—proper action; akārye—improper action; bhaya—fear; abhaye—without fear; bandham—what is binding; mokṣham—what is liberating; cha—and; yā—which; vetti—understands; buddhiḥ—intellect; sā—that; pārtha—son of Pritha; sāttvikī—in the nature of goodness\n",
-            "audio_number": 29
+            "audio_number": 29,
+            "verse_id": 645
         },
         {
             "chapter_number": 18,
@@ -5976,7 +6621,8 @@ const data = {
             "transliteration": "yayā dharmam adharmaṁ cha kāryaṁ chākāryam eva cha\nayathāvat prajānāti buddhiḥ sā pārtha rājasī\n",
             "verse_number": 31,
             "word_meanings": "yayā—by which; dharmam—righteousness; adharmam—unrighteousness; cha—and; kāryam—right conduct; cha—and; akāryam—wrong conduct; eva—certainly; cha—and; ayathā-vat—confused; prajānāti—distinguish; buddhiḥ—intellect; sā—that; pārtha—Arjun, the son of Pritha; rājasī—in the mode of passion\n",
-            "audio_number": 30
+            "audio_number": 30,
+            "verse_id": 646
         },
         {
             "chapter_number": 18,
@@ -5985,7 +6631,8 @@ const data = {
             "transliteration": "adharmaṁ dharmam iti yā manyate tamasāvṛitā\nsarvārthān viparītānśh cha buddhiḥ sā pārtha tāmasī\n",
             "verse_number": 32,
             "word_meanings": "adharmam—irreligion; dharmam—religion; iti—thus; yā—which; manyate—imagines; tamasa-āvṛitā—shrouded in darkness; sarva-arthān—all things; viparītān—opposite; cha—and; buddhiḥ—intellect; sā—that; pārtha—Arjun, the son of Pritha; tāmasī—of the nature of ignorance\n",
-            "audio_number": 31
+            "audio_number": 31,
+            "verse_id": 647
         },
         {
             "chapter_number": 18,
@@ -5994,7 +6641,8 @@ const data = {
             "transliteration": "dhṛityā yayā dhārayate manaḥ-prāṇendriya-kriyāḥ\nyogenāvyabhichāriṇyā dhṛitiḥ sā pārtha sāttvikī\n",
             "verse_number": 33,
             "word_meanings": "dhṛityā—by determining; yayā—which; dhārayate—sustains; manaḥ—of the mind; prāṇa—life-airs; indriya—senses; kriyāḥ—activities; yogena—through Yog; avyabhichāriṇyā—with steadfastness; dhṛitiḥ—determination; sā—that; pārtha—Arjun, the son of Pritha; sāttvikī—in the mode of goodness\n",
-            "audio_number": 32
+            "audio_number": 32,
+            "verse_id": 648
         },
         {
             "chapter_number": 18,
@@ -6003,7 +6651,8 @@ const data = {
             "transliteration": "yayā tu dharma-kāmārthān dhṛityā dhārayate ‘rjuna\nprasaṅgena phalākāṅkṣhī dhṛitiḥ sā pārtha rājasī\n",
             "verse_number": 34,
             "word_meanings": "yayā—by which; tu—but; dharma-kāma-arthān—duty, pleasures, and wealth; dhṛityā—through steadfast will; dhārayate—holds; arjuna—Arjun; prasaṅgena—due of attachment; phala-ākāṅkṣhī—desire for rewards; dhṛitiḥ—determination; sā—that; pārtha—Arjun, the son of Pritha; rājasī—in the mode of passion\n",
-            "audio_number": 33
+            "audio_number": 33,
+            "verse_id": 649
         },
         {
             "chapter_number": 18,
@@ -6012,7 +6661,8 @@ const data = {
             "transliteration": "yayā svapnaṁ bhayaṁ śhokaṁ viṣhādaṁ madam eva cha\nna vimuñchati durmedhā dhṛitiḥ sā pārtha tāmasī\n",
             "verse_number": 35,
             "word_meanings": "yayā—in which; svapnam—dreaming; bhayam—fearing; śhokam—grieving; viṣhādam—despair; madam—conceit; eva—indeed; cha—and; na—not; vimuñchati—give up; durmedhā—unintelligent; dhṛitiḥ—resolve; sā—that; pārtha—Arjun, the son of Pritha; tāmasī—in the mode of ignorance\n",
-            "audio_number": 34
+            "audio_number": 34,
+            "verse_id": 650
         },
         {
             "chapter_number": 18,
@@ -6021,7 +6671,8 @@ const data = {
             "transliteration": "sukhaṁ tv idānīṁ tri-vidhaṁ śhṛiṇu me bharatarṣhabha\nabhyāsād ramate yatra duḥkhāntaṁ cha nigachchhati\n yat tad agre viṣham iva pariṇāme ‘mṛitopamam\ntat sukhaṁ sāttvikaṁ proktam ātma-buddhi-prasāda-jam\n",
             "verse_number": 36,
             "word_meanings": "sukham—happiness; tu—but; idānīm—now; tri-vidham—of three kinds; śhṛiṇu—hear; me—from me; bharata-ṛiṣhabha—Arjun, the best of the Bharatas; abhyāsāt—by practice; ramate—rejoices; yatra—in which; duḥkha-antam—end of all suffering; cha—and; nigachchhati—reaches\n yat—which; tat—that; agre—at first; viṣham iva—like poison; pariṇāme—in the end; amṛita-upamam—like nectar; tat—that; sukham—happiness; sāttvikam—in the mode of goodness; proktam—is said to be; ātma-buddhi—situated in self-knowledge; prasāda-jam—generated by the pure intellect\n",
-            "audio_number": 35
+            "audio_number": 35,
+            "verse_id": 651
         },
         {
             "chapter_number": 18,
@@ -6030,7 +6681,8 @@ const data = {
             "transliteration": "viṣhayendriya-sanyogād yat tad agre ’mṛitopamam\npariṇāme viṣham iva tat sukhaṁ rājasaṁ smṛitam\n",
             "verse_number": 38,
             "word_meanings": "viṣhaya—with the sense objects; indriya—the senses; sanyogāt—from the contact; yat—which; tat—that; agre—at first; amṛita-upamam—like nectar; pariṇāme—at the end; viṣham iva—like poison; tat—that; sukham—happiness; rājasam—in the mode of passion; smṛitam—is said to be\n",
-            "audio_number": 36
+            "audio_number": 36,
+            "verse_id": 652
         },
         {
             "chapter_number": 18,
@@ -6039,7 +6691,8 @@ const data = {
             "transliteration": "yad agre chānubandhe cha sukhaṁ mohanam ātmanaḥ\nnidrālasya-pramādotthaṁ tat tāmasam udāhṛitam\n",
             "verse_number": 39,
             "word_meanings": "yat—which; agre—from beginning; cha—and; anubandhe—to end; cha—and; sukham—happiness; mohanam—illusory; ātmanaḥ—of the self; nidrā—sleep; ālasya—indolence; pramāda—negligence; uttham—derived from; tat—that; tāmasam—in the mode of ignorance; udāhṛitam—is said to be\n",
-            "audio_number": 37
+            "audio_number": 37,
+            "verse_id": 653
         },
         {
             "chapter_number": 18,
@@ -6048,7 +6701,8 @@ const data = {
             "transliteration": "na tad asti pṛithivyāṁ vā divi deveṣhu vā punaḥ\nsattvaṁ prakṛiti-jair muktaṁ yad ebhiḥ syāt tribhir guṇaiḥ\n",
             "verse_number": 40,
             "word_meanings": "na—no; tat—that; asti—exists; pṛithivyām—on earth; vā—or; divi—the higher celestial abodes; deveṣhu—amongst the celestial gods; vā—or; punaḥ—again; sattvam—existence; prakṛiti-jaiḥ—born of material nature; muktam—liberated; yat—that; ebhiḥ—from the influence of these; syāt—is; tribhiḥ—three; guṇaiḥ—modes of material nature\n",
-            "audio_number": 38
+            "audio_number": 38,
+            "verse_id": 654
         },
         {
             "chapter_number": 18,
@@ -6057,7 +6711,8 @@ const data = {
             "transliteration": "brāhmaṇa-kṣhatriya-viśhāṁ śhūdrāṇāṁ cha parantapa\nkarmāṇi pravibhaktāni svabhāva-prabhavair guṇaiḥ\n",
             "verse_number": 41,
             "word_meanings": "brāhmaṇa—of the priestly class; kṣhatriya—the warrior and administrative class; viśhām—the mercantile and farming class; śhūdrāṇām—of the worker class; cha—and; parantapa—Arjun, subduer of the enemies; karmāṇi—duties; pravibhaktāni—distributed; svabhāva-prabhavaiḥ-guṇaiḥ—work based on one’s nature and guṇas\n",
-            "audio_number": 39
+            "audio_number": 39,
+            "verse_id": 655
         },
         {
             "chapter_number": 18,
@@ -6066,7 +6721,8 @@ const data = {
             "transliteration": "śhamo damas tapaḥ śhauchaṁ kṣhāntir ārjavam eva cha\njñānaṁ vijñānam āstikyaṁ brahma-karma svabhāva-jam\n",
             "verse_number": 42,
             "word_meanings": "śhamaḥ—tranquility; damaḥ—restraint; tapaḥ—austerity; śhaucham—purity; kṣhāntiḥ—patience; ārjavam—integrity; eva—certainly; cha—and; jñānam—knowledge; vijñānam—wisdom; āstikyam—belief in a hereafter; brahma—of the priestly class; karma—work; svabhāva-jam—born of one’s intrinsic qualities\n",
-            "audio_number": 40
+            "audio_number": 40,
+            "verse_id": 656
         },
         {
             "chapter_number": 18,
@@ -6075,7 +6731,8 @@ const data = {
             "transliteration": "śhauryaṁ tejo dhṛitir dākṣhyaṁ yuddhe chāpy apalāyanam\ndānam īśhvara-bhāvaśh cha kṣhātraṁ karma svabhāva-jam\n",
             "verse_number": 43,
             "word_meanings": "śhauryam—valor; tejaḥ—strength; dhṛitiḥ—fortitude; dākṣhyam yuddhe—skill in weaponry; cha—and; api—also; apalāyanam—not fleeing; dānam—large-heartedness; īśhvara—leadership; bhāvaḥ—qualities; cha—and; kṣhātram—of the warrior and administrative class; karma—work; svabhāva-jam—born of one’s intrinsic qualities\n",
-            "audio_number": 41
+            "audio_number": 41,
+            "verse_id": 657
         },
         {
             "chapter_number": 18,
@@ -6084,7 +6741,8 @@ const data = {
             "transliteration": "kṛiṣhi-gau-rakṣhya-vāṇijyaṁ vaiśhya-karma svabhāva-jam\nparicharyātmakaṁ karma śhūdrasyāpi svabhāva-jam\n",
             "verse_number": 44,
             "word_meanings": "kṛiṣhi—agriculture; gau-rakṣhya—dairy farming; vāṇijyam—commerce; vaiśhya—of the mercantile and farming class; karma—work; svabhāva-jam—born of one’s intrinsic qualities; paricharyā—serving through work; ātmakam—natural; karma—duty; śhūdrasya—of the worker class; api—and; svabhāva-jam—born of one’s intrinsic qualities\n",
-            "audio_number": 42
+            "audio_number": 42,
+            "verse_id": 658
         },
         {
             "chapter_number": 18,
@@ -6093,7 +6751,8 @@ const data = {
             "transliteration": "sve sve karmaṇy abhirataḥ sansiddhiṁ labhate naraḥ\nsva-karma-nirataḥ siddhiṁ yathā vindati tach chhṛiṇu\n",
             "verse_number": 45,
             "word_meanings": "sve sve—respectively; karmaṇi—work; abhirataḥ—fulfilling; sansiddhim—perfection; labhate—achieve; naraḥ—a person; sva-karma—to one’s own prescribed duty; nirataḥ—engaged; siddhim—perfection; yathā—as; vindati—attains; tat—that; śhṛiṇu—hear\n",
-            "audio_number": 43
+            "audio_number": 43,
+            "verse_id": 659
         },
         {
             "chapter_number": 18,
@@ -6102,7 +6761,8 @@ const data = {
             "transliteration": "yataḥ pravṛittir bhūtānāṁ yena sarvam idaṁ tatam\nsva-karmaṇā tam abhyarchya siddhiṁ vindati mānavaḥ\n",
             "verse_number": 46,
             "word_meanings": "yataḥ—from whom; pravṛittiḥ—have come into being; bhūtānām—of all living entities; yena—by whom; sarvam—all; idam—this; tatam—pervaded; sva-karmaṇā—by one’s natural occupation; tam—him; abhyarchya—by worshipping; siddhim—perfection; vindati—attains; mānavaḥ—a person\n",
-            "audio_number": 44
+            "audio_number": 44,
+            "verse_id": 660
         },
         {
             "chapter_number": 18,
@@ -6111,7 +6771,8 @@ const data = {
             "transliteration": "śhreyān swa-dharmo viguṇaḥ para-dharmāt sv-anuṣhṭhitāt\nsvabhāva-niyataṁ karma kurvan nāpnoti kilbiṣham\n",
             "verse_number": 47,
             "word_meanings": "śhreyān—better; swa-dharmaḥ—one’s own prescribed occupational duty; viguṇaḥ—imperfectly done; para-dharmāt—than another’s dharma; su-anuṣhṭhitāt—perfectly done; svabhāva-niyatam—according to one’s innate nature; karma—duty; kurvan—by performing; na āpnoti—does not incur; kilbiṣham—sin\n",
-            "audio_number": 45
+            "audio_number": 45,
+            "verse_id": 661
         },
         {
             "chapter_number": 18,
@@ -6120,7 +6781,8 @@ const data = {
             "transliteration": "saha-jaṁ karma kaunteya sa-doṣham api na tyajet\nsarvārambhā hi doṣheṇa dhūmenāgnir ivāvṛitāḥ\n",
             "verse_number": 48,
             "word_meanings": "saha-jam—born of one’s nature; karma—duty; kaunteya—Arjun, the son of Kunti; sa-doṣham—with defects; api—even if; na tyajet—one should not abandon; sarva-ārambhāḥ—all endeavors; hi—indeed; doṣheṇa—with evil; dhūmena—with smoke; agniḥ—fire; iva—as; āvṛitāḥ—veiled\n",
-            "audio_number": 46
+            "audio_number": 46,
+            "verse_id": 662
         },
         {
             "chapter_number": 18,
@@ -6129,7 +6791,8 @@ const data = {
             "transliteration": "asakta-buddhiḥ sarvatra jitātmā vigata-spṛihaḥ\nnaiṣhkarmya-siddhiṁ paramāṁ sannyāsenādhigachchhati\n",
             "verse_number": 49,
             "word_meanings": "asakta-buddhiḥ—those whose intellect is unattached; sarvatra—everywhere; jita-ātmā—who have mastered their mind; vigata-spṛihaḥ—free from desires; naiṣhkarmya-siddhim—state of actionlessness; paramām—highest; sanyāsena—by the practice of renunciation; adhigachchhati—attain\n",
-            "audio_number": 47
+            "audio_number": 47,
+            "verse_id": 663
         },
         {
             "chapter_number": 18,
@@ -6138,7 +6801,8 @@ const data = {
             "transliteration": "siddhiṁ prāpto yathā brahma tathāpnoti nibodha me\nsamāsenaiva kaunteya niṣhṭhā jñānasya yā parā\n",
             "verse_number": 50,
             "word_meanings": "siddhim—perfection; prāptaḥ—attained; yathā—how; brahma—Brahman; tathā—also; āpnoti—attain; nibodha—hear; me—from me; samāsena—briefly; eva—indeed; kaunteya—Arjun, the son of Kunti; niṣhṭhā—firmly fixed; jñānasya—of knowledge; yā—which; parā—transcendental\n",
-            "audio_number": 48
+            "audio_number": 48,
+            "verse_id": 664
         },
         {
             "chapter_number": 18,
@@ -6147,7 +6811,8 @@ const data = {
             "transliteration": "buddhyā viśhuddhayā yukto dhṛityātmānaṁ niyamya cha\nśhabdādīn viṣhayāns tyaktvā rāga-dveṣhau vyudasya cha\n",
             "verse_number": 51,
             "word_meanings": "buddhyā—intellect; viśhuddhayā—purified; yuktaḥ—endowed with; dhṛityā—by determination; ātmānam—the intellect; niyamya—restraining; cha—and; śhabda-ādīn viṣhayān—sound and other objects of the senses; tyaktvā—abandoning; rāga-dveṣhau—attachment and aversion; vyudasya—casting aside; cha—and;\n",
-            "audio_number": 49
+            "audio_number": 49,
+            "verse_id": 665
         },
         {
             "chapter_number": 18,
@@ -6156,7 +6821,8 @@ const data = {
             "transliteration": "vivikta-sevī laghv-āśhī yata-vāk-kāya-mānasaḥ\ndhyāna-yoga-paro nityaṁ vairāgyaṁ samupāśhritaḥ\n",
             "verse_number": 52,
             "word_meanings": "vivikta-sevī—relishing solitude; laghu-āśhī—eating light; yata—controls; vāk—speech; kāya—body; mānasaḥ—and mind; dhyāna-yoga-paraḥ—engaged in meditation; nityam—always; vairāgyam—dispassion; samupāśhritaḥ—having taken shelter of;\n",
-            "audio_number": 49
+            "audio_number": 49,
+            "verse_id": 666
         },
         {
             "chapter_number": 18,
@@ -6165,7 +6831,8 @@ const data = {
             "transliteration": "ahankāraṁ balaṁ darpaṁ kāmaṁ krodhaṁ parigraham\nvimuchya nirmamaḥ śhānto brahma-bhūyāya kalpate\n",
             "verse_number": 53,
             "word_meanings": "ahankāram—egotism; balam—violence; darpam—arrogance; kāmam—desire; krodham—anger; parigraham—selfishness; vimuchya—being freed from; nirmamaḥ—without possessiveness of property; śhāntaḥ—peaceful; brahma-bhūyāya—union with Brahman; kalpate—is fit\n",
-            "audio_number": 49
+            "audio_number": 49,
+            "verse_id": 667
         },
         {
             "chapter_number": 18,
@@ -6174,7 +6841,8 @@ const data = {
             "transliteration": "brahma-bhūtaḥ prasannātmā na śhochati na kāṅkṣhati\nsamaḥ sarveṣhu bhūteṣhu mad-bhaktiṁ labhate parām\n",
             "verse_number": 54,
             "word_meanings": "brahma-bhūtaḥ—one situated in Brahman; prasanna-ātmā—mentally serene; na—neither; śhochati—grieving; na—nor; kāṅkṣhati—desiring; samaḥ—equitably disposed; sarveṣhu—toward all; bhūteṣhu—living beings; mat-bhaktim—devotion to me; labhate—attains; parām—supreme\n",
-            "audio_number": 50
+            "audio_number": 50,
+            "verse_id": 668
         },
         {
             "chapter_number": 18,
@@ -6183,7 +6851,8 @@ const data = {
             "transliteration": "bhaktyā mām abhijānāti yāvān yaśh chāsmi tattvataḥ\ntato māṁ tattvato jñātvā viśhate tad-anantaram\n",
             "verse_number": 55,
             "word_meanings": "bhaktyā—by loving devotion; mām—me; abhijānāti—one comes to know; yāvān—as much as; yaḥ cha asmi—as I am; tattvataḥ—in truth; tataḥ—then; mām—me; tattvataḥ—in truth; jñātvā—having known; viśhate—enters; tat-anantaram—thereafter\n",
-            "audio_number": 51
+            "audio_number": 51,
+            "verse_id": 669
         },
         {
             "chapter_number": 18,
@@ -6192,7 +6861,8 @@ const data = {
             "transliteration": "sarva-karmāṇy api sadā kurvāṇo mad-vyapāśhrayaḥ\nmat-prasādād avāpnoti śhāśhvataṁ padam avyayam\n",
             "verse_number": 56,
             "word_meanings": "sarva—all; karmāṇi—actions; api—though; sadā—always; kurvāṇaḥ—performing; mat-vyapāśhrayaḥ—take full refuge in me; mat-prasādāt—by my grace; avāpnoti—attain; śhāśhvatam—the eternal; padam—abode; avyayam—imperishable\n",
-            "audio_number": 52
+            "audio_number": 52,
+            "verse_id": 670
         },
         {
             "chapter_number": 18,
@@ -6201,7 +6871,8 @@ const data = {
             "transliteration": "chetasā sarva-karmāṇi mayi sannyasya mat-paraḥ\nbuddhi-yogam upāśhritya mach-chittaḥ satataṁ bhava\n",
             "verse_number": 57,
             "word_meanings": "chetasā—by consciousness; sarva-karmāṇi—every activity; mayi—to me; sannyasya—dedicating; mat-paraḥ—having me as the supreme goal; buddhi-yogam—having the intellect united with God; upāśhritya—taking shelter of; mat-chittaḥ—consciousness absorbed in me; satatam—always; bhava—be\n",
-            "audio_number": 53
+            "audio_number": 53,
+            "verse_id": 671
         },
         {
             "chapter_number": 18,
@@ -6210,7 +6881,8 @@ const data = {
             "transliteration": "mach-chittaḥ sarva-durgāṇi mat-prasādāt tariṣhyasi\natha chet tvam ahankārān na śhroṣhyasi vinaṅkṣhyasi\n",
             "verse_number": 58,
             "word_meanings": "mat-chittaḥ—by always remembering me; sarva—all; durgāṇi—obstacles; mat-prasādāt—by my grace; tariṣhyasi—you shall overcome; atha—but; chet—if; tvam—you; ahankārāt—due to pride; na śhroṣhyasi—do not listen; vinaṅkṣhyasi—you will perish\n",
-            "audio_number": 54
+            "audio_number": 54,
+            "verse_id": 672
         },
         {
             "chapter_number": 18,
@@ -6219,7 +6891,8 @@ const data = {
             "transliteration": "yad ahankāram āśhritya na yotsya iti manyase\nmithyaiṣha vyavasāyas te prakṛitis tvāṁ niyokṣhyati\n",
             "verse_number": 59,
             "word_meanings": "yat—if; ahankāram—motivated by pride; āśhritya—taking shelter; na yotsye—I shall not fight; iti—thus; manyase—you think; mithyā eṣhaḥ—this is all false; vyavasāyaḥ—determination; te—your; prakṛitiḥ—material nature; tvām—you; niyokṣhyati—will engage\n",
-            "audio_number": 55
+            "audio_number": 55,
+            "verse_id": 673
         },
         {
             "chapter_number": 18,
@@ -6228,7 +6901,8 @@ const data = {
             "transliteration": "swbhāva-jena kaunteya nibaddhaḥ svena karmaṇā\nkartuṁ nechchhasi yan mohāt kariṣhyasy avaśho ’pi tat\n",
             "verse_number": 60,
             "word_meanings": "swabhāva-jena—born of one’s own material nature; kaunteya—Arjun, the son of Kunti; nibaddhaḥ—bound; svena—by your own; karmaṇā—actions; kartum—to do; na—not; ichchhasi—you wish; yat—which; mohāt—out of delusion; kariṣhyasi—you will do; avaśhaḥ—helplessly; api—even though; tat—that\n",
-            "audio_number": 56
+            "audio_number": 56,
+            "verse_id": 674
         },
         {
             "chapter_number": 18,
@@ -6237,7 +6911,8 @@ const data = {
             "transliteration": "īśhvaraḥ sarva-bhūtānāṁ hṛid-deśhe ‘rjuna tiṣhṭhati\nbhrāmayan sarva-bhūtāni yantrārūḍhāni māyayā\n",
             "verse_number": 61,
             "word_meanings": "īśhvaraḥ—the Supreme Lord; sarva-bhūtānām—in all living being; hṛit-deśhe—in the hearts; arjuna—Arjun; tiṣhṭhati—dwells; bhrāmayan—causing to wander; sarva-bhūtāni—all living beings; yantra ārūḍhani—seated on a machine; māyayā—made of the material energy\n",
-            "audio_number": 57
+            "audio_number": 57,
+            "verse_id": 675
         },
         {
             "chapter_number": 18,
@@ -6246,7 +6921,8 @@ const data = {
             "transliteration": "tam eva śharaṇaṁ gachchha sarva-bhāvena bhārata\ntat-prasādāt parāṁ śhāntiṁ sthānaṁ prāpsyasi śhāśhvatam\n",
             "verse_number": 62,
             "word_meanings": "tam—unto him; eva—only; śharaṇam gachchha—surrender; sarva-bhāvena—whole-heartedly; bhārata—Arjun, the son of Bharat; tat-prasādāt—by his grace; parām—supreme; śhāntim—peace; sthānam—the abode; prāpsyasi—you will attain; śhāśhvatam—eternal\n",
-            "audio_number": 58
+            "audio_number": 58,
+            "verse_id": 676
         },
         {
             "chapter_number": 18,
@@ -6255,7 +6931,8 @@ const data = {
             "transliteration": "iti te jñānam ākhyātaṁ guhyād guhyataraṁ mayā\nvimṛiśhyaitad aśheṣheṇa yathechchhasi tathā kuru\n",
             "verse_number": 63,
             "word_meanings": "iti—thus; te—to you; jñānam—knowledge; ākhyātam—explained; guhyāt—than secret knowledge; guhya-taram—still more secret knowledge; mayā—by me; vimṛiśhya—pondering; etat—on this; aśheṣheṇa—completely; yathā—as; ichchhasi—you wish; tathā—so; kuru—do\n",
-            "audio_number": 59
+            "audio_number": 59,
+            "verse_id": 677
         },
         {
             "chapter_number": 18,
@@ -6264,7 +6941,8 @@ const data = {
             "transliteration": "sarva-guhyatamaṁ bhūyaḥ śhṛiṇu me paramaṁ vachaḥ\niṣhṭo ‘si me dṛiḍham iti tato vakṣhyāmi te hitam\n",
             "verse_number": 64,
             "word_meanings": "sarva-guhya-tamam—the most confidential of all; bhūyaḥ—again; śhṛiṇu—hear; me—by me; paramam—supreme; vachaḥ—instruction; iṣhṭaḥ asi—you are dear; me—to me; dṛiḍham—very; iti—thus; tataḥ—because; vakṣhyāmi—I am speaking; te—for your; hitam—benefit\n",
-            "audio_number": 60
+            "audio_number": 60,
+            "verse_id": 678
         },
         {
             "chapter_number": 18,
@@ -6273,7 +6951,8 @@ const data = {
             "transliteration": "man-manā bhava mad-bhakto mad-yājī māṁ namaskuru\nmām evaiṣhyasi satyaṁ te pratijāne priyo ‘si me\n",
             "verse_number": 65,
             "word_meanings": "mat-manāḥ—thinking of me; bhava—be; mat-bhaktaḥ—my devotee; mat-yājī—worship me; mām—to me; namaskuru—offer obeisance; mām—to me; eva—certainly; eṣhyasi—you will come; satyam—truly; te—to you; pratijāne—I promise; priyaḥ—dear; asi—you are; me—to me\n",
-            "audio_number": 61
+            "audio_number": 61,
+            "verse_id": 679
         },
         {
             "chapter_number": 18,
@@ -6282,7 +6961,8 @@ const data = {
             "transliteration": "sarva-dharmān parityajya mām ekaṁ śharaṇaṁ vraja\nahaṁ tvāṁ sarva-pāpebhyo mokṣhayiṣhyāmi mā śhuchaḥ\n",
             "verse_number": 66,
             "word_meanings": "sarva-dharmān—all varieties of dharmas; parityajya—abandoning; mām—unto me; ekam—only; śharaṇam—take refuge; vraja—take; aham—I; tvām—you; sarva—all; pāpebhyaḥ—from sinful reactions; mokṣhayiṣhyāmi—shall liberate; mā—do not; śhuchaḥ—fear\n",
-            "audio_number": 62
+            "audio_number": 62,
+            "verse_id": 680
         },
         {
             "chapter_number": 18,
@@ -6291,7 +6971,8 @@ const data = {
             "transliteration": "idaṁ te nātapaskyāya nābhaktāya kadāchana\nna chāśhuśhruṣhave vāchyaṁ na cha māṁ yo ‘bhyasūtayi\n",
             "verse_number": 67,
             "word_meanings": "idam—this; te—by you; na—never; atapaskāya—to those who are not austere; na—never; abhaktāya—to those who are not devoted; kadāchana—at any time; na—never; cha—also; aśhuśhrūṣhave—to those who are averse to listening (to spiritual topics); vāchyam—to be spoken; na—never; cha—also; mām—toward me; yaḥ—who; abhyasūyati—those who are envious\n",
-            "audio_number": 63
+            "audio_number": 63,
+            "verse_id": 681
         },
         {
             "chapter_number": 18,
@@ -6300,7 +6981,8 @@ const data = {
             "transliteration": "ya idaṁ paramaṁ guhyaṁ mad-bhakteṣhv abhidhāsyati\nbhaktiṁ mayi parāṁ kṛitvā mām evaiṣhyaty asanśhayaḥ\n",
             "verse_number": 68,
             "word_meanings": "yaḥ—who; idam—this; paramam—most; guhyam—confidential knowledge; mat-bhakteṣhu—amongst my devotees; abhidhāsyati—teaches; bhaktim—greatest act of love; mayi—to me; parām—transcendental; kṛitvā—doing; mām—to me; eva—certainly; eṣhyati—comes; asanśhayaḥ—without doubt\n",
-            "audio_number": 64
+            "audio_number": 64,
+            "verse_id": 682
         },
         {
             "chapter_number": 18,
@@ -6309,7 +6991,8 @@ const data = {
             "transliteration": "na cha tasmān manuṣhyeṣhu kaśhchin me priya-kṛittamaḥ\nbhavitā na cha me tasmād anyaḥ priyataro bhuvi\n",
             "verse_number": 69,
             "word_meanings": "na—no; cha—and; tasmāt—than them; manuṣhyeṣhu—amongst human beings; kaśhchit—anyone; me—to me; priya-kṛit-tamaḥ—more dear; bhavitā—will be; na—never; cha—and; me—to me; tasmāt—than them; anyaḥ—another; priya-taraḥ—dearer; bhuvi—on this earth\n",
-            "audio_number": 65
+            "audio_number": 65,
+            "verse_id": 683
         },
         {
             "chapter_number": 18,
@@ -6318,7 +7001,8 @@ const data = {
             "transliteration": "adhyeṣhyate cha ya imaṁ dharmyaṁ saṁvādam āvayoḥ\njñāna-yajñena tenāham iṣhṭaḥ syām iti me matiḥ\n",
             "verse_number": 70,
             "word_meanings": "adhyeṣhyate—study; cha—and; yaḥ—who; imam—this; dharmyam—sacred; saṁvādam—dialogue; āvayoḥ—of ours; jñāna—of knowledge; yajñena-tena—through the sacrifice of knowledge; aham—I; iṣhṭaḥ—worshipped; syām—shall be; iti—such; me—my; matiḥ—opinion\n",
-            "audio_number": 66
+            "audio_number": 66,
+            "verse_id": 684
         },
         {
             "chapter_number": 18,
@@ -6327,7 +7011,8 @@ const data = {
             "transliteration": "śhraddhāvān anasūyaśh cha śhṛiṇuyād api yo naraḥ\nso ‘pi muktaḥ śhubhāl lokān prāpnuyāt puṇya-karmaṇām\n",
             "verse_number": 71,
             "word_meanings": "śhraddhā-vān—faithful; anasūyaḥ—without envy; cha—and; śhṛiṇuyāt—listen; api—certainly; yaḥ—who; naraḥ—a person; saḥ—that person; api—also; muktaḥ—liberated; śhubhān—the auspicious; lokān—abodes; prāpnuyāt—attain; puṇya-karmaṇām—of the pious\n",
-            "audio_number": 67
+            "audio_number": 67,
+            "verse_id": 685
         },
         {
             "chapter_number": 18,
@@ -6336,7 +7021,8 @@ const data = {
             "transliteration": "kachchid etach chhrutaṁ pārtha tvayaikāgreṇa chetasā\nkachchid ajñāna-sammohaḥ pranaṣhṭas te dhanañjaya\n",
             "verse_number": 72,
             "word_meanings": "kachchit—whether; etat—this; śhrutam—heard; pārtha—Arjun, the son of Pritha; tvayā—by you; eka-agreṇa chetasā—with a concentrated mind; kachchit—whether; ajñāna—ignorance; sammohaḥ—delusion; pranaṣhṭaḥ—destroyed; te—your; dhanañjaya—Arjun, conqueror of wealth\n",
-            "audio_number": 68
+            "audio_number": 68,
+            "verse_id": 686
         },
         {
             "chapter_number": 18,
@@ -6345,7 +7031,8 @@ const data = {
             "transliteration": "arjuna uvācha\nnaṣhṭo mohaḥ smṛitir labdhā tvat-prasādān mayāchyuta\nsthito ‘smi gata-sandehaḥ kariṣhye vachanaṁ tava\n",
             "verse_number": 73,
             "word_meanings": "arjunaḥ uvācha—Arjun said; naṣhṭaḥ—dispelled; mohaḥ—illusion; smṛitiḥ—memory; labdhā—regained; tvat-prasādāt—by your grace; mayā—by me; achyuta—Shree Krishna, the infallible one; sthitaḥ—situated; asmi—I am; gata-sandehaḥ—free from doubts; kariṣhye—I shall act; vachanam—instructions; tava—your\n",
-            "audio_number": 69
+            "audio_number": 69,
+            "verse_id": 687
         },
         {
             "chapter_number": 18,
@@ -6354,7 +7041,8 @@ const data = {
             "transliteration": "sañjaya uvācha\nity ahaṁ vāsudevasya pārthasya cha mahātmanaḥ\nsaṁvādam imam aśhrauṣham adbhutaṁ roma-harṣhaṇam\n",
             "verse_number": 74,
             "word_meanings": "sañjayaḥ uvācha—Sanjay said; iti—thus; aham—I; vāsudevasya—of Shree Krishna; pārthasya—Arjun; cha—and; mahā-ātmanaḥ—the noble hearted soul; saṁvādam—conversation; imam—this; aśhrauṣham—have heard; adbhutam—wonderful; roma-harṣhaṇam—which causes the hair to stand on end\n",
-            "audio_number": 70
+            "audio_number": 70,
+            "verse_id": 688
         },
         {
             "chapter_number": 18,
@@ -6363,7 +7051,8 @@ const data = {
             "transliteration": "vyāsa-prasādāch chhrutavān etad guhyam ahaṁ param\nyogaṁ yogeśhvarāt kṛiṣhṇāt sākṣhāt kathayataḥ svayam\n",
             "verse_number": 75,
             "word_meanings": "vyāsa-prasādāt—by the grace of Ved Vyas; śhrutavān—have heard; etat—this; guhyam—secret; aham—I; param—supreme; yogam—Yog; yoga-īśhvarāt—from the Lod of Yog; kṛiṣhṇāt—from Shree Krishna; sākṣhāt—directly; kathayataḥ—speaking; svayam—himself\n",
-            "audio_number": 71
+            "audio_number": 71,
+            "verse_id": 689
         },
         {
             "chapter_number": 18,
@@ -6372,7 +7061,8 @@ const data = {
             "transliteration": "rājan sansmṛitya sansmṛitya saṁvādam imam adbhutam\nkeśhavārjunayoḥ puṇyaṁ hṛiṣhyāmi cha muhur muhuḥ\n",
             "verse_number": 76,
             "word_meanings": "rājan—King; sansmṛitya saṁsmṛitya—repeatedly recalling; saṁvādam—dialogue; imam—this; adbhutam—astonishing; keśhava-arjunayoḥ—between Lord Shree Krishna and Arjun; puṇyam—pious; hṛiṣhyāmi—I rejoice; cha—and; muhuḥ muhuḥ—repeatedly\n",
-            "audio_number": 72
+            "audio_number": 72,
+            "verse_id": 690
         },
         {
             "chapter_number": 18,
@@ -6381,7 +7071,8 @@ const data = {
             "transliteration": "tach cha sansmṛitya saṁsmṛitya rūpam aty-adbhutaṁ hareḥ\nvismayo ye mahān rājan hṛiṣhyāmi cha punaḥ punaḥ\n",
             "verse_number": 77,
             "word_meanings": "tat—that; cha—and; sansmṛitya saṁsmṛitya—remembering repeatedly; rūpam—cosmic form; ati—most; adbhutam—wonderful; hareḥ—of Lord Krishna; vismayaḥ—astonishment; me—my; mahān—great; rājan—King; hṛiṣhyāmi—I am thrilled with joy; cha—and; punaḥ punaḥ—over and over again\n",
-            "audio_number": 73
+            "audio_number": 73,
+            "verse_id": 691
         },
         {
             "chapter_number": 18,
@@ -6390,7 +7081,8 @@ const data = {
             "transliteration": "yatra yogeśhvaraḥ kṛiṣhṇo yatra pārtho dhanur-dharaḥ\ntatra śhrīr vijayo bhūtir dhruvā nītir matir mama\n",
             "verse_number": 78,
             "word_meanings": "yatra—wherever; yoga-īśhvaraḥ—Shree Krishna, the Lord of Yog; kṛiṣhṇaḥ—Shree Krishna; yatra—wherever; pārthaḥ—Arjun, the son of Pritha; dhanuḥ-dharaḥ—the supreme archer; tatra—there; śhrīḥ—opulence; vijayaḥ—victory; bhūtiḥ—prosperity; dhruvā—unending; nītiḥ—righteousness; matiḥ mama—my opinion\n",
-            "audio_number": 74
+            "audio_number": 74,
+            "verse_id": 692
         }
     ]
 };

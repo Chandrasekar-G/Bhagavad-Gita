@@ -49,4 +49,14 @@ export class DataProviderService {
     return day % gitaData.verses.length;
   }
 
+  getFavoriteVerses = () => {
+    const verses = [];
+    this.userInfoService.userData.favorites.forEach(verse_id => {
+      verses.push(gitaData.verses.find(verse => {
+        return verse.verse_id === verse_id;
+      }));
+    });
+    return verses;
+  }
+
 }

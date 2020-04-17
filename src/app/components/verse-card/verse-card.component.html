@@ -1,6 +1,7 @@
 <div class="verse-container card ion-activatable ripple-parent" (click)="goToVerse()">
   <ion-ripple-effect></ion-ripple-effect>
-  <div class="number">{{ verse.verse_number}}</div>
+  <div class="number" *ngIf="showChapterNo"> {{ verse.chapter_number + '.' + verse.verse_number }} </div>
+  <div class="number" *ngIf="!showChapterNo"> {{ verse.verse_number}} </div>
   <div class="info">
     {{ verse.transliteration }}
   </div>

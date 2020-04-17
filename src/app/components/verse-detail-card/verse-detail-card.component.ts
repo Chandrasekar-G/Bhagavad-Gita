@@ -1,5 +1,6 @@
 import { Component, OnInit, Input } from '@angular/core';
 import { ToastController } from '@ionic/angular';
+import { UserInfoService } from 'src/app/services/user-info/user-info.service';
 
 @Component({
   selector: 'bg-verse-detail-card',
@@ -10,8 +11,6 @@ export class VerseDetailCardComponent implements OnInit {
 
   _verse;
   isFavorite = false;
-  favoriteText = 'Mark as Favorite';
-  completeText = 'Mark as Complete';
   isComplete = false;
   get verse() {
     return this._verse;
@@ -29,20 +28,36 @@ export class VerseDetailCardComponent implements OnInit {
   }
   @Input() chapter;
 
-  constructor(private toastController: ToastController) {
+  constructor(
+    private toastController: ToastController,
+    private userInfoService: UserInfoService
+  ) {
   }
 
-  ngOnInit() { }
+  ngOnInit() {
+    this.isFavorite = this.userInfoService.checkIfFavorite(this.verse.verse_id);
+    this.isComplete = this.userInfoService.checkIfComplete(this.verse.verse_id);
+  }
 
   toggleFavorite = () => {
     this.isFavorite = !this.isFavorite;
     const toastMessage = this.isFavorite ? 'Added to your favorites' : 'Removed from your favorites';
+    if (this.isFavorite) {
+      this.userInfoService.markAsFavorite(this.verse.verse_id);
+    } else {
+      this.userInfoService.removeFromFavorites(this.verse.verse_id);
+    }
     this.presentToast(toastMessage);
   }
 
   toggleComplete = () => {
     this.isComplete = !this.isComplete;
     const toastMessage = this.isComplete ? 'Marked as complete' : 'Marked as incomplete';
+    if (this.isComplete) {
+      this.userInfoService.markAsComplete(this.verse.verse_id);
+    } else {
+      this.userInfoService.removeFromComplete(this.verse.verse_id);
+    }
     this.presentToast(toastMessage);
   }
 
