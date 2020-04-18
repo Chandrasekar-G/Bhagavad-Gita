@@ -1,8 +1,15 @@
 <bg-common-header title="Favorites" [headerConfig]="{showBack: false}"></bg-common-header>
 
 <ion-content>
-    <div *ngFor="let verse of favoriteVerses">
-        <bg-verse-card [verse]="verse" [showChapterNo]="true"></bg-verse-card>
+
+    <div class="favorites-container">
+        <div class="note" *ngIf="favoriteVerses.length === 0">
+            No favorites present. Please click the red heart icon above the audio to mark a verse as favorite
+        </div>
+
+        <div *ngFor="let verse of favoriteVerses">
+            <bg-verse-card [verse]="verse" [showChapterNo]="true"></bg-verse-card>
+        </div>
     </div>
 
 </ion-content>
