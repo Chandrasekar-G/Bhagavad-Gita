@@ -40,7 +40,6 @@ export class ProgressPage implements OnInit {
   ngOnInit() {
     this.getAllData();
     this.getProgress();
-    console.log('hi');
   }
 
   getAllData = () => {
@@ -70,17 +69,8 @@ export class ProgressPage implements OnInit {
       obj.completed_verses = completedVerses;
       return obj;
     });
-    console.log(this.progressDetails);
     this.doughnutChartData.pop();
     this.doughnutChartData.push([this.total.remaining, this.total.finished]);
-  }
-
-  public chartClicked({ event, active }: { event: MouseEvent, active: {}[] }): void {
-    console.log(event, active);
-  }
-
-  public chartHovered({ event, active }: { event: MouseEvent, active: {}[] }): void {
-    console.log(event, active);
   }
 
 }
