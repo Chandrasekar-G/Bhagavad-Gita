@@ -17,6 +17,10 @@ export class DataProviderService {
     return gitaData.chapters;
   }
 
+  getAllVerses = () => {
+    return gitaData.verses;
+  }
+
   getChapterDetails = (chapterNumber) => {
     return gitaData.chapters.filter(chapter => {
       return chapter.chapter_number === chapterNumber;
@@ -32,6 +36,21 @@ export class DataProviderService {
   getVerse = (chapterNumber, verseNumber) => {
     return gitaData.verses.find(verse => {
       return (verse.chapter_number === chapterNumber && verse.verse_number === verseNumber);
+    });
+  }
+
+  getVerseByID = (verseId) => {
+    return gitaData.verses.find(verse => {
+      return (verse.verse_id === verseId);
+    });
+  }
+
+  getChapterByID = (verseId) => {
+    const chapterNo = gitaData.verses.find(verse => {
+      return (verse.verse_id === verseId);
+    })['chapter_number'];
+    return gitaData.chapters.find(chapter => {
+      return chapter.chapter_number === chapterNo;
     });
   }
 

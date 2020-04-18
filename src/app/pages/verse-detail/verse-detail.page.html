@@ -4,4 +4,11 @@
 
     <bg-verse-detail-card [verse]="verse" [chapter]="chapter"></bg-verse-detail-card>
     
+    <ion-button *ngIf="verse.verse_id > 1" color="primary" class="button left" (click)="getPrevious()">
+        <ion-icon slot="icon-only" name="caret-back-outline"></ion-icon>
+    </ion-button>
+
+    <ion-button *ngIf="verse.verse_id < 692" color="primary" class="button right" (click)="getNext()">
+        <ion-icon slot="icon-only" name="caret-forward-outline"></ion-icon>
+    </ion-button>
 </ion-content>

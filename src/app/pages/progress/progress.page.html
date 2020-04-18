@@ -1,5 +1,32 @@
-<bg-common-header title="progress" [headerConfig]="{showBack: false}"></bg-common-header>
+<bg-common-header title="Progress" [headerConfig]="{showBack: false}"></bg-common-header>
 
 <ion-content>
+  <div class="progress-container">
+    <div class="chart">
+      <div style="display: block">
+        <canvas baseChart [data]="doughnutChartData" [labels]="doughnutChartLabels" [colors]="chartColors"
+          [chartType]="doughnutChartType">
+        </canvas>
+      </div>
+    </div>
+
+    <div class="table-wrapper">
+      <div class="title"> Detailed Progress</div>
+      <div *ngFor="let chapter of progressDetails">
+        <div class="progress-table">
+          <div class="chapter">{{ chapter.chapter_name }}</div>
+          <div class="progress">
+            <div>{{ chapter.completed_verses.length + ' / ' + chapter.total_verses }}</div>
+            <div *ngIf="chapter.completed_verses.length > 0">{{ '( ' + chapter.completed_verses.join(', ') + ' )'}}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="note">
+      Note : To update the progress, please click the green check icon above the audio after reading a verse
+    </div>
+  </div>
 
 </ion-content>

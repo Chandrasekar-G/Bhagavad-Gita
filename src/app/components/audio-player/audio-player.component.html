@@ -1,4 +1,4 @@
-<div class="audio-wrapper">
+<div class="audio-wrapper" *ngIf="showPlayer">
   <audio controls controlsList="nodownload">
     <source [src]="url" type="audio/mp3">
   </audio>

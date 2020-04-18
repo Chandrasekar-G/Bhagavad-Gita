@@ -1,5 +1,4 @@
 import { Component, OnInit, Input } from '@angular/core';
-import { NativeAudio } from '@ionic-native/native-audio/ngx';
 
 @Component({
   selector: 'bg-audio-player',
@@ -9,18 +8,24 @@ import { NativeAudio } from '@ionic-native/native-audio/ngx';
 export class AudioPlayerComponent implements OnInit {
 
 
-  @Input() verse;
-  url = 'https://www.bhagavad-gita.org/AudioArchive/Gita/Sanskrit/verses/';
-  constructor(private nativeAudio: NativeAudio) {
-  }
+  private _verse;
+  showPlayer = false;
+  url = '';
 
-  ngOnInit() {
+  @Input() set verse(verse) {
+    this._verse = verse;
+    this.showPlayer = false;
     this.constructURL();
-
   }
+
+  constructor() { }
+
+  ngOnInit() { }
 
   constructURL = () => {
-    this.url = this.url + this.formatNumber(this.verse.chapter_number) + '-' + this.formatNumber(this.verse.audio_number) + '.mp3';
+    this.url = 'https://www.bhagavad-gita.org/AudioArchive/Gita/Sanskrit/verses/';
+    this.url = this.url + this.formatNumber(this._verse.chapter_number) + '-' + this.formatNumber(this._verse.audio_number) + '.mp3';
+    setTimeout(() => this.showPlayer = true);
   }
 
   formatNumber = (num) => {

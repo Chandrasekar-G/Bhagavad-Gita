@@ -34,4 +34,16 @@ export class VerseDetailPage implements OnInit {
     this.chapter = this.dataProviderService.getChapterDetails(this.chapterNumber);
   }
 
+  getPrevious = () => {
+    this.verse = this.dataProviderService.getVerseByID(this.verse.verse_id - 1);
+    this.chapter = this.dataProviderService.getChapterByID(this.verse.verse_id);
+    this.chapterNumber = this.chapter.chapter_number;
+  }
+
+  getNext = () => {
+    this.verse = this.dataProviderService.getVerseByID(this.verse.verse_id + 1);
+    this.chapter = this.dataProviderService.getChapterByID(this.verse.verse_id);
+    this.chapterNumber = this.chapter.chapter_number;
+  }
+
 }

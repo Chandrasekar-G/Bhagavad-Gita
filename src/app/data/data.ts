@@ -7,6 +7,7 @@ const data = {
             "name_meaning": "Arjuna's Dilemma",
             "name_translation": "Arjuna Visada Yoga",
             "name_transliterated": "Arjun Viṣhād Yog",
+            "first_verse": 1,
             "verses_count": 47
         },
         {
@@ -16,6 +17,7 @@ const data = {
             "name_meaning": "Transcendental Knowledge",
             "name_translation": "Sankhya Yoga",
             "name_transliterated": "Sānkhya Yog",
+            "first_verse": 48,
             "verses_count": 72
         },
         {
@@ -25,6 +27,7 @@ const data = {
             "name_meaning": "Path of Selfless Service",
             "name_translation": "Karma Yoga",
             "name_transliterated": "Karm Yog",
+            "first_verse": 119,
             "verses_count": 43
         },
         {
@@ -34,6 +37,7 @@ const data = {
             "name_meaning": "Path of Knowledge and the Disciplines of Action",
             "name_translation": "Jnana Karma Sanyasa Yoga",
             "name_transliterated": "Jñāna Karm Sanyās Yog",
+            "first_verse": 162,
             "verses_count": 42
         },
         {
@@ -43,6 +47,7 @@ const data = {
             "name_meaning": "Path of Renunciation",
             "name_translation": "Karma Sanyasa Yoga",
             "name_transliterated": "Karm Sanyās Yog",
+            "first_verse": 203,
             "verses_count": 29
         },
         {
@@ -52,6 +57,7 @@ const data = {
             "name_meaning": "Path of Meditation",
             "name_translation": "Dhyana Yoga",
             "name_transliterated": "Dhyān Yog",
+            "first_verse": 230,
             "verses_count": 47
         },
         {
@@ -61,6 +67,7 @@ const data = {
             "name_meaning": "Self-Knowledge and Enlightenment",
             "name_translation": "Gyaan Vigyana Yoga",
             "name_transliterated": "Jñāna Vijñāna Yog",
+            "first_verse": 277,
             "verses_count": 30
         },
         {
@@ -70,6 +77,7 @@ const data = {
             "name_meaning": "Path of the Eternal God",
             "name_translation": "Akshara Brahma Yoga",
             "name_transliterated": "Akṣhar Brahma Yog",
+            "first_verse": 307,
             "verses_count": 28
         },
         {
@@ -79,6 +87,7 @@ const data = {
             "name_meaning": "Yoga through the King of Sciences",
             "name_translation": "Raja Vidya Yoga",
             "name_transliterated": "Rāja Vidyā Yog",
+            "first_verse": 335,
             "verses_count": 34
         },
         {
@@ -88,6 +97,7 @@ const data = {
             "name_meaning": "Yoga through Appreciating the Infinite Opulences of God",
             "name_translation": "Vibhooti Yoga",
             "name_transliterated": "Vibhūti Yog",
+            "first_verse": 369,
             "verses_count": 42
         },
         {
@@ -97,6 +107,7 @@ const data = {
             "name_meaning": "Yoga through Beholding the Cosmic Form of God",
             "name_translation": "Vishwaroopa Darshana Yoga",
             "name_transliterated": "Viśhwarūp Darśhan Yog",
+            "first_verse": 410,
             "verses_count": 55
         },
         {
@@ -106,6 +117,7 @@ const data = {
             "name_meaning": "The Yoga of Devotion",
             "name_translation": "Bhakti Yoga",
             "name_transliterated": "Bhakti Yog",
+            "first_verse": 464,
             "verses_count": 20
         },
         {
@@ -115,6 +127,7 @@ const data = {
             "name_meaning": "Yoga through Distinguishing the Field and the Knower of the Field",
             "name_translation": "Ksetra Ksetrajna Vibhaaga Yoga",
             "name_transliterated": "Kṣhetra Kṣhetrajña Vibhāg Yog",
+            "first_verse": 483,
             "verses_count": 35
         },
         {
@@ -124,6 +137,7 @@ const data = {
             "name_meaning": "Yoga through Understanding the Three Modes of Material Nature",
             "name_translation": "Gunatraya Vibhaga Yoga",
             "name_transliterated": "Guṇa Traya Vibhāg Yog",
+            "first_verse": 518,
             "verses_count": 27
         },
         {
@@ -133,6 +147,7 @@ const data = {
             "name_meaning": "The Yoga of the Supreme Divine Personality",
             "name_translation": "Purushottama Yoga",
             "name_transliterated": "Puruṣhottam Yog",
+            "first_verse": 545,
             "verses_count": 20
         },
         {
@@ -142,6 +157,7 @@ const data = {
             "name_meaning": "Yoga through Discerning the Divine and Demoniac Natures",
             "name_translation": "Daivasura Sampad Vibhaga Yoga",
             "name_transliterated": "Daivāsura Sampad Vibhāg Yog",
+            "first_verse": 565,
             "verses_count": 24
         },
         {
@@ -151,6 +167,7 @@ const data = {
             "name_meaning": "Yoga through Discerning the Three Divisions of Faith",
             "name_translation": "Sraddhatraya Vibhaga Yoga",
             "name_transliterated": "Śhraddhā Traya Vibhāg Yog",
+            "first_verse": 588,
             "verses_count": 28
         },
         {
@@ -160,6 +177,7 @@ const data = {
             "name_meaning": "Yoga through the Perfection of Renunciation and Surrender",
             "name_translation": "Moksha Sanyaas Yoga",
             "name_transliterated": "Mokṣha Sanyās Yog",
+            "first_verse": 616,
             "verses_count": 78
         }
     ],

@@ -1,0 +1,40 @@
+.progress-container {
+  padding: 20px;
+  .table-wrapper {
+    font-size: 14px;
+    margin-top: 20px;
+    .title {
+      font-size: 20px;
+      text-align: center;
+      margin-bottom: 20px;
+      margin-top: 30px;
+      color: var(--ion-color-primary);
+    }
+    .progress-table {
+      display: flex;
+      text-align: left;
+      border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+      padding: 5px;
+      margin: 0 10px;
+      .chapter {
+        flex: 1;
+        font-weight: bold;
+        font-style: italic;
+      }
+      .progress {
+        margin-left: 10px;
+        flex: 1;
+        color: grey;
+      }
+    }
+  }
+
+  .chart {
+  }
+
+  .note {
+    font-size: 12px;
+    margin-top: 20px;
+    color: rgba(0, 0, 0, 0.52);
+  }
+}
