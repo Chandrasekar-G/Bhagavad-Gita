@@ -4,5 +4,13 @@
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
-  "cordova": {}
+  "cordova": {},
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_launcher",
+      "iconColor": "#a2a4ab",
+      "sound": "beep.wav"
+    }
+  }
+
 }

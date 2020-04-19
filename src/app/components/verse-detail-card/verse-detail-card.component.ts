@@ -19,6 +19,7 @@ export class VerseDetailCardComponent implements OnInit {
   set verse(value) {
     if (value && value.word_meanings) {
       this._verse = value;
+      this.getVerseStatus();
       if (typeof this._verse.word_meanings === 'string') {
         this._verse.word_meanings = this._verse.word_meanings.split(';').map(pair => {
           return pair.split('—');
@@ -34,7 +35,9 @@ export class VerseDetailCardComponent implements OnInit {
   ) {
   }
 
-  ngOnInit() {
+  ngOnInit() { }
+
+  getVerseStatus = () => {
     this.isFavorite = this.userInfoService.checkIfFavorite(this.verse.verse_id);
     this.isComplete = this.userInfoService.checkIfComplete(this.verse.verse_id);
   }

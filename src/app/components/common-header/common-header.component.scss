@@ -1,4 +1,5 @@
 .toolbar {
-  --background: linear-gradient(to bottom right, #16c7ef 25%, #3ef4ce);
+  // --background: linear-gradient(to bottom right, var(--ion-color-primary) 25%, var(--ion-color-primary-shade));
+  --background: var(--ion-color-primary);
   --color: white;
 }

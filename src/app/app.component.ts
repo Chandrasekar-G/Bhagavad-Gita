@@ -66,25 +66,15 @@ export class AppComponent implements OnInit {
           title: 'Bhagavad Gita',
           body: 'Start your day with a verse from the Gita',
           id: 1,
-          schedule: {
-            every: 'day',
-            on: {
-              hour: 6,
-              minute: 0
-            }
-          },
-          // schedule: { at: new Date(Date.now() + 1000 * 5) },
+          schedule: { at: new Date(Date.now() + 1000 * 5) },
           sound: null,
+          smallIcon: 'res://ic_launcher',
           attachments: null,
           actionTypeId: '',
-          extra: 'verse of the day show'
+          extra: 'verse of the day'
         }
       ]
     });
-    // LocalNotifications.addListener('localNotificationReceived', (notification) => {
-    //   console.log(notification);
-    //   alert(notification);
-    // });
   }
 
   ngOnInit() {
