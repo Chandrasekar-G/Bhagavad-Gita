@@ -1,8 +1,7 @@
 {
   "name": "Bhagavad-Gita",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "author": "Chandrasekar G",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -11,7 +10,6 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-  "private": true,
   "dependencies": {
     "@angular/common": "~8.2.14",
     "@angular/core": "~8.2.14",
@@ -19,9 +17,9 @@
     "@angular/platform-browser": "~8.2.14",
     "@angular/platform-browser-dynamic": "~8.2.14",
     "@angular/router": "~8.2.14",
-    "@capacitor/android": "^2.0.1",
-    "@capacitor/core": "2.0.1",
-    "@capacitor/ios": "^2.0.1",
+    "@capacitor/android": "2.4.2",
+    "@capacitor/core": "2.4.2",
+    "@capacitor/ios": "2.4.2",
     "@ionic-native/core": "^5.0.7",
     "@ionic-native/native-audio": "^5.23.0",
     "@ionic-native/splash-screen": "^5.0.0",
@@ -60,7 +58,7 @@
     "tslint": "~5.15.0",
     "typescript": "~3.4.3"
   },
-  "description": "An Ionic project",
+  "description": "A mobile app for Bhagavad Gita",
   "cordova": {
     "plugins": {}
   }
